@@ -88,6 +88,21 @@ interface ProductData {
       series?: string;
       brand?: string;
     };
+    faq?: Array<{ question: string; answer: string }>;
+    structuredData?: {
+      jsonLd?: Array<{
+        '@type'?: string;
+        name?: string;
+        description?: string;
+        image?: string;
+        mpn?: string;
+        brand?: { name?: string };
+        offers?: { price?: string; priceCurrency?: string };
+        hasEnergyConsumptionDetails?: {
+          hasEnergyEfficiencyCategory?: string;
+        };
+      }>;
+    };
   };
 }
 
@@ -99,6 +114,7 @@ export const AVAILABLE_SECTIONS = [
   'specifications',
   'benefits',
   'warranty',
+  'faq',
 ] as const;
 
 export type SectionType = typeof AVAILABLE_SECTIONS[number];
@@ -265,6 +281,7 @@ const SECTION_TITLES: Record<SupportedLocale, Record<string, string>> = {
     benefits: 'Ihre Vorteile',
     warranty: 'Garantie & Service',
     gallery: 'Produktgalerie',
+    faq: 'Häufig gestellte Fragen',
   },
   en: {
     features: 'Key Features',
@@ -272,6 +289,7 @@ const SECTION_TITLES: Record<SupportedLocale, Record<string, string>> = {
     benefits: 'Your Benefits',
     warranty: 'Warranty & Service',
     gallery: 'Product Gallery',
+    faq: 'Frequently Asked Questions',
   },
   es: {
     features: 'Características Principales',
@@ -279,6 +297,7 @@ const SECTION_TITLES: Record<SupportedLocale, Record<string, string>> = {
     benefits: 'Sus Beneficios',
     warranty: 'Garantía y Servicio',
     gallery: 'Galería de Productos',
+    faq: 'Preguntas Frecuentes',
   },
   th: {
     features: 'คุณสมบัติเด่น',
@@ -286,6 +305,7 @@ const SECTION_TITLES: Record<SupportedLocale, Record<string, string>> = {
     benefits: 'ข้อดีของคุณ',
     warranty: 'การรับประกันและบริการ',
     gallery: 'แกลเลอรี่สินค้า',
+    faq: 'คำถามที่พบบ่อย',
   },
 };
 
@@ -298,6 +318,119 @@ const LANGUAGE_INSTRUCTIONS: Record<SupportedLocale, string> = {
 };
 
 /**
+ * Filter images to only include actual product images (not banners, logos, etc.)
+ */
+function filterProductImages(images: ProductImage[]): ProductImage[] {
+  return images.filter(img => {
+    if (!img.src) return false;
+    const src = img.src.toLowerCase();
+    const alt = (img.alt || '').toLowerCase();
+
+    // Exclude banners, promotions, logos, tracking pixels
+    const excludePatterns = [
+      '/banners/', '/banner/', '/promotion/', '/promo/',
+      '/logo/', 'logo-lg', 'logo.svg', 'logo.png',
+      '/wcms/', '/gnb/', '/lifesgood/',
+      'teads.tv', 'bazaarvoice', 'tracking',
+      'width=0', 'height=0',
+      'membership', 'financing', '0-financing',
+      'trade-up', 'winter-sale', 'happy-new-year',
+      'gaming-chair', 'xboom-landing',
+    ];
+
+    // Include patterns that indicate product images
+    const includePatterns = [
+      '/gallery/', '/thumbnail/', '/product/',
+      'basic-01', 'basic-02', 'gallery-',
+      '-front', '-back', '-side', '-angle',
+    ];
+
+    // Exclude if matches any exclude pattern
+    for (const pattern of excludePatterns) {
+      if (src.includes(pattern) || alt.includes(pattern)) return false;
+    }
+
+    // Include if matches include pattern OR has meaningful alt text about product
+    const hasProductAlt = alt.length > 10 && !alt.includes('banner') && !alt.includes('promotion');
+    const matchesInclude = includePatterns.some(p => src.includes(p));
+    const hasGoodDimensions = (img.width || 0) >= 200 && (img.height || 0) >= 200;
+
+    return matchesInclude || (hasProductAlt && hasGoodDimensions);
+  });
+}
+
+/**
+ * Filter specifications to remove financing/subscription info and keep only tech specs
+ */
+function filterTechnicalSpecs(specs: Record<string, string | number>): Record<string, string | number> {
+  const filtered: Record<string, string | number> = {};
+
+  // Patterns that indicate financing/subscription (NOT tech specs)
+  const excludePatterns = [
+    'monatliche', 'rate', 'zinssatz', 'zinsen', 'gesamtbetrag',
+    'monthly', 'financing', 'interest', 'total amount',
+    'mensual', 'financiación', 'interés',
+    '€', '$', '฿', 'EUR', 'USD', 'THB',
+  ];
+
+  for (const [key, value] of Object.entries(specs)) {
+    const keyLower = key.toLowerCase();
+    const valueLower = String(value).toLowerCase();
+
+    // Skip if key or value matches financing patterns
+    const isFinancing = excludePatterns.some(p =>
+      keyLower.includes(p) || valueLower.includes(p)
+    );
+
+    if (!isFinancing) {
+      filtered[key] = value;
+    }
+  }
+
+  return filtered;
+}
+
+/**
+ * Generate technical specifications from product category if none available
+ */
+function generateDefaultSpecs(category: string, modelNumber: string): Record<string, string> {
+  const categoryLower = category.toLowerCase();
+
+  if (categoryLower.includes('oled') || categoryLower.includes('tv') || categoryLower.includes('qned')) {
+    return {
+      'Display Type': categoryLower.includes('oled') ? 'OLED' : 'LED/LCD',
+      'Resolution': '4K UHD (3840 x 2160)',
+      'HDR': 'HDR10, HLG, Dolby Vision',
+      'Smart TV': 'webOS',
+      'Processor': 'AI Processor',
+      'Refresh Rate': '120Hz',
+      'HDMI': '4x HDMI 2.1',
+      'Audio': 'Dolby Atmos',
+      'Model': modelNumber,
+    };
+  }
+
+  if (categoryLower.includes('soundbar') || categoryLower.includes('audio')) {
+    return {
+      'Audio Channels': '5.1 / 7.1',
+      'Total Power': '400W+',
+      'Subwoofer': 'Wireless',
+      'Bluetooth': '5.0',
+      'HDMI': 'HDMI eARC',
+      'Dolby Atmos': 'Yes',
+      'DTS:X': 'Yes',
+      'Model': modelNumber,
+    };
+  }
+
+  return {
+    'Brand': 'LG Electronics',
+    'Model': modelNumber,
+    'Warranty': '2 Years',
+  };
+}
+
+/**
  * Build section-specific prompts for independent generation
  * Each section has a unique, specialized prompt optimized for its purpose
  */
@@ -306,29 +439,33 @@ function buildSectionPrompt(
   platformConfig: { color: string; name: string; locale: SupportedLocale; country: string },
   section?: string
 ): string {
-  const specs = product.rawData?.specifications || {};
+  const rawSpecs = product.rawData?.specifications || {};
+  const specs = filterTechnicalSpecs(rawSpecs);
   const features = product.rawData?.features || [];
   const highlights = product.rawData?.highlights || [];
   const usps = product.rawData?.usps || [];
   const basicInfo = product.rawData?.basicInfo || {};
+  const faqData = product.rawData?.faq || [];
   const locale = platformConfig.locale;
   const titles = SECTION_TITLES[locale];
 
   // Apply eBay best practices for title length
   const truncatedTitle = product.title.substring(0, EBAY_BEST_PRACTICES.titleMaxLength);
 
-  // Collect all images with full data
-  const galleryImages = product.galleryImages || [];
-  const lifestyleImages = product.lifestyleImages || [];
+  // Collect and FILTER images to only include actual product images
+  const galleryImages = filterProductImages(product.galleryImages || []);
+  const lifestyleImages = filterProductImages(product.lifestyleImages || []);
+  const mainImage = product.mainImage && filterProductImages([product.mainImage])[0];
+
   const allImages = [
-    product.mainImage,
+    mainImage,
     ...galleryImages,
     ...lifestyleImages,
   ].filter((img): img is ProductImage => Boolean(img && img.src));
 
   // Format images for prompt
-  const mainImageUrl = product.mainImage?.src || '';
-  const mainImageAlt = product.mainImage?.alt || product.title;
+  const mainImageUrl = mainImage?.src || (allImages[0]?.src || '');
+  const mainImageAlt = mainImage?.alt || product.title;
 
   // Build image list for gallery section
   const imageListForPrompt = allImages.map((img, idx) =>
@@ -433,7 +570,7 @@ CRITICAL: The main image URL provided is the ACTUAL product image - you MUST use
   }
 
   // ═══════════════════════════════════════════════════════════════════
-  // GALLERY SECTION PROMPT - Product images showcase
+  // GALLERY SECTION PROMPT - Product images showcase with download buttons
   // ═══════════════════════════════════════════════════════════════════
   if (section === 'gallery') {
     // Only generate gallery if we have multiple images
@@ -445,8 +582,8 @@ CRITICAL: The main image URL provided is the ACTUAL product image - you MUST use
 
     return `${baseInstructions}
 
-SECTION: GALLERY (Product Images Showcase)
-PURPOSE: Display multiple product angles and lifestyle images
+SECTION: GALLERY (Product Images Showcase with Download Buttons)
+PURPOSE: Display multiple product angles and lifestyle images with download capability
 
 ${productContext}
 
@@ -457,23 +594,29 @@ Total Images Available: ${allImages.length}
 
 CRITICAL REQUIREMENTS:
 You MUST create <img> tags using the EXACT URLs provided above. These are real product images.
-
-Example for each image:
-<img src="[EXACT URL FROM ABOVE]" alt="[ALT TEXT FROM ABOVE]" style="width:100%; height:200px; object-fit:cover; border-radius:8px;" />
+Each image MUST have a small download button at the bottom-left corner.
 
 LAYOUT REQUIREMENTS:
 1. SECTION TITLE: "${titles.gallery}"
    - Font: 20px, bold, color #1A1A1A
    - Red accent bar on left (4px width, LG Red #A50034)
 
-2. IMAGE GRID - USE THESE EXACT IMAGES:
-${galleryImagesData.map((img, idx) => `   Image ${idx + 1}: <img src="${img.src}" alt="${img.alt || product.title}" style="width:100%; height:200px; object-fit:cover; border-radius:8px;" />`).join('\n')}
+2. IMAGE GRID - USE THESE EXACT IMAGES WITH DOWNLOAD BUTTONS:
+   Each image card structure:
+   <div style="position:relative; flex:1 1 calc(33% - 16px); min-width:200px;">
+     <img src="[EXACT URL]" alt="[ALT TEXT]" style="width:100%; height:200px; object-fit:cover; border-radius:8px;" />
+     <a href="[EXACT URL]" download style="position:absolute; bottom:8px; left:8px; background:rgba(0,0,0,0.7); color:#fff; padding:4px 8px; border-radius:4px; font-size:10px; text-decoration:none; display:flex; align-items:center; gap:4px;">
+       <span style="font-size:12px;">↓</span> Download
+     </a>
+   </div>
+
+   Generate for these images:
+${galleryImagesData.map((img, idx) => `   Image ${idx + 1}: URL="${img.src}" ALT="${img.alt || product.title}"`).join('\n')}
 
 3. GRID LAYOUT
-   - Use CSS flexbox or grid
-   - Desktop: 2-3 columns (flex-wrap: wrap)
-   - Each image wrapper: flex: 1 1 calc(33% - 16px); min-width: 200px;
-   - Gap: 16px between images
+   - Use CSS flexbox: display:flex; flex-wrap:wrap; gap:16px;
+   - Desktop: 2-3 columns
+   - Each image wrapper: position:relative; flex:1 1 calc(33% - 16px); min-width:200px;
 
 4. IMAGE STYLING
    - border-radius: 8px
@@ -481,15 +624,24 @@ ${galleryImagesData.map((img, idx) => `   Image ${idx + 1}: <img src="${img.src}
    - object-fit: cover
    - Consistent height: 200px
 
-5. CONTAINER
+5. DOWNLOAD BUTTON (REQUIRED for each image)
+   - Position: absolute, bottom-left corner (bottom:8px; left:8px)
+   - Style: background rgba(0,0,0,0.7), white text, padding 4px 8px
+   - Font: 10px, no underline
+   - Include down arrow (↓) icon
+   - Link href should be the image URL with download attribute
+
+6. CONTAINER
    - Background: #F5F5F5
    - Padding: 32px
    - Border-radius: 8px
    - Max-width: 800px
 
-DESIGN: Clean gallery grid with all product images visible. Professional e-commerce appearance.
+DESIGN: Clean gallery grid with download buttons on each image for easy saving.
 
-CRITICAL: Use the EXACT image URLs provided - they are real product images from the LG website.
+CRITICAL:
+- Use the EXACT image URLs provided - they are real product images
+- Every image MUST have a download button at bottom-left
 `;
   }
 
@@ -552,27 +704,43 @@ DESIGN: Clean vertical cards, easy to scan, professional marketing appearance.
   }
 
   // ═══════════════════════════════════════════════════════════════════
-  // SPECIFICATIONS SECTION PROMPT - Technical specs table
+  // SPECIFICATIONS SECTION PROMPT - Technical specs table (NO FINANCING DATA)
   // ═══════════════════════════════════════════════════════════════════
   if (section === 'specifications') {
-    const specsEntries = Object.entries(specs).slice(0, 15);
+    // Use filtered specs or generate defaults for the category
+    let specsToUse = specs;
+    if (Object.keys(specs).length === 0) {
+      specsToUse = generateDefaultSpecs(product.categoryName, product.modelNumber);
+    }
+    const specsEntries = Object.entries(specsToUse).slice(0, 15);
 
     return `${baseInstructions}
 
-SECTION: SPECIFICATIONS (Technical Details)
-PURPOSE: Present technical specifications in organized, scannable table format
+SECTION: SPECIFICATIONS (Technical Specifications Sheet)
+PURPOSE: Present TECHNICAL specifications in organized table format - NO PRICING OR FINANCING INFO
 
 ${productContext}
 
-SPECIFICATIONS DATA (USE THESE VALUES):
-${specsEntries.map(([key, value]) => `- ${key}: ${value}`).join('\n') || 'Generate typical specifications for this product category.'}
+IMPORTANT: This is a TECHNICAL SPECIFICATIONS sheet. Do NOT include:
+- Monthly payments, financing rates, or subscription pricing
+- Currency amounts or prices
+- Payment plans or installment information
+
+TECHNICAL SPECIFICATIONS TO DISPLAY:
+${specsEntries.map(([key, value]) => `- ${key}: ${value}`).join('\n')}
 
 Total Specifications: ${specsEntries.length}
 
 CONTENT GENERATION RULES:
 1. Use the EXACT specification names and values provided above
-2. Do NOT invent specifications - only use what is provided
-3. If no specs provided, show "Contact for specifications" message instead
+2. These are TECHNICAL specs only - display type, resolution, audio, connectivity, etc.
+3. NEVER include pricing, financing, or payment information in specs table
+4. If specs seem incomplete, you may add relevant technical details for "${product.categoryName}"
+
+TYPICAL TECHNICAL SPECS TO CONSIDER (if not provided):
+- For TVs: Display Type, Resolution, HDR Support, Refresh Rate, Smart TV Platform, HDMI Ports, Audio
+- For Soundbars: Channels, Total Power, Subwoofer, Bluetooth, HDMI, Dolby Atmos, DTS:X
+- For All: Model Number, Brand, Dimensions, Weight, Energy Class
 
 LAYOUT REQUIREMENTS:
 1. SECTION TITLE
@@ -580,7 +748,7 @@ LAYOUT REQUIREMENTS:
    - Font: 22px, bold, color #1A1A1A, uppercase, letter-spacing 0.5px
    - Icon: Small grid/chip shape using CSS (borders, not emoji)
 
-2. SPECS TABLE (USE PROVIDED DATA):
+2. SPECS TABLE (TECHNICAL DATA ONLY):
    - Two-column layout: Property | Value
    - Full width table (width: 100%)
    - Alternating row colors: odd=#F5F5F5, even=#FFFFFF
@@ -601,7 +769,8 @@ LAYOUT REQUIREMENTS:
    - Border-radius: 8px
    - Max-width: 800px
 
-DESIGN: Professional data table, zebra striping for readability, clean borders.
+DESIGN: Professional technical data table, zebra striping for readability, clean borders.
+CRITICAL: This is a TECH SPEC sheet - NO pricing or financing information allowed.
 `;
   }
 
@@ -728,6 +897,94 @@ DESIGN: Trust-building green accent, professional warranty presentation, reassur
   }
 
   // ═══════════════════════════════════════════════════════════════════
+  // FAQ SECTION - Frequently Asked Questions
+  // ═══════════════════════════════════════════════════════════════════
+  if (section === 'faq') {
+    // Use FAQ data from product if available (from rawData)
+    const faqData = product.rawData?.faq || [];
+    const hasFaqData = faqData.length > 0;
+
+    const faqInstructions = hasFaqData
+      ? `FAQ DATA FROM PRODUCT (USE THESE):
+${faqData.map((faq: { question: string; answer: string }, idx: number) => `Q${idx + 1}: ${faq.question}
+A${idx + 1}: ${faq.answer}`).join('\n\n')}`
+      : `No FAQ data available. Generate 5-6 common questions and answers for a ${product.categoryName} product like "${truncatedTitle}".
+Typical questions should cover:
+- Setup and installation
+- Connectivity options (HDMI, Bluetooth, WiFi)
+- Compatibility with other devices
+- Maintenance and care
+- Troubleshooting common issues
+- Warranty and support`;
+
+    return `${baseInstructions}
+
+${productContext}
+
+${faqInstructions}
+
+LOCALE: ${locale}
+- de: Write in German
+- en: Write in English
+- es: Write in Spanish
+- th: Write in Thai
+
+Generate an FAQ section with clean, professional HTML.
+
+LAYOUT REQUIREMENTS:
+1. SECTION TITLE
+   - Text: "${titles.faq}"
+   - Font: 20px, bold, color #1A1A1A
+   - Red accent bar on left (4px, #A50034)
+   - Margin-bottom: 24px
+
+2. FAQ ACCORDION STRUCTURE
+   Each Q&A should be a collapsible item:
+   - Question: 16px, font-weight 600, color #1A1A1A
+   - Answer: 14px, color #6B6B6B, line-height 1.6
+   - Use <details> and <summary> HTML elements for native accordion
+   - Padding: 16px per item
+   - Border-bottom: 1px solid #E5E5E5 between items
+   - Hover effect on summary: background #F5F5F5
+
+3. STYLING
+   - Container: white background, border-radius 8px
+   - Box-shadow: 0 2px 8px rgba(0,0,0,0.05)
+   - Padding: 24px
+   - Max-width: 800px
+
+4. DETAILS/SUMMARY STYLING
+   <style>
+   details { border-bottom: 1px solid #E5E5E5; }
+   details:last-child { border-bottom: none; }
+   summary {
+     cursor: pointer;
+     padding: 16px 0;
+     font-weight: 600;
+     font-size: 16px;
+     list-style: none;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+   }
+   summary::-webkit-details-marker { display: none; }
+   summary::after { content: '+'; font-size: 20px; color: #A50034; }
+   details[open] summary::after { content: '−'; }
+   details[open] summary { color: #A50034; }
+   .faq-answer { padding: 0 0 16px 0; color: #6B6B6B; line-height: 1.6; }
+   </style>
+
+5. CONTENT QUALITY
+   - Answers should be helpful and informative
+   - Use clear, concise language appropriate for ${locale}
+   - Include specific product details when relevant
+   - Make answers 2-4 sentences each
+
+DESIGN: Clean accordion layout, easy to scan, helpful answers that address real customer concerns.
+`;
+  }
+
+  // ═══════════════════════════════════════════════════════════════════
   // FULL TEMPLATE PROMPT - All sections combined
   // ═══════════════════════════════════════════════════════════════════
 
@@ -774,6 +1031,8 @@ Generate a COMPLETE PRODUCT PAGE with these sections (IMAGE-FIRST layout):
    - Grid of product images using the EXACT URLs provided above
    - 2-3 column flexbox layout
    - Each image: border-radius 8px, height 200px, object-fit cover
+   - EACH IMAGE MUST have a download button at bottom-left:
+     <a href="[IMAGE_URL]" download style="position:absolute; bottom:8px; left:8px; background:rgba(0,0,0,0.7); color:#fff; padding:4px 8px; border-radius:4px; font-size:10px;">↓ Download</a>
 
 3. FEATURES SECTION:
    - Section title: "${titles.features}"
@@ -798,6 +1057,13 @@ Generate a COMPLETE PRODUCT PAGE with these sections (IMAGE-FIRST layout):
    - Green accent (#43a047)
    - Shield icon with checkmark (CSS-only)
    - Trust points row
+
+7. FAQ SECTION:
+   - Section title: "${titles.faq}"
+   - Collapsible accordion using <details>/<summary> HTML
+   - 5-6 common questions about the product
+   - Clean, helpful answers
+   - Plus/minus toggle indicator
 
 CRITICAL: Use the EXACT image URLs provided - they are real product images.
 Make each section visually distinct but cohesive. Container max-width: 800px. Padding: 32px-40px per section.
