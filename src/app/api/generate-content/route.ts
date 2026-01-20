@@ -326,44 +326,39 @@ const LANGUAGE_INSTRUCTIONS: Record<SupportedLocale, string> = {
 };
 
 /**
- * Filter images to only include actual product images (not banners, logos, etc.)
+ * Filter images to exclude obvious banners, logos, and tracking pixels.
+ * INCLUDE by default - only exclude clear non-product images.
  */
 function filterProductImages(images: ProductImage[]): ProductImage[] {
   return images.filter(img => {
     if (!img.src) return false;
     const src = img.src.toLowerCase();
-    const alt = (img.alt || '').toLowerCase();
 
-    // Exclude banners, promotions, logos, tracking pixels
+    // Only exclude obvious non-product images
     const excludePatterns = [
-      '/banners/', '/banner/', '/promotion/', '/promo/',
-      '/logo/', 'logo-lg', 'logo.svg', 'logo.png',
-      '/wcms/', '/gnb/', '/lifesgood/',
-      'teads.tv', 'bazaarvoice', 'tracking',
-      'width=0', 'height=0',
-      'membership', 'financing', '0-financing',
-      'trade-up', 'winter-sale', 'happy-new-year',
-      'gaming-chair', 'xboom-landing',
-    ];
-
-    // Include patterns that indicate product images
-    const includePatterns = [
-      '/gallery/', '/thumbnail/', '/product/',
-      'basic-01', 'basic-02', 'gallery-',
-      '-front', '-back', '-side', '-angle',
+      // Tracking and analytics
+      'teads.tv', 'bazaarvoice', 'tracking', 'pixel',
+      'width=0', 'height=0', '1x1',
+      // Site navigation/chrome
+      '/gnb/', '/wcms/gnb/', '/lifesgood/',
+      // Promotional banners (be specific)
+      'membership-banner', 'financing-banner',
+      'trade-up-banner', 'winter-sale-banner',
     ];
 
     // Exclude if matches any exclude pattern
     for (const pattern of excludePatterns) {
-      if (src.includes(pattern) || alt.includes(pattern)) return false;
+      if (src.includes(pattern)) return false;
     }
 
-    // Include if matches include pattern OR has meaningful alt text about product
-    const hasProductAlt = alt.length > 10 && !alt.includes('banner') && !alt.includes('promotion');
-    const matchesInclude = includePatterns.some(p => src.includes(p));
-    const hasGoodDimensions = (img.width || 0) >= 200 && (img.height || 0) >= 200;
+    // Exclude very small images (likely icons/tracking pixels)
+    // Only check if dimensions are actually provided
+    if (img.width && img.height && img.width < 50 && img.height < 50) {
+      return false;
+    }
 
-    return matchesInclude || (hasProductAlt && hasGoodDimensions);
+    // Include everything else - trust the product data
+    return true;
   });
 }
 
