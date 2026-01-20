@@ -32,6 +32,7 @@ import {
   CaretDown,
   CaretUp,
   Pause,
+  Question,
 } from '@phosphor-icons/react';
 import { useDashboardStore } from '@/store/dashboard-store';
 import { platformConfigs } from '@/data/sample-products';
@@ -62,7 +63,7 @@ interface GeneratedContent {
   fullTemplate: string;
 }
 
-type SectionKey = 'hero' | 'gallery' | 'features' | 'specifications' | 'benefits' | 'warranty';
+type SectionKey = 'hero' | 'gallery' | 'features' | 'specifications' | 'benefits' | 'warranty' | 'faq';
 
 const SECTIONS: { key: SectionKey; icon: typeof Stack; label: string; labelDe: string; labelTh: string; labelEs: string }[] = [
   { key: 'hero', icon: ImageIcon, label: 'Hero Section', labelDe: 'Hero-Bereich', labelTh: 'ส่วนหลัก', labelEs: 'Sección Hero' },
@@ -71,6 +72,7 @@ const SECTIONS: { key: SectionKey; icon: typeof Stack; label: string; labelDe: s
   { key: 'specifications', icon: Table, label: 'Specifications', labelDe: 'Technische Daten', labelTh: 'ข้อมูลจำเพาะ', labelEs: 'Especificaciones' },
   { key: 'benefits', icon: Star, label: 'Benefits', labelDe: 'Ihre Vorteile', labelTh: 'ข้อดี', labelEs: 'Beneficios' },
   { key: 'warranty', icon: ShieldCheck, label: 'Warranty', labelDe: 'Garantie', labelTh: 'การรับประกัน', labelEs: 'Garantía' },
+  { key: 'faq', icon: Question, label: 'FAQ', labelDe: 'Häufige Fragen', labelTh: 'คำถามที่พบบ่อย', labelEs: 'Preguntas Frecuentes' },
 ];
 
 interface SectionState {
@@ -88,6 +90,7 @@ const defaultSectionState: PlatformSectionState = {
   specifications: { status: 'idle', html: '', enabled: true },
   benefits: { status: 'idle', html: '', enabled: true },
   warranty: { status: 'idle', html: '', enabled: true },
+  faq: { status: 'idle', html: '', enabled: true },
 };
 
 export function ContentEditor() {
@@ -324,6 +327,7 @@ export function ContentEditor() {
   ${sections.specifications?.html || ''}
   ${sections.benefits?.html || ''}
   ${sections.warranty?.html || ''}
+  ${sections.faq?.html || ''}
 </body>
 </html>`;
   }, [platformSections, getProductData, language]);
@@ -907,6 +911,7 @@ export function ContentEditor() {
                           <div dangerouslySetInnerHTML={{ __html: currentPlatformSections.specifications?.html || '' }} />
                           <div dangerouslySetInnerHTML={{ __html: currentPlatformSections.benefits?.html || '' }} />
                           <div dangerouslySetInnerHTML={{ __html: currentPlatformSections.warranty?.html || '' }} />
+                          <div dangerouslySetInnerHTML={{ __html: currentPlatformSections.faq?.html || '' }} />
                         </>
                       )}
                     </div>
