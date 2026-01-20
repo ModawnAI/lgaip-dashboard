@@ -89,6 +89,14 @@ interface ProductData {
       brand?: string;
     };
     faq?: Array<{ question: string; answer: string }>;
+    media?: {
+      images?: Array<{
+        src: string;
+        alt?: string;
+        width?: number;
+        height?: number;
+      }>;
+    };
     structuredData?: {
       jsonLd?: Array<{
         '@type'?: string;
@@ -455,7 +463,20 @@ function buildSectionPrompt(
   // Collect and FILTER images to only include actual product images
   const galleryImages = filterProductImages(product.galleryImages || []);
   const lifestyleImages = filterProductImages(product.lifestyleImages || []);
-  const mainImage = product.mainImage && filterProductImages([product.mainImage])[0];
+  // Main image should NOT be filtered - it's the primary product image
+  // Try multiple sources for main image
+  let mainImage = product.mainImage;
+
+  // Fallback: try to get main image from rawData.media.images[0]
+  if (!mainImage?.src && product.rawData?.media?.images?.[0]) {
+    const rawMainImage = product.rawData.media.images[0];
+    mainImage = {
+      src: rawMainImage.src,
+      alt: rawMainImage.alt || product.title,
+      width: rawMainImage.width || 800,
+      height: rawMainImage.height || 600,
+    };
+  }
 
   const allImages = [
     mainImage,
@@ -463,9 +484,14 @@ function buildSectionPrompt(
     ...lifestyleImages,
   ].filter((img): img is ProductImage => Boolean(img && img.src));
 
-  // Format images for prompt
-  const mainImageUrl = mainImage?.src || (allImages[0]?.src || '');
+  // Format images for prompt - ensure we have a valid URL
+  const mainImageUrl = mainImage?.src || allImages[0]?.src || '';
   const mainImageAlt = mainImage?.alt || product.title;
+
+  // Log warning if no main image found
+  if (!mainImageUrl) {
+    console.warn(`[generate-content] No main image found for product: ${product.modelNumber}`);
+  }
 
   // Build image list for gallery section
   const imageListForPrompt = allImages.map((img, idx) =>
