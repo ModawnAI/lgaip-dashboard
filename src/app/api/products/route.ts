@@ -10,8 +10,8 @@ import {
   isValidCrawledProduct,
 } from '@/types/crawled-product';
 
-// Base path for product data (relative to project)
-const DATA_BASE_PATH = path.resolve(process.cwd(), '..');
+// Base path for product data (in public/data directory)
+const DATA_BASE_PATH = path.join(process.cwd(), 'public', 'data');
 
 // Category configuration mapping directory names to category info
 const CATEGORY_CONFIG: Record<string, { id: ProductCategoryId; name: string }> = {
