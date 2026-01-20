@@ -1,0 +1,2328 @@
+{
+  "crawledAt": "2026-01-20T05:16:05.227Z",
+  "url": "https://www.lg.com/de/tvs-und-soundbars/oled-evo/oled55c5elb/",
+  "modelNumber": "OLED55C5ELB",
+  "category": "OLED evo",
+  "basicInfo": {
+    "productName": "55 Zoll LG OLED evo AI C5 4K Smart TV",
+    "description": "Entdecken Sie LG OLED55C5ELB. Für Bilder, Bewertungen und technische Daten zu LG klicken 55 Zoll LG OLED evo AI C5 4K Smart TV.",
+    "headline": "55 Zoll LG OLED evo AI C5 4K Smart TV",
+    "screenSize": "55 Zoll",
+    "series": "C",
+    "brand": "LG",
+    "modelNumber": "OLED55C5ELB"
+  },
+  "pricing": {
+    "currentPrice": "1049",
+    "currency": "EUR",
+    "availability": "InStock",
+    "seller": "LG DE"
+  },
+  "ratings": {
+    "averageRating": "4.8",
+    "reviewCount": 3348,
+    "bestRating": 5
+  },
+  "energyEfficiency": {
+    "category": "G",
+    "scaleMax": "A1Plus",
+    "scaleMin": "G",
+    "eprelCertificationId": "2221795"
+  },
+  "media": {
+    "images": [
+      {
+        "src": "https://t.teads.tv/track?action=pageView&env=js-web&tag_version=8.5.0_d71d360&provider=tag&buyer_pixel_id=7484&referer=https%3A%2F%2Fwww.lg.com%2Fde%2Ftvs-und-soundbars%2Foled-evo%2Foled55c5elb%2F&user_session_id=1079fadd-9d90-452e-850c-d9ff73d8afa9&hasConsent=true&cht=timeout",
+        "srcset": null,
+        "alt": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/banners/2026-01-15-LG-CB26-GNB-290x90px-V1-jgr.jpg",
+        "srcset": null,
+        "alt": " Gute Vorsätze für 2026",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/banners/2026-01-15-LG-CB26-GNB-290x90px-V1-jgr.jpg",
+        "srcset": null,
+        "alt": " Gute Vorsätze für 2026",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "OLED55C5ELB EU.pdf",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "OLED55C5ELB EU.pdf",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/55-c5e-b/gallery/oled-c5e-2025-55-gallery-15.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "AI Concierge",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/55-c5e-b/thumbnail/oled-c5e-2025-55-thumbnail-17.jpg",
+        "srcset": null,
+        "alt": "Frontansicht des LG OLED evo AI C5 4K Smart TV. Ein \"12 Years of world number 1 OLED\"-Emblem und das \"LG OLED AI 2025\"-Logo sind auf dem Bildschirm zu sehen.",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/55-c5e-b/gallery/oled-c5e-2025-55-gallery-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Frontansicht des 55 Zoll LG OLED evo AI C5 4K Smart TV OLED55C5ELB",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/55-c5e-b/gallery/oled-c5e-2025-55-gallery-03.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Rückansicht des LG OLED evo AI C5 4K Smart TV.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/55-c5e-b/gallery/oled-c5e-2025-55-gallery-04.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Seitenansicht des LG OLED evo AI C5 4K Smart TV.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/55-c5e-b/gallery/oled-c5e-2025-55-gallery-05.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Frontansicht und Seitenansicht des LG OLED evo AI C5 4K Smart TV mit den Abmessungen der Länge, Breite, Höhe und Tiefe.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled48c5elb/DZ-06.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Der alpha 9 Gen8 4K AI-Prozessor steht vor einem dunklen Hintergrund. Er leuchtet türkisfarben aus dem Inneren heraus und beleuchtet die Mikrochip-Schaltkreise um ihn herum. Die Leistungsstatistiken sind sichtbar.1,7-fach verbesserte AI-Verarbeitung, NPU. 1,7-mal schnellere Prozessorleistung, CPU. 2,1-fach verbesserte Grafikleistung, GPU.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled48c5elb/DZ-07.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Nächtliches Lagerfeuer inmitten der Natur. In der Ferne sind ein Wald und ein See zu sehen. Der Abendhimmel ist mit Sternen übersät. Die Szene ist in zwei Hälften geteilt. Auf der einen Seite zeigt sie die beeindruckende Brillanz vom Brightness Booster. Auf der anderen Seite ist es dunkler und grauer. ",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled48c5elb/DZ-08.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Ein Wohnzimmer mit einem an der Wand montierten LG OLED-Fernseher. Auf dem Fernseher ist eine Bergkette vor einem dunklen Abendhimmel voller Sterne zu sehen. Diese Szene ist in zwei Hälften geteilt. Die eine Seite zeigt eine trübe, graue Version der Landschaft mit der Bezeichnung Non Perfect Black Display. Auf der anderen Seite ist ein angenehmeres Bild mit einem größeren Dynamikbereich von Schwarz und Weiß zu sehen. Dies ist mit Perfect Black Display gekennzeichnet. Auch die Logo-Zertifizierung ist sichtbar: Perfect Black Technology liefert Schwarzwerte von 0,24 nit oder weniger bis zu 500 Lux. ",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled48c5elb/DZ-09.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Ein schillerndes und farbenfrohes Feuerwerk ist auf einem Fernsehbildschirm zu sehen. Das Logo einer Zertifizierung ist sichtbar, die Perfect Color Technology liefert Farbkonsistenzwerte von mehr als 99 % bei bis zu 500 Lux. Intertek-Zertifizierungen, die unabhängige Tests belegen, sind ebenfalls sichtbar.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled48c5elb/DZ-11V.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Leopard im Wald in leuchtenden Farben und Details. Neben dem Leopard ist ein Gitternetz zu sehen. Hinter ihm leuchtet ein Licht. Das Bild zeigt, wie LG AI Picture Pro die Auflösung, Helligkeit, Tiefe und Klarheit der Szene eindrucksvoll verbessert hat.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled48c5elb/DZ-11.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Auf dem Bildschirm eines LG OLED-Fernsehers befindet sich die webOS 25-Startseite, die mit Apps und Unterhaltungsinhalten gefüllt ist. Neben dem Fernseher befindet sich die LG AI Magic Remote-Fernbedienung. Der AI Button ist hervorgehoben, als ob sie durch die Stimme des Benutzers aktiviert wurde. Daneben befindet sich eine Sprechblase, die auf \"Mein Profil\" umschaltet. Der kurze Text erklärt, wie Nutzer nun ihre Stimme mit ihrem persönlichen Profil synchronisieren können, um eine einfachere Navigation und personalisierte Empfehlungen zu erhalten.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/55-c5e-b/gallery/oled-c5e-2025-55-gallery-15.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "AI Concierge",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/55-c5e-b/thumbnail/oled-c5e-2025-55-thumbnail-17.jpg",
+        "srcset": null,
+        "alt": "Frontansicht des LG OLED evo AI C5 4K Smart TV. Ein \"12 Years of world number 1 OLED\"-Emblem und das \"LG OLED AI 2025\"-Logo sind auf dem Bildschirm zu sehen.",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/55-c5e-b/thumbnail/oled-c5e-2025-55-thumbnail-17.jpg",
+        "srcset": null,
+        "alt": "Frontansicht des LG OLED evo AI C5 4K Smart TV. Ein \"12 Years of world number 1 OLED\"-Emblem und das \"LG OLED AI 2025\"-Logo sind auf dem Bildschirm zu sehen.",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/55-c5e-b/thumbnail/oled-c5e-2025-55-thumbnail-01.jpg",
+        "srcset": null,
+        "alt": "Frontansicht des 55 Zoll LG OLED evo AI C5 4K Smart TV OLED55C5ELB",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/55-c5e-b/thumbnail/oled-c5e-2025-55-thumbnail-03.jpg",
+        "srcset": null,
+        "alt": "Rückansicht des LG OLED evo AI C5 4K Smart TV.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/55-c5e-b/thumbnail/oled-c5e-2025-55-thumbnail-04.jpg",
+        "srcset": null,
+        "alt": "Seitenansicht des LG OLED evo AI C5 4K Smart TV.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/55-c5e-b/thumbnail/oled-c5e-2025-55-thumbnail-05.jpg",
+        "srcset": null,
+        "alt": "Frontansicht und Seitenansicht des LG OLED evo AI C5 4K Smart TV mit den Abmessungen der Länge, Breite, Höhe und Tiefe.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled48c5elb/S-06.jpg",
+        "srcset": null,
+        "alt": "Der alpha 9 Gen8 4K AI-Prozessor steht vor einem dunklen Hintergrund. Er leuchtet türkisfarben aus dem Inneren heraus und beleuchtet die Mikrochip-Schaltkreise um ihn herum. Die Leistungsstatistiken sind sichtbar.1,7-fach verbesserte AI-Verarbeitung, NPU. 1,7-mal schnellere Prozessorleistung, CPU. 2,1-fach verbesserte Grafikleistung, GPU.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled48c5elb/S-07.jpg",
+        "srcset": null,
+        "alt": "Nächtliches Lagerfeuer inmitten der Natur. In der Ferne sind ein Wald und ein See zu sehen. Der Abendhimmel ist mit Sternen übersät. Die Szene ist in zwei Hälften geteilt. Auf der einen Seite zeigt sie die beeindruckende Brillanz vom Brightness Booster. Auf der anderen Seite ist es dunkler und grauer. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled48c5elb/S-08.jpg",
+        "srcset": null,
+        "alt": "Ein Wohnzimmer mit einem an der Wand montierten LG OLED-Fernseher. Auf dem Fernseher ist eine Bergkette vor einem dunklen Abendhimmel voller Sterne zu sehen. Diese Szene ist in zwei Hälften geteilt. Die eine Seite zeigt eine trübe, graue Version der Landschaft mit der Bezeichnung Non Perfect Black Display. Auf der anderen Seite ist ein angenehmeres Bild mit einem größeren Dynamikbereich von Schwarz und Weiß zu sehen. Dies ist mit Perfect Black Display gekennzeichnet. Auch die Logo-Zertifizierung ist sichtbar: Perfect Black Technology liefert Schwarzwerte von 0,24 nit oder weniger bis zu 500 Lux. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled48c5elb/S-09.jpg",
+        "srcset": null,
+        "alt": "Ein schillerndes und farbenfrohes Feuerwerk ist auf einem Fernsehbildschirm zu sehen. Das Logo einer Zertifizierung ist sichtbar, die Perfect Color Technology liefert Farbkonsistenzwerte von mehr als 99 % bei bis zu 500 Lux. Intertek-Zertifizierungen, die unabhängige Tests belegen, sind ebenfalls sichtbar.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled48c5elb/S-10.jpg",
+        "srcset": null,
+        "alt": "Leopard im Wald in leuchtenden Farben und Details. Neben dem Leopard ist ein Gitternetz zu sehen. Hinter ihm leuchtet ein Licht. Das Bild zeigt, wie LG AI Picture Pro die Auflösung, Helligkeit, Tiefe und Klarheit der Szene eindrucksvoll verbessert hat.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled48c5elb/350-12.jpg",
+        "srcset": null,
+        "alt": "Auf dem Bildschirm eines LG OLED-Fernsehers befindet sich die webOS 25-Startseite, die mit Apps und Unterhaltungsinhalten gefüllt ist. Neben dem Fernseher befindet sich die LG AI Magic Remote-Fernbedienung. Der AI Button ist hervorgehoben, als ob sie durch die Stimme des Benutzers aktiviert wurde. Daneben befindet sich eine Sprechblase, die auf \"Mein Profil\" umschaltet. Der kurze Text erklärt, wie Nutzer nun ihre Stimme mit ihrem persönlichen Profil synchronisieren können, um eine einfachere Navigation und personalisierte Empfehlungen zu erhalten.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/55-c5e-b/thumbnail/oled-c5e-2025-55-thumbnail-15.jpg",
+        "srcset": null,
+        "alt": "AI Concierge",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/55-c5e-b/gallery/oled-c5e-2025-55-gallery-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 55 Zoll LG OLED evo AI C5 4K Smart TV OLED55C5ELB",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/55-c5e-b/gallery/oled-c5e-2025-55-gallery-03.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Rückansicht des LG OLED evo AI C5 4K Smart TV.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/55-c5e-b/gallery/oled-c5e-2025-55-gallery-04.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Seitenansicht des LG OLED evo AI C5 4K Smart TV.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/55-c5e-b/gallery/oled-c5e-2025-55-gallery-05.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht und Seitenansicht des LG OLED evo AI C5 4K Smart TV mit den Abmessungen der Länge, Breite, Höhe und Tiefe.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled48c5elb/DZ-06.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Der alpha 9 Gen8 4K AI-Prozessor steht vor einem dunklen Hintergrund. Er leuchtet türkisfarben aus dem Inneren heraus und beleuchtet die Mikrochip-Schaltkreise um ihn herum. Die Leistungsstatistiken sind sichtbar.1,7-fach verbesserte AI-Verarbeitung, NPU. 1,7-mal schnellere Prozessorleistung, CPU. 2,1-fach verbesserte Grafikleistung, GPU.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled48c5elb/DZ-07.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Nächtliches Lagerfeuer inmitten der Natur. In der Ferne sind ein Wald und ein See zu sehen. Der Abendhimmel ist mit Sternen übersät. Die Szene ist in zwei Hälften geteilt. Auf der einen Seite zeigt sie die beeindruckende Brillanz vom Brightness Booster. Auf der anderen Seite ist es dunkler und grauer. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled48c5elb/DZ-08.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Ein Wohnzimmer mit einem an der Wand montierten LG OLED-Fernseher. Auf dem Fernseher ist eine Bergkette vor einem dunklen Abendhimmel voller Sterne zu sehen. Diese Szene ist in zwei Hälften geteilt. Die eine Seite zeigt eine trübe, graue Version der Landschaft mit der Bezeichnung Non Perfect Black Display. Auf der anderen Seite ist ein angenehmeres Bild mit einem größeren Dynamikbereich von Schwarz und Weiß zu sehen. Dies ist mit Perfect Black Display gekennzeichnet. Auch die Logo-Zertifizierung ist sichtbar: Perfect Black Technology liefert Schwarzwerte von 0,24 nit oder weniger bis zu 500 Lux. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled48c5elb/DZ-09.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Ein schillerndes und farbenfrohes Feuerwerk ist auf einem Fernsehbildschirm zu sehen. Das Logo einer Zertifizierung ist sichtbar, die Perfect Color Technology liefert Farbkonsistenzwerte von mehr als 99 % bei bis zu 500 Lux. Intertek-Zertifizierungen, die unabhängige Tests belegen, sind ebenfalls sichtbar.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled48c5elb/DZ-11V.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Leopard im Wald in leuchtenden Farben und Details. Neben dem Leopard ist ein Gitternetz zu sehen. Hinter ihm leuchtet ein Licht. Das Bild zeigt, wie LG AI Picture Pro die Auflösung, Helligkeit, Tiefe und Klarheit der Szene eindrucksvoll verbessert hat.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled48c5elb/DZ-11.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Auf dem Bildschirm eines LG OLED-Fernsehers befindet sich die webOS 25-Startseite, die mit Apps und Unterhaltungsinhalten gefüllt ist. Neben dem Fernseher befindet sich die LG AI Magic Remote-Fernbedienung. Der AI Button ist hervorgehoben, als ob sie durch die Stimme des Benutzers aktiviert wurde. Daneben befindet sich eine Sprechblase, die auf \"Mein Profil\" umschaltet. Der kurze Text erklärt, wie Nutzer nun ihre Stimme mit ihrem persönlichen Profil synchronisieren können, um eine einfachere Navigation und personalisierte Empfehlungen zu erhalten.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/55-c5e-b/gallery/oled-c5e-2025-55-gallery-15.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "AI Concierge",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/55-c5e-b/thumbnail/oled-c5e-2025-55-thumbnail-01.jpg",
+        "srcset": null,
+        "alt": "Frontansicht des 55 Zoll LG OLED evo AI C5 4K Smart TV OLED55C5ELB",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/55-c5e-b/thumbnail/oled-c5e-2025-55-thumbnail-03.jpg",
+        "srcset": null,
+        "alt": "Rückansicht des LG OLED evo AI C5 4K Smart TV.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/55-c5e-b/thumbnail/oled-c5e-2025-55-thumbnail-04.jpg",
+        "srcset": null,
+        "alt": "Seitenansicht des LG OLED evo AI C5 4K Smart TV.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/55-c5e-b/thumbnail/oled-c5e-2025-55-thumbnail-05.jpg",
+        "srcset": null,
+        "alt": "Frontansicht und Seitenansicht des LG OLED evo AI C5 4K Smart TV mit den Abmessungen der Länge, Breite, Höhe und Tiefe.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled48c5elb/S-06.jpg",
+        "srcset": null,
+        "alt": "Der alpha 9 Gen8 4K AI-Prozessor steht vor einem dunklen Hintergrund. Er leuchtet türkisfarben aus dem Inneren heraus und beleuchtet die Mikrochip-Schaltkreise um ihn herum. Die Leistungsstatistiken sind sichtbar.1,7-fach verbesserte AI-Verarbeitung, NPU. 1,7-mal schnellere Prozessorleistung, CPU. 2,1-fach verbesserte Grafikleistung, GPU.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled48c5elb/S-07.jpg",
+        "srcset": null,
+        "alt": "Nächtliches Lagerfeuer inmitten der Natur. In der Ferne sind ein Wald und ein See zu sehen. Der Abendhimmel ist mit Sternen übersät. Die Szene ist in zwei Hälften geteilt. Auf der einen Seite zeigt sie die beeindruckende Brillanz vom Brightness Booster. Auf der anderen Seite ist es dunkler und grauer. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled48c5elb/S-08.jpg",
+        "srcset": null,
+        "alt": "Ein Wohnzimmer mit einem an der Wand montierten LG OLED-Fernseher. Auf dem Fernseher ist eine Bergkette vor einem dunklen Abendhimmel voller Sterne zu sehen. Diese Szene ist in zwei Hälften geteilt. Die eine Seite zeigt eine trübe, graue Version der Landschaft mit der Bezeichnung Non Perfect Black Display. Auf der anderen Seite ist ein angenehmeres Bild mit einem größeren Dynamikbereich von Schwarz und Weiß zu sehen. Dies ist mit Perfect Black Display gekennzeichnet. Auch die Logo-Zertifizierung ist sichtbar: Perfect Black Technology liefert Schwarzwerte von 0,24 nit oder weniger bis zu 500 Lux. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled48c5elb/S-09.jpg",
+        "srcset": null,
+        "alt": "Ein schillerndes und farbenfrohes Feuerwerk ist auf einem Fernsehbildschirm zu sehen. Das Logo einer Zertifizierung ist sichtbar, die Perfect Color Technology liefert Farbkonsistenzwerte von mehr als 99 % bei bis zu 500 Lux. Intertek-Zertifizierungen, die unabhängige Tests belegen, sind ebenfalls sichtbar.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled48c5elb/S-10.jpg",
+        "srcset": null,
+        "alt": "Leopard im Wald in leuchtenden Farben und Details. Neben dem Leopard ist ein Gitternetz zu sehen. Hinter ihm leuchtet ein Licht. Das Bild zeigt, wie LG AI Picture Pro die Auflösung, Helligkeit, Tiefe und Klarheit der Szene eindrucksvoll verbessert hat.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled48c5elb/350-12.jpg",
+        "srcset": null,
+        "alt": "Auf dem Bildschirm eines LG OLED-Fernsehers befindet sich die webOS 25-Startseite, die mit Apps und Unterhaltungsinhalten gefüllt ist. Neben dem Fernseher befindet sich die LG AI Magic Remote-Fernbedienung. Der AI Button ist hervorgehoben, als ob sie durch die Stimme des Benutzers aktiviert wurde. Daneben befindet sich eine Sprechblase, die auf \"Mein Profil\" umschaltet. Der kurze Text erklärt, wie Nutzer nun ihre Stimme mit ihrem persönlichen Profil synchronisieren können, um eine einfachere Navigation und personalisierte Empfehlungen zu erhalten.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/55-c5e-b/thumbnail/oled-c5e-2025-55-thumbnail-15.jpg",
+        "srcset": null,
+        "alt": "AI Concierge",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/55-c5e-b/thumbnail/oled-c5e-2025-55-thumbnail-17.jpg",
+        "srcset": null,
+        "alt": "Frontansicht des LG OLED evo AI C5 4K Smart TV. Ein \"12 Years of world number 1 OLED\"-Emblem und das \"LG OLED AI 2025\"-Logo sind auf dem Bildschirm zu sehen.",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "https://publish-p86205-e1346445.adobeaemcloud.com/content/dam/lge/es/personalization/shared/Personalizaion-MembershipBanner-M.jpg",
+        "srcset": null,
+        "alt": "member-benefit",
+        "width": 1440,
+        "height": 222
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled55c5elb-ds77ty/450x450_OLED55C5ELB.DS77TY.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled55c5elb-dsc9s/450x450_OLED55C5ELB.DSC9S.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled55c5elb-ds60tr/450x450_OLED55C5ELB.DS60TR.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/awards/2025-LG-HE_StiWa_Logo-LG_OLED55C5ELB-mitOutline-CMYK.jpg",
+        "srcset": null,
+        "alt": "Stiftung Warentest OLED C5",
+        "width": 1772,
+        "height": 1181
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/awards/connect-oled-55-c5.png",
+        "srcset": null,
+        "alt": "Connect OLED C5",
+        "width": 1033,
+        "height": 893
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/awards/hifi-de-oled-55-c5.png",
+        "srcset": null,
+        "alt": "Hifi.de OLED C5",
+        "width": 1535,
+        "height": 893
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled-evo/c5/features/oled-c5-2025-01-feature-award-d.jpg",
+        "srcset": null,
+        "alt": "CES Innovation Awards-Logo mit einem 2025 Honoree-Zitat.",
+        "width": 488,
+        "height": 275
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/features/desktop/oled-c5-2025-01-feature-award-d-5.jpg",
+        "srcset": null,
+        "alt": "Award der „CES Innovation Awards“ mit der Ehrung „2025 Honoree“.",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/features/desktop/oled-c5-2025-01-feature-award-d-6.jpg",
+        "srcset": null,
+        "alt": "Logo von AVForums Editor's Choice für LG webOS 24 als bestes Smart TV-System 2024/2025. ",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled-evo/c5/features/oled-c5-2025-02-feature-kv-m-v1.jpg",
+        "srcset": null,
+        "alt": "Auf dem Bildschirm eines LG OLED evo AI TVs ist ein abstraktes Bild mit beeindruckenden Details, Farben und Kontrasten zu sehen. Hinter dem Fernseher befindet sich eine vergrößerte Version des alpha 9 Gen8 4K AI-Prozessors. Er leuchtet und die Mikrochip-Schaltkreise um ihn herum sind beleuchtet. Der Titel lautet LG OLED evo AI. Außerdem ist der Text „Powered by LG alpha 9 Gen8 4K AI-Prozessor“ zu sehen. In der Ecke befindet sich ein goldenes Logo mit Sternen, auf dem steht: „World's number one OLED TV for 12 years“.",
+        "width": 1920,
+        "height": 720
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/features/mobile/oled-c5-2025-08-feature-ai-magic-remote-m-01.jpg",
+        "srcset": null,
+        "alt": "LG AI Magic Remote-Fernbedienung mit hervorgehobenem AI Button. Es gibt eine grafische UI-Darstellung mit Symbolen, die zeigt, wie der AI Button den Zugang zu verschiedenen AI-Funktionen ermöglicht. Zu den Services gehören AI Voice ID, AI Search, AI Chatbot, AI Concierge, AI Picture Wizard und AI Sound Wizard. Die Funktionsweise wird gezeigt, indem der Cursor über einer Benutzeroberfläche erscheint und zeigt, wie die Fernbedienung wie eine Maus zum Zeigen und Klicken verwendet werden kann.",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/features/desktop/oled-c5-2025-28-feature-webos-youtube-d-1.jpg",
+        "srcset": null,
+        "alt": "Der Titel \"2025 LG AI TV\" und \"AI Voice ID\" wird angezeigt. Ein Mann und eine Frau sitzen auf einer Couch und halten eine TV-Fernbedienung in der Hand.",
+        "width": 342,
+        "height": 228
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/features/desktop/oled-c5-2025-28-feature-webos-youtube-d-2.jpg",
+        "srcset": null,
+        "alt": "Der Titel \"2025 LG AI TV\" und \"AI Search\" wird angezeigt. Eine dreiköpfige Familie sitzt auf der Couch im Wohnzimmer.",
+        "width": 342,
+        "height": 228
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/features/desktop/oled-c5-2025-28-feature-webos-youtube-d-3.jpg",
+        "srcset": null,
+        "alt": "Der Titel \"2025 LG AI TV\" und \"Al Chatbot & Al Picture/Sound Wizard\" wird angezeigt. Ein Mädchen sitzt, lächelt und schaut in die Ferne.",
+        "width": 342,
+        "height": 228
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/features/desktop/oled-c5-2025-28-feature-webos-youtube-d-4.jpg",
+        "srcset": null,
+        "alt": "Der Titel \"2025 LG AI TV\" und \"Al Concierge\" wird angezeigt. Die LG Al Magic Remote-Fernbedienung ist sichtbar. Ein Mann sitzt auf der Couch.",
+        "width": 342,
+        "height": 228
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/features/mobile/oled-c5-2025-17-feature-ai-sound-pro-m-3.jpg",
+        "srcset": null,
+        "alt": "Wohnzimmer mit einem wandmontierten LG TV. Grafisch dargestellte Schallwellen füllen den Raum und zeigen, wie virtuelle 11.1.2-Kanäle ein Surround-Sound-Erlebnis für den Benutzer schaffen. ",
+        "width": 1600,
+        "height": 1200
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled-evo/c5/features/oled-c5-2025-13-feature-ai-sound-pro-m-1.jpg",
+        "srcset": null,
+        "alt": "Ein Mann spielt Gitarre, eine Frau singt in ein Mikrofon und ein Mann spielt Klavier. Die von ihnen ausgehenden Schallwellen zeigen die Klangemission und wie die Klangqualität durch AI Clear Sound verbessert wird.",
+        "width": 1600,
+        "height": 1160
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled-evo/c5/features/oled-c5-2025-13-feature-ai-sound-pro-m-2.jpg",
+        "srcset": null,
+        "alt": "Der LG OLED TV zeigt einen Mann auf einem Motorrad, aus dessen Rad abstrakte violette Kreise kommen, um den Klang zu visualisieren.",
+        "width": 1600,
+        "height": 1160
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/features/mobile/oled-c5-2025-17-feature-ai-sound-pro-m-3.jpg",
+        "srcset": null,
+        "alt": "Wohnzimmer mit einem wandmontierten LG TV. Grafisch dargestellte Schallwellen füllen den Raum und zeigen, wie virtuelle 11.1.2-Kanäle ein Surround-Sound-Erlebnis für den Benutzer schaffen. ",
+        "width": 1600,
+        "height": 1200
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled-evo/c5/features/oled-c5-2025-13-feature-ai-sound-pro-m-1.jpg",
+        "srcset": null,
+        "alt": "Ein Mann spielt Gitarre, eine Frau singt in ein Mikrofon und ein Mann spielt Klavier. Die von ihnen ausgehenden Schallwellen zeigen die Klangemission und wie die Klangqualität durch AI Clear Sound verbessert wird.",
+        "width": 1600,
+        "height": 1160
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled-evo/c5/features/oled-c5-2025-14-feature-wow-orchestra-m-01-2.jpg",
+        "srcset": null,
+        "alt": "Die LG Soundbar befindet sich unter einem LG OLED TV. Auf dem Fernsehbildschirm wird die Benutzeroberfläche für die Lautstärkeregelung der Soundbar und des Fernsehers angezeigt. ",
+        "width": 1600,
+        "height": 1240
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled-evo/c5/features/oled-c5-2025-14-feature-wow-orchestra-m-01-1.jpg",
+        "srcset": null,
+        "alt": "Wohnzimmer mit einem LG OLED TV und einer LG Soundbar mit Grafiken, die zeigen, wie beide Geräte den Raum mit Multi-Surround-Klang füllen.",
+        "width": 1600,
+        "height": 1240
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled-evo/c5/features/oled-c5-2025-14-feature-wow-orchestra-m-01-2.jpg",
+        "srcset": null,
+        "alt": "Die LG Soundbar befindet sich unter einem LG OLED TV. Auf dem Fernsehbildschirm wird die Benutzeroberfläche für die Lautstärkeregelung der Soundbar und des Fernsehers angezeigt. ",
+        "width": 1600,
+        "height": 1240
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled-evo/c5/features/oled-c5-2025-14-feature-wow-orchestra-m-01-1.jpg",
+        "srcset": null,
+        "alt": "Wohnzimmer mit einem LG OLED TV und einer LG Soundbar mit Grafiken, die zeigen, wie beide Geräte den Raum mit Multi-Surround-Klang füllen.",
+        "width": 1600,
+        "height": 1240
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/av/soundbar/2024/s90tr/gallery/450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht der LG Soundbar DS90TR, Subwoofer und hintere Lautsprecher",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled-evo/c5/features/oled-c5-2025-15-feature-ultra-slim-design-m-2.jpg",
+        "srcset": null,
+        "alt": "Frontalansicht des an der Wand montierten LG OLED-Fernsehers mit Soundbar in einem farbenfrohen Wohnzimmer, die das ultraschlanke Design und die perfekte Integration in den Raum verdeutlicht. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled-evo/c5/features/oled-c5-2025-15-feature-ultra-slim-design-m-1.jpg",
+        "srcset": null,
+        "alt": "In einem farbenfrohen Wohnzimmer steht ein wandmontierter LG OLED-Fernseher mit Soundbar. Die Perspektive ist schräg und zeigt den ultraschlanken Rahmen des Fernsehers an der Wand.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled-evo/c5/features/oled-c5-2025-15-feature-ultra-slim-design-m-2.jpg",
+        "srcset": null,
+        "alt": "Frontalansicht des an der Wand montierten LG OLED-Fernsehers mit Soundbar in einem farbenfrohen Wohnzimmer, die das ultraschlanke Design und die perfekte Integration in den Raum verdeutlicht. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled-evo/c5/features/oled-c5-2025-15-feature-ultra-slim-design-m-1.jpg",
+        "srcset": null,
+        "alt": "In einem farbenfrohen Wohnzimmer steht ein wandmontierter LG OLED-Fernseher mit Soundbar. Die Perspektive ist schräg und zeigt den ultraschlanken Rahmen des Fernsehers an der Wand.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/features/mobile/oled-c5-2025-27-feature-gaming-portal-m-02.jpg",
+        "srcset": null,
+        "alt": "Startbildschirm des Gaming Portal. Über den Cursor lassen sich verschiedene beliebte Spieletitel auswählen. Außerdem können Games nach der Art des verfügbaren Controllers – Gamepad oder Fernbedienung – gefiltert werden. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled-evo/c5/features/oled-c5-2025-17-feature-best-oled-tv-for-movies-d-1.jpg",
+        "srcset": null,
+        "alt": "A director in front of a control panel editing the movie \"Killers of the Flower Moon\" on an LG OLED TV. In the bottom left, the Dolby Vision logo and FILMMAKER MODE logo.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled-evo/c5/features/oled-c5-2025-17-feature-best-oled-tv-for-movies-d-2.jpg",
+        "srcset": null,
+        "alt": "Dimly lit, cozy living room with an OLED LG TV with LG Soundbar. On the screen is a close-up of an electric guitar being played. Graphics show how Dolby Atmos fills the whole space with surround sound from all directions. Dolby Atmos logo is at the bottom corner.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/features/mobile/oled-c5-2025-29-feature-eco-friendly-banner-m.jpg",
+        "srcset": null,
+        "alt": "Von Carbon Trust für CO2-Reduzierung und CO2-Emissionsmessung und von Intertek für Ressourceneffizienz zertifiziert.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/features/mobile/oled-c5-2025-22-feature-innovation-banner-m.jpg",
+        "srcset": null,
+        "alt": "Ein großer weißer Raum, gefüllt mit OLED TVs, zeigt, dass LG seit mehr als einem Jahrzehnt bahnbrechende Innovationen auf den Markt gebracht hat. Das Emblem „The world's number one OLED TV for 12 years“ (Seit 12 Jahren die Nummer 1 der Welt bei OLED TV) ist ebenfalls sichtbar.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/spec/C5-E-Stand-OLED55C5ELB-Dimension-Mobile.jpg",
+        "srcset": null,
+        "alt": "OLED55C5ELB\n",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/86d7885a-c9c5-4a20-b1f9-b82f9cbc100f",
+        "srcset": null,
+        "alt": "lg.com",
+        "width": 111,
+        "height": 55
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/4f57878e-cc1a-4047-845f-7baac15b1991",
+        "srcset": null,
+        "alt": "LG Spain",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/86d7885a-c9c5-4a20-b1f9-b82f9cbc100f",
+        "srcset": null,
+        "alt": "lg.com",
+        "width": 111,
+        "height": 55
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/4f57878e-cc1a-4047-845f-7baac15b1991",
+        "srcset": null,
+        "alt": "LG Spain",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://contentorigin.bazaarvoice.com/influenster/default/influenster.png",
+        "srcset": null,
+        "alt": "influenster.com",
+        "width": 200,
+        "height": 55
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/4f57878e-cc1a-4047-845f-7baac15b1991",
+        "srcset": null,
+        "alt": "LG Spain",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/4f57878e-cc1a-4047-845f-7baac15b1991",
+        "srcset": null,
+        "alt": "LG Spain",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled55c5elb-dsc9s/450x450_OLED55C5ELB.DSC9S.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled55c5elb-ds60tr/450x450_OLED55C5ELB.DS60TR.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/65-c5e-b/basic/oled-c5e-2025-65-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 65 Zoll LG OLED evo AI C5 4K Smart TV OLED65C5ELB",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled55g57lw/OLED55G57LW-450-1.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 55 Zoll LG OLED evo AI G5 4K Smart TV OLED55G57LW",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled65c5elb-ds60tr/450x450_OLED65C5ELB.DS60TR.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled48b59la/Basic-450-01.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 48 Zoll LG OLED AI B5 4K Smart TV OLED48B59LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/450_b.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 55 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV 55QNED86A6A",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled55g59ls/OLED55G59LS-450-1.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 55 Zoll LG OLED evo AI G5 4K Smart TV OLED55G59LS",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled48b59la-ds40tr/450x450_OLED48B59LA.DS40TR.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_manual-software_48x48.svg",
+        "srcset": null,
+        "alt": "Symbol Benutzerhandbuch und Software",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_complaints_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Fehlerbehebung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_warranty_48x48.svg",
+        "srcset": null,
+        "alt": "Garantie-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_part-accessory_48x48.svg",
+        "srcset": null,
+        "alt": "Symbol für Teile und Zubehör",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/buy/icon_register-a-product_48.svg",
+        "srcset": null,
+        "alt": "Symbol Produktregistrierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_product_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Produktsupport",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_order_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Bestellsupport",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/Icon_request-a-repair_60x60.svg",
+        "srcset": null,
+        "alt": "Symbol für Reparaturanfrage",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_chat-with-us__60x60.svg",
+        "srcset": null,
+        "alt": "Livechat-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_whatsapp_60x60.svg",
+        "srcset": null,
+        "alt": "WhatsApp-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_email-us_60x60.svg",
+        "srcset": null,
+        "alt": "E-Mail-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_call_48.svg",
+        "srcset": null,
+        "alt": "Anruf-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/common/find-a-store-test/gradation-icon/banner-light-icons.svg",
+        "srcset": null,
+        "alt": "Filialsymbol suchen",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/facebook-circle-fill.svg",
+        "srcset": null,
+        "alt": "Facebook",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/youtube-circle-fill.svg",
+        "srcset": null,
+        "alt": "Youtube",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/instagram-circle-fill.svg",
+        "srcset": null,
+        "alt": "Instagram",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/ot_company_logo.png",
+        "srcset": null,
+        "alt": "Firmenlogo",
+        "width": 600,
+        "height": 106
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/powered_by_logo.svg",
+        "srcset": null,
+        "alt": "Powered by Onetrust",
+        "width": 136,
+        "height": 16
+      },
+      {
+        "src": "https://lantern.roeye.com/track.php?fingerprint=0e398a32-f94c-4327-8b91-78c9b166e387&referrer=&landingpage=https%3A%2F%2Fwww.lg.com%2Fde%2Ftvs-und-soundbars%2Foled-evo%2Foled55c5elb%2F&useragent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F143.0.7499.4%20Safari%2F537.36&site=63126",
+        "srcset": null,
+        "alt": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://bat.bing.com/action/0?ti=355009024&Ver=2&mid=90d8d364-7920-42f6-9ed7-f595e38a4751&bo=1&sid=fc549eb0f5bb11f0a0a5b7ae3fc4ae70&vid=fc548160f5bb11f0b35da3cae89cc6a9&vids=0&msclkid=N&pi=0&lg=en-US&sw=1280&sh=720&sc=24&nwd=1&tl=55%20Zoll%20LG%20OLED%20evo%20AI%20C5E%204K%20Smart%20TV%20-%20OLED55C5ELB%20%7C%20LG%20DE&p=https%3A%2F%2Fwww.lg.com%2Fde%2Ftvs-und-soundbars%2Foled-evo%2Foled55c5elb%2F&r=&lt=3023&evt=pageLoad&sv=2&cdb=AQET&rn=778633",
+        "srcset": null,
+        "alt": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://t.visx.net/sync?tp_id=6&tp_uid=RRdZ_TMk5SKgdGl9mRDZWHyMgwfoMbfUay6hyRkuFJY",
+        "srcset": null,
+        "alt": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "https://usersync.gumgum.com/usersync?b=rth&i=RRdZ_TMk5SKgdGl9mRDZWHyMgwfoMbfUay6hyRkuFJY",
+        "srcset": null,
+        "alt": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "https://t.adx.opera.com/sync?vendor=60039&uid=RRdZ_TMk5SKgdGl9mRDZWHyMgwfoMbfUay6hyRkuFJY",
+        "srcset": null,
+        "alt": "",
+        "width": 1,
+        "height": 1
+      }
+    ],
+    "videos": [
+      {
+        "type": "video",
+        "src": "blob:https://www.lg.com/390ef818-c8f0-4a5a-8160-7805c95b4a35",
+        "poster": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1690282274001/e85361c8-068f-4fd9-b826-9c9cf36828be/main/1280x720/33s533ms/match/image.jpg",
+        "sources": []
+      },
+      {
+        "type": "video",
+        "src": "blob:https://www.lg.com/bbd8939f-79c8-4d02-bf3f-bafc6dc07735",
+        "poster": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1690282274001/e85361c8-068f-4fd9-b826-9c9cf36828be/main/1280x720/33s533ms/match/image.jpg",
+        "sources": []
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled-evo/c5/features/oled-c5-2025-05-video-ai-picture-pro-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled-evo/c5/features/oled-c5-2025-05-video-ai-picture-pro-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/video/oled-c5-2025-08-viedo-ai-magic-remote-d-01.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled-evo/c5e/feature/oled-cs5-2025-08-video-ai-voice-id-m-01.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled-evo/c5e/feature/oled-cs5-2025-08-video-ai-voice-id-d-01.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled-evo/c5e/feature/oled-cs5-2025-12-video-ai-picture-wizard-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled-evo/c5e/feature/oled-cs5-2025-12-video-ai-picture-wizard-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled-evo/c5e/feature/oled-cs5-2025-13-video-ai-sound-wizard-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled-evo/c5e/feature/oled-cs5-2025-13-video-ai-sound-wizard-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled-evo/c5e/feature/oled-cs5-2025-16-video-home-hub-m-1-01.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled-evo/c5e/feature/oled-cs5-2025-16-video-home-hub-d-1-01.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/video/oled-c5-2025-25-video-lg-channels-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/video/oled-c5-2025-25-video-lg-channels-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/video/oled-c5-2025-27-video-gaming-portal-d-02.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      }
+    ]
+  },
+  "specifications": {
+    "€124,92": "Monatliche Rate",
+    "€1.499,00": "Gesamtbetrag inkl. Zinsen",
+    "0%": "Zinssatz",
+    "€74,96": "Monatliche Rate",
+    "€1.798,99": "Gesamtbetrag inkl. Zinsen",
+    "€40,00": "Monatliche Rate",
+    "€120,00": "Gesamtbetrag inkl. Zinsen"
+  },
+  "features": [],
+  "reviews": {
+    "summary": {},
+    "featured": [
+      {
+        "headline": "The Mid-Range King",
+        "body": "Making the jump from my old Japanese LCD to the LG C5 OLED has been a revelation. The OLED's perfect black means that dreaded light blooming is completely gone, and highlights are actually brighter and punchier than I expected. The webOS operating system is snappy, and I love that it has built-in IPTV support. Plus, its sleek, small-foot design is a lifesaver, fitting perfectly onto my smaller desk. For the price, this TV is an incredible value for money; you would genuinely have to spend at least three times more on a top-tier flagship to see a marginal jump in quality. It's an absolute winner.\r\n\r\nNOTE: THE LG IS ON THE FLOOR IN PHOTOS",
+        "rating": 5,
+        "author": "abramvp",
+        "dateCreated": "2025-11-23T13:45:19.000+00:00",
+        "datePublished": "2025-11-24T12:30:07.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/e813af79-567a-56b9-b8c7-e6d20fc206de",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/42157d40-508f-57fc-ae4e-6604da80f33b",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/19f5d98e-c7aa-5a82-ae22-346c3a9a2051",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/fe12c7e2-5549-53b0-be80-76569aa95117"
+        ]
+      },
+      {
+        "headline": "Fantastica imagen y caracteristicas para gamming",
+        "body": "Compre esta tv principalmente para jugar en el PS5 y ver series-peliculas, me sorprendio bastante las opciones que trae de mejora de imagen y sonido usando IA, támbien las opciones para optimizar el gamming son bastante interesantes, el sistema operativo me parece muy \"sucio\" al inicio, trae demasiadas cosas que satura un poco, pero una vez que te vas acostumbrando se hace menos caotico, si eres de los que ven peliculas y/o series desde la usb te agradara saber que por default lee mp4 y mkv, te permite cambiar los subtitulos y las pistas de audio sin problema, un gran equipo, seguiremos probándolo haber que mas descubro",
+        "rating": 5,
+        "author": "Kihmeve",
+        "dateCreated": "2025-08-22T16:43:58.000+00:00",
+        "datePublished": "2025-08-23T16:31:38.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/343441b6-00a0-5dcb-aa5f-5980252d720e",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/22d1e09f-32b1-5a4e-92e6-ce6573024c43",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/0a3ce12c-fe58-51e4-b792-2c2c60c2c3ce",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/3ce072eb-2930-5ab5-be5f-36c0250b4b55",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/2682f0b4-b897-5ad3-8679-b7815e0c5030"
+        ]
+      },
+      {
+        "headline": "Me encanta!! La mejor compra que hemos realizado.",
+        "body": "Adquirimos la tv hace unos dias, y es la mejor inversion que hemos realizado. \nPodemos disfrutar en nuestro espacio favorito viendo peliculas o escuchando musica. \nLa visualizacion que tiene es super!! La nitidez de los colores vivos y el negro intenso que tiene, hace de nuestra experiencia lo mejor. \nEl sonido que maneja es brutal!! Es como si fuera un cine, o un concierto... buen volumen y sobre todo nitido. \nLa mejor experiencia e inversion que hemos podido realizar. \nSin duda recomendado!!",
+        "rating": 5,
+        "author": "Cordo2411",
+        "dateCreated": "2025-09-11T16:21:36.000+00:00",
+        "datePublished": "2025-09-11T23:00:30.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/16cc0ae4-8796-5d73-96b1-d3ad036ae672",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/c0499b38-382a-5b20-ac4e-ead4fb12d2b6",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/37101a26-9149-5c92-9a22-2af8528743c1",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/283514db-28f1-5965-afe0-0bb8d15c06fb",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e01e78c7-106e-5861-a871-66d58b36cbdc",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e4edd5b5-cd32-5079-b6a0-b2ef126b754a"
+        ]
+      },
+      {
+        "headline": "¡Definitivamente lo veo y no lo creo!",
+        "body": "Definitivamente lo veo y no lo creo, es mi primer OLED y superó mis expectativas el cambio de tecnología es bestial, el televisor es tremendamente estable, se ve increíble, excelente color, contraste y brillo, buen sonido con su sistema de altavoces 2.2 Ch, las películas se ven y escuchan muy bien en HDR, Dolby Visión y Dolby Atmos, el control remoto es el más práctico que conozco, muy buen diseño, lo uso para mis plataformas de streaming, videos, TV y va perfecto, lo recomiendo ampliamente.",
+        "rating": 5,
+        "author": "José Paúl",
+        "dateCreated": "2025-08-19T05:31:01.000+00:00",
+        "datePublished": "2025-08-20T08:31:27.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/c201cf1b-2c1d-53ca-8e67-ab514da165b5",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/e87cb870-aaae-5dd9-824c-6534bdeed372",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/90f937b3-c0dc-5899-aca9-dd09e9dab21d",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/d1a8d265-ff69-5cfc-bfdb-8cd191efee6e",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/1a59a92e-1323-55b0-ac98-5a652f7fb5c9",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/8c03e4e7-6371-5ceb-9aaf-c4135dfe4578"
+        ]
+      },
+      {
+        "headline": "Primera vez con LG! espectacular elección.",
+        "body": "(Esta reseña se ha recibido a través de una promoción.) Compre esta televisión el mes pasado, veníamos de tener una Samsung de 2015 de 42 pulgadas y la diferencia es astronómica. El color es super nitidito y la calidad del sonido es espectacular .  Tiene un montón de modos y la IA te ayuda con la calidad de la imagen en según que programas.  Lo que más me ha gustado es el tamaño y la calidad de la imagen además de ser una televisión muy fina y poco pesada. Lo que me costo un poco al principio fue adaptarme al brillo que tiene ya que la televisión anterior había perdido mucho de este.  Mi televisión es la de 55 pulgadas. suficiente para mi salón y perfecta para disfrutar de peliculas con una alta definición. Muy buena compra",
+        "rating": 5,
+        "author": "Isa93",
+        "dateCreated": "2025-10-07T20:42:27.000+00:00",
+        "datePublished": "2025-10-10T22:00:22.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/d8c4e748-6638-50fc-b7e7-a2557f62e0ef",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/f2ca247c-66ae-5ddc-a095-d595d28aed19",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/c3366cb8-22d8-541c-86bc-463120c82713",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/50d922b0-1bbe-5e30-8a7c-ae5d2a54e9d4",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/f73bd6cc-3dba-589f-b74a-bfa0eb903b6b"
+        ]
+      },
+      {
+        "headline": "Tolles Bild mit gutem Design",
+        "body": "Ich habe den Fernseher gestester und bin echt begeistert, Das Design ist schick und hochwertig, passt super in ms Wohnzimmer. Die Bildqualitöt ist echt gut. Kröftige Farben und guter Kontrast. Genau wie man es bei OLED wünscht.\nDer Ton ist mittelmässig gut, aber für Filme oder Musik fehlt es an Bass und Fülle. Eine Soundbar wäre hier empfehlenswert. Die Bedienung mit WebOS und der magic Remote klappt gut und schnell. Streaming Apps liefen problemlos.\nEin kleiner Nachteil: das Menü fragt beim einrichten ziemlich viele Daten ab, das fand ich etwas nervig. Trotzdem macht der TV insgesamt einen guten Eindruck.",
+        "rating": 4,
+        "author": "springer9_1623",
+        "dateCreated": "2025-07-04T21:21:33.000+00:00",
+        "datePublished": "2025-07-06T20:30:08.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/589b6d81-fc78-55b5-8fa4-5e11863238ff",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/b01ac7ff-e938-5559-870d-1054b94b216f",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/cbb02142-ef47-52e5-97b3-f5297b20f177",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/baea34bf-fc96-5046-b938-5beccd2e9569",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/db0d9479-2410-563d-8b8b-f530196c6cdb"
+        ]
+      },
+      {
+        "headline": "TELEVISOR LG OLED C5 55\"",
+        "body": "(Esta reseña se ha recibido a través de una promoción.) Es la primera vez que compro un televisor oled. El último televisor que compramos fue hace 11 años,  por lo que el cambio a esta LG Oled C5 ha sido increíble!!\nEstuve bastante tiempo configurándola , entiendo los menús, el mando, el webos, etc.\nAunque era bastante intuitivo, tarde bastante porque no estaba acostumbrado a una tele tan moderna. Bueno, a lo importante, el televisor se ve de locos, los negros se ven impresionantes, los colores se ven impresionantes, mucho brillo,  los juegos de play 5 super realistas, muy fácil de montar el televisor, diseño, sonido… \nAún no me lo creo lo bien que se ve y más si logras configurar el televisor para optimizarlo. Lo único que me daba miedo era por los posibles quemados de los pixeles, pero siguiendo tus pautas y cuidando el televisor, no te pasará nunca. Además, la compré rebajada a muy buen precio, 10/10!!!",
+        "rating": 5,
+        "author": "JORGE A.A.",
+        "dateCreated": "2025-10-05T11:38:46.000+00:00",
+        "datePublished": "2025-10-05T21:46:11.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/98a69a1d-127f-5656-8dcb-59409edf4f7c",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e9571b52-6611-59e0-ad52-812088cca48c",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/221b74ab-3979-5ce0-9485-0896c7b8aad5",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/5978a792-564c-5d6e-8aa7-e8fe7dbe6d0b",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/cbdb648f-19fc-5531-854e-508ed28230a0",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/9d5b876e-c5c3-563c-a7be-bde95d12331a"
+        ]
+      },
+      {
+        "headline": "BRUTAL ESTA OLED, 100X100 RECOMENDADA",
+        "body": "(Esta reseña se ha recibido a través de una promoción.) Estoy encantado con LG, ya estaba contento  con mi anterior TV LG Led, pero la diferencia con esta OLED a sido abismal, llevo poco tiempo con ella pero veo mucha diferencia no solo con la imagen, el sonido, la velocidad de carga de plataformas streaming, ver la tv en ambientes con mucha luz, todo ello a marcado un antes y un después con esta nueva gama. Muy contento con la compra.",
+        "rating": 5,
+        "author": "JositoManisero",
+        "dateCreated": "2025-10-14T22:25:06.000+00:00",
+        "datePublished": "2025-10-16T01:45:52.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/2dfeaaa2-e2ee-59b5-a8c7-1362401e9eae",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/9a2f2511-1fe0-5505-9a50-f4fbcf8a8c0e",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/6b92b5a0-8ccc-5267-aca7-a99cc7fea1fc",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/bc0d69fa-981d-5423-afff-f702a1195942",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e70d6ad2-3a6c-5276-90bc-98cfae5a746d",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/0ce6cd4b-1694-50b1-9991-8b3f1cfd8006"
+        ]
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://www.lg.com/de/"
+    },
+    {
+      "position": 2,
+      "name": "TVs & Soundbars",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/"
+    },
+    {
+      "position": 3,
+      "name": "OLED evo",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/oled-evo/"
+    },
+    {
+      "position": 4,
+      "name": "OLED55C5ELB",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/oled-evo/oled55c5elb/"
+    }
+  ],
+  "faq": [],
+  "metadata": {
+    "mpn": "OLED55C5ELB",
+    "title": "55 Zoll LG OLED evo AI C5E 4K Smart TV - OLED55C5ELB | LG DE",
+    "description": "Entdecke die nächste Generation der LG Smart AI TVs, OLED55C5ELB, für ein Fernseherlebnis, das dank KI-Funktionen & webOS auf dich zugeschnitten ist.",
+    "ogImage": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/55-c5e-b/basic/oled-c5e-2025-55-basic-01.jpg",
+    "ogTitle": "55 Zoll LG OLED evo AI C5 4K Smart TV - OLED55C5ELB | LG DE",
+    "canonical": "https://www.lg.com/de/tvs-und-soundbars/oled-evo/oled55c5elb/"
+  },
+  "structuredData": {
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "VideoObject",
+        "name": " ",
+        "description": "",
+        "thumbnailUrl": " ",
+        "uploadDate": "2025-09-10",
+        "contentUrl": ""
+      },
+      {
+        "@context": "https://schema.org",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/oled-evo/oled55c5elb/",
+        "review": [
+          {
+            "@type": "Review",
+            "dateCreated": "2025-11-23T13:45:19.000+00:00",
+            "datePublished": "2025-11-24T12:30:07.000+00:00",
+            "headline": "The Mid-Range King",
+            "reviewBody": "Making the jump from my old Japanese LCD to the LG C5 OLED has been a revelation. The OLED's perfect black means that dreaded light blooming is completely gone, and highlights are actually brighter and punchier than I expected. The webOS operating system is snappy, and I love that it has built-in IPTV support. Plus, its sleek, small-foot design is a lifesaver, fitting perfectly onto my smaller desk. For the price, this TV is an incredible value for money; you would genuinely have to spend at least three times more on a top-tier flagship to see a marginal jump in quality. It's an absolute winner.\r\n\r\nNOTE: THE LG IS ON THE FLOOR IN PHOTOS",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "abramvp"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/e813af79-567a-56b9-b8c7-e6d20fc206de",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/6894e810-a019-58a5-8165-40323ed69968"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/42157d40-508f-57fc-ae4e-6604da80f33b",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/bfd360ec-90c9-52bb-8827-33d7f71d5c47"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/19f5d98e-c7aa-5a82-ae22-346c3a9a2051",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/db7c7ce9-f3e1-55dc-b19b-01413cf9b57a"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/fe12c7e2-5549-53b0-be80-76569aa95117",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/bbd5f424-aa8b-5ac9-8861-8d3dc35d12d9"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-08-22T16:43:58.000+00:00",
+            "datePublished": "2025-08-23T16:31:38.000+00:00",
+            "headline": "Fantastica imagen y caracteristicas para gamming",
+            "reviewBody": "Compre esta tv principalmente para jugar en el PS5 y ver series-peliculas, me sorprendio bastante las opciones que trae de mejora de imagen y sonido usando IA, támbien las opciones para optimizar el gamming son bastante interesantes, el sistema operativo me parece muy \"sucio\" al inicio, trae demasiadas cosas que satura un poco, pero una vez que te vas acostumbrando se hace menos caotico, si eres de los que ven peliculas y/o series desde la usb te agradara saber que por default lee mp4 y mkv, te permite cambiar los subtitulos y las pistas de audio sin problema, un gran equipo, seguiremos probándolo haber que mas descubro",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kihmeve"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/343441b6-00a0-5dcb-aa5f-5980252d720e",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/c17ace86-e476-5a6a-a728-f59bbb98c32a"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/22d1e09f-32b1-5a4e-92e6-ce6573024c43",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/66b31f2e-84d3-5080-b052-9af71c45f3cf"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/0a3ce12c-fe58-51e4-b792-2c2c60c2c3ce",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/1c8c6ec1-9e45-5cf8-a937-ecd04febf164"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/3ce072eb-2930-5ab5-be5f-36c0250b4b55",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/6f80591c-04ef-522e-b53f-89c7d23acc17"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/2682f0b4-b897-5ad3-8679-b7815e0c5030",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/462857b4-9518-50e6-8fba-bfc68404ef87"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-09-11T16:21:36.000+00:00",
+            "datePublished": "2025-09-11T23:00:30.000+00:00",
+            "headline": "Me encanta!! La mejor compra que hemos realizado.",
+            "reviewBody": "Adquirimos la tv hace unos dias, y es la mejor inversion que hemos realizado. \nPodemos disfrutar en nuestro espacio favorito viendo peliculas o escuchando musica. \nLa visualizacion que tiene es super!! La nitidez de los colores vivos y el negro intenso que tiene, hace de nuestra experiencia lo mejor. \nEl sonido que maneja es brutal!! Es como si fuera un cine, o un concierto... buen volumen y sobre todo nitido. \nLa mejor experiencia e inversion que hemos podido realizar. \nSin duda recomendado!!",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cordo2411"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/16cc0ae4-8796-5d73-96b1-d3ad036ae672",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/c15747c3-a5bd-5429-88f5-de4084928c82"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/c0499b38-382a-5b20-ac4e-ead4fb12d2b6",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/087f6ed6-c585-5d43-a426-a96d8dcaac73"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/37101a26-9149-5c92-9a22-2af8528743c1",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/62a816da-799c-5f37-a7b9-488a7d256884"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/283514db-28f1-5965-afe0-0bb8d15c06fb",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/472cb103-3d1e-576f-acbe-e00394b941f4"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e01e78c7-106e-5861-a871-66d58b36cbdc",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/c732c3f7-1633-53ee-abe1-12bcf1b87623"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e4edd5b5-cd32-5079-b6a0-b2ef126b754a",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/f2c4236d-315b-500f-87f6-27075cf1efbf"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-08-19T05:31:01.000+00:00",
+            "datePublished": "2025-08-20T08:31:27.000+00:00",
+            "headline": "¡Definitivamente lo veo y no lo creo!",
+            "reviewBody": "Definitivamente lo veo y no lo creo, es mi primer OLED y superó mis expectativas el cambio de tecnología es bestial, el televisor es tremendamente estable, se ve increíble, excelente color, contraste y brillo, buen sonido con su sistema de altavoces 2.2 Ch, las películas se ven y escuchan muy bien en HDR, Dolby Visión y Dolby Atmos, el control remoto es el más práctico que conozco, muy buen diseño, lo uso para mis plataformas de streaming, videos, TV y va perfecto, lo recomiendo ampliamente.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "José Paúl"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/c201cf1b-2c1d-53ca-8e67-ab514da165b5",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/5a267aa2-0c09-51e3-b866-0910d930231e"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/e87cb870-aaae-5dd9-824c-6534bdeed372",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/a1e697d2-caed-5d47-a579-578a53875e5f"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/90f937b3-c0dc-5899-aca9-dd09e9dab21d",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/9a9d2086-14d3-5ddb-a6aa-bff71e65e161"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/d1a8d265-ff69-5cfc-bfdb-8cd191efee6e",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/76f71a2e-30b0-5523-a94e-05715543558c"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/1a59a92e-1323-55b0-ac98-5a652f7fb5c9",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/499c2d43-1f35-568d-983e-ec77eefc0fa6"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/8c03e4e7-6371-5ceb-9aaf-c4135dfe4578",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/ab6542fd-2eac-573e-a552-07e5107b6c5d"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-10-07T20:42:27.000+00:00",
+            "datePublished": "2025-10-10T22:00:22.000+00:00",
+            "headline": "Primera vez con LG! espectacular elección.",
+            "reviewBody": "(Esta reseña se ha recibido a través de una promoción.) Compre esta televisión el mes pasado, veníamos de tener una Samsung de 2015 de 42 pulgadas y la diferencia es astronómica. El color es super nitidito y la calidad del sonido es espectacular .  Tiene un montón de modos y la IA te ayuda con la calidad de la imagen en según que programas.  Lo que más me ha gustado es el tamaño y la calidad de la imagen además de ser una televisión muy fina y poco pesada. Lo que me costo un poco al principio fue adaptarme al brillo que tiene ya que la televisión anterior había perdido mucho de este.  Mi televisión es la de 55 pulgadas. suficiente para mi salón y perfecta para disfrutar de peliculas con una alta definición. Muy buena compra",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Isa93"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/d8c4e748-6638-50fc-b7e7-a2557f62e0ef",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/d56f339c-8e09-5a82-aa61-f520f6be9291"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/f2ca247c-66ae-5ddc-a095-d595d28aed19",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/42a82cf4-eee0-5977-adf7-0ad7bb878b17"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/c3366cb8-22d8-541c-86bc-463120c82713",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/088d6892-eab1-56ab-943d-e0269342f6b3"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/50d922b0-1bbe-5e30-8a7c-ae5d2a54e9d4",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/a3bb5799-912b-5637-be80-d939507b1e07"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/f73bd6cc-3dba-589f-b74a-bfa0eb903b6b",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/1664937d-71d9-5aee-9809-2b422f3d813a"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-07-04T21:21:33.000+00:00",
+            "datePublished": "2025-07-06T20:30:08.000+00:00",
+            "headline": "Tolles Bild mit gutem Design",
+            "reviewBody": "Ich habe den Fernseher gestester und bin echt begeistert, Das Design ist schick und hochwertig, passt super in ms Wohnzimmer. Die Bildqualitöt ist echt gut. Kröftige Farben und guter Kontrast. Genau wie man es bei OLED wünscht.\nDer Ton ist mittelmässig gut, aber für Filme oder Musik fehlt es an Bass und Fülle. Eine Soundbar wäre hier empfehlenswert. Die Bedienung mit WebOS und der magic Remote klappt gut und schnell. Streaming Apps liefen problemlos.\nEin kleiner Nachteil: das Menü fragt beim einrichten ziemlich viele Daten ab, das fand ich etwas nervig. Trotzdem macht der TV insgesamt einen guten Eindruck.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 4,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "springer9_1623"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/589b6d81-fc78-55b5-8fa4-5e11863238ff",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/e7327429-d2fb-5294-b9eb-727a3a661935"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/b01ac7ff-e938-5559-870d-1054b94b216f",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/e59129d7-e2ca-5c82-9fc9-73e2a91b1bb9"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/cbb02142-ef47-52e5-97b3-f5297b20f177",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/2877d568-66b6-51e9-8a44-e3b532ce4228"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/baea34bf-fc96-5046-b938-5beccd2e9569",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/061c8e29-39cd-5f4e-9100-59edf2fb55df"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/db0d9479-2410-563d-8b8b-f530196c6cdb",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/bfb934bb-6f88-56de-9aae-096e56f432df"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-10-05T11:38:46.000+00:00",
+            "datePublished": "2025-10-05T21:46:11.000+00:00",
+            "headline": "TELEVISOR LG OLED C5 55\"",
+            "reviewBody": "(Esta reseña se ha recibido a través de una promoción.) Es la primera vez que compro un televisor oled. El último televisor que compramos fue hace 11 años,  por lo que el cambio a esta LG Oled C5 ha sido increíble!!\nEstuve bastante tiempo configurándola , entiendo los menús, el mando, el webos, etc.\nAunque era bastante intuitivo, tarde bastante porque no estaba acostumbrado a una tele tan moderna. Bueno, a lo importante, el televisor se ve de locos, los negros se ven impresionantes, los colores se ven impresionantes, mucho brillo,  los juegos de play 5 super realistas, muy fácil de montar el televisor, diseño, sonido… \nAún no me lo creo lo bien que se ve y más si logras configurar el televisor para optimizarlo. Lo único que me daba miedo era por los posibles quemados de los pixeles, pero siguiendo tus pautas y cuidando el televisor, no te pasará nunca. Además, la compré rebajada a muy buen precio, 10/10!!!",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JORGE A.A."
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/98a69a1d-127f-5656-8dcb-59409edf4f7c",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/cd90389f-b5c5-5c15-ab7e-d65bf17e0805"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e9571b52-6611-59e0-ad52-812088cca48c",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/357d7d47-7030-5ed2-aa04-72e865ab7965"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/221b74ab-3979-5ce0-9485-0896c7b8aad5",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/c27bf14a-bdff-5df3-9ee7-f8ecb540612f"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/5978a792-564c-5d6e-8aa7-e8fe7dbe6d0b",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e56852a8-cf39-5167-953e-031d19790bda"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/cbdb648f-19fc-5531-854e-508ed28230a0",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/f32d6e01-dc48-513b-b1aa-a65c5126efeb"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/9d5b876e-c5c3-563c-a7be-bde95d12331a",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/78851e21-bb6b-517c-a79c-ead8648d4bf0"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-10-14T22:25:06.000+00:00",
+            "datePublished": "2025-10-16T01:45:52.000+00:00",
+            "headline": "BRUTAL ESTA OLED, 100X100 RECOMENDADA",
+            "reviewBody": "(Esta reseña se ha recibido a través de una promoción.) Estoy encantado con LG, ya estaba contento  con mi anterior TV LG Led, pero la diferencia con esta OLED a sido abismal, llevo poco tiempo con ella pero veo mucha diferencia no solo con la imagen, el sonido, la velocidad de carga de plataformas streaming, ver la tv en ambientes con mucha luz, todo ello a marcado un antes y un después con esta nueva gama. Muy contento con la compra.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JositoManisero"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/2dfeaaa2-e2ee-59b5-a8c7-1362401e9eae",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/8b67d1a7-a01b-5e1c-a89e-92125816ff98"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/9a2f2511-1fe0-5505-9a50-f4fbcf8a8c0e",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e5cde021-5772-52f1-9877-5ccdaab1897d"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/6b92b5a0-8ccc-5267-aca7-a99cc7fea1fc",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/5dc0238b-c7c7-5b78-8ca4-519250104cd5"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/bc0d69fa-981d-5423-afff-f702a1195942",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/452c1fae-c7da-53f6-adf5-90c5989958df"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e70d6ad2-3a6c-5276-90bc-98cfae5a746d",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/eba13285-3ed0-5b8b-9e02-18ef3b4b1358"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/0ce6cd4b-1694-50b1-9991-8b3f1cfd8006",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/6186815b-bad3-530c-aa14-c4eacba6ea9a"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org/",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/oled-evo/oled55c5elb/",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "itemReviewed": {
+            "@type": "IndividualProduct",
+            "name": "OLED55C5ELB"
+          },
+          "ratingValue": "4.8",
+          "reviewCount": 3348,
+          "bestRating": 5
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "product",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/oled-evo/oled55c5elb/",
+        "name": "55 Zoll LG OLED evo AI C5 4K Smart TV",
+        "image": "/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/55-c5e-b/basic/oled-c5e-2025-55-basic-01.jpg",
+        "description": "Entdecken Sie LG OLED55C5ELB. Für Bilder, Bewertungen und technische Daten zu LG klicken 55 Zoll LG OLED evo AI C5 4K Smart TV.",
+        "mpn": "OLED55C5ELB",
+        "brand": {
+          "@type": "Brand",
+          "name": "LG"
+        },
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "EUR",
+          "price": "1049",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "LG DE"
+          }
+        },
+        "size": {
+          "@type": "QuantitativeValue",
+          "unitCode": "MMT",
+          "value": "4K OLED"
+        },
+        "hasEnergyConsumptionDetails": {
+          "@type": "EnergyConsumptionDetails",
+          "hasEnergyEfficiencyCategory": "https://schema.org/EUEnergyEfficiencyCategoryG",
+          "energyEfficiencyScaleMax": "https://schema.org/EUEnergyEfficiencyCategoryA1Plus",
+          "energyEfficiencyScaleMin": "https://schema.org/EUEnergyEfficiencyCategoryG"
+        },
+        "hasCertification": {
+          "@type": "Certification",
+          "issuedBy": {
+            "@type": "Organization",
+            "name": "European_Commission"
+          },
+          "name": "EPREL",
+          "certificationIdentification": "2221795"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.lg.com/de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "TVs & Soundbars",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "OLED evo",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/oled-evo/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "OLED55C5ELB",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/oled-evo/oled55c5elb/"
+          }
+        ]
+      }
+    ]
+  }
+}

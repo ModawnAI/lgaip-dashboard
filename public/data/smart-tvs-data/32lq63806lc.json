@@ -1,0 +1,472 @@
+{
+  "crawledAt": "2026-01-20T05:51:09.445Z",
+  "url": "https://www.lg.com/de/tvs-und-soundbars/smart-tvs/32lq63806lc/",
+  "modelNumber": "32LQ63806LC",
+  "category": "Smart TVs",
+  "basicInfo": {
+    "productName": "404",
+    "headline": "Es tut uns leid. Die von dir angeforderte Seite ist nicht verfügbar.",
+    "screenSize": "32 Zoll",
+    "series": "L",
+    "brand": "LG",
+    "modelNumber": "32LQ63806LC"
+  },
+  "pricing": {},
+  "ratings": {},
+  "energyEfficiency": {},
+  "media": {
+    "images": [
+      {
+        "src": "https://t.teads.tv/track?action=pageView&env=js-web&tag_version=8.5.0_d71d360&provider=tag&buyer_pixel_id=7484&referer=https%3A%2F%2Fwww.lg.com%2Fde%2Ftvs-und-soundbars%2Fsmart-tvs%2F32lq63806lc%2F&user_session_id=1079fadd-9d90-452e-850c-d9ff73d8afa9&hasConsent=true&cht=timeout",
+        "srcset": null,
+        "alt": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/banners/2026-01-15-LG-CB26-GNB-290x90px-V1-jgr.jpg",
+        "srcset": null,
+        "alt": " Gute Vorsätze für 2026",
+        "width": 290,
+        "height": 90
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/banners/2026-01-15-LG-CB26-GNB-290x90px-V1-jgr.jpg",
+        "srcset": null,
+        "alt": " Gute Vorsätze für 2026",
+        "width": 290,
+        "height": 90
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/facebook-circle-fill.svg",
+        "srcset": null,
+        "alt": "Facebook",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/youtube-circle-fill.svg",
+        "srcset": null,
+        "alt": "Youtube",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/instagram-circle-fill.svg",
+        "srcset": null,
+        "alt": "Instagram",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/ot_company_logo.png",
+        "srcset": null,
+        "alt": "Firmenlogo",
+        "width": 600,
+        "height": 106
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/powered_by_logo.svg",
+        "srcset": null,
+        "alt": "Powered by Onetrust",
+        "width": 136,
+        "height": 16
+      },
+      {
+        "src": "https://lantern.roeye.com/track.php?fingerprint=0e398a32-f94c-4327-8b91-78c9b166e387&referrer=&landingpage=https%3A%2F%2Fwww.lg.com%2Fde%2Ftvs-und-soundbars%2Fsmart-tvs%2F32lq63806lc%2F&useragent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F143.0.7499.4%20Safari%2F537.36&site=63126",
+        "srcset": null,
+        "alt": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://bat.bing.com/action/0?ti=355009024&Ver=2&mid=dc1ee3c4-4c9a-48a4-9a09-96a82b1c3ff8&bo=1&sid=fc549eb0f5bb11f0a0a5b7ae3fc4ae70&vid=fc548160f5bb11f0b35da3cae89cc6a9&vids=0&msclkid=N&pi=0&lg=en-US&sw=1280&sh=720&sc=24&nwd=1&tl=404&p=https%3A%2F%2Fwww.lg.com%2Fde%2Ftvs-und-soundbars%2Fsmart-tvs%2F32lq63806lc%2F&r=&lt=465&evt=pageLoad&sv=2&cdb=AQET&rn=532884",
+        "srcset": null,
+        "alt": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "videos": []
+  },
+  "specifications": {
+    "€124,92": "Monatliche Rate",
+    "€1.499,00": "Gesamtbetrag inkl. Zinsen",
+    "0%": "Zinssatz",
+    "€74,96": "Monatliche Rate",
+    "€1.798,99": "Gesamtbetrag inkl. Zinsen",
+    "€40,00": "Monatliche Rate",
+    "€120,00": "Gesamtbetrag inkl. Zinsen"
+  },
+  "features": [],
+  "reviews": {
+    "summary": {},
+    "featured": []
+  },
+  "breadcrumb": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://www.lg.com/de/"
+    }
+  ],
+  "faq": [],
+  "metadata": {
+    "title": "404",
+    "ogImage": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.jpg",
+    "ogTitle": "",
+    "canonical": "https://www.lg.com/de/errors/404/"
+  },
+  "structuredData": {
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.lg.com/de/"
+          }
+        ]
+      }
+    ]
+  }
+}

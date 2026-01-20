@@ -1,0 +1,948 @@
+{
+  "crawledAt": "2026-01-20T06:03:24.272Z",
+  "url": "https://www.lg.com/de/tvs-und-soundbars/tv-bundles/27lx6tdga-xt7s/",
+  "modelNumber": "27LX6TDGA-XT7S",
+  "category": "TV Bundles",
+  "basicInfo": {
+    "productName": "LG StanbyME 2 - Superportabler 27-Zoll-Touchscreen + LG StanbyME Speaker XT7S",
+    "description": "Entdecken Sie LG 27LX6TDGA.XT7S. Für Bilder, Bewertungen und technische Daten zu LG klicken LG StanbyME 2 - Superportabler 27-Zoll-Touchscreen + LG StanbyME Speaker XT7S.",
+    "headline": "LG StanbyME 2 - Superportabler 27-Zoll-Touchscreen + LG StanbyME Speaker XT7S",
+    "screenSize": "27 Zoll",
+    "series": "T",
+    "brand": "LG",
+    "modelNumber": "27LX6TDGA-XT7S"
+  },
+  "pricing": {
+    "currentPrice": "998.98",
+    "currency": "EUR",
+    "availability": "InStock",
+    "seller": "LG DE"
+  },
+  "ratings": {
+    "averageRating": "5.0",
+    "reviewCount": 1,
+    "bestRating": 5
+  },
+  "energyEfficiency": {
+    "category": "F",
+    "scaleMax": "",
+    "scaleMin": ""
+  },
+  "media": {
+    "images": [
+      {
+        "src": "https://t.teads.tv/track?action=pageView&env=js-web&tag_version=8.5.0_d71d360&provider=tag&buyer_pixel_id=7484&referer=https%3A%2F%2Fwww.lg.com%2Fde%2Ftvs-und-soundbars%2Ftv-bundles%2F27lx6tdga-xt7s%2F&user_session_id=1079fadd-9d90-452e-850c-d9ff73d8afa9&hasConsent=true&cht=timeout",
+        "srcset": null,
+        "alt": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "27LX6TDGA EU.pdf",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "27LX6TDGA EU.pdf",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/27lx6tdga-xt7s/1600x1062_27LX6TDGA.XT7S.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "LG StanbyME 2 - Superportabler 27-Zoll-Touchscreen + LG StanbyME Speaker XT7S, 27LX6TDGA.XT7S",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://img.youtube.com/vi/-/maxresdefault.jpg",
+        "srcset": null,
+        "alt": "LG StanbyME 2 - Superportabler 27-Zoll-Touchscreen + LG StanbyME Speaker XT7S, 27LX6TDGA.XT7S",
+        "width": 120,
+        "height": 90
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/27lx6tdga-xt7s/1600x1062_27LX6TDGA.XT7S.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "LG StanbyME 2 - Superportabler 27-Zoll-Touchscreen + LG StanbyME Speaker XT7S, 27LX6TDGA.XT7S",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://img.youtube.com/vi/-/maxresdefault.jpg",
+        "srcset": null,
+        "alt": "LG StanbyME 2 - Superportabler 27-Zoll-Touchscreen + LG StanbyME Speaker XT7S, 27LX6TDGA.XT7S",
+        "width": 120,
+        "height": 90
+      },
+      {
+        "src": "https://img.youtube.com/vi/-/maxresdefault.jpg",
+        "srcset": null,
+        "alt": "LG StanbyME 2 - Superportabler 27-Zoll-Touchscreen + LG StanbyME Speaker XT7S, 27LX6TDGA.XT7S",
+        "width": 120,
+        "height": 90
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/27lx6tdga-xt7s/180x180_27LX6TDGA.XT7S.jpg",
+        "srcset": null,
+        "alt": "LG StanbyME 2 - Superportabler 27-Zoll-Touchscreen + LG StanbyME Speaker XT7S, 27LX6TDGA.XT7S",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/27lx6tdga-xt7s/1600x1062_27LX6TDGA.XT7S.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "LG StanbyME 2 - Superportabler 27-Zoll-Touchscreen + LG StanbyME Speaker XT7S, 27LX6TDGA.XT7S",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/27lx6tdga-xt7s/180x180_27LX6TDGA.XT7S.jpg",
+        "srcset": null,
+        "alt": "LG StanbyME 2 - Superportabler 27-Zoll-Touchscreen + LG StanbyME Speaker XT7S, 27LX6TDGA.XT7S",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://img.youtube.com/vi/-/maxresdefault.jpg",
+        "srcset": null,
+        "alt": "LG StanbyME 2 - Superportabler 27-Zoll-Touchscreen + LG StanbyME Speaker XT7S, 27LX6TDGA.XT7S",
+        "width": 120,
+        "height": 90
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/stanbyme-2/27lx6t/gp1/gallery/basic/450-basic.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Vorderansicht des LG StanbyME 2 auf dem Standfuß.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "27LX6TDGA EU.pdf",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lautsprecher/soundbars/xt7s/gallery/XT7S-Basic.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Front view",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/stanbyme-2/27lx6t/gp1/gallery/basic/450-basic.jpg/jcr:content/renditions/thum-165x165.jpeg",
+        "srcset": null,
+        "alt": "LG StanbyME 2 - Superportabler 27-Zoll-Touchscreen",
+        "width": 450,
+        "height": 450
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lautsprecher/soundbars/xt7s/gallery/XT7S-Basic.jpg/jcr:content/renditions/thum-165x165.jpeg",
+        "srcset": null,
+        "alt": "LG StanbyME Speaker XT7S",
+        "width": 450,
+        "height": 450
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2024_he_lg-com/tv/tv-accessories/fc25xa/Basic_450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Left view",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2024_he_lg-com/tv/tv-accessories/ws25xa/Basic_450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Front view",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/65qned85t6c-s20a/450x450_65QNED85T6C.S20A.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/55qned85t6c-s20a/450x450_55QNED85T6C.S20A.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Front view",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled48b59la-ds40tr/450x450_OLED48B59LA.DS40TR.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des Weltweit erster, transparenter \"True Wireless\" OLED TV LG SIGNATURE OLED T 77 Zoll mit kabelloser 4K-Video- und Audioübertragung OLED77T49LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled55c5elb-ds60tr/450x450_OLED55C5ELB.DS60TR.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled55g57lw/OLED55G57LW-450-1.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 55 Zoll LG OLED evo AI G5 4K Smart TV OLED55G57LW",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/uhd/ua75/gp1/gallery/43-ua75-a/basic1/uhd-ua75-2025-43-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 75 Zoll LG UHD AI UA75 4K Smart TV 2025 75UA75006LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_manual-software_48x48.svg",
+        "srcset": null,
+        "alt": "Symbol Benutzerhandbuch und Software",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_complaints_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Fehlerbehebung",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_warranty_48x48.svg",
+        "srcset": null,
+        "alt": "Garantie-Symbol",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_part-accessory_48x48.svg",
+        "srcset": null,
+        "alt": "Symbol für Teile und Zubehör",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/buy/icon_register-a-product_48.svg",
+        "srcset": null,
+        "alt": "Symbol Produktregistrierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_product_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Produktsupport",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_order_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Bestellsupport",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/Icon_request-a-repair_60x60.svg",
+        "srcset": null,
+        "alt": "Symbol für Reparaturanfrage",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_chat-with-us__60x60.svg",
+        "srcset": null,
+        "alt": "Livechat-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_whatsapp_60x60.svg",
+        "srcset": null,
+        "alt": "WhatsApp-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_email-us_60x60.svg",
+        "srcset": null,
+        "alt": "E-Mail-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_call_48.svg",
+        "srcset": null,
+        "alt": "Anruf-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/common/find-a-store-test/gradation-icon/banner-light-icons.svg",
+        "srcset": null,
+        "alt": "Filialsymbol suchen",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/facebook-circle-fill.svg",
+        "srcset": null,
+        "alt": "Facebook",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/youtube-circle-fill.svg",
+        "srcset": null,
+        "alt": "Youtube",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/instagram-circle-fill.svg",
+        "srcset": null,
+        "alt": "Instagram",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/ot_company_logo.png",
+        "srcset": null,
+        "alt": "Firmenlogo",
+        "width": 600,
+        "height": 106
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/powered_by_logo.svg",
+        "srcset": null,
+        "alt": "Powered by Onetrust",
+        "width": 136,
+        "height": 16
+      },
+      {
+        "src": "https://lantern.roeye.com/track.php?fingerprint=0e398a32-f94c-4327-8b91-78c9b166e387&referrer=&landingpage=https%3A%2F%2Fwww.lg.com%2Fde%2Ftvs-und-soundbars%2Ftv-bundles%2F27lx6tdga-xt7s%2F&useragent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F143.0.7499.4%20Safari%2F537.36&site=63126",
+        "srcset": null,
+        "alt": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://bat.bing.com/action/0?ti=355009024&Ver=2&mid=8d802f93-fec2-4a76-a0f5-d499c397defe&bo=1&sid=fc549eb0f5bb11f0a0a5b7ae3fc4ae70&vid=fc548160f5bb11f0b35da3cae89cc6a9&vids=0&msclkid=N&pi=0&lg=en-US&sw=1280&sh=720&sc=24&nwd=1&tl=LG%20StanbyME%202%20-%20Superportabler%2027-Zoll-Touchscreen%20%2B%20LG%20StanbyME%20Speaker%20XT7S%20%7C%20LG%20DE&p=https%3A%2F%2Fwww.lg.com%2Fde%2Ftvs-und-soundbars%2Ftv-bundles%2F27lx6tdga-xt7s%2F&r=&lt=455&evt=pageLoad&sv=2&cdb=AQET&rn=343080",
+        "srcset": null,
+        "alt": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "videos": []
+  },
+  "specifications": {
+    "Abmessungen TV ohne Standfuß (BxHxT)": "623 x 364 x 28,5",
+    "Abmessungen TV mit Standfuß (BxHxT)": "623 x 1.265 x 398",
+    "Abmessungen der Verpackung (BxHxT, mm)": "1.265 x 210 x 580",
+    "Abmessungen Standfuß (BxT)": "398 x 398",
+    "Gewicht TV ohne Standfuß": "4,3",
+    "Gewicht TV mit Standfuß": "15,2",
+    "Gesamtgewicht inkl. Verpackung (kg)": "21,0",
+    "EAN Code": "8806096527979",
+    "€124,92": "Monatliche Rate",
+    "€1.499,00": "Gesamtbetrag inkl. Zinsen",
+    "0%": "Zinssatz",
+    "€74,96": "Monatliche Rate",
+    "€1.798,99": "Gesamtbetrag inkl. Zinsen",
+    "€40,00": "Monatliche Rate",
+    "€120,00": "Gesamtbetrag inkl. Zinsen"
+  },
+  "features": [],
+  "reviews": {
+    "summary": {},
+    "featured": [
+      {
+        "headline": "Standbyme 2",
+        "body": "Wir haben den fürs Kinderzimmer gekauft weil wir kein Platz haben. Der ist super und praktisch vorallem weil man den überall hinschieben kann",
+        "rating": 5,
+        "author": "Aksu",
+        "dateCreated": "2025-11-28T18:27:01.000+00:00",
+        "datePublished": "2025-11-28T21:15:08.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/dab1d276-27e8-5df3-8265-c7002eabafcc"
+        ]
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://www.lg.com/de/"
+    },
+    {
+      "position": 2,
+      "name": "TVs & Soundbars",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/"
+    },
+    {
+      "position": 3,
+      "name": "TV Bundles",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/tv-bundles/"
+    },
+    {
+      "position": 4,
+      "name": "27LX6TDGA.XT7S",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/tv-bundles/27lx6tdga-xt7s/"
+    }
+  ],
+  "faq": [],
+  "metadata": {
+    "mpn": "27LX6TDGA.XT7S",
+    "title": "LG StanbyME 2 - Superportabler 27-Zoll-Touchscreen + LG StanbyME Speaker XT7S | LG DE",
+    "description": "Entdecken Sie LG 27LX6TDGA.XT7S. Für Bilder, Bewertungen und technische Daten zu LG klicken LG StanbyME 2 - Superportabler 27-Zoll-Touchscreen + LG StanbyME Speaker XT7S.",
+    "ogImage": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/27lx6tdga-xt7s/450x450_27LX6TDGA.XT7S.jpg",
+    "ogTitle": "LG StanbyME 2 - Superportabler 27-Zoll-Touchscreen + LG StanbyME Speaker XT7S - 27LX6TDGA.XT7S | LG DE",
+    "canonical": "https://www.lg.com/de/tvs-und-soundbars/tv-bundles/27lx6tdga-xt7s/"
+  },
+  "structuredData": {
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "VideoObject",
+        "name": "-",
+        "description": "",
+        "thumbnailUrl": "-",
+        "uploadDate": "2025-09-15",
+        "contentUrl": ""
+      },
+      {
+        "@context": "https://schema.org/",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/tv-bundles/27lx6tdga-xt7s/",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "itemReviewed": {
+            "@type": "IndividualProduct",
+            "name": null
+          },
+          "ratingValue": "5.0",
+          "reviewCount": 1,
+          "bestRating": 5
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/tv-bundles/27lx6tdga-xt7s/",
+        "review": [
+          {
+            "@type": "Review",
+            "dateCreated": "2025-11-28T18:27:01.000+00:00",
+            "datePublished": "2025-11-28T21:15:08.000+00:00",
+            "headline": "Standbyme 2",
+            "reviewBody": "Wir haben den fürs Kinderzimmer gekauft weil wir kein Platz haben. Der ist super und praktisch vorallem weil man den überall hinschieben kann",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Aksu"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/dab1d276-27e8-5df3-8265-c7002eabafcc",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/6d9d99fd-d80d-5077-8c2e-1ee95efc0088"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "product",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/tv-bundles/27lx6tdga-xt7s/",
+        "name": "LG StanbyME 2 - Superportabler 27-Zoll-Touchscreen + LG StanbyME Speaker XT7S",
+        "image": "/content/dam/channel/wcms/de/gallery/pto/27lx6tdga-xt7s/450x450_27LX6TDGA.XT7S.jpg",
+        "description": "Entdecken Sie LG 27LX6TDGA.XT7S. Für Bilder, Bewertungen und technische Daten zu LG klicken LG StanbyME 2 - Superportabler 27-Zoll-Touchscreen + LG StanbyME Speaker XT7S.",
+        "mpn": "27LX6TDGA.XT7S",
+        "brand": {
+          "@type": "Brand",
+          "name": "LG"
+        },
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "EUR",
+          "price": "998.98",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "LG DE"
+          }
+        },
+        "size": {
+          "@type": "QuantitativeValue",
+          "unitCode": "",
+          "value": ""
+        },
+        "hasEnergyConsumptionDetails": {
+          "@type": "EnergyConsumptionDetails",
+          "hasEnergyEfficiencyCategory": "https://schema.org/EUEnergyEfficiencyCategoryF",
+          "energyEfficiencyScaleMax": "",
+          "energyEfficiencyScaleMin": ""
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.lg.com/de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "TVs & Soundbars",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "TV Bundles",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/tv-bundles/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "27LX6TDGA.XT7S",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/tv-bundles/27lx6tdga-xt7s/"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2204 @@
+{
+  "crawledAt": "2026-01-20T06:23:46.992Z",
+  "url": "https://www.lg.com/de/tvs-und-soundbars/qned/55qned86a6a/",
+  "modelNumber": "55QNED86A6A",
+  "category": "QNED",
+  "basicInfo": {
+    "productName": "55 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV",
+    "description": "Entdecken Sie LG 55QNED86A6A. Für Bilder, Bewertungen und technische Daten zu LG klicken 55 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV.",
+    "headline": "55 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV",
+    "screenSize": "55 Zoll",
+    "series": "A",
+    "brand": "LG",
+    "modelNumber": "55QNED86A6A"
+  },
+  "pricing": {
+    "currentPrice": "649",
+    "currency": "EUR",
+    "availability": "InStock",
+    "seller": "LG DE"
+  },
+  "ratings": {
+    "averageRating": "4.6",
+    "reviewCount": 732,
+    "bestRating": 5
+  },
+  "energyEfficiency": {
+    "category": "E",
+    "scaleMax": "A1Plus",
+    "scaleMin": "G",
+    "eprelCertificationId": "2214531"
+  },
+  "media": {
+    "images": [
+      {
+        "src": "https://t.teads.tv/track?action=pageView&env=js-web&tag_version=8.5.0_d71d360&provider=tag&buyer_pixel_id=7484&referer=https%3A%2F%2Fwww.lg.com%2Fde%2Ftvs-und-soundbars%2Fqned%2F55qned86a6a%2F&user_session_id=1079fadd-9d90-452e-850c-d9ff73d8afa9&hasConsent=true&cht=timeout",
+        "srcset": null,
+        "alt": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/banners/2026-01-15-LG-CB26-GNB-290x90px-V1-jgr.jpg",
+        "srcset": null,
+        "alt": " Gute Vorsätze für 2026",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/banners/2026-01-15-LG-CB26-GNB-290x90px-V1-jgr.jpg",
+        "srcset": null,
+        "alt": " Gute Vorsätze für 2026",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "55QNED86A6AC EU.pdf",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "55QNED86A6AC EU.pdf",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-gallery-13.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Ein Mädchen und ein Hund sitzen vor einem LG QNED-Fernseher, der an einer Wand montiert ist und drei Elefanten zeigt, die über einer LG Soundbar nach außen laufen. Der Titel spricht davon, dass jede Aktion auf einem großen Bildschirm noch spannender ist.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-thumbnail-14.jpg",
+        "srcset": null,
+        "alt": "QNED87 USP Einführungsvideo.",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/2010_1.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Frontansicht des 55 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV 55QNED86A6A",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/2010_2.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Leicht abgewinkelte Seitenansicht des LG QNED evo TV von rechts",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/2010_3.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Rechts abgewinkelte Seitenansicht des LG QNED evo TV von rechts",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/55QNED86ASA_0004-2010.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Rückansicht des LG QNED evo TV",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/55QNED86ASA_0002-2010.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Seitenansicht von links des LG QNED evo TV ",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/2010_6.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Frontansicht und Seitenansicht des LG QNED evo AI 4K Smart TV mit den Abmessungen Länge, Breite, Höhe und Tiefe.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-gallery-06.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Der alpha 8 AI Processor Gen2 leuchtet orange und rosa, und bunte Lichtblitze schießen aus ihm heraus. Der Titel spricht davon, dass der Prozessor 4K-Qualität, atemberaubende Farben und Helligkeit liefert. Der Bildtext besagt, dass die NPU die neuronale Verarbeitung um das 1,7-fache und die CPU um das 1,4-fache beschleunigt.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-gallery-07.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Farbspritzer platzen vom Boden aufwärts in verschiedenen Farben. Intertrek-Zertifizierung für 100% Farbvolumen nach DCI-P3. Der Titel spricht über LGs neue und einzigartige Wide Color Gamut-Technologie, die es dir ermöglicht, lebendige Farben auf deinem Bildschirm zu sehen.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-gallery-08.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Papagei auf einem Ast in lebendigen Farben. Der Titel beschreibt, wie LG Al Picture Pro die Auflösung, Helligkeit, Tiefe und Klarheit der Szene eindrucksvoll verbessert hat.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-gallery-10.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Ein Mädchen und ein Hund sitzen vor einem LG QNED-Fernseher, der an einer Wand montiert ist und drei Elefanten zeigt, die über einer LG Soundbar nach außen laufen. Der Titel spricht davon, dass jede Aktion auf einem großen Bildschirm noch spannender ist.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-gallery-11-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Auf einem LG QNED TV-Bildschirm befindet sich die webOS 25-Startseite, die mit Apps und Unterhaltungsinhalten gefüllt ist. Neben dem Fernseher befindet sich die LG Al Magic Remote. Die Al-Taste ist hervorgehoben, als ob sie durch die Stimme des Benutzers aktiviert würde. Daneben befindet sich eine Sprechblase, die auf mein Konto umschaltet. Der kurze Text erklärt, wie Nutzer ihre Stimme mit ihrem persönlichen Profil synchronisieren können, um die Navigation zu erleichtern und personalisierte Empfehlungen zu erhalten.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-gallery-12-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "LG AI Magic Remote im Vordergrund. Das AI-Tastensymbol ist hervorgehoben. Im Hintergrund ist die LG webOS-Oberfläche zu sehen. Der Mauszeiger zeigt an, dass die Fernbedienung in Gebrauch ist. Der Text erklärt, wie die Funktionen und Bedienelemente der Fernbedienung das Navigieren in webOS erleichtern. ",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-gallery-13.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Ein Mädchen und ein Hund sitzen vor einem LG QNED-Fernseher, der an einer Wand montiert ist und drei Elefanten zeigt, die über einer LG Soundbar nach außen laufen. Der Titel spricht davon, dass jede Aktion auf einem großen Bildschirm noch spannender ist.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-thumbnail-14.jpg",
+        "srcset": null,
+        "alt": "QNED87 USP Einführungsvideo.",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-thumbnail-14.jpg",
+        "srcset": null,
+        "alt": "QNED87 USP Einführungsvideo.",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/350_1.jpg",
+        "srcset": null,
+        "alt": "Frontansicht des 55 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV 55QNED86A6A",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/350_2.jpg",
+        "srcset": null,
+        "alt": "Leicht abgewinkelte Seitenansicht des LG QNED evo TV von rechts",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/350_3.jpg",
+        "srcset": null,
+        "alt": "Rechts abgewinkelte Seitenansicht des LG QNED evo TV von rechts",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/55QNED86ASA_0004-350.jpg",
+        "srcset": null,
+        "alt": "Rückansicht des LG QNED evo TV",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/55QNED86ASA_0002-350.jpg",
+        "srcset": null,
+        "alt": "Seitenansicht von links des LG QNED evo TV ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/350_6.jpg",
+        "srcset": null,
+        "alt": "Frontansicht und Seitenansicht des LG QNED evo AI 4K Smart TV mit den Abmessungen Länge, Breite, Höhe und Tiefe.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-thumbnail-06.jpg",
+        "srcset": null,
+        "alt": "Der alpha 8 AI Processor Gen2 leuchtet orange und rosa, und bunte Lichtblitze schießen aus ihm heraus. Der Titel spricht davon, dass der Prozessor 4K-Qualität, atemberaubende Farben und Helligkeit liefert. Der Bildtext besagt, dass die NPU die neuronale Verarbeitung um das 1,7-fache und die CPU um das 1,4-fache beschleunigt.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-thumbnail-07.jpg",
+        "srcset": null,
+        "alt": "Farbspritzer platzen vom Boden aufwärts in verschiedenen Farben. Intertrek-Zertifizierung für 100% Farbvolumen nach DCI-P3. Der Titel spricht über LGs neue und einzigartige Wide Color Gamut-Technologie, die es dir ermöglicht, lebendige Farben auf deinem Bildschirm zu sehen.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-thumbnail-08.jpg",
+        "srcset": null,
+        "alt": "Papagei auf einem Ast in lebendigen Farben. Der Titel beschreibt, wie LG Al Picture Pro die Auflösung, Helligkeit, Tiefe und Klarheit der Szene eindrucksvoll verbessert hat.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-thumbnail-10.jpg",
+        "srcset": null,
+        "alt": "Ein Mädchen und ein Hund sitzen vor einem LG QNED-Fernseher, der an einer Wand montiert ist und drei Elefanten zeigt, die über einer LG Soundbar nach außen laufen. Der Titel spricht davon, dass jede Aktion auf einem großen Bildschirm noch spannender ist.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-thumbnail-11-01.jpg",
+        "srcset": null,
+        "alt": "Auf einem LG QNED TV-Bildschirm befindet sich die webOS 25-Startseite, die mit Apps und Unterhaltungsinhalten gefüllt ist. Neben dem Fernseher befindet sich die LG Al Magic Remote. Die Al-Taste ist hervorgehoben, als ob sie durch die Stimme des Benutzers aktiviert würde. Daneben befindet sich eine Sprechblase, die auf mein Konto umschaltet. Der kurze Text erklärt, wie Nutzer ihre Stimme mit ihrem persönlichen Profil synchronisieren können, um die Navigation zu erleichtern und personalisierte Empfehlungen zu erhalten.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-thumbnail-12-01.jpg",
+        "srcset": null,
+        "alt": "LG AI Magic Remote im Vordergrund. Das AI-Tastensymbol ist hervorgehoben. Im Hintergrund ist die LG webOS-Oberfläche zu sehen. Der Mauszeiger zeigt an, dass die Fernbedienung in Gebrauch ist. Der Text erklärt, wie die Funktionen und Bedienelemente der Fernbedienung das Navigieren in webOS erleichtern. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-thumbnail-13.jpg",
+        "srcset": null,
+        "alt": "Ein Mädchen und ein Hund sitzen vor einem LG QNED-Fernseher, der an einer Wand montiert ist und drei Elefanten zeigt, die über einer LG Soundbar nach außen laufen. Der Titel spricht davon, dass jede Aktion auf einem großen Bildschirm noch spannender ist.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/2010_1.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 55 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV 55QNED86A6A",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/2010_2.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Leicht abgewinkelte Seitenansicht des LG QNED evo TV von rechts",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/2010_3.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Rechts abgewinkelte Seitenansicht des LG QNED evo TV von rechts",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/55QNED86ASA_0004-2010.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Rückansicht des LG QNED evo TV",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/55QNED86ASA_0002-2010.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Seitenansicht von links des LG QNED evo TV ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/2010_6.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht und Seitenansicht des LG QNED evo AI 4K Smart TV mit den Abmessungen Länge, Breite, Höhe und Tiefe.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-gallery-06.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Der alpha 8 AI Processor Gen2 leuchtet orange und rosa, und bunte Lichtblitze schießen aus ihm heraus. Der Titel spricht davon, dass der Prozessor 4K-Qualität, atemberaubende Farben und Helligkeit liefert. Der Bildtext besagt, dass die NPU die neuronale Verarbeitung um das 1,7-fache und die CPU um das 1,4-fache beschleunigt.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-gallery-07.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Farbspritzer platzen vom Boden aufwärts in verschiedenen Farben. Intertrek-Zertifizierung für 100% Farbvolumen nach DCI-P3. Der Titel spricht über LGs neue und einzigartige Wide Color Gamut-Technologie, die es dir ermöglicht, lebendige Farben auf deinem Bildschirm zu sehen.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-gallery-08.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Papagei auf einem Ast in lebendigen Farben. Der Titel beschreibt, wie LG Al Picture Pro die Auflösung, Helligkeit, Tiefe und Klarheit der Szene eindrucksvoll verbessert hat.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-gallery-10.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Ein Mädchen und ein Hund sitzen vor einem LG QNED-Fernseher, der an einer Wand montiert ist und drei Elefanten zeigt, die über einer LG Soundbar nach außen laufen. Der Titel spricht davon, dass jede Aktion auf einem großen Bildschirm noch spannender ist.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-gallery-11-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Auf einem LG QNED TV-Bildschirm befindet sich die webOS 25-Startseite, die mit Apps und Unterhaltungsinhalten gefüllt ist. Neben dem Fernseher befindet sich die LG Al Magic Remote. Die Al-Taste ist hervorgehoben, als ob sie durch die Stimme des Benutzers aktiviert würde. Daneben befindet sich eine Sprechblase, die auf mein Konto umschaltet. Der kurze Text erklärt, wie Nutzer ihre Stimme mit ihrem persönlichen Profil synchronisieren können, um die Navigation zu erleichtern und personalisierte Empfehlungen zu erhalten.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-gallery-12-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "LG AI Magic Remote im Vordergrund. Das AI-Tastensymbol ist hervorgehoben. Im Hintergrund ist die LG webOS-Oberfläche zu sehen. Der Mauszeiger zeigt an, dass die Fernbedienung in Gebrauch ist. Der Text erklärt, wie die Funktionen und Bedienelemente der Fernbedienung das Navigieren in webOS erleichtern. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-gallery-13.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Ein Mädchen und ein Hund sitzen vor einem LG QNED-Fernseher, der an einer Wand montiert ist und drei Elefanten zeigt, die über einer LG Soundbar nach außen laufen. Der Titel spricht davon, dass jede Aktion auf einem großen Bildschirm noch spannender ist.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/350_1.jpg",
+        "srcset": null,
+        "alt": "Frontansicht des 55 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV 55QNED86A6A",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/350_2.jpg",
+        "srcset": null,
+        "alt": "Leicht abgewinkelte Seitenansicht des LG QNED evo TV von rechts",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/350_3.jpg",
+        "srcset": null,
+        "alt": "Rechts abgewinkelte Seitenansicht des LG QNED evo TV von rechts",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/55QNED86ASA_0004-350.jpg",
+        "srcset": null,
+        "alt": "Rückansicht des LG QNED evo TV",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/55QNED86ASA_0002-350.jpg",
+        "srcset": null,
+        "alt": "Seitenansicht von links des LG QNED evo TV ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/350_6.jpg",
+        "srcset": null,
+        "alt": "Frontansicht und Seitenansicht des LG QNED evo AI 4K Smart TV mit den Abmessungen Länge, Breite, Höhe und Tiefe.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-thumbnail-06.jpg",
+        "srcset": null,
+        "alt": "Der alpha 8 AI Processor Gen2 leuchtet orange und rosa, und bunte Lichtblitze schießen aus ihm heraus. Der Titel spricht davon, dass der Prozessor 4K-Qualität, atemberaubende Farben und Helligkeit liefert. Der Bildtext besagt, dass die NPU die neuronale Verarbeitung um das 1,7-fache und die CPU um das 1,4-fache beschleunigt.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-thumbnail-07.jpg",
+        "srcset": null,
+        "alt": "Farbspritzer platzen vom Boden aufwärts in verschiedenen Farben. Intertrek-Zertifizierung für 100% Farbvolumen nach DCI-P3. Der Titel spricht über LGs neue und einzigartige Wide Color Gamut-Technologie, die es dir ermöglicht, lebendige Farben auf deinem Bildschirm zu sehen.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-thumbnail-08.jpg",
+        "srcset": null,
+        "alt": "Papagei auf einem Ast in lebendigen Farben. Der Titel beschreibt, wie LG Al Picture Pro die Auflösung, Helligkeit, Tiefe und Klarheit der Szene eindrucksvoll verbessert hat.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-thumbnail-10.jpg",
+        "srcset": null,
+        "alt": "Ein Mädchen und ein Hund sitzen vor einem LG QNED-Fernseher, der an einer Wand montiert ist und drei Elefanten zeigt, die über einer LG Soundbar nach außen laufen. Der Titel spricht davon, dass jede Aktion auf einem großen Bildschirm noch spannender ist.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-thumbnail-11-01.jpg",
+        "srcset": null,
+        "alt": "Auf einem LG QNED TV-Bildschirm befindet sich die webOS 25-Startseite, die mit Apps und Unterhaltungsinhalten gefüllt ist. Neben dem Fernseher befindet sich die LG Al Magic Remote. Die Al-Taste ist hervorgehoben, als ob sie durch die Stimme des Benutzers aktiviert würde. Daneben befindet sich eine Sprechblase, die auf mein Konto umschaltet. Der kurze Text erklärt, wie Nutzer ihre Stimme mit ihrem persönlichen Profil synchronisieren können, um die Navigation zu erleichtern und personalisierte Empfehlungen zu erhalten.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-thumbnail-12-01.jpg",
+        "srcset": null,
+        "alt": "LG AI Magic Remote im Vordergrund. Das AI-Tastensymbol ist hervorgehoben. Im Hintergrund ist die LG webOS-Oberfläche zu sehen. Der Mauszeiger zeigt an, dass die Fernbedienung in Gebrauch ist. Der Text erklärt, wie die Funktionen und Bedienelemente der Fernbedienung das Navigieren in webOS erleichtern. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-thumbnail-13.jpg",
+        "srcset": null,
+        "alt": "Ein Mädchen und ein Hund sitzen vor einem LG QNED-Fernseher, der an einer Wand montiert ist und drei Elefanten zeigt, die über einer LG Soundbar nach außen laufen. Der Titel spricht davon, dass jede Aktion auf einem großen Bildschirm noch spannender ist.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/qned-qned85-2025-55-thumbnail-14.jpg",
+        "srcset": null,
+        "alt": "QNED87 USP Einführungsvideo.",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "https://publish-p86205-e1346445.adobeaemcloud.com/content/dam/lge/es/personalization/shared/Personalizaion-MembershipBanner-M.jpg",
+        "srcset": null,
+        "alt": "member-benefit",
+        "width": 1440,
+        "height": 222
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/55qned86a6a-55ut73/450x450_55QNED86A6A.55UT73.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/55qned86a6a-ds70ty/450x450_55QNED86A6A.DS70TY.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-00-feature-award-d-1.jpg",
+        "srcset": null,
+        "alt": "Logo „IF Design Award Winner“",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-00-feature-award-d-2.jpg",
+        "srcset": null,
+        "alt": "Abzeichen „CES Innovation Awards“ mit Ehrung „2025 Honoree“.",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-00-feature-award-d-3.jpg",
+        "srcset": null,
+        "alt": "Logo von AVForums Editor's Choice für LG webOS 24 als bestes Smart-TV-System 2024/2025. ",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-01-feature-kv-m.jpg",
+        "srcset": null,
+        "alt": "Der LG QNED TV sitzt leicht angewinkelt auf der linken Seite und zeigt bunte, farbige Texturen in Rot, Gelb, Grün, Blau und Lila. Hinter dem Fernseher befindet sich der alpha 8 AI Prozessor Gen2, der orange und pinkes Licht ausstrahlt. Das Logo des LG QNED evo AI befindet sich in der unteren linken Ecke. Der Hintergrund ist ein bunter orange-lila Farbverlauf. Auch der Text ist sichtbar: powered by alpha 8 AI Processor Gen2. ",
+        "width": 1920,
+        "height": 720
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-03-feature-certification-m.jpg",
+        "srcset": null,
+        "alt": "Intertrek-Zertifizierung für 100% Farbvolumen nach DCI-P3. \t",
+        "width": 1920,
+        "height": 412
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-07-feature-ai-search-m.jpg",
+        "srcset": null,
+        "alt": "Ein LG OLED TV-Bildschirm, der zeigt, wie die AI-Suche funktioniert. Ein kleines Chat-Fenster ist geöffnet und zeigt, wie der Nutzer nach verfügbaren Sportspielen fragt. Die AI-Suche antwortet per Chat und zeigt Miniaturansichten verschiedener verfügbarer Inhalte an. Es gibt auch eine Aufforderung, Microsoft Copilot zu fragen. \t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-08-feature-ai-chatbot-m.jpg",
+        "srcset": null,
+        "alt": "Sci-Fi-Inhalte werden auf einem LG OLED-Fernseher abgespielt. Auf der linken Seite des Bildschirms befindet sich die AI Chatbot-Schnittstelle. Der Nutzer teilt dem Chatbot mit, dass der Bildschirm zu dunkel ist, und der Chatbot bietet Lösungen für die Anfrage an.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-09-feature-ai-magic-remote-m-01.jpg",
+        "srcset": null,
+        "alt": "Die LG AI Magic Remote-Fernbedienung im Einsatz. Das ganze Szenario zeigt, wie einfach und bequem die AI Magic Remote ist. Die LG webOS-Startseite ist sichtbar, wenn ein Cursor erscheint und auf ein bestimmtes Vorschaubild geklickt wird. Es füllt den Bildschirm aus. Der AI Button auf der Fernbedienung wird dann hervorgehoben. \t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-09-feature-ai-magic-remote-icon-d-1.svg",
+        "srcset": null,
+        "alt": "Der AI Button. Das einzigartige Logo von LG AI. \t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-09-feature-ai-magic-remote-icon-d-2.svg",
+        "srcset": null,
+        "alt": "Das Easy Guide-Symbol. Ein Symbol eines Fernsehbildschirms mit einem Fragezeichen in der Mitte.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-09-feature-ai-magic-remote-icon-d-3.svg",
+        "srcset": null,
+        "alt": "Das Home Hub-Symbol. Ein Symbol mit einem Haus in einem Kreis mit Punkten, die intelligente Verbindungen darstellen.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-09-feature-ai-magic-remote-icon-d-4.svg",
+        "srcset": null,
+        "alt": "Quick Access-Symbol. Das Symbol eines Zeigefingers, der auf ein Symbol tippt, steht für Bequemlichkeit und Benutzerfreundlichkeit.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-10-feature-webos-re-new-program-d.jpg",
+        "srcset": null,
+        "alt": "Logo und Name des webOS Re:New-Programms mit dem CES Innovation Award 2025 Honoree-Badge daneben. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-27-feature-webos-youtube-d-1.jpg",
+        "srcset": null,
+        "alt": "Der Titel \"2025 LG AI TV\" und \"AI Voice ID\" wird angezeigt. Ein Mann und eine Frau sitzen auf einer Couch und halten eine TV-Fernbedienung in der Hand.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-27-feature-webos-youtube-d-2.jpg",
+        "srcset": null,
+        "alt": "Der Titel \"2025 LG AI TV\" und \"AI Search\" wird angezeigt. Eine dreiköpfige Familie sitzt auf der Couch im Wohnzimmer.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-27-feature-webos-youtube-d-3.jpg",
+        "srcset": null,
+        "alt": "Der Titel \"2025 LG AI TV\" und \"Al Chatbot & Al Picture/Sound Wizard\" wird angezeigt. Ein Mädchen sitzt, lächelt und schaut in die Ferne.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-27-feature-webos-youtube-d-4.jpg",
+        "srcset": null,
+        "alt": "Der Titel \"2025 LG AI TV\" und \"Al Concierge\" wird angezeigt. Die LG Al Magic Remote-Fernbedienung ist sichtbar. Ein Mann sitzt auf der Couch.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-14-feature-wow-synergy-m-2.jpg",
+        "srcset": null,
+        "alt": "Die LG Soundbar befindet sich unter einem LG OLED-Fernseher. Auf dem TV-Bildschirm befindet sich die Benutzeroberfläche für die Soundbar und der Lautstärkeregler des Fernsehers. \t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-14-feature-wow-synergy-m-2.jpg",
+        "srcset": null,
+        "alt": "Die LG Soundbar befindet sich unter einem LG OLED-Fernseher. Auf dem TV-Bildschirm befindet sich die Benutzeroberfläche für die Soundbar und der Lautstärkeregler des Fernsehers. \t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-15-feature-synergy-bracket-m.jpg",
+        "srcset": null,
+        "alt": "Die Synergy-Halterung wird mit einem LG QNED-Fernseher gezeigt. Die Synergy-Halterung und der LG QNED-Fernseher sind miteinander verbunden, während das Bild nach unten schwenkt, um die Unterseite des Fernsehers zu zeigen. Die LG Soundbar erscheint, da sie auf der Synergy-Halterung angebracht ist. Der Hintergrund wird durch die Wand gebildet.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/lautsprecher/soundbars/gallery/s70ty-basic.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht der LG Soundbar DS70TY und des Subwoofers",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/lautsprecher/soundbars/gallery/ds60t/s60t-basic.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht der LG Soundbar DS60T, Subwoofer und hintere Lautsprecher",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-28-feature-resource-efficiency-banner-m.jpg",
+        "srcset": null,
+        "alt": "Zertifizierungszeichen für Ressourceneffizienz von Intertek.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/qned-evo/qned85/gp1/features/mobile/qned-qned85-2025-21-feature-qned-evo-microsite-banner-m-04.jpg",
+        "srcset": null,
+        "alt": "LG TVs mit farbenfrohen Kunstwerken, die die lebendige, leuchtende Farbwiedergabe-Technologie der LG QNED-Technologie hervorheben. Auch das Logo ALL NEW LG QNED evo AI ist zu sehen.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/spec/55QNED86A6A_QNED86-2025-Stand-55-Dimension-Mobile.jpg",
+        "srcset": null,
+        "alt": "55QNED86A6A",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://contentorigin.bazaarvoice.com/influenster/default/influenster.png",
+        "srcset": null,
+        "alt": "influenster.com",
+        "width": 200,
+        "height": 55
+      },
+      {
+        "src": "https://contentorigin.bazaarvoice.com/influenster/default/influenster.png",
+        "srcset": null,
+        "alt": "influenster.com",
+        "width": 200,
+        "height": 55
+      },
+      {
+        "src": "https://contentorigin.bazaarvoice.com/influenster/default/influenster.png",
+        "srcset": null,
+        "alt": "influenster.com",
+        "width": 200,
+        "height": 55
+      },
+      {
+        "src": "https://contentorigin.bazaarvoice.com/influenster/default/influenster.png",
+        "srcset": null,
+        "alt": "influenster.com",
+        "width": 200,
+        "height": 55
+      },
+      {
+        "src": "https://contentorigin.bazaarvoice.com/influenster/default/influenster.png",
+        "srcset": null,
+        "alt": "influenster.com",
+        "width": 200,
+        "height": 55
+      },
+      {
+        "src": "https://contentorigin.bazaarvoice.com/influenster/default/influenster.png",
+        "srcset": null,
+        "alt": "influenster.com",
+        "width": 200,
+        "height": 55
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/8bd27f83-4e68-43e5-8bcf-502ab0a9370d",
+        "srcset": null,
+        "alt": "lg.com",
+        "width": 111,
+        "height": 55
+      },
+      {
+        "src": "https://contentorigin.bazaarvoice.com/influenster/default/influenster.png",
+        "srcset": null,
+        "alt": "influenster.com",
+        "width": 200,
+        "height": 55
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65qned85a6c_aeu_eedg_de_c/gallery/450_b.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 65 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV 65QNED86A6A",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/qned/124-qned85-55-55qned85t6c/gallery/450x450/2024_55_QNED85_EU_01.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Vorderansicht des LG QNED MiniLED AI QNED85 4K Smart Fernsehers (Modell 2024) mit lebendiger abstrakter Kunst auf dem Bildschirm.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/55qned85t6c-s20a/450x450_55QNED85T6C.S20A.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Front view",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/uhd/ua73/gp1/gallery/55-ua73-a/animation/uhd-ua73-2025-55-animation-01.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 55 Zoll LG UHD AI UA73 4K Smart TV 2025 55UA73006LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled48b59la/Basic-450-01.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 48 Zoll LG OLED AI B5 4K Smart TV OLED48B59LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/43qned86a6c/450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 43 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV 43QNED86A6C",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/uhd/ua75/gp1/gallery/43-ua75-a/basic1/uhd-ua75-2025-43-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 75 Zoll LG UHD AI UA75 4K Smart TV 2025 75UA75006LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_manual-software_48x48.svg",
+        "srcset": null,
+        "alt": "Symbol Benutzerhandbuch und Software",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_complaints_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Fehlerbehebung",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_warranty_48x48.svg",
+        "srcset": null,
+        "alt": "Garantie-Symbol",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_part-accessory_48x48.svg",
+        "srcset": null,
+        "alt": "Symbol für Teile und Zubehör",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/buy/icon_register-a-product_48.svg",
+        "srcset": null,
+        "alt": "Symbol Produktregistrierung",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_product_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Produktsupport",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_order_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Bestellsupport",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/Icon_request-a-repair_60x60.svg",
+        "srcset": null,
+        "alt": "Symbol für Reparaturanfrage",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_chat-with-us__60x60.svg",
+        "srcset": null,
+        "alt": "Livechat-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_whatsapp_60x60.svg",
+        "srcset": null,
+        "alt": "WhatsApp-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_email-us_60x60.svg",
+        "srcset": null,
+        "alt": "E-Mail-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_call_48.svg",
+        "srcset": null,
+        "alt": "Anruf-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/common/find-a-store-test/gradation-icon/banner-light-icons.svg",
+        "srcset": null,
+        "alt": "Filialsymbol suchen",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/facebook-circle-fill.svg",
+        "srcset": null,
+        "alt": "Facebook",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/youtube-circle-fill.svg",
+        "srcset": null,
+        "alt": "Youtube",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/instagram-circle-fill.svg",
+        "srcset": null,
+        "alt": "Instagram",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/ot_company_logo.png",
+        "srcset": null,
+        "alt": "Firmenlogo",
+        "width": 600,
+        "height": 106
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/powered_by_logo.svg",
+        "srcset": null,
+        "alt": "Powered by Onetrust",
+        "width": 136,
+        "height": 16
+      },
+      {
+        "src": "https://lantern.roeye.com/track.php?fingerprint=0e398a32-f94c-4327-8b91-78c9b166e387&referrer=&landingpage=https%3A%2F%2Fwww.lg.com%2Fde%2Ftvs-und-soundbars%2Fqned%2F55qned86a6a%2F&useragent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F143.0.7499.4%20Safari%2F537.36&site=63126",
+        "srcset": null,
+        "alt": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://bat.bing.com/action/0?ti=355009024&Ver=2&mid=520d7e45-516f-4c1c-a9f0-d6535102b77f&bo=1&sid=fc549eb0f5bb11f0a0a5b7ae3fc4ae70&vid=fc548160f5bb11f0b35da3cae89cc6a9&vids=0&msclkid=N&pi=0&lg=en-US&sw=1280&sh=720&sc=24&nwd=1&tl=55%20Zoll%20LG%20QNED%20evo%20AI%20QNED86%20MiniLED%204K%20Smart%20TV%20-%2055QNED86A6A%20%7C%20LG%20DE&p=https%3A%2F%2Fwww.lg.com%2Fde%2Ftvs-und-soundbars%2Fqned%2F55qned86a6a%2F&r=&lt=2875&evt=pageLoad&sv=2&cdb=AQET&rn=913229",
+        "srcset": null,
+        "alt": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "videos": [
+      {
+        "type": "video",
+        "src": "blob:https://www.lg.com/32b19161-99b1-4723-9b50-216756422a69",
+        "poster": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1690282274001/78b18e4a-1461-4e0f-a1e2-ee8a6e63ede4/main/1280x720/35s67ms/match/image.jpg",
+        "sources": []
+      },
+      {
+        "type": "video",
+        "src": "blob:https://www.lg.com/4cdc6459-4887-4ea4-91db-bf9e4c088eb0",
+        "poster": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1690282274001/78b18e4a-1461-4e0f-a1e2-ee8a6e63ede4/main/1280x720/35s67ms/match/image.jpg",
+        "sources": []
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-04-video-ai-picture-pro-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-04-video-ai-picture-pro-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-06-video-webos-25-m-3.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-06-video-webos-25-d-3.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-06-video-webos-25-m-2.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-06-video-webos-25-d-2.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-06-video-webos-25-m-3.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-06-video-webos-25-d-3.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-09-video-ai-magic-remote-m-01.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-09-video-ai-magic-remote-d-01.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2025/qned/qned85/qned-qned85-2025-15-video-synergy-bracket-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      }
+    ]
+  },
+  "specifications": {
+    "€124,92": "Monatliche Rate",
+    "€1.499,00": "Gesamtbetrag inkl. Zinsen",
+    "0%": "Zinssatz",
+    "€74,96": "Monatliche Rate",
+    "€1.798,99": "Gesamtbetrag inkl. Zinsen",
+    "€40,00": "Monatliche Rate",
+    "€120,00": "Gesamtbetrag inkl. Zinsen"
+  },
+  "features": [],
+  "reviews": {
+    "summary": {},
+    "featured": [
+      {
+        "headline": "Begeistert",
+        "body": "Ich bin einfach hin und weg von der Bildqualität. Installation war auch für mich,als nicht grade technisch begabt,sehr einfach. Der Sound könnte besser sein,aber es wird sowieso eine Soundbar angeschlossen. Der TV steht auf dem Fuß sehr stabil. Die Platte wiegt auch ein wenig. Die Farbe sind grandios.Es gibt von LG eigene Tv-sender und jede mega anderer Funktionen,die ich nach und nach erkunden werde.\nDie Lieferung erfolgt mit einer Spedition über DHL und hat ca. eine Woche ab Bestellung gedauert.\nder Fernseher wurde mir auch in den ersten Stock in die Wohnung getragen.",
+        "rating": 4,
+        "author": "sugarmilk_9657",
+        "dateCreated": "2025-04-30T08:35:51.000+00:00",
+        "datePublished": "2025-04-30T13:00:10.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/cf011ede-9b33-5060-afdf-d38294d261eb",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/2ae6495f-1fdd-5a0f-a45f-d7ea19cd2353",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/5cb6acc4-4e9b-51d9-ab67-390faace3faa",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/04106f12-c9e6-5091-ac1b-42441cd155e9",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/1e546abb-eda1-50ef-92b3-7bdd2526725b"
+        ]
+      },
+      {
+        "headline": "Great picture quality.",
+        "body": "[This review was collected as part of a promotion.] This 4K LG 65 inch smart tv comes with a magic remote that has a ln air pointer on for ease and quickness to get to the menus and settings. \nThe remote also features dedicated buttons for built in apps of Netflix , Prime Video, Disney+, Rakuten TV, LG channels and Alexa. \nThe TV has a really good quality screen and the picture is very good clear and sharp , there are lots of settings to change the picture and sound to your own preference, there are also AI settings for the picture and sound, it also has settings to connect to wireless speakers and surround sound although the sound on the tv is pretty good without these. \nYou can connect your mobile phone with AirPlay and Google Cast. \nThe tv has multiple hdmi ports and 2 usb ports. \nI highly recommend this tv it has all the smart features you need for a latest up to date TV.",
+        "rating": 5,
+        "author": "beccacooluk_4337",
+        "dateCreated": "2025-09-01T18:52:14.000+00:00",
+        "datePublished": "2025-09-01T23:30:12.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/9a15ec4d-3af5-5c06-875e-488d4bb560f6",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/3a5c65dc-ba51-506e-bc11-6a79d7e23d9e",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/82658919-b7f5-56f4-b9d3-773a0726fe25",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/03a1c383-3f96-59ec-8fa2-a6e378434f64",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/efed09b0-2424-56d9-ad2d-21ff7ed13d9a"
+        ]
+      },
+      {
+        "headline": "Grandioser Smart TV",
+        "body": "Ich bin super glücklich über die Entscheidung mich für diesen Smart TV von LG entschieden zu haben. Der Fernseher passt einfach perfekt zu uns. Mit seinem XXL Display habe ich uns das Kino Feeling direkt nach Hause geholt, einfach unglaublich wie gestochen scharf die Bilder im Vergleich zu unserem alten TV sind! Man hat das Gefühl, man ist mitten im Geschehen und kann die Bilder berühren. Auch das Design ist super elegant und so schlank, dass man denkt der TV wäre in der Wand verbaut. Die Tonqualität ist grandios und dank AI passt er sich auch ganz automatisch jeder Filmsituation an. Ein grandioser TV, so macht Fernsehschauen Spaß und wird zum richtigen Erlebnis. Ich bin rundum begeistert von der einfachen Handhabung, dem tollen Design, dem grandiosem Bild und dem Ton der echt fenomenal ist. Würde ich mir jederzeit wieder kaufen.",
+        "rating": 5,
+        "author": "lili2345_5955",
+        "dateCreated": "2025-04-28T17:37:38.000+00:00",
+        "datePublished": "2025-04-28T18:30:11.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/631b24cd-6aea-5cbf-a82f-1c39e92e14a4",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/959848f2-f1b5-5cee-9d61-4f708c9a45bb",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/b46beb96-ad66-5a84-ba3f-f4df4f0eca3c",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/271376be-8e32-5732-a4fc-e2bec9425ced",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/ee069da8-1be0-5b9a-8981-5168b7fc4050"
+        ]
+      },
+      {
+        "headline": "LG ist mein neuer Standart für High end TVs",
+        "body": "Ki im TV war mir erst Suspect und dann habe ich den LG QNED AI TV getestet und bin überwältigt. Aus schlechten 1080p Bildern wird 4K in voller 4K Qualität. So ein krasses Upscaling habe ich noch nie gesehen. Bin total überzeugt und wirklich glücklich mit meinem neuen LG TV. Die Bedienung mit der magischen Fernbedienung ist auch echt cool, man hat wii feelings von der Steuerung her mega! Und die eingebaute Cloud Gaming Funktion ist echt mega. Kann alle Games direkt am TV zocken ohne extra Hardware (nur Controller). Auch Airplay und Homekit funktionieren top.\n\nLG hat mich total gecatcht!",
+        "rating": 5,
+        "author": "jakeey_7140",
+        "dateCreated": "2025-06-12T21:53:47.000+00:00",
+        "datePublished": "2025-06-15T10:15:05.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/628a21c7-97db-51d4-b3b7-dc481be93781",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/93fe800a-9bf7-5545-a190-d9c82d019ba9",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/2dc40ee7-0dcd-52ab-afe8-db8436511996",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/53b81c46-fb9a-5610-b10d-2b20192a4419"
+        ]
+      },
+      {
+        "headline": "Top Bild, Top Klang, Top Funktionen!",
+        "body": "Unser neuer Fernseher hat unser Wohnzimmer in ein echtes Heimkino verwandelt.\nDie Bildqualität ist einfach beeindruckend – hell, gestochen scharf und mit wunderschönen, lebendigen Farben. Auch der Klang überrascht uns jedes Mal aufs Neue: klar, ausgewogen und kraftvoll. Egal ob Filme, Serien oder Games – alles wirkt unglaublich realistisch und intensiv.\nDie Einrichtung des Fernsehers war ebenfalls kinderleicht und in wenigen Minuten erledigt!\nAuch in Sachen Energieeffizienz hat uns das Gerät überzeugt – trotz der starken Leistung bleibt der Stromverbrauch erfreulich niedrig. Das schont nicht nur die Umwelt, sondern auch den Geldbeutel.\nBesonders begeistert sind wir außerdem von der Vielzahl an Funktionen: Smarte Bedienung, zahlreiche Streaming-Apps, Gaming-Modus, Sprachsteuerung und viele weitere praktische Features machen den Alltag noch komfortabler.\nWir sind rundum glücklich mit unserer Entscheidung und genießen jetzt jedes Fernseherlebnis auf einem ganz neuen Niveau!",
+        "rating": 5,
+        "author": "maschuljka_858",
+        "dateCreated": "2025-05-31T10:36:51.000+00:00",
+        "datePublished": "2025-06-01T19:30:10.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/31319627-d9b6-506c-bea2-29687544ae87",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/6171e59b-5ddb-5a16-be3c-7359aee6460e",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/c9f6955e-43fe-5f44-b6f0-aa55d15c6b63",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/30b938ef-adb6-5166-90db-e802c47ed407",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/00de32b4-1659-5818-9289-f27d16815a17"
+        ]
+      },
+      {
+        "headline": "Fantastic immersive Colours & Display",
+        "body": "[This review was collected as part of a promotion.] This LG Smart TV delivers impressive colours with vivid, lifelike tones it really is outstanding.\n\nThe fast menu and  interface make navigating through apps and settings a breeze. \n\nWhether I’m  jumping between channels or adjusting TV settings, everything loads quickly and responds seamlessly.",
+        "rating": 5,
+        "author": "marks18_4184",
+        "dateCreated": "2025-08-01T19:05:09.000+00:00",
+        "datePublished": "2025-08-01T19:30:08.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/0561a94d-4673-5d73-8c0c-06e9ae6ccd33",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/2f49a7e0-1a14-5507-9052-a66f14de1f03",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/d9d99d0e-a99d-5574-b5dc-0ffb3edddb82",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/b9e51b4b-654f-5b4c-a074-167ca4d88b17",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/64332402-ab4d-57f5-b7cc-0d7b89832b22"
+        ]
+      },
+      {
+        "headline": "Beeldkwaliteit en Design, Fijne mooie TV!",
+        "body": "Beeldkwaliteit en design\nIk ben echt onder de indruk van de beeldkwaliteit van de LG QNED EVO 65QNED86A6. Het beeld is kraakhelder, kleuren zijn levendig en details komen prachtig naar voren, vooral bij films in 4K of tijdens het gamen. De AI-beeldinstellingen zijn handig: met één druk op de knop kun je schakelen tussen sport-, bioscoop-, game- of automatische weergave, en dat maakt het kijken nog prettiger. Ook het design mag er zijn; de tv oogt strak en modern, een mooie toevoeging aan de woonkamer.\n\nEen klein minpuntje is de weerspiegeling van zonlicht. Hoewel dit al sterk verbeterd is ten opzichte van mijn vorige tv, blijft het in een ruimte met veel ramen soms storend. De afstandsbediening werkt prettig, met directe knoppen naar apps zoals Netflix en Prime Video. Het menu is overzichtelijk en snel te bereiken met één druk op de knop, en bijna alle apps staan standaard al op het startscherm. Ook leuk: je kunt via verschillende apps gratis films kijken, zelfs zonder abonnement. Dit alles bij elkaar maakt het een zeer complete en gebruiksvriendelijke tv.",
+        "rating": 5,
+        "author": "Zoe.F.K99",
+        "dateCreated": "2025-08-06T16:12:23.000+00:00",
+        "datePublished": "2025-08-06T18:01:25.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1ubF9ubA/d676fba8-fee7-5042-b398-bea52fa4b791",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1ubF9ubA/08026ac9-60ed-5d21-b9f5-5bb4ffe2c2ae",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1ubF9ubA/f9eb4ffd-3a93-5e82-add7-6aefacda9bf5",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1ubF9ubA/d4b0a010-7e89-53fa-a1d0-bdfc71905db5",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1ubF9ubA/ee2b9a4c-0452-54fc-b68a-a4b28f8e13df"
+        ]
+      },
+      {
+        "headline": "Das beste Kino Feeling und visuelles Gaming Erlebn",
+        "body": "Kann man sich in ein TV Gerät verlieben? Man kann definitiv, wenn es sich um den LG 65” QNED evo AI Mini LED 4K smart TV handelt. Dieses Fernsehgerät ist so smart und innovativ, dass es für mich Home Entertainment und Gaming, auf Next Level katapultiert.\nDer GEN2 4K AI Prozessor sorgt für die besten Schwarzwerte und eine unglaubliche Bildtiefe. Er optimiert dazu die Bildqualität für lebendige und echte Farben und sorgt für einen optimalen Sound. Man hat das Gefühl, bei Filmszenen oder Sportübertragungen, direkt dabei zu sein. \nGamer kommen mit dem VRR 144 Hz voll auf ihre Kosten und erleben 4K Gaming komplett ohne Tearing. Das visuelle Erlebnis finde ich einfach fantastisch. \nDie Einrichtung des Gerätes ist super einfach. Die wichtigsten Apps und Einstellungen sind bereits vorprogrammiert und für personalisierte Einstellungen, wird man perfekt durch das Menü geführt.\nAls Apple User genieße ich coole Nutzung von AirDrop und kann so alle Inhalte meiner Foto Mediathek, in Kinoqualität genießen. Mein neues LG Gerät bekommt von mir 10/10 Punkte und ich genieße die AI gesteuerte Technik jeden Tag.",
+        "rating": 5,
+        "author": "flybi27_1317",
+        "dateCreated": "2025-05-16T12:33:08.000+00:00",
+        "datePublished": "2025-05-16T20:45:13.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/707e272d-743f-5702-bc59-681cb56641c6",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/a6032c82-d92b-5d53-883a-d369d852ef92",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/a47a5c66-6e35-50ec-b397-36fd05987385",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/d42b2b3b-23e9-58b3-843a-0e4e39fb2732",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/d06446a7-420a-5793-b62e-961786189012"
+        ]
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://www.lg.com/de/"
+    },
+    {
+      "position": 2,
+      "name": "TVs & Soundbars",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/"
+    },
+    {
+      "position": 3,
+      "name": "QNED",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/qned/"
+    },
+    {
+      "position": 4,
+      "name": "55QNED86A6A",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/qned/55qned86a6a/"
+    }
+  ],
+  "faq": [],
+  "metadata": {
+    "mpn": "55QNED86A6A",
+    "title": "55 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV - 55QNED86A6A | LG DE",
+    "description": "Entdecke die nächste Generation der LG Smart AI TVs, 55QNED86A6A, für ein Fernseherlebnis, das dank KI-Funktionen & webOS auf dich zugeschnitten ist.",
+    "ogImage": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/450_b.jpg",
+    "ogTitle": "55 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV - 55QNED86A6A | LG DE",
+    "canonical": "https://www.lg.com/de/tvs-und-soundbars/qned/55qned86a6a/"
+  },
+  "structuredData": {
+    "jsonLd": [
+      {
+        "@context": "https://schema.org/",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/qned/55qned86a6a/",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "itemReviewed": {
+            "@type": "IndividualProduct",
+            "name": "55QNED86A6A"
+          },
+          "ratingValue": "4.6",
+          "reviewCount": 732,
+          "bestRating": 5
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/qned/55qned86a6a/",
+        "review": [
+          {
+            "@type": "Review",
+            "dateCreated": "2025-04-30T08:35:51.000+00:00",
+            "datePublished": "2025-04-30T13:00:10.000+00:00",
+            "headline": "Begeistert",
+            "reviewBody": "Ich bin einfach hin und weg von der Bildqualität. Installation war auch für mich,als nicht grade technisch begabt,sehr einfach. Der Sound könnte besser sein,aber es wird sowieso eine Soundbar angeschlossen. Der TV steht auf dem Fuß sehr stabil. Die Platte wiegt auch ein wenig. Die Farbe sind grandios.Es gibt von LG eigene Tv-sender und jede mega anderer Funktionen,die ich nach und nach erkunden werde.\nDie Lieferung erfolgt mit einer Spedition über DHL und hat ca. eine Woche ab Bestellung gedauert.\nder Fernseher wurde mir auch in den ersten Stock in die Wohnung getragen.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 4,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sugarmilk_9657"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/cf011ede-9b33-5060-afdf-d38294d261eb",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/85c3f835-f107-535d-b1d9-227a9b5226ae"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/2ae6495f-1fdd-5a0f-a45f-d7ea19cd2353",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/4302f787-c6ec-5e84-9cf0-1b87a0904340"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/5cb6acc4-4e9b-51d9-ab67-390faace3faa",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/98e41200-43a0-5dc6-aced-a824377df4ba"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/04106f12-c9e6-5091-ac1b-42441cd155e9",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/341ac3ac-7d43-5cd8-81bc-c8656a877f6c"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/1e546abb-eda1-50ef-92b3-7bdd2526725b",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/074f31f2-3128-542f-8230-ae58064c3ab5"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-09-01T18:52:14.000+00:00",
+            "datePublished": "2025-09-01T23:30:12.000+00:00",
+            "headline": "Great picture quality.",
+            "reviewBody": "[This review was collected as part of a promotion.] This 4K LG 65 inch smart tv comes with a magic remote that has a ln air pointer on for ease and quickness to get to the menus and settings. \nThe remote also features dedicated buttons for built in apps of Netflix , Prime Video, Disney+, Rakuten TV, LG channels and Alexa. \nThe TV has a really good quality screen and the picture is very good clear and sharp , there are lots of settings to change the picture and sound to your own preference, there are also AI settings for the picture and sound, it also has settings to connect to wireless speakers and surround sound although the sound on the tv is pretty good without these. \nYou can connect your mobile phone with AirPlay and Google Cast. \nThe tv has multiple hdmi ports and 2 usb ports. \nI highly recommend this tv it has all the smart features you need for a latest up to date TV.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "beccacooluk_4337"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/9a15ec4d-3af5-5c06-875e-488d4bb560f6",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/9307be54-10f6-5f1a-979d-85dbafa423d4"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/3a5c65dc-ba51-506e-bc11-6a79d7e23d9e",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/7762cab1-2f82-5a4a-b226-facb179f7842"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/82658919-b7f5-56f4-b9d3-773a0726fe25",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/7071ad11-7d49-543d-a970-e0535cc529cc"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/03a1c383-3f96-59ec-8fa2-a6e378434f64",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/f274e318-e2b0-5144-bfe1-d89d75698af3"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/efed09b0-2424-56d9-ad2d-21ff7ed13d9a",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/1ee3e916-f435-5c62-a2ec-255f72dd778a"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-04-28T17:37:38.000+00:00",
+            "datePublished": "2025-04-28T18:30:11.000+00:00",
+            "headline": "Grandioser Smart TV",
+            "reviewBody": "Ich bin super glücklich über die Entscheidung mich für diesen Smart TV von LG entschieden zu haben. Der Fernseher passt einfach perfekt zu uns. Mit seinem XXL Display habe ich uns das Kino Feeling direkt nach Hause geholt, einfach unglaublich wie gestochen scharf die Bilder im Vergleich zu unserem alten TV sind! Man hat das Gefühl, man ist mitten im Geschehen und kann die Bilder berühren. Auch das Design ist super elegant und so schlank, dass man denkt der TV wäre in der Wand verbaut. Die Tonqualität ist grandios und dank AI passt er sich auch ganz automatisch jeder Filmsituation an. Ein grandioser TV, so macht Fernsehschauen Spaß und wird zum richtigen Erlebnis. Ich bin rundum begeistert von der einfachen Handhabung, dem tollen Design, dem grandiosem Bild und dem Ton der echt fenomenal ist. Würde ich mir jederzeit wieder kaufen.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lili2345_5955"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/631b24cd-6aea-5cbf-a82f-1c39e92e14a4",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/213355b0-b863-571a-9c8a-f599e33d7e97"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/959848f2-f1b5-5cee-9d61-4f708c9a45bb",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/f3bb7a17-8153-5027-a5a9-b10c35f5a94c"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/b46beb96-ad66-5a84-ba3f-f4df4f0eca3c",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/f6368a68-d701-5b46-b686-8a35b40229f2"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/271376be-8e32-5732-a4fc-e2bec9425ced",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/fe17dcb3-f184-5dd1-a66e-2c7a6e70625b"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/ee069da8-1be0-5b9a-8981-5168b7fc4050",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/b5d46a14-0596-5646-81e1-31b7aa0a9524"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-06-12T21:53:47.000+00:00",
+            "datePublished": "2025-06-15T10:15:05.000+00:00",
+            "headline": "LG ist mein neuer Standart für High end TVs",
+            "reviewBody": "Ki im TV war mir erst Suspect und dann habe ich den LG QNED AI TV getestet und bin überwältigt. Aus schlechten 1080p Bildern wird 4K in voller 4K Qualität. So ein krasses Upscaling habe ich noch nie gesehen. Bin total überzeugt und wirklich glücklich mit meinem neuen LG TV. Die Bedienung mit der magischen Fernbedienung ist auch echt cool, man hat wii feelings von der Steuerung her mega! Und die eingebaute Cloud Gaming Funktion ist echt mega. Kann alle Games direkt am TV zocken ohne extra Hardware (nur Controller). Auch Airplay und Homekit funktionieren top.\n\nLG hat mich total gecatcht!",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jakeey_7140"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/628a21c7-97db-51d4-b3b7-dc481be93781",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/7fe19871-2059-5d86-a1d7-338cddec6377"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/93fe800a-9bf7-5545-a190-d9c82d019ba9",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/6a9f3b88-674d-50fe-b86f-7616db0047b8"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/2dc40ee7-0dcd-52ab-afe8-db8436511996",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/ba94950f-eb16-539e-a65a-b881e77ee764"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/53b81c46-fb9a-5610-b10d-2b20192a4419",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/4c2a380c-318c-5168-bed0-fcd243e18df4"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-05-31T10:36:51.000+00:00",
+            "datePublished": "2025-06-01T19:30:10.000+00:00",
+            "headline": "Top Bild, Top Klang, Top Funktionen!",
+            "reviewBody": "Unser neuer Fernseher hat unser Wohnzimmer in ein echtes Heimkino verwandelt.\nDie Bildqualität ist einfach beeindruckend – hell, gestochen scharf und mit wunderschönen, lebendigen Farben. Auch der Klang überrascht uns jedes Mal aufs Neue: klar, ausgewogen und kraftvoll. Egal ob Filme, Serien oder Games – alles wirkt unglaublich realistisch und intensiv.\nDie Einrichtung des Fernsehers war ebenfalls kinderleicht und in wenigen Minuten erledigt!\nAuch in Sachen Energieeffizienz hat uns das Gerät überzeugt – trotz der starken Leistung bleibt der Stromverbrauch erfreulich niedrig. Das schont nicht nur die Umwelt, sondern auch den Geldbeutel.\nBesonders begeistert sind wir außerdem von der Vielzahl an Funktionen: Smarte Bedienung, zahlreiche Streaming-Apps, Gaming-Modus, Sprachsteuerung und viele weitere praktische Features machen den Alltag noch komfortabler.\nWir sind rundum glücklich mit unserer Entscheidung und genießen jetzt jedes Fernseherlebnis auf einem ganz neuen Niveau!",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "maschuljka_858"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/31319627-d9b6-506c-bea2-29687544ae87",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/0589a35a-7224-5c55-ab88-7cb7bafddf0d"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/6171e59b-5ddb-5a16-be3c-7359aee6460e",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/ae1b8d36-93c5-52d6-b267-d588af611104"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/c9f6955e-43fe-5f44-b6f0-aa55d15c6b63",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/2abd7dfa-4072-5438-9629-9a660f60673d"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/30b938ef-adb6-5166-90db-e802c47ed407",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/737687d6-b0fd-541b-92e2-b51b4466c38a"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/00de32b4-1659-5818-9289-f27d16815a17",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/c9e00cd7-610d-5c1f-8cdf-9ac57ecfb5c5"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-08-01T19:05:09.000+00:00",
+            "datePublished": "2025-08-01T19:30:08.000+00:00",
+            "headline": "Fantastic immersive Colours & Display",
+            "reviewBody": "[This review was collected as part of a promotion.] This LG Smart TV delivers impressive colours with vivid, lifelike tones it really is outstanding.\n\nThe fast menu and  interface make navigating through apps and settings a breeze. \n\nWhether I’m  jumping between channels or adjusting TV settings, everything loads quickly and responds seamlessly.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "marks18_4184"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/0561a94d-4673-5d73-8c0c-06e9ae6ccd33",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/8abac84c-bb98-50f4-9ccb-e7eac39884fb"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/2f49a7e0-1a14-5507-9052-a66f14de1f03",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/a40103d5-e248-5c24-b8c8-c47671f4258b"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/d9d99d0e-a99d-5574-b5dc-0ffb3edddb82",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/f1f22b12-aa06-5461-8f04-f58e29ca4078"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/b9e51b4b-654f-5b4c-a074-167ca4d88b17",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/a8cdd2fb-6956-5425-a3de-69c7cfe01f07"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/64332402-ab4d-57f5-b7cc-0d7b89832b22",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/2d91b3e3-1f8c-5852-bc46-6a6034f06174"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-08-06T16:12:23.000+00:00",
+            "datePublished": "2025-08-06T18:01:25.000+00:00",
+            "headline": "Beeldkwaliteit en Design, Fijne mooie TV!",
+            "reviewBody": "Beeldkwaliteit en design\nIk ben echt onder de indruk van de beeldkwaliteit van de LG QNED EVO 65QNED86A6. Het beeld is kraakhelder, kleuren zijn levendig en details komen prachtig naar voren, vooral bij films in 4K of tijdens het gamen. De AI-beeldinstellingen zijn handig: met één druk op de knop kun je schakelen tussen sport-, bioscoop-, game- of automatische weergave, en dat maakt het kijken nog prettiger. Ook het design mag er zijn; de tv oogt strak en modern, een mooie toevoeging aan de woonkamer.\n\nEen klein minpuntje is de weerspiegeling van zonlicht. Hoewel dit al sterk verbeterd is ten opzichte van mijn vorige tv, blijft het in een ruimte met veel ramen soms storend. De afstandsbediening werkt prettig, met directe knoppen naar apps zoals Netflix en Prime Video. Het menu is overzichtelijk en snel te bereiken met één druk op de knop, en bijna alle apps staan standaard al op het startscherm. Ook leuk: je kunt via verschillende apps gratis films kijken, zelfs zonder abonnement. Dit alles bij elkaar maakt het een zeer complete en gebruiksvriendelijke tv.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Zoe.F.K99"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1ubF9ubA/d676fba8-fee7-5042-b398-bea52fa4b791",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1ubF9ubA/5e8d759d-34ee-55ab-b3b2-60d08b8f98ed"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1ubF9ubA/08026ac9-60ed-5d21-b9f5-5bb4ffe2c2ae",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1ubF9ubA/437be100-6927-50b5-8752-f7246dd9f7fd"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1ubF9ubA/f9eb4ffd-3a93-5e82-add7-6aefacda9bf5",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1ubF9ubA/3195c128-691b-538b-994d-db8f4d92eef4"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1ubF9ubA/d4b0a010-7e89-53fa-a1d0-bdfc71905db5",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1ubF9ubA/76c924f1-a8ab-5aa1-badc-12f4809d3aed"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1ubF9ubA/ee2b9a4c-0452-54fc-b68a-a4b28f8e13df",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1ubF9ubA/dd365c88-783f-5fe5-805a-d6713c73e03d"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-05-16T12:33:08.000+00:00",
+            "datePublished": "2025-05-16T20:45:13.000+00:00",
+            "headline": "Das beste Kino Feeling und visuelles Gaming Erlebn",
+            "reviewBody": "Kann man sich in ein TV Gerät verlieben? Man kann definitiv, wenn es sich um den LG 65” QNED evo AI Mini LED 4K smart TV handelt. Dieses Fernsehgerät ist so smart und innovativ, dass es für mich Home Entertainment und Gaming, auf Next Level katapultiert.\nDer GEN2 4K AI Prozessor sorgt für die besten Schwarzwerte und eine unglaubliche Bildtiefe. Er optimiert dazu die Bildqualität für lebendige und echte Farben und sorgt für einen optimalen Sound. Man hat das Gefühl, bei Filmszenen oder Sportübertragungen, direkt dabei zu sein. \nGamer kommen mit dem VRR 144 Hz voll auf ihre Kosten und erleben 4K Gaming komplett ohne Tearing. Das visuelle Erlebnis finde ich einfach fantastisch. \nDie Einrichtung des Gerätes ist super einfach. Die wichtigsten Apps und Einstellungen sind bereits vorprogrammiert und für personalisierte Einstellungen, wird man perfekt durch das Menü geführt.\nAls Apple User genieße ich coole Nutzung von AirDrop und kann so alle Inhalte meiner Foto Mediathek, in Kinoqualität genießen. Mein neues LG Gerät bekommt von mir 10/10 Punkte und ich genieße die AI gesteuerte Technik jeden Tag.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "flybi27_1317"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/707e272d-743f-5702-bc59-681cb56641c6",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/a6652bba-b982-50b4-8c45-7552be19cc21"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/a6032c82-d92b-5d53-883a-d369d852ef92",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/bc12f267-a568-50f5-aa76-5abc1e64e961"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/a47a5c66-6e35-50ec-b397-36fd05987385",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/4f72f74d-a92d-595e-abc7-e925a45eca5e"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/d42b2b3b-23e9-58b3-843a-0e4e39fb2732",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/2d3bbe0e-c0bc-5889-9e65-ad027c212a8e"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/d06446a7-420a-5793-b62e-961786189012",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/5c25c1c6-c3ec-5c07-ab64-dfa51802cd04"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "product",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/qned/55qned86a6a/",
+        "name": "55 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV",
+        "image": "/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/450_b.jpg",
+        "description": "Entdecken Sie LG 55QNED86A6A. Für Bilder, Bewertungen und technische Daten zu LG klicken 55 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV.",
+        "mpn": "55QNED86A6A",
+        "brand": {
+          "@type": "Brand",
+          "name": "LG"
+        },
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "EUR",
+          "price": "649",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "LG DE"
+          }
+        },
+        "size": {
+          "@type": "QuantitativeValue",
+          "unitCode": "",
+          "value": ""
+        },
+        "hasEnergyConsumptionDetails": {
+          "@type": "EnergyConsumptionDetails",
+          "hasEnergyEfficiencyCategory": "https://schema.org/EUEnergyEfficiencyCategoryE",
+          "energyEfficiencyScaleMax": "https://schema.org/EUEnergyEfficiencyCategoryA1Plus",
+          "energyEfficiencyScaleMin": "https://schema.org/EUEnergyEfficiencyCategoryG"
+        },
+        "hasCertification": {
+          "@type": "Certification",
+          "issuedBy": {
+            "@type": "Organization",
+            "name": "European_Commission"
+          },
+          "name": "EPREL",
+          "certificationIdentification": "2214531"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.lg.com/de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "TVs & Soundbars",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "QNED",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/qned/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "55QNED86A6A",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/qned/55qned86a6a/"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,697 @@
+{
+  "crawledAt": "2026-01-20T06:29:52.068Z",
+  "url": "https://www.lg.com/de/lautsprecher/xboom-360/",
+  "modelNumber": "XBOOM-360",
+  "category": "Soundbar",
+  "basicInfo": {
+    "productName": "xboom 360: Erlebe 360° Rundumklang | LG DE",
+    "headline": "Mehr erfahren über LG xboom 360",
+    "screenSize": "36 Zoll",
+    "brand": "LG",
+    "modelNumber": "XBOOM-360"
+  },
+  "pricing": {},
+  "ratings": {},
+  "energyEfficiency": {},
+  "media": {
+    "images": [
+      {
+        "src": "https://t.teads.tv/track?action=pageView&env=js-web&tag_version=8.5.0_d71d360&provider=tag&buyer_pixel_id=7484&referer=https%3A%2F%2Fwww.lg.com%2Fde%2Flautsprecher%2Fxboom-360%2F%3Fec_model_status_code%3DActive%26sortCriteria%3D%2540ec_spotlights_order_no%2Bdescending%252C%2540ec_stock_status%2Bascending%252C%2540ec_model_release_date%2Bdescending&user_session_id=1079fadd-9d90-452e-850c-d9ff73d8afa9&hasConsent=true&cht=timeout",
+        "srcset": null,
+        "alt": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/banners/2026-01-15-LG-CB26-GNB-290x90px-V1-jgr.jpg",
+        "srcset": null,
+        "alt": " Gute Vorsätze für 2026",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/banners/2026-01-15-LG-CB26-GNB-290x90px-V1-jgr.jpg",
+        "srcset": null,
+        "alt": " Gute Vorsätze für 2026",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/new-product_icon/icon_xboom_64_normal.svg",
+        "srcset": null,
+        "alt": "xboom",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/new-product_icon/icon_xboom_64_normal.svg",
+        "srcset": null,
+        "alt": "xboom",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/new-product_icon/icon_xboom-go_64_normal.svg",
+        "srcset": null,
+        "alt": "xboom Go",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/new-product_icon/icon_xboom-go_64_normal.svg",
+        "srcset": null,
+        "alt": "xboom Go",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/new-product_icon/icon_xboom-360_64_normal.svg",
+        "srcset": null,
+        "alt": "xboom 360",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/new-product_icon/icon_xboom-360_64_normal.svg",
+        "srcset": null,
+        "alt": "xboom 360",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/new-product_icon/icon_soundbars_64_normal.svg",
+        "srcset": null,
+        "alt": "Soundbars",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/new-product_icon/icon_soundbars_64_normal.svg",
+        "srcset": null,
+        "alt": "Soundbars",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/new-product_icon/icon_portable-speakers_64_normal.svg",
+        "srcset": null,
+        "alt": "Bluetooth Lautsprecher ",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/new-product_icon/icon_portable-speakers_64_normal.svg",
+        "srcset": null,
+        "alt": "Bluetooth Lautsprecher ",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/new-product_icon/icon_party-speakers_64_normal.svg",
+        "srcset": null,
+        "alt": "Party Lautsprecher",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/new-product_icon/icon_party-speakers_64_normal.svg",
+        "srcset": null,
+        "alt": "Party Lautsprecher",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/new-product_icon/icon_hi-fi-system_64_normal.svg",
+        "srcset": null,
+        "alt": "Hi-Fi Systeme",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/new-product_icon/icon_hi-fi-system_64_normal.svg",
+        "srcset": null,
+        "alt": "Hi-Fi Systeme",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/ComboTV-AV-and-soundbar.svg",
+        "srcset": null,
+        "alt": "Lautsprecher Bundles",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/ComboTV-AV-and-soundbar.svg",
+        "srcset": null,
+        "alt": "Lautsprecher Bundles",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/new-product_icon/icon_Home_Theater_Soundbar_(64).svg",
+        "srcset": null,
+        "alt": "Home Theater Soundbar",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/new-product_icon/icon_Home_Theater_Soundbar_(64).svg",
+        "srcset": null,
+        "alt": "Home Theater Soundbar",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/audio/dxo2tbe/450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Front",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dxo3qbe_ddeullk_eedg_de_c/DXO3QBE_DDEULLK_EEDG_DE_C-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Front view",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/support/icon_register-a-product_48.svg",
+        "srcset": null,
+        "alt": "Symbol Produktregistrierung",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_product_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Produktsupport",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_order_48.svg",
+        "srcset": null,
+        "alt": "Order Support iconSymbol für Bestellsupport",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_request-a-repair_60x60.svg",
+        "srcset": null,
+        "alt": "Symbol für Reparaturanfrage",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_chat-with-us__60x60.svg",
+        "srcset": null,
+        "alt": "Livechat-Symbol",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_whatsapp_60x60.svg",
+        "srcset": null,
+        "alt": "WhatsApp-Symbol",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_email-us_60x60.svg",
+        "srcset": null,
+        "alt": "E-Mail-Symbol",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_call-us__60x60.svg",
+        "srcset": null,
+        "alt": "Anruf-Symbol",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/facebook-circle-fill.svg",
+        "srcset": null,
+        "alt": "Facebook",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/youtube-circle-fill.svg",
+        "srcset": null,
+        "alt": "Youtube",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/instagram-circle-fill.svg",
+        "srcset": null,
+        "alt": "Instagram",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/ot_company_logo.png",
+        "srcset": null,
+        "alt": "Firmenlogo",
+        "width": 600,
+        "height": 106
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/powered_by_logo.svg",
+        "srcset": null,
+        "alt": "Powered by Onetrust",
+        "width": 136,
+        "height": 16
+      },
+      {
+        "src": "https://lantern.roeye.com/track.php?fingerprint=0e398a32-f94c-4327-8b91-78c9b166e387&referrer=&landingpage=https%3A%2F%2Fwww.lg.com%2Fde%2Flautsprecher%2Fxboom-360%2F&useragent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F143.0.7499.4%20Safari%2F537.36&site=63126",
+        "srcset": null,
+        "alt": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://bat.bing.com/action/0?ti=355009024&Ver=2&mid=f7d557ed-d6e0-4bfe-95bb-8ddc3652b8a4&bo=1&sid=fc549eb0f5bb11f0a0a5b7ae3fc4ae70&vid=fc548160f5bb11f0b35da3cae89cc6a9&vids=0&msclkid=N&pi=0&lg=en-US&sw=1280&sh=720&sc=24&nwd=1&tl=xboom%20360%3A%20Erlebe%20360%C2%B0%20Rundumklang%20%7C%20LG%20DE&p=https%3A%2F%2Fwww.lg.com%2Fde%2Flautsprecher%2Fxboom-360%2F%3FsortCriteria%3D%2540ec_spotlights_order_no%2Bdescending%252C%2540ec_stock_status%2Bascending%252C%2540ec_model_release_date%2Bdescending&r=&lt=149&evt=pageLoad&sv=2&cdb=AQET&rn=888664",
+        "srcset": null,
+        "alt": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://bat.bing.com/action/0?ti=355009024&Ver=2&mid=502d7908-cb9a-4edf-bf39-a705c1971170&bo=1&sid=fc549eb0f5bb11f0a0a5b7ae3fc4ae70&vid=fc548160f5bb11f0b35da3cae89cc6a9&vids=0&msclkid=N&page_path=%2Fde%2Flautsprecher%2Fxboom-360%2F%3Fec_model_status_code%3DActive%26sortCriteria%3D%2540ec_spotlights_order_no%2Bdescending%252C%2540ec_stock_status%2Bascending%252C%2540ec_model_release_date%2Bdescending&spa=Y&p=https%3A%2F%2Fwww.lg.com%2Fde%2Flautsprecher%2Fxboom-360%2F%3Fec_model_status_code%3DActive%26sortCriteria%3D%2540ec_spotlights_order_no%2Bdescending%252C%2540ec_stock_status%2Bascending%252C%2540ec_model_release_date%2Bdescending&pi=0&lg=en-US&sw=1280&sh=720&sc=24&nwd=1&tl=xboom%20360%3A%20Erlebe%20360%C2%B0%20Rundumklang%20%7C%20LG%20DE&r=https%3A%2F%2Fwww.lg.com%2Fde%2Flautsprecher%2Fxboom-360%2F%3FsortCriteria%3D%2540ec_spotlights_order_no%2Bdescending%252C%2540ec_stock_status%2Bascending%252C%2540ec_model_release_date%2Bdescending&evt=pageLoad&sv=2&cdb=AQET&rn=768093",
+        "srcset": null,
+        "alt": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "videos": []
+  },
+  "specifications": {
+    "€124,92": "Monatliche Rate",
+    "€1.499,00": "Gesamtbetrag inkl. Zinsen",
+    "0%": "Zinssatz",
+    "€74,96": "Monatliche Rate",
+    "€1.798,99": "Gesamtbetrag inkl. Zinsen",
+    "€40,00": "Monatliche Rate",
+    "€120,00": "Gesamtbetrag inkl. Zinsen"
+  },
+  "features": [],
+  "reviews": {
+    "summary": {},
+    "featured": []
+  },
+  "breadcrumb": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://www.lg.com/de/"
+    },
+    {
+      "position": 2,
+      "name": "Lautsprecher",
+      "url": "https://www.lg.com/de/lautsprecher/"
+    },
+    {
+      "position": 3,
+      "name": "xboom 360",
+      "url": "https://www.lg.com/de/lautsprecher/xboom-360/"
+    }
+  ],
+  "faq": [],
+  "metadata": {
+    "title": "xboom 360: Erlebe 360° Rundumklang | LG DE",
+    "description": "Entdecke unser Sortiment von xboom 360. Sieh dir Produkte, Bewertungen, technische Daten und mehr an. Kaufe noch heute online ein.",
+    "ogImage": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.jpg",
+    "ogTitle": "xboom 360: Erlebe 360° Rundumklang | LG DE",
+    "canonical": "https://www.lg.com/de/lautsprecher/xboom-360/"
+  },
+  "structuredData": {
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.lg.com/de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Lautsprecher",
+            "item": "https://www.lg.com/de/lautsprecher/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "xboom 360",
+            "item": "https://www.lg.com/de/lautsprecher/xboom-360/"
+          }
+        ]
+      }
+    ]
+  }
+}

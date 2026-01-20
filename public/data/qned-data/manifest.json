@@ -1,0 +1,228 @@
+{
+  "category": "qned",
+  "updatedAt": "2026-01-20T06:42:27.244Z",
+  "totalProducts": 28,
+  "products": [
+    {
+      "modelNumber": "50QNED82A6B",
+      "productName": "50 Zoll LG QNED AI QNED82 4K Smart TV",
+      "price": "419",
+      "rating": "4.1",
+      "imageCount": 179,
+      "videoCount": 8
+    },
+    {
+      "modelNumber": "50QNED86A6C",
+      "productName": "50 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV",
+      "price": "649",
+      "rating": "4.6",
+      "imageCount": 173,
+      "videoCount": 12
+    },
+    {
+      "modelNumber": "50QNED87T6B",
+      "productName": "50 Zoll LG QNED87 4K Smart TV",
+      "price": "1199",
+      "rating": "4.8",
+      "imageCount": 182,
+      "videoCount": 16
+    },
+    {
+      "modelNumber": "55QNED82A6B",
+      "productName": "55 Zoll LG QNED AI QNED82 4K Smart TV",
+      "price": "949",
+      "rating": "4.1",
+      "imageCount": 172,
+      "videoCount": 8
+    },
+    {
+      "modelNumber": "55QNED85T6C",
+      "productName": "55 Zoll LG QNED85 4K Smart TV",
+      "price": "499",
+      "rating": "4.7",
+      "imageCount": 176,
+      "videoCount": 16
+    },
+    {
+      "modelNumber": "55QNED86A6A",
+      "productName": "55 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV",
+      "price": "649",
+      "rating": "4.6",
+      "imageCount": 180,
+      "videoCount": 13
+    },
+    {
+      "modelNumber": "55QNED93A6A",
+      "productName": "55 Zoll LG QNED evo AI QNED93 MiniLED 4K Smart TV",
+      "price": "1999",
+      "rating": "4.6",
+      "imageCount": 152,
+      "videoCount": 12
+    },
+    {
+      "modelNumber": "65QNED82A6B",
+      "productName": "65 Zoll LG QNED AI QNED82 4K Smart TV",
+      "price": "698.99",
+      "rating": "4.3",
+      "imageCount": 174,
+      "videoCount": 8
+    },
+    {
+      "modelNumber": "65QNED85A6C",
+      "productName": "65 Zoll LG QNED evo AI QNED85 MiniLED 4K Smart TV",
+      "price": "1599",
+      "rating": "4.6",
+      "imageCount": 181,
+      "videoCount": 13
+    },
+    {
+      "modelNumber": "65QNED85T6C",
+      "productName": "65 Zoll LG QNED85 4K Smart TV",
+      "price": "649",
+      "rating": "4.7",
+      "imageCount": 180,
+      "videoCount": 16
+    },
+    {
+      "modelNumber": "65QNED86A6A",
+      "productName": "65 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV",
+      "price": "799",
+      "imageCount": 151,
+      "videoCount": 13
+    },
+    {
+      "modelNumber": "65QNED87A6B",
+      "productName": "65 Zoll LG QNED evo AI QNED87 MiniLED 4K Smart TV ",
+      "price": "1599",
+      "rating": "4.7",
+      "imageCount": 171,
+      "videoCount": 11
+    },
+    {
+      "modelNumber": "65QNED87T6B",
+      "productName": "65 Zoll LG QNED87 4K Smart TV",
+      "price": "1599",
+      "rating": "4.8",
+      "imageCount": 183,
+      "videoCount": 16
+    },
+    {
+      "modelNumber": "65QNED93A6A",
+      "productName": "65 Zoll LG QNED evo AI QNED93 MiniLED 4K Smart TV",
+      "price": "2299",
+      "rating": "4.6",
+      "imageCount": 151,
+      "videoCount": 12
+    },
+    {
+      "modelNumber": "75QNED82A6B",
+      "productName": "75 Zoll LG QNED AI QNED82 4K Smart TV",
+      "price": "1899",
+      "rating": "4.3",
+      "imageCount": 165,
+      "videoCount": 8
+    },
+    {
+      "modelNumber": "75QNED85A3C",
+      "productName": "75 Zoll LG QNED evo AI QNED85 MiniLED 4K Smart TV",
+      "price": "",
+      "imageCount": 156,
+      "videoCount": 13
+    },
+    {
+      "modelNumber": "75QNED85T3C",
+      "productName": "75 Zoll LG QNED85 4K Smart TV",
+      "price": "1099",
+      "rating": "2.6",
+      "imageCount": 146,
+      "videoCount": 16
+    },
+    {
+      "modelNumber": "75QNED86A6A",
+      "productName": "75 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV",
+      "price": "999.01",
+      "rating": "4.6",
+      "imageCount": 186,
+      "videoCount": 13
+    },
+    {
+      "modelNumber": "75QNED86T6A",
+      "productName": "75 Zoll LG QNED86 4K Smart TV",
+      "price": "899",
+      "rating": "4.7",
+      "imageCount": 182,
+      "videoCount": 16
+    },
+    {
+      "modelNumber": "75QNED87T6B",
+      "productName": "75 Zoll LG QNED87 4K Smart TV",
+      "price": "2299",
+      "rating": "4.8",
+      "imageCount": 186,
+      "videoCount": 16
+    },
+    {
+      "modelNumber": "75QNED8EA6B",
+      "productName": "75 Zoll LG QNED AI QNED8E 4K Smart TV",
+      "price": "1899",
+      "rating": "4.4",
+      "imageCount": 167,
+      "videoCount": 9
+    },
+    {
+      "modelNumber": "75QNED91T6A",
+      "productName": "75 Zoll 4K LG QNED MiniLED Smart TV QNED91",
+      "price": "1199",
+      "rating": "4.9",
+      "imageCount": 188,
+      "videoCount": 15
+    },
+    {
+      "modelNumber": "75QNED93A6A",
+      "productName": "75 Zoll LG QNED evo AI QNED93 MiniLED 4K Smart TV",
+      "price": "3099",
+      "rating": "4.7",
+      "imageCount": 152,
+      "videoCount": 12
+    },
+    {
+      "modelNumber": "86QNED85A6C",
+      "productName": "86 Zoll LG QNED evo AI QNED85 MiniLED 4K Smart TV",
+      "price": "3499",
+      "rating": "4.7",
+      "imageCount": 177,
+      "videoCount": 13
+    },
+    {
+      "modelNumber": "86QNED85T3C",
+      "productName": "86 Zoll LG QNED85 4K Smart TV",
+      "price": "1499",
+      "rating": "2.6",
+      "imageCount": 179,
+      "videoCount": 16
+    },
+    {
+      "modelNumber": "86QNED85T6C",
+      "productName": "86 Zoll LG QNED85 4K Smart TV",
+      "price": "3499",
+      "rating": "4.7",
+      "imageCount": 182,
+      "videoCount": 16
+    },
+    {
+      "modelNumber": "86QNED99T9B",
+      "productName": "75 Zoll LG QNED evo AI QNED85 MiniLED 4K Smart TV",
+      "price": "",
+      "imageCount": 156,
+      "videoCount": 13
+    },
+    {
+      "modelNumber": "98QNED89T6A",
+      "productName": "98 Zoll 4K LG QNED Smart TV QNED89",
+      "price": "2499",
+      "rating": "4.9",
+      "imageCount": 187,
+      "videoCount": 34
+    }
+  ]
+}

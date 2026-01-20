@@ -1,0 +1,55 @@
+{
+  "category": "uhd",
+  "updatedAt": "2026-01-20T06:42:27.278Z",
+  "totalProducts": 6,
+  "products": [
+    {
+      "modelNumber": "55UA73006LA",
+      "productName": "55 Zoll LG UHD AI UA73 4K Smart TV ",
+      "price": "419",
+      "rating": "4.2",
+      "imageCount": 173,
+      "videoCount": 12
+    },
+    {
+      "modelNumber": "55UA75006LA",
+      "productName": "55 Zoll LG UHD AI UA75 4K Smart TV ",
+      "price": "399",
+      "rating": "4.2",
+      "imageCount": 179,
+      "videoCount": 13
+    },
+    {
+      "modelNumber": "65UA73006LA",
+      "productName": "65 Zoll LG UHD AI UA73 4K Smart TV ",
+      "price": "569",
+      "rating": "4.2",
+      "imageCount": 171,
+      "videoCount": 12
+    },
+    {
+      "modelNumber": "65UA75006LA",
+      "productName": "65 Zoll LG UHD AI UA75 4K Smart TV ",
+      "price": "548.99",
+      "rating": "4.2",
+      "imageCount": 169,
+      "videoCount": 13
+    },
+    {
+      "modelNumber": "75UA74006LB",
+      "productName": "75 Zoll 4K LG UHD Smart TV UA74",
+      "price": "",
+      "rating": "4.5",
+      "imageCount": 160,
+      "videoCount": 13
+    },
+    {
+      "modelNumber": "75UA75006LA",
+      "productName": "75 Zoll LG UHD AI UA75 4K Smart TV ",
+      "price": "698.99",
+      "rating": "4.2",
+      "imageCount": 167,
+      "videoCount": 13
+    }
+  ]
+}

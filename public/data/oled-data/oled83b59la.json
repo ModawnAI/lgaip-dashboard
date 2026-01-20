@@ -1,0 +1,2416 @@
+{
+  "crawledAt": "2026-01-20T05:18:26.484Z",
+  "url": "https://www.lg.com/de/tvs-und-soundbars/oled/oled83b59la/",
+  "modelNumber": "OLED83B59LA",
+  "category": "OLED",
+  "basicInfo": {
+    "productName": "83 Zoll LG OLED AI B5 4K Smart TV",
+    "description": "Entdecken Sie LG OLED83B59LA. Für Bilder, Bewertungen und technische Daten zu LG klicken 83 Zoll LG OLED AI B5 4K Smart TV.",
+    "headline": "83 Zoll LG OLED AI B5 4K Smart TV",
+    "screenSize": "83 Zoll",
+    "series": "B",
+    "brand": "LG",
+    "modelNumber": "OLED83B59LA"
+  },
+  "pricing": {
+    "currentPrice": "2119",
+    "currency": "EUR",
+    "availability": "InStock",
+    "seller": "LG DE"
+  },
+  "ratings": {
+    "averageRating": "4.6",
+    "reviewCount": 625,
+    "bestRating": 5
+  },
+  "energyEfficiency": {
+    "category": "F",
+    "scaleMax": "A1Plus",
+    "scaleMin": "G",
+    "eprelCertificationId": "2247995"
+  },
+  "media": {
+    "images": [
+      {
+        "src": "https://t.teads.tv/track?action=pageView&env=js-web&tag_version=8.5.0_d71d360&provider=tag&buyer_pixel_id=7484&referer=https%3A%2F%2Fwww.lg.com%2Fde%2Ftvs-und-soundbars%2Foled%2Foled83b59la%2F&user_session_id=1079fadd-9d90-452e-850c-d9ff73d8afa9&hasConsent=true&cht=timeout",
+        "srcset": null,
+        "alt": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/banners/2026-01-15-LG-CB26-GNB-290x90px-V1-jgr.jpg",
+        "srcset": null,
+        "alt": " Gute Vorsätze für 2026",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/banners/2026-01-15-LG-CB26-GNB-290x90px-V1-jgr.jpg",
+        "srcset": null,
+        "alt": " Gute Vorsätze für 2026",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "OLED83B59LA EU.pdf",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "OLED83B59LA EU.pdf",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled65b59la/oled-g5-2025-65-gallery-17-lg-galley-plus-free.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Innenansicht eines eleganten Hauses. Es werden viele verschiedene Kunstwerke angezeigt. An der Mittelwand befindet sich ein LG TV mit Kunstwerken auf dem Bildschirm. Der Fernseher sieht aus wie ein Gemälde aus einem Museum.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/gallery/83-b5-a/thumbnail/oled-b5-2025-83-thumbnail-16.jpg",
+        "srcset": null,
+        "alt": "OLED B5 USP Einführungsvideo.",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/2010-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Frontansicht des 83 Zoll LG OLED AI B5 4K Smart TV OLED83B59LA",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/2010-03.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Rückansicht des LG OLED AI B5 4K Smart TV.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/2010-04.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Seitenansicht des LG OLED AI B5 4K Smart TV.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/2010-05.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Frontansicht und Seitenansicht des LG OLED AI B5 4K Smart TV mit den Abmessungen der Länge, Breite, Höhe und Tiefe.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/2010-06.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Der alpha 8 Gen2 4K AI-Prozessor leuchtet orange und rosa, und bunte Lichtblitze schießen aus ihm heraus. Der Titel spricht davon, dass der Prozessor 4K-Qualität, atemberaubende Farben und Helligkeit liefert. Die Leistungsstatistiken sind sichtbar.1,7-fach verbesserte AI-Verarbeitung, NPU. 1,4-mal schnellere Prozessorleistung, CPU.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled65b59la/oled-g5-2025-65-gallery-08-perfect-matte-tuv.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "LG OLED TV showing a visual comparison between a display with Perfect Color and Perfect Black and one without. UL and eyesafe certifications are visible with text prompting to check the marks.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled65b59la/oled-c5e-2025-65-gallery-09-perfect-color.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Ein schillerndes und farbenfrohes Feuerwerk ist auf einem Fernsehbildschirm zu sehen. Das Logo einer Zertifizierung ist sichtbar, die Perfect Color Technology liefert Farbkonsistenzwerte von mehr als 99 % bei bis zu 500 Lux. Intertek-Zertifizierungen, die unabhängige Tests belegen, sind ebenfalls sichtbar.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/2010-09.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Leopard im Wald in leuchtenden Farben und Details. Neben dem Leopard ist ein Gitternetz zu sehen. Hinter ihm leuchtet ein Licht. Das Bild zeigt, wie LG AI Picture Pro die Auflösung, Helligkeit, Tiefe und Klarheit der Szene eindrucksvoll verbessert hat.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/2010-10.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "LG TV-Bildschirm mit einer AI Magic Remote im Vordergrund. Die KI-Schaltfläche ist hervorgehoben und eine Sprechblase zeigt den Text „Schlage einen Film vor, der mir gefällt“. Auf dem Bildschirm sehen wir das Benutzersymbol E, das anzeigt, dass AI Voice ID in der Lage war, den Benutzer zu identifizieren und personalisierte Empfehlungen allein auf der Grundlage seiner Stimme zu geben. ",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/2010-11.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "LG AI Magic Remote mit hervorgehobener KI-Schaltfläche. Rundherum befinden sich die verschiedenen Funktionen, auf die ein Benutzer über die Schaltfläche zugreifen kann. AI Voice ID, AI Search, AI Chatbot, AI Concierge, AI Picture Wizard, AI Sound Wizard. Der Text erklärt, dass die LG AI Magic Remote dein KI-Erlebnis mit einer speziellen KI-Schaltfläche vervollständigt und wie eine Maus in der Luft verwendet werden kann. Einfach zeigen und klicken.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/gallery/83-b5-a/gallery/oled-b5-2025-83-gallery-12.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Nahaufnahme eines LG OLED TV-Bildschirms, der zeigt, wie AI Search funktioniert. Ein kleines Chat-Fenster ist geöffnet und zeigt, wie der Benutzer nachfragt, welche Sportspiele verfügbar sind. AI Search antwortete per Chat und zeigte Vorschaubilder verfügbarer Inhalte an. Es wird auch eine Aufforderung mit einer Frage an Microsoft Copilot angezeigt.",
+        "width": 2010,
+        "height": 1334
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/gallery/83-b5-a/gallery/oled-b5-2025-83-gallery-13-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "LG AI Magic Remote vor einem LG TV-Bildschirm. Auf dem Bildschirm erscheint eine personalisierte Begrüßung durch die LG KI mit benutzerdefinierten Schlüsselwörtern, die auf dem Such- und Sehverlauf des Benutzers basieren. An der Fernbedienung befinden sich ein Symbol und ein Hinweis darauf, dass die AI Concierge-Funktion mit einem kurzen Druck auf die KI-Schaltfläche leicht zugänglich ist. ",
+        "width": 2010,
+        "height": 1334
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/gallery/83-b5-a/gallery/oled-b5-2025-83-gallery-15.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Auf einem LG TV-Bildschirm werden Science-Fiction-Inhalte abgespielt. Auf dem Bildschirm befindet sich die Benutzeroberfläche des AI Chatbots. Der Benutzer hat dem Chatbot mitgeteilt, dass der Bildschirm zu dunkel ist. Der Chatbot bot Lösungen für die Anfrage an. Die gesamte Szene ist in zwei Hälften geteilt. Die eine Seite ist dunkler, die andere Seite heller und zeigt, wie der AI Chatbot das Problem für den Nutzer automatisch gelöst hat. Der Text erklärt, dass der AI Chatbot die Absicht des Benutzers verstehen und Lösungen zur Fehlerbehebung anbieten kann.",
+        "width": 2010,
+        "height": 1334
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled65b59la/oled-g5-2025-65-gallery-17-lg-galley-plus-free.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Innenansicht eines eleganten Hauses. Es werden viele verschiedene Kunstwerke angezeigt. An der Mittelwand befindet sich ein LG TV mit Kunstwerken auf dem Bildschirm. Der Fernseher sieht aus wie ein Gemälde aus einem Museum.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/gallery/83-b5-a/thumbnail/oled-b5-2025-83-thumbnail-16.jpg",
+        "srcset": null,
+        "alt": "OLED B5 USP Einführungsvideo.",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/gallery/83-b5-a/thumbnail/oled-b5-2025-83-thumbnail-16.jpg",
+        "srcset": null,
+        "alt": "OLED B5 USP Einführungsvideo.",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/350-01.jpg",
+        "srcset": null,
+        "alt": "Frontansicht des 83 Zoll LG OLED AI B5 4K Smart TV OLED83B59LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/350-03.jpg",
+        "srcset": null,
+        "alt": "Rückansicht des LG OLED AI B5 4K Smart TV.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/350-04.jpg",
+        "srcset": null,
+        "alt": "Seitenansicht des LG OLED AI B5 4K Smart TV.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/350-05.jpg",
+        "srcset": null,
+        "alt": "Frontansicht und Seitenansicht des LG OLED AI B5 4K Smart TV mit den Abmessungen der Länge, Breite, Höhe und Tiefe.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/350-06.jpg",
+        "srcset": null,
+        "alt": "Der alpha 8 Gen2 4K AI-Prozessor leuchtet orange und rosa, und bunte Lichtblitze schießen aus ihm heraus. Der Titel spricht davon, dass der Prozessor 4K-Qualität, atemberaubende Farben und Helligkeit liefert. Die Leistungsstatistiken sind sichtbar.1,7-fach verbesserte AI-Verarbeitung, NPU. 1,4-mal schnellere Prozessorleistung, CPU.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled65b59la/oled-g5-2025-65-thumbnail-08-perfect-matte-tuv.jpg",
+        "srcset": null,
+        "alt": "LG OLED TV showing a visual comparison between a display with Perfect Color and Perfect Black and one without. UL and eyesafe certifications are visible with text prompting to check the marks.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled65b59la/oled-c5e-2025-65-animation-09-perfect-color.jpg",
+        "srcset": null,
+        "alt": "Ein schillerndes und farbenfrohes Feuerwerk ist auf einem Fernsehbildschirm zu sehen. Das Logo einer Zertifizierung ist sichtbar, die Perfect Color Technology liefert Farbkonsistenzwerte von mehr als 99 % bei bis zu 500 Lux. Intertek-Zertifizierungen, die unabhängige Tests belegen, sind ebenfalls sichtbar.",
+        "width": 450,
+        "height": 450
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/350-09.jpg",
+        "srcset": null,
+        "alt": "Leopard im Wald in leuchtenden Farben und Details. Neben dem Leopard ist ein Gitternetz zu sehen. Hinter ihm leuchtet ein Licht. Das Bild zeigt, wie LG AI Picture Pro die Auflösung, Helligkeit, Tiefe und Klarheit der Szene eindrucksvoll verbessert hat.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/350-10.jpg",
+        "srcset": null,
+        "alt": "LG TV-Bildschirm mit einer AI Magic Remote im Vordergrund. Die KI-Schaltfläche ist hervorgehoben und eine Sprechblase zeigt den Text „Schlage einen Film vor, der mir gefällt“. Auf dem Bildschirm sehen wir das Benutzersymbol E, das anzeigt, dass AI Voice ID in der Lage war, den Benutzer zu identifizieren und personalisierte Empfehlungen allein auf der Grundlage seiner Stimme zu geben. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/350-11.jpg",
+        "srcset": null,
+        "alt": "LG AI Magic Remote mit hervorgehobener KI-Schaltfläche. Rundherum befinden sich die verschiedenen Funktionen, auf die ein Benutzer über die Schaltfläche zugreifen kann. AI Voice ID, AI Search, AI Chatbot, AI Concierge, AI Picture Wizard, AI Sound Wizard. Der Text erklärt, dass die LG AI Magic Remote dein KI-Erlebnis mit einer speziellen KI-Schaltfläche vervollständigt und wie eine Maus in der Luft verwendet werden kann. Einfach zeigen und klicken.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/gallery/83-b5-a/thumbnail/oled-b5-2025-83-thumbnail-12.jpg",
+        "srcset": null,
+        "alt": "Nahaufnahme eines LG OLED TV-Bildschirms, der zeigt, wie AI Search funktioniert. Ein kleines Chat-Fenster ist geöffnet und zeigt, wie der Benutzer nachfragt, welche Sportspiele verfügbar sind. AI Search antwortete per Chat und zeigte Vorschaubilder verfügbarer Inhalte an. Es wird auch eine Aufforderung mit einer Frage an Microsoft Copilot angezeigt.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/gallery/83-b5-a/thumbnail/oled-b5-2025-83-thumbnail-13-01.jpg",
+        "srcset": null,
+        "alt": "LG AI Magic Remote vor einem LG TV-Bildschirm. Auf dem Bildschirm erscheint eine personalisierte Begrüßung durch die LG KI mit benutzerdefinierten Schlüsselwörtern, die auf dem Such- und Sehverlauf des Benutzers basieren. An der Fernbedienung befinden sich ein Symbol und ein Hinweis darauf, dass die AI Concierge-Funktion mit einem kurzen Druck auf die KI-Schaltfläche leicht zugänglich ist. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/gallery/83-b5-a/thumbnail/oled-b5-2025-83-thumbnail-15.jpg",
+        "srcset": null,
+        "alt": "Auf einem LG TV-Bildschirm werden Science-Fiction-Inhalte abgespielt. Auf dem Bildschirm befindet sich die Benutzeroberfläche des AI Chatbots. Der Benutzer hat dem Chatbot mitgeteilt, dass der Bildschirm zu dunkel ist. Der Chatbot bot Lösungen für die Anfrage an. Die gesamte Szene ist in zwei Hälften geteilt. Die eine Seite ist dunkler, die andere Seite heller und zeigt, wie der AI Chatbot das Problem für den Nutzer automatisch gelöst hat. Der Text erklärt, dass der AI Chatbot die Absicht des Benutzers verstehen und Lösungen zur Fehlerbehebung anbieten kann.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled65b59la/oled-g5-2025-65-thumbnail-18-lg-galley-plus-free.jpg",
+        "srcset": null,
+        "alt": "Innenansicht eines eleganten Hauses. Es werden viele verschiedene Kunstwerke angezeigt. An der Mittelwand befindet sich ein LG TV mit Kunstwerken auf dem Bildschirm. Der Fernseher sieht aus wie ein Gemälde aus einem Museum.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/2010-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 83 Zoll LG OLED AI B5 4K Smart TV OLED83B59LA",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/2010-03.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Rückansicht des LG OLED AI B5 4K Smart TV.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/2010-04.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Seitenansicht des LG OLED AI B5 4K Smart TV.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/2010-05.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht und Seitenansicht des LG OLED AI B5 4K Smart TV mit den Abmessungen der Länge, Breite, Höhe und Tiefe.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/2010-06.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Der alpha 8 Gen2 4K AI-Prozessor leuchtet orange und rosa, und bunte Lichtblitze schießen aus ihm heraus. Der Titel spricht davon, dass der Prozessor 4K-Qualität, atemberaubende Farben und Helligkeit liefert. Die Leistungsstatistiken sind sichtbar.1,7-fach verbesserte AI-Verarbeitung, NPU. 1,4-mal schnellere Prozessorleistung, CPU.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled65b59la/oled-g5-2025-65-gallery-08-perfect-matte-tuv.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "LG OLED TV showing a visual comparison between a display with Perfect Color and Perfect Black and one without. UL and eyesafe certifications are visible with text prompting to check the marks.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled65b59la/oled-c5e-2025-65-gallery-09-perfect-color.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Ein schillerndes und farbenfrohes Feuerwerk ist auf einem Fernsehbildschirm zu sehen. Das Logo einer Zertifizierung ist sichtbar, die Perfect Color Technology liefert Farbkonsistenzwerte von mehr als 99 % bei bis zu 500 Lux. Intertek-Zertifizierungen, die unabhängige Tests belegen, sind ebenfalls sichtbar.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/2010-09.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Leopard im Wald in leuchtenden Farben und Details. Neben dem Leopard ist ein Gitternetz zu sehen. Hinter ihm leuchtet ein Licht. Das Bild zeigt, wie LG AI Picture Pro die Auflösung, Helligkeit, Tiefe und Klarheit der Szene eindrucksvoll verbessert hat.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/2010-10.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "LG TV-Bildschirm mit einer AI Magic Remote im Vordergrund. Die KI-Schaltfläche ist hervorgehoben und eine Sprechblase zeigt den Text „Schlage einen Film vor, der mir gefällt“. Auf dem Bildschirm sehen wir das Benutzersymbol E, das anzeigt, dass AI Voice ID in der Lage war, den Benutzer zu identifizieren und personalisierte Empfehlungen allein auf der Grundlage seiner Stimme zu geben. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/2010-11.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "LG AI Magic Remote mit hervorgehobener KI-Schaltfläche. Rundherum befinden sich die verschiedenen Funktionen, auf die ein Benutzer über die Schaltfläche zugreifen kann. AI Voice ID, AI Search, AI Chatbot, AI Concierge, AI Picture Wizard, AI Sound Wizard. Der Text erklärt, dass die LG AI Magic Remote dein KI-Erlebnis mit einer speziellen KI-Schaltfläche vervollständigt und wie eine Maus in der Luft verwendet werden kann. Einfach zeigen und klicken.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/gallery/83-b5-a/gallery/oled-b5-2025-83-gallery-12.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Nahaufnahme eines LG OLED TV-Bildschirms, der zeigt, wie AI Search funktioniert. Ein kleines Chat-Fenster ist geöffnet und zeigt, wie der Benutzer nachfragt, welche Sportspiele verfügbar sind. AI Search antwortete per Chat und zeigte Vorschaubilder verfügbarer Inhalte an. Es wird auch eine Aufforderung mit einer Frage an Microsoft Copilot angezeigt.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/gallery/83-b5-a/gallery/oled-b5-2025-83-gallery-13-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "LG AI Magic Remote vor einem LG TV-Bildschirm. Auf dem Bildschirm erscheint eine personalisierte Begrüßung durch die LG KI mit benutzerdefinierten Schlüsselwörtern, die auf dem Such- und Sehverlauf des Benutzers basieren. An der Fernbedienung befinden sich ein Symbol und ein Hinweis darauf, dass die AI Concierge-Funktion mit einem kurzen Druck auf die KI-Schaltfläche leicht zugänglich ist. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/gallery/83-b5-a/gallery/oled-b5-2025-83-gallery-15.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Auf einem LG TV-Bildschirm werden Science-Fiction-Inhalte abgespielt. Auf dem Bildschirm befindet sich die Benutzeroberfläche des AI Chatbots. Der Benutzer hat dem Chatbot mitgeteilt, dass der Bildschirm zu dunkel ist. Der Chatbot bot Lösungen für die Anfrage an. Die gesamte Szene ist in zwei Hälften geteilt. Die eine Seite ist dunkler, die andere Seite heller und zeigt, wie der AI Chatbot das Problem für den Nutzer automatisch gelöst hat. Der Text erklärt, dass der AI Chatbot die Absicht des Benutzers verstehen und Lösungen zur Fehlerbehebung anbieten kann.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled65b59la/oled-g5-2025-65-gallery-17-lg-galley-plus-free.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Innenansicht eines eleganten Hauses. Es werden viele verschiedene Kunstwerke angezeigt. An der Mittelwand befindet sich ein LG TV mit Kunstwerken auf dem Bildschirm. Der Fernseher sieht aus wie ein Gemälde aus einem Museum.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/350-01.jpg",
+        "srcset": null,
+        "alt": "Frontansicht des 83 Zoll LG OLED AI B5 4K Smart TV OLED83B59LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/350-03.jpg",
+        "srcset": null,
+        "alt": "Rückansicht des LG OLED AI B5 4K Smart TV.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/350-04.jpg",
+        "srcset": null,
+        "alt": "Seitenansicht des LG OLED AI B5 4K Smart TV.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/350-05.jpg",
+        "srcset": null,
+        "alt": "Frontansicht und Seitenansicht des LG OLED AI B5 4K Smart TV mit den Abmessungen der Länge, Breite, Höhe und Tiefe.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/350-06.jpg",
+        "srcset": null,
+        "alt": "Der alpha 8 Gen2 4K AI-Prozessor leuchtet orange und rosa, und bunte Lichtblitze schießen aus ihm heraus. Der Titel spricht davon, dass der Prozessor 4K-Qualität, atemberaubende Farben und Helligkeit liefert. Die Leistungsstatistiken sind sichtbar.1,7-fach verbesserte AI-Verarbeitung, NPU. 1,4-mal schnellere Prozessorleistung, CPU.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled65b59la/oled-g5-2025-65-thumbnail-08-perfect-matte-tuv.jpg",
+        "srcset": null,
+        "alt": "LG OLED TV showing a visual comparison between a display with Perfect Color and Perfect Black and one without. UL and eyesafe certifications are visible with text prompting to check the marks.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled65b59la/oled-c5e-2025-65-animation-09-perfect-color.jpg",
+        "srcset": null,
+        "alt": "Ein schillerndes und farbenfrohes Feuerwerk ist auf einem Fernsehbildschirm zu sehen. Das Logo einer Zertifizierung ist sichtbar, die Perfect Color Technology liefert Farbkonsistenzwerte von mehr als 99 % bei bis zu 500 Lux. Intertek-Zertifizierungen, die unabhängige Tests belegen, sind ebenfalls sichtbar.",
+        "width": 450,
+        "height": 450
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/350-09.jpg",
+        "srcset": null,
+        "alt": "Leopard im Wald in leuchtenden Farben und Details. Neben dem Leopard ist ein Gitternetz zu sehen. Hinter ihm leuchtet ein Licht. Das Bild zeigt, wie LG AI Picture Pro die Auflösung, Helligkeit, Tiefe und Klarheit der Szene eindrucksvoll verbessert hat.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/350-10.jpg",
+        "srcset": null,
+        "alt": "LG TV-Bildschirm mit einer AI Magic Remote im Vordergrund. Die KI-Schaltfläche ist hervorgehoben und eine Sprechblase zeigt den Text „Schlage einen Film vor, der mir gefällt“. Auf dem Bildschirm sehen wir das Benutzersymbol E, das anzeigt, dass AI Voice ID in der Lage war, den Benutzer zu identifizieren und personalisierte Empfehlungen allein auf der Grundlage seiner Stimme zu geben. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/350-11.jpg",
+        "srcset": null,
+        "alt": "LG AI Magic Remote mit hervorgehobener KI-Schaltfläche. Rundherum befinden sich die verschiedenen Funktionen, auf die ein Benutzer über die Schaltfläche zugreifen kann. AI Voice ID, AI Search, AI Chatbot, AI Concierge, AI Picture Wizard, AI Sound Wizard. Der Text erklärt, dass die LG AI Magic Remote dein KI-Erlebnis mit einer speziellen KI-Schaltfläche vervollständigt und wie eine Maus in der Luft verwendet werden kann. Einfach zeigen und klicken.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/gallery/83-b5-a/thumbnail/oled-b5-2025-83-thumbnail-12.jpg",
+        "srcset": null,
+        "alt": "Nahaufnahme eines LG OLED TV-Bildschirms, der zeigt, wie AI Search funktioniert. Ein kleines Chat-Fenster ist geöffnet und zeigt, wie der Benutzer nachfragt, welche Sportspiele verfügbar sind. AI Search antwortete per Chat und zeigte Vorschaubilder verfügbarer Inhalte an. Es wird auch eine Aufforderung mit einer Frage an Microsoft Copilot angezeigt.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/gallery/83-b5-a/thumbnail/oled-b5-2025-83-thumbnail-13-01.jpg",
+        "srcset": null,
+        "alt": "LG AI Magic Remote vor einem LG TV-Bildschirm. Auf dem Bildschirm erscheint eine personalisierte Begrüßung durch die LG KI mit benutzerdefinierten Schlüsselwörtern, die auf dem Such- und Sehverlauf des Benutzers basieren. An der Fernbedienung befinden sich ein Symbol und ein Hinweis darauf, dass die AI Concierge-Funktion mit einem kurzen Druck auf die KI-Schaltfläche leicht zugänglich ist. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/gallery/83-b5-a/thumbnail/oled-b5-2025-83-thumbnail-15.jpg",
+        "srcset": null,
+        "alt": "Auf einem LG TV-Bildschirm werden Science-Fiction-Inhalte abgespielt. Auf dem Bildschirm befindet sich die Benutzeroberfläche des AI Chatbots. Der Benutzer hat dem Chatbot mitgeteilt, dass der Bildschirm zu dunkel ist. Der Chatbot bot Lösungen für die Anfrage an. Die gesamte Szene ist in zwei Hälften geteilt. Die eine Seite ist dunkler, die andere Seite heller und zeigt, wie der AI Chatbot das Problem für den Nutzer automatisch gelöst hat. Der Text erklärt, dass der AI Chatbot die Absicht des Benutzers verstehen und Lösungen zur Fehlerbehebung anbieten kann.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled65b59la/oled-g5-2025-65-thumbnail-18-lg-galley-plus-free.jpg",
+        "srcset": null,
+        "alt": "Innenansicht eines eleganten Hauses. Es werden viele verschiedene Kunstwerke angezeigt. An der Mittelwand befindet sich ein LG TV mit Kunstwerken auf dem Bildschirm. Der Fernseher sieht aus wie ein Gemälde aus einem Museum.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/gallery/83-b5-a/thumbnail/oled-b5-2025-83-thumbnail-16.jpg",
+        "srcset": null,
+        "alt": "OLED B5 USP Einführungsvideo.",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "https://publish-p86205-e1346445.adobeaemcloud.com/content/dam/lge/es/personalization/shared/Personalizaion-MembershipBanner-M.jpg",
+        "srcset": null,
+        "alt": "member-benefit",
+        "width": 1440,
+        "height": 222
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/features/desktop/oled-b5-2025-01-feature-award-d-01.jpg",
+        "srcset": null,
+        "alt": "Award der „CES Innovation Awards“ mit der Ehrung „2025 Honoree“.",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/features/desktop/oled-b5-2025-01-feature-award-d-02.jpg",
+        "srcset": null,
+        "alt": "Logo von AVForums Editor's Choice für LG webOS 24 als bestes Smart TV-System 2024/2025. ",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled/b5/gp1/features/oled-b5-2025-02-feature-kv-m-v1.jpg",
+        "srcset": null,
+        "alt": "Auf dem Bildschirm eines LG OLED AI TVs ist ein abstraktes Bild mit beeindruckenden Details, Farben und Kontrasten zu sehen. Hinter dem Fernseher befindet sich eine vergrößerte Version des alpha 8 Gen2 4K AI-Prozessors. Er leuchtet und die Mikrochip-Schaltkreise um ihn herum sind beleuchtet. Der Titel lautet LG OLED AI. Außerdem ist der Text „Powered by LG alpha 8 Gen2 4K AI-Prozessor“ zu sehen. In der Ecke befindet sich ein goldenes Logo mit Sternen, auf dem steht: „World's number one OLED TV for 12 years“.\t",
+        "width": 1920,
+        "height": 720
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled/b5/gp1/features/oled-b5-2025-03-feature-ai-processor-msv.jpg",
+        "srcset": null,
+        "alt": "Der alpha 8 Gen2 4K AI-Prozessor leuchtet orange und rosa, und bunte Lichtblitze schießen aus ihm heraus. Der Titel spricht davon, dass der Prozessor 4K-Qualität, atemberaubende Farben und Helligkeit liefert. Die Leistungsstatistiken sind sichtbar.1,7-fach verbesserte AI-Verarbeitung, NPU. 1,4-mal schnellere Prozessorleistung, CPU.\t",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled/b5/gp1/features/oled-b5-2025-04-feature-perfect-black-and-color-m-02-v1.jpg",
+        "srcset": null,
+        "alt": "Ein LG OLED TV zeigt einen visuellen Vergleich zwischen einem Display mit perfektem Schwarz und perfekte Farben sowie einem ohne. UL- und Eyesafe-Zertifizierungen sind sichtbar mit einem Text, der auffordert, auf die Prüfzertifikate zu achten. ",
+        "width": 1920,
+        "height": 950
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled/b5/gp1/features/oled-b5-2025-05-feature-perfect-color-certification-m-v1.jpg",
+        "srcset": null,
+        "alt": "Bunter Papagei in ultrahoher Auflösung vor schwarzem Hintergrund. Rundherum schweben Wassertropfen in der Luft. Das Bild präsentiert Perfect Color, wobei jeder einzelne Farbton auf dem Körper des Papageis leuchtend und lebendig ist. Verschiedene Logo-Zertifizierungen von UL und Intertek sind sichtbar. Diese beziehen sich auf seine 100%ige Farbtreue und sein 100%iges Farbvolumen. Auch Text ist sichtbar, „schau dir das Prüfzeichen für Perfect Color an“.",
+        "width": 1920,
+        "height": 1040
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled/b5/gp1/features/oled-b5-2025-06-feature-ai-picture-pro-m.jpg",
+        "srcset": null,
+        "alt": "Linien bewegen sich über ein sehr trübes und fast graues Bild eines Leoparden im Wald, als ob ein Supercomputer die Elemente im Bild analysieren würde. Ein Laser zeichnet die Silhouette des Leoparden nach, die dann heller, schärfer und farbenfroher dargestellt wird. Auch der Hintergrund verändert sich von links nach rechts, jetzt mit besserem Kontrast, mehr Tiefe und mehr Farben. \t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/features/mobile/oled-b5-2025-07-feature-ai-magic-remote-m-01.jpg",
+        "srcset": null,
+        "alt": "LG AI Magic Remote-Fernbedienung mit hervorgehobenem ai Button. Es gibt eine grafische UI-Darstellung mit Symbolen, die zeigt, wie der AI Button den Zugang zu verschiedenen AI-Funktionen ermöglicht. Zu den Services gehören AI Voice ID, AI Search, AI Chatbot, AI Concierge, AI Picture Wizard und AI Sound Wizard. Die Funktionsweise wird gezeigt, indem der Cursor über einer Benutzeroberfläche erscheint und zeigt, wie die Fernbedienung wie eine Maus zum Zeigen und Klicken verwendet werden kann.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/features/mobile/oled-b5-2025-08-feature-ai-voice-id-m-01.jpg",
+        "srcset": null,
+        "alt": "Eine vierköpfige Familie ist um einen LG AI TV versammelt. Um die Person, welche die Fernbedienung hält, erscheint ein Kreis mit ihrem Namen. Hier wird gezeigt, wie AI Voice ID die Stimmsignatur eines jeden Benutzers erkennt. Die webOS-Oberfläche zeigt dann, wie die AI automatisch das Konto wechselt und personalisierte Inhalte empfiehlt.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/features/mobile/oled-b5-2025-09-feature-ai-search-m.jpg",
+        "srcset": null,
+        "alt": "Nahaufnahme eines LG OLED TV-Bildschirms, der zeigt, wie AI Search funktioniert. Ein kleines Chat-Fenster ist geöffnet und zeigt, wie der Benutzer nachfragt, welche Sportbegegnungen verfügbar sind. AI Search antwortete per Chat und zeigte Vorschaubilder verfügbarer Inhalte an. Es wird auch eine Aufforderung mit einer Frage an Microsoft Copilot angezeigt.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/features/mobile/oled-b5-2025-10-feature-ai-chatbot-m.jpg",
+        "srcset": null,
+        "alt": "Auf einem LG OLED TV-Bildschirm werden Science-Fiction-Inhalte abgespielt. Auf dem Bildschirm befindet sich die Benutzeroberfläche des AI Chatbots. Der Benutzer hat dem Chatbot mitgeteilt, dass der Bildschirm zu dunkel ist. Der Chatbot bietet Lösungen für die Anfrage an. Die gesamte Szene ist in zwei Hälften geteilt. Die eine Seite ist dunkler, die andere Seite heller und zeigt, wie der AI Chatbot das Problem für den Nutzer automatisch gelöst hat.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/features/mobile/oled-b5-2025-11-feature-ai-concierge-m-01.jpg",
+        "srcset": null,
+        "alt": "Die LG AI Magic Remote-Fernbedienung vor einem LG TV-Bildschirm. Auf dem Bildschirm erscheint eine personalisierte Begrüßung durch die LG AI mit benutzerdefinierten Schlüsselwörtern, die auf dem Such- und Sehverlauf des Benutzers basieren. An der Fernbedienung befinden sich ein Symbol und ein Hinweis darauf, dass die AI Concierge-Funktion mit einem kurzen Druck auf den AI Button leicht zugänglich ist.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/features/mobile/oled-b5-2025-12-feature-ai-picture-wizard-m.jpg",
+        "srcset": null,
+        "alt": "Bildschirm eines Benutzers, der den Personalisierungsprozess des AI Picture Wizard durchläuft. Es werden Bilderserien angezeigt, in denen die Auswahl des Benutzers hervorgehoben wird. Ein Ladesymbol erscheint und ein Landschaftsbild wird von links nach rechts verbessert. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/features/mobile/oled-b5-2025-13-feature-ai-sound-wizard-m.jpg",
+        "srcset": null,
+        "alt": "Bildschirm eines Benutzers, der den Personalisierungsprozess des AI Sound Wizard durchläuft. Es werden eine Reihe von Symbolen für Klänge ausgewählt. Zu sehen sind eine Jazzsängerin und ein Saxophonist, wobei die personalisierten Klänge durch Klangwellen dargestellt werden, die über das Bild animiert werden. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/features/mobile/oled-b5-2025-14-feature-webos-re-new-program-m.jpg",
+        "srcset": null,
+        "alt": "Logo und Name des webOS Re:New-Programms mit dem CES Innovation Award 2025 Honoree Logo. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/features/desktop/oled-b5-2025-26-feature-webos-youtube-d-1.jpg",
+        "srcset": null,
+        "alt": "Der Titel \"2025 LG AI TV\" und \"AI Voice ID\" wird angezeigt. Ein Mann und eine Frau sitzen auf einer Couch und halten eine TV-Fernbedienung in der Hand.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/features/desktop/oled-b5-2025-26-feature-webos-youtube-d-2.jpg",
+        "srcset": null,
+        "alt": "Der Titel \"2025 LG AI TV\" und \"AI Search\" wird angezeigt. Eine dreiköpfige Familie sitzt auf der Couch im Wohnzimmer.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/features/desktop/oled-b5-2025-26-feature-webos-youtube-d-3.jpg",
+        "srcset": null,
+        "alt": "Der Titel \"2025 LG AI TV\" und \"Al Chatbot & Al Picture/Sound Wizard\" wird angezeigt. Ein Mädchen sitzt, lächelt und schaut in die Ferne.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/features/desktop/oled-b5-2025-26-feature-webos-youtube-d-4.jpg",
+        "srcset": null,
+        "alt": "Der Titel \"2025 LG AI TV\" und \"Al Concierge\" wird angezeigt. Die LG Al Magic Remote-Fernbedienung ist sichtbar. Ein Mann sitzt auf der Couch.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/features/mobile/oled-b5-2025-21-feature-home-hub-m.jpg",
+        "srcset": null,
+        "alt": "TV-Fernbedienung vor einem LG TV-Bildschirm mit Home Hub. Alle Funktionen und Steuerungen über andere intelligente Geräte werden angezeigt. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/features/mobile/oled-b5-2025-15-feature-ai-sound-pro-m-3.jpg",
+        "srcset": null,
+        "alt": "Ein Wohnzimmer mit LG TV. Grafische Darstellungen von Klangwellen füllen den gesamten Raum aus und zeigen den satten Surround-Sound von virtuellen 9.1.2-Kanälen.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled/b5/gp1/features/oled-b5-2025-12-feature-ai-sound-pro-m-1.jpg",
+        "srcset": null,
+        "alt": "Ein Mann spielt Gitarre, eine Frau singt in ein Mikrofon und ein Mann spielt Klavier. Die von ihnen ausgehenden Schallwellen zeigen die Klangemission und wie die Klangqualität durch AI Clear Sound verbessert wird.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled/b5/gp1/features/oled-b5-2025-12-feature-ai-sound-pro-m-2.jpg",
+        "srcset": null,
+        "alt": "Der LG OLED TV zeigt einen Mann auf einem Motorrad, aus dessen Rad abstrakte violette Kreise kommen, um den Klang zu visualisieren.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/features/mobile/oled-b5-2025-15-feature-ai-sound-pro-m-3.jpg",
+        "srcset": null,
+        "alt": "Ein Wohnzimmer mit LG TV. Grafische Darstellungen von Klangwellen füllen den gesamten Raum aus und zeigen den satten Surround-Sound von virtuellen 9.1.2-Kanälen.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled/b5/gp1/features/oled-b5-2025-12-feature-ai-sound-pro-m-1.jpg",
+        "srcset": null,
+        "alt": "Ein Mann spielt Gitarre, eine Frau singt in ein Mikrofon und ein Mann spielt Klavier. Die von ihnen ausgehenden Schallwellen zeigen die Klangemission und wie die Klangqualität durch AI Clear Sound verbessert wird.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled/b5/gp1/features/oled-b5-2025-13-feature-wow-orchestra-m-01-2.jpg",
+        "srcset": null,
+        "alt": "Die LG Soundbar befindet sich unter einem LG OLED TV. Auf dem Fernsehbildschirm wird die Benutzeroberfläche für die Lautstärkeregelung der Soundbar und des Fernsehers angezeigt. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled/b5/gp1/features/oled-b5-2025-13-feature-wow-orchestra-m-01-1.jpg",
+        "srcset": null,
+        "alt": "Wohnzimmer mit einem LG OLED TV und einer LG Soundbar mit Grafiken, die zeigen, wie beide Geräte den Raum mit Multi-Surround-Klang füllen.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled/b5/gp1/features/oled-b5-2025-13-feature-wow-orchestra-m-01-2.jpg",
+        "srcset": null,
+        "alt": "Die LG Soundbar befindet sich unter einem LG OLED TV. Auf dem Fernsehbildschirm wird die Benutzeroberfläche für die Lautstärkeregelung der Soundbar und des Fernsehers angezeigt. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled/b5/gp1/features/oled-b5-2025-13-feature-wow-orchestra-m-01-1.jpg",
+        "srcset": null,
+        "alt": "Wohnzimmer mit einem LG OLED TV und einer LG Soundbar mit Grafiken, die zeigen, wie beide Geräte den Raum mit Multi-Surround-Klang füllen.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled/b5/gp1/features/oled-b5-2025-14-feature-slim-design-m-2.jpg",
+        "srcset": null,
+        "alt": "Nahaufnahme einer Ecke eines LG OLED-Fernsehers in einem Wohnzimmer. Er steht auf einem Standfuss und man kann sehen, wie gut die schlanke Silhouette mit der Inneneinrichtung harmoniert. \t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled/b5/gp1/features/oled-b5-2025-14-feature-slim-design-m-1.jpg",
+        "srcset": null,
+        "alt": "In einem farbenfrohen Wohnzimmer steht ein wandmontierter LG OLED-Fernseher mit Soundbar. Die Perspektive ist schräg und zeigt den ultraschlanken Rahmen des Fernsehers an der Wand.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled/b5/gp1/features/oled-b5-2025-14-feature-slim-design-m-2.jpg",
+        "srcset": null,
+        "alt": "Nahaufnahme einer Ecke eines LG OLED-Fernsehers in einem Wohnzimmer. Er steht auf einem Standfuss und man kann sehen, wie gut die schlanke Silhouette mit der Inneneinrichtung harmoniert. \t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled/b5/gp1/features/oled-b5-2025-14-feature-slim-design-m-1.jpg",
+        "srcset": null,
+        "alt": "In einem farbenfrohen Wohnzimmer steht ein wandmontierter LG OLED-Fernseher mit Soundbar. Die Perspektive ist schräg und zeigt den ultraschlanken Rahmen des Fernsehers an der Wand.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/features/mobile/oled-b5-2025-22-feature-multi-view-m.jpg",
+        "srcset": null,
+        "alt": "Person im Wohnzimmer, die ein Telefon in der Hand hält. Auf dem Telefon zeigt ein Übertragungssymbol an, dass der Bildschirm des Telefons auf dem Fernseher gespiegelt wird. Im Fernsehen läuft ein Basketballspiel, daneben zeigt ein Spiegelbildschirm Spielerstatistiken an. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/features/mobile/oled-b5-2025-23-feature-lg-channels-m.jpg",
+        "srcset": null,
+        "alt": "Der Startbildschirm von LG Channels zeigt die Vielfalt der auf einem LG TV verfügbaren Inhalte. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/features/mobile/oled-b5-2025-24-feature-free-subscription-m.jpg",
+        "srcset": null,
+        "alt": "Drei verschiedene Symbole, die die einfache Nutzung von LG Channels ohne Abonnement, Gebühren oder die Einrichtung einer externen Set-Top-Box zeigen. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/features/mobile/oled-b5-2025-25-feature-gaming-portal-m-02.jpg",
+        "srcset": null,
+        "alt": "Startbildschirm des Gaming Portal. Über den Cursor lassen sich verschiedene beliebte Spieletitel auswählen. Außerdem können Games nach der Art des verfügbaren Controllers – Gamepad oder Fernbedienung – gefiltert werden. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/features/mobile/oled-b5-2025-18-feature-ultimate-gameplay-intertek-m.jpg",
+        "srcset": null,
+        "alt": "Zwei Bilder eines Autos in einem Video-Game nebeneinander. Auf einem ist viel Bewegungsunschärfe zu sehen. Das andere Bild ist scharf und zeigt die hohe Bildrate des LG OLED TV. Das Nvidia G-Sync-Logo, AMD FreeSync Premium, das Intertek-Siegel für eine Reaktionszeit von 0,1ms und andere relevante Zertifizierungen sind sichtbar. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled/b5/gp1/features/oled-b5-2025-16-feature-best-oled-tv-for-movies-d-1.jpg",
+        "srcset": null,
+        "alt": "Ein Regisseur vor einem Bedienfeld bei der Bearbeitung des Films „Killers of the Flower Moon“ auf einem LG OLED-Fernseher. Unten links: das Dolby Vision-Logo und das Filmmaker Ambient Mode-Logo.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled/b5/gp1/features/oled-b5-2025-16-feature-best-oled-tv-for-movies-d-2.jpg",
+        "srcset": null,
+        "alt": "Wohnzimmer mit einem LG OLED-Fernseher und einer LG Soundbar. Grafiken auf dem Fernsehbildschirm und den Lautsprechern zeigen, wie Dolby Atmos den gesamten Raum mit Surround Sound aus allen Richtungen füllt. Das Dolby Atmos-Logo befindet sich in der unteren Ecke.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/101-oled-b5-83-oled83b59la/installation-video/Installation-TV-B5-83-Stand-Thumbnail-765X576-M.jpg",
+        "srcset": null,
+        "alt": "Installationsvideo zur Montage des Standfußes für den LG OLED evo AI B5 Fernseher.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/features/mobile/oled-b5-2025-20-feature-innovation-banner-m.jpg",
+        "srcset": null,
+        "alt": "Ein großer weißer Raum, gefüllt mit OLED TVs, zeigt, dass LG seit mehr als einem Jahrzehnt bahnbrechende Innovationen auf den Markt gebracht hat. Das Emblem „Seit 12 Jahren die Nummer 1 der Welt bei OLED TV“ ist auch sichtbar.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/809faa5e-1a26-43c8-a951-83a1b73bbb44",
+        "srcset": null,
+        "alt": "LG Canada",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/4f57878e-cc1a-4047-845f-7baac15b1991",
+        "srcset": null,
+        "alt": "LG Spain",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://contentorigin.bazaarvoice.com/cohley/default/Cohley_Logo.png",
+        "srcset": null,
+        "alt": "cohley.com",
+        "width": 400,
+        "height": 213
+      },
+      {
+        "src": "https://contentorigin.bazaarvoice.com/cohley/default/Cohley_Logo.png",
+        "srcset": null,
+        "alt": "cohley.com",
+        "width": 400,
+        "height": 213
+      },
+      {
+        "src": "https://contentorigin.bazaarvoice.com/influenster/default/influenster.png",
+        "srcset": null,
+        "alt": "influenster.com",
+        "width": 200,
+        "height": 55
+      },
+      {
+        "src": "https://contentorigin.bazaarvoice.com/cohley/default/Cohley_Logo.png",
+        "srcset": null,
+        "alt": "cohley.com",
+        "width": 400,
+        "height": 213
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled48b59la/Basic-450-01.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 48 Zoll LG OLED AI B5 4K Smart TV OLED48B59LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/m5-evo/gp1/gallery/65-m5-a/gallery_new/Basic.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Vorderansicht des LG OLED M5 TVs. OLED-Emblem „12 Years of world number 1“ und LG OLED evo AI 2025-Logo sind auf dem Bildschirm zu sehen. Zero Connect Box in der Ecke mit dem Titel „Zero Connect Box mit drahtloser Video- und Audioübertragung in 4K mit 144Hz“",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled65c5elb-ds60tr/450x450_OLED65C5ELB.DS60TR.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled55c5elb-ds60tr/450x450_OLED55C5ELB.DS60TR.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled48b59la-ds40tr/450x450_OLED48B59LA.DS40TR.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des Weltweit erster, transparenter \"True Wireless\" OLED TV LG SIGNATURE OLED T 77 Zoll mit kabelloser 4K-Video- und Audioübertragung OLED77T49LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/75qned85a6c_aeu_eedg_c/450_b.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 75 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV 75QNED86A6A",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-d.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_manual-software_48x48.svg",
+        "srcset": null,
+        "alt": "Symbol Benutzerhandbuch und Software",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_complaints_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Fehlerbehebung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_warranty_48x48.svg",
+        "srcset": null,
+        "alt": "Garantie-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_part-accessory_48x48.svg",
+        "srcset": null,
+        "alt": "Symbol für Teile und Zubehör",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/buy/icon_register-a-product_48.svg",
+        "srcset": null,
+        "alt": "Symbol Produktregistrierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_product_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Produktsupport",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_order_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Bestellsupport",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/Icon_request-a-repair_60x60.svg",
+        "srcset": null,
+        "alt": "Symbol für Reparaturanfrage",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_chat-with-us__60x60.svg",
+        "srcset": null,
+        "alt": "Livechat-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_whatsapp_60x60.svg",
+        "srcset": null,
+        "alt": "WhatsApp-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_email-us_60x60.svg",
+        "srcset": null,
+        "alt": "E-Mail-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_call_48.svg",
+        "srcset": null,
+        "alt": "Anruf-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/common/find-a-store-test/gradation-icon/banner-light-icons.svg",
+        "srcset": null,
+        "alt": "Filialsymbol suchen",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/facebook-circle-fill.svg",
+        "srcset": null,
+        "alt": "Facebook",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/youtube-circle-fill.svg",
+        "srcset": null,
+        "alt": "Youtube",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/instagram-circle-fill.svg",
+        "srcset": null,
+        "alt": "Instagram",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/ot_company_logo.png",
+        "srcset": null,
+        "alt": "Firmenlogo",
+        "width": 600,
+        "height": 106
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/powered_by_logo.svg",
+        "srcset": null,
+        "alt": "Powered by Onetrust",
+        "width": 136,
+        "height": 16
+      },
+      {
+        "src": "https://lantern.roeye.com/track.php?fingerprint=0e398a32-f94c-4327-8b91-78c9b166e387&referrer=&landingpage=https%3A%2F%2Fwww.lg.com%2Fde%2Ftvs-und-soundbars%2Foled%2Foled83b59la%2F&useragent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F143.0.7499.4%20Safari%2F537.36&site=63126",
+        "srcset": null,
+        "alt": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://bat.bing.com/action/0?ti=355009024&Ver=2&mid=21ee27cc-48c8-4a00-b289-b0f4403918cd&bo=1&sid=fc549eb0f5bb11f0a0a5b7ae3fc4ae70&vid=fc548160f5bb11f0b35da3cae89cc6a9&vids=0&msclkid=N&pi=0&lg=en-US&sw=1280&sh=720&sc=24&nwd=1&tl=83%20Zoll%20LG%20OLED%20AI%20B5%204K%20Smart%20TV%20-%20OLED83B59LA%20%7C%20LG%20DE&p=https%3A%2F%2Fwww.lg.com%2Fde%2Ftvs-und-soundbars%2Foled%2Foled83b59la%2F&r=&lt=2669&evt=pageLoad&sv=2&cdb=AQET&rn=626197",
+        "srcset": null,
+        "alt": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "videos": [
+      {
+        "type": "video",
+        "src": "blob:https://www.lg.com/331246e4-ce18-4c2c-bca0-47a1d46c45fc",
+        "poster": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1690282274001/54eac695-0f4f-4732-86cf-6298b7aef358/main/1280x720/49s17ms/match/image.jpg",
+        "sources": []
+      },
+      {
+        "type": "video",
+        "src": "blob:https://www.lg.com/9f5cc8b7-b974-42d1-97ba-f9e374a6fb7e",
+        "poster": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1690282274001/54eac695-0f4f-4732-86cf-6298b7aef358/main/1280x720/49s17ms/match/image.jpg",
+        "sources": []
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled/b5/gp1/features/oled-b5-2025-05-video-ai-picture-pro-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/oled/b5/gp1/features/oled-b5-2025-05-video-ai-picture-pro-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/video/oled-b5-2025-07-viedo-ai-magic-remote-d-01.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/video/oled-b5-2025-08-video-ai-voice-id-m-01.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/video/oled-b5-2025-08-video-ai-voice-id-d-01.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/video/oled-b5-2025-12-video-ai-picture-wizard-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/video/oled-b5-2025-12-video-ai-picture-wizard-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/video/oled-b5-2025-13-video-ai-sound-wizard-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/video/oled-b5-2025-13-video-ai-sound-wizard-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/video/oled-b5-2025-21-video-home-hub-m-01.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/video/oled-b5-2025-21-video-home-hub-d-01.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/video/oled-b5-2025-23-video-lg-channels-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/video/oled-b5-2025-23-video-lg-channels-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/video/oled-b5-2025-25-video-gaming-portal-m-02.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled/b5/gp1/video/oled-b5-2025-25-video-gaming-portal-d-02.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      }
+    ]
+  },
+  "specifications": {
+    "€124,92": "Monatliche Rate",
+    "€1.499,00": "Gesamtbetrag inkl. Zinsen",
+    "0%": "Zinssatz",
+    "€74,96": "Monatliche Rate",
+    "€1.798,99": "Gesamtbetrag inkl. Zinsen",
+    "€40,00": "Monatliche Rate",
+    "€120,00": "Gesamtbetrag inkl. Zinsen"
+  },
+  "features": [],
+  "reviews": {
+    "summary": {},
+    "featured": [
+      {
+        "headline": "der beste OLED-Fernseher",
+        "body": "Der 77-Zoll-Fernseher B5 ist einer der besten Fernseher, die ich je hatte. Bild- und Tonqualität sind hervorragend. Sein schlankes und besonderes Design verleiht unserem Wohnzimmer zusätzliche Eleganz. Die Software läuft einwandfrei und die KI-Funktion macht ihn noch attraktiver. Eine der besten Funktionen ist der Augenschonmodus, der das Bild weicher und augenschonender macht – ideal für längeres Fernsehen.",
+        "rating": 5,
+        "author": "Fußballgucker Kumpel",
+        "dateCreated": "2025-12-17T09:43:28.000+00:00",
+        "datePublished": "2025-12-17T12:45:23.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/43407a7d-11e9-5814-92e8-c878c3ffdf4b",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/2e4069c2-d6c6-5ebf-891b-9f78b38c799f",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/0c62ba3e-bdd6-5464-bfd4-c20d9e46ad60",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/7156e124-cc2e-5abe-9e68-c98c7cad5b0a",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/66b3523d-5384-5ec5-b490-8cfa42b2c3f2",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/8b554e91-72b5-564d-9696-52d81e7040e1"
+        ]
+      },
+      {
+        "headline": "Fantastic OLED TV that's affordable!",
+        "body": "65 inch LG OLED AI B5 4K Smart TV 2025\nOLED65B5PUA\nPurchased this OLED TV and it was delivered yesterday.\nThe picture is superb even during daylight with my trip pane picture window a foot away from the left of the TV. No glare issues at all which surprised me somewhat!\nVery pleased with the OLED picture, lots of adjustments available. I use the AI feature to setup my custom favorite video setting which worked very well and was easy to do.\nI have been shopping for several years for an OLED with Dolby Vision and Dolby Atmos that was affordable and the latest LG sale price on this 65 B series with a nine hundred discount for the bill. My 55 LG LED backlit LCD is still working perfectly and has a really good picture for the tech however this OLED is far superior looking and has a lot of newer tech including the AI adjusting that's helpful. Lots to learn yet, I haven't even used the voice control stuff yet. I have added some pics taken of the TV screen with YouTube in 4k, HDR 10 during the day with the window blinds opened.",
+        "rating": 5,
+        "author": "Tproveau",
+        "dateCreated": "2025-09-08T17:22:41.000+00:00",
+        "datePublished": "2025-09-08T19:45:16.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlY2FuYWRh/a1f3c106-525e-5d64-ac68-0b60f7bca50b",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlY2FuYWRh/20f873a6-fbca-575c-a02f-43b9bb852a74",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlY2FuYWRh/213c5f99-b566-5d9e-8fdf-22fc62db1ee2",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlY2FuYWRh/58352c6e-5817-53f7-b13f-bfac3b4f1e11",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlY2FuYWRh/3150a7fd-2053-5b48-a6f4-47ce24ceafaa",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlY2FuYWRh/50918966-8435-56eb-b0ef-856b66a55f27"
+        ]
+      },
+      {
+        "headline": "Der beste OLED-Fernseher, den ich je hatte",
+        "body": "Einer der besten OLED-Fernseher überhaupt. Bildqualität, Design und Spielemodus sind sehr ansprechend. Absolut empfehlenswert für ein optimales Seherlebnis, insbesondere beim Fußballgucken.",
+        "rating": 5,
+        "author": "beste Freundin bei Fußbal",
+        "dateCreated": "2025-12-23T11:50:00.000+00:00",
+        "datePublished": "2025-12-23T12:30:11.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/b18ec217-c1db-59fd-a896-bbeef2d72b7b",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/8d52e393-e9af-5292-bc6f-5eb29f13bf90",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/d4619d6d-4abb-5cf0-b214-4b9260515768",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/283b1614-d56d-52de-a48b-f2caf4201a4c",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/83aa14c6-4b0b-516b-889f-a4db9336ae06",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/99e3f1a3-6640-541f-80eb-234704d6d290"
+        ]
+      },
+      {
+        "headline": "Excelentes funciones de aplicación",
+        "body": "He adquirido este TV LG OLED-55' y es espectacular.",
+        "rating": 5,
+        "author": "PACO Y REME.",
+        "dateCreated": "2025-06-23T08:21:48.000+00:00",
+        "datePublished": "2025-06-24T14:32:45.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e47a5b80-7e1d-58d3-b008-ff161ef98a52",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/048b2996-4050-55e3-9271-617987f74bf2",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/120cd9c0-5dec-580f-844f-075942179ed9",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/0d563e74-bef0-5e02-9ecb-6330c015e731",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/83aa439f-8074-5f16-967d-d4e152803d2a",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/0c994bee-c9d4-5267-9bdd-fd7a0c172b83"
+        ]
+      },
+      {
+        "headline": "Stunning picture and sound",
+        "body": "[This review was collected as part of a promotion.] I upgraded from an 82\" 2019 QLED to the LG OLED83B5PUA and have been blown away by the difference in picture quality. Blacks are obviously better, but everything is crisper, with a 3D quality that was missing from my old TV.\n\nThis is in a living room that doubles as a casual daytime spot and a theater room at night. With Dolby Vision and Dolby Atmos playing 4K content, movies come alive. I’ve even found myself putting on the kids’ animated movies just because they look so stunning on this TV.\n\nI compared the B, C, and G series side by side in-store. While I could see some subtle differences, I knew I’d never watch them like that at home, and I’m very happy with my purchase.\n\nReview submitted as part of a program that provides a purchase discount.",
+        "rating": 5,
+        "author": "Jason O",
+        "dateCreated": "2025-08-06T17:48:19.000+00:00",
+        "datePublished": "2025-08-06T22:30:07.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/45c169a1-68c8-5e08-8087-4815cb2e28a9",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/cfe1986b-dea0-5850-abe1-e4a1f8d9cc02",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/dd3c62f6-1923-5bb7-b9fc-61f6791f55cb",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/703fe4ea-8d36-5b87-b4ad-ba8f64da7632",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/fffe27c7-7b70-5f5e-a0ac-13e9374b0b7e"
+        ]
+      },
+      {
+        "headline": "I would recommend this TV movie experience",
+        "body": "[This review was collected as part of a promotion.] I’ve been using this TV LG OLED83B5PUA mainly in my living room to watch movies and shows with my family, and the experience has been amazing. I chose this model because I wanted something that would really elevate the picture quality and this OLED screen delivers deep blacks, vibrant colors, and a contrast that makes everything pop.\n\nRight out of the box, I was impressed by how sleek and modern the design is. Setup was super easy and intuitive  everything was ready to go within minutes. One thing that really surprised me was the sound quality. Even without an external speaker system, it’s clear and powerful.\n\nIt fits perfectly in my space and has quickly become the centerpiece of our living room. The smart apps work smoothly and make everyday use super convenient. I’d absolutely recommend this TV to anyone who wants that cinematic experience at home with top-tier picture quality.\n\nReview submitted as part of a program that provides a discount on the purchase.",
+        "rating": 5,
+        "author": "Priscila F",
+        "dateCreated": "2025-08-04T18:00:26.000+00:00",
+        "datePublished": "2025-08-04T23:00:14.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/154320d7-0741-513c-b403-3bef5693911e",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/af52d0b3-21c6-5141-beb9-2a2440b3e171",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/eee7ee21-1c1d-5f13-8394-99b02c7b170b",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/26d7adeb-6f3c-5143-971c-4c9c34e68e7f",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/440e630d-2298-573d-9209-6abb17f80909"
+        ]
+      },
+      {
+        "headline": "Gutes Gerät, Mega Bild",
+        "body": "Der LG OLED AI B5 77 Zoll überzeugt auf ganzer Linie. Das ultraflache Design – vermutlich nur etwa 6 mm dick – ist ein echter Hingucker, auch die Rückseite wirkt modern und aufgeräumt.\n\nSmart Features:\nAlle wichtigen Streaming-Apps wie Netflix, Prime Video & Co. sind direkt verfügbar. Die Sprachsteuerung funktioniert zuverlässig, zudem lässt sich der TV problemlos mit Alexa koppeln. Praktisch ist auch die Maussteuerung über die Fernbedienung, wodurch Navigation besonders intuitiv wird.\n\nBild & Klang:\nDas Bild ist schlichtweg erstklassig: satte Farben, exzellenter Kontrast und HDR-Unterstützung bieten ein echtes Kinoerlebnis. Die vielen Bildoptimierungsoptionen erlauben individuelle Anpassungen, und spezielle Programme zur OLED-Pflege helfen, die Lebensdauer des Panels zu sichern. Der Klang ist solide, für ein richtiges Heimkino-Erlebnis empfiehlt sich jedoch eine zusätzliche Soundanlage.\n\nEnergieeffizienz:\nDer TV hat die Energieeffizienzklasse F, was natürlich nicht optimal ist, aber die Bestimmungen wurden in letzter Zeit geändert.\n\nFazit:\nDer LG OLED AI B5 kombiniert top Bildqualität, modernes Design und smarte Funktionen. Für alle, die einen großen, eleganten Fernseher mit vielseitigen Smart-Features suchen, ist er eine klare Empfehlung – allein für Heimkino-Liebhaber lohnt sich ein externes Soundsystem.",
+        "rating": 5,
+        "author": "stephanies646_9824",
+        "dateCreated": "2025-09-12T16:31:19.000+00:00",
+        "datePublished": "2025-09-12T17:00:06.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/35245a89-d35c-541a-946a-8a025bb92b9c",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/3e0d4414-8b22-583f-a573-aa0aeba793e0",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/07f83224-3920-52de-9761-d5e5dac8aaf4",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/19d19f3a-03a2-5b1d-97af-bebca111e490",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/a74a1c0a-76e8-59c8-b66c-8ecd3db8d4e2"
+        ]
+      },
+      {
+        "headline": "A Worthy Upgrade",
+        "body": "[This review was collected as part of a promotion.] Just upgraded to the LG B5 77” OLED from my 2017 LG C7 65” and I‘ve been blown away by the quality. I’ve been using it for watching sports, streaming shows and movies, and gaming. It’s been amazing across the board for all of those. The picture is super sharp, colors look incredible, and the brightness has worked great in my bright living room. \n\nWatching sports makes me feel right in the action, and games run incredible smooth. The smart TV features are easy to use, which makes flipping between apps super quick and seamless. The AI features have been great in recommending the best picture setting for whatever app I may be using.\n\nAttached to this are pictures of my setup!\n\nReview submitted as part of a program that provides a purchase discount.",
+        "rating": 5,
+        "author": "Matthew G",
+        "dateCreated": "2025-08-04T18:01:35.000+00:00",
+        "datePublished": "2025-08-04T23:00:14.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/df3732c5-f68d-5988-915e-258d4add61ce",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/9a927cdf-90d3-5649-a5b6-2bfc7d66c13e",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/8f19dc66-6125-5b9c-9a61-c1428837e322",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/305d07f4-cede-54f4-b244-d3b4bd02722c"
+        ]
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://www.lg.com/de/"
+    },
+    {
+      "position": 2,
+      "name": "TVs & Soundbars",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/"
+    },
+    {
+      "position": 3,
+      "name": "OLED",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/oled/"
+    },
+    {
+      "position": 4,
+      "name": "OLED83B59LA",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/oled/oled83b59la/"
+    }
+  ],
+  "faq": [],
+  "metadata": {
+    "mpn": "OLED83B59LA",
+    "title": "83 Zoll LG OLED AI B5 4K Smart TV - OLED83B59LA | LG DE",
+    "description": "Entdecke den LG OLED B5 AI Smart TV & hol dir Kinofeeling in dein Zuhause: ✓83 Zoll ✓Intensive Farben ✓Smarte Funktionen ►Jetzt entdecken!",
+    "ogImage": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/450.jpg",
+    "ogTitle": "83 Zoll LG OLED AI B5 4K Smart TV - OLED83B59LA | LG DE",
+    "canonical": "https://www.lg.com/de/tvs-und-soundbars/oled/oled83b59la/"
+  },
+  "structuredData": {
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "VideoObject",
+        "name": " ",
+        "description": "",
+        "thumbnailUrl": " ",
+        "uploadDate": "2025-09-01",
+        "contentUrl": ""
+      },
+      {
+        "@context": "https://schema.org",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/oled/oled83b59la/",
+        "review": [
+          {
+            "@type": "Review",
+            "dateCreated": "2025-12-17T09:43:28.000+00:00",
+            "datePublished": "2025-12-17T12:45:23.000+00:00",
+            "headline": "der beste OLED-Fernseher",
+            "reviewBody": "Der 77-Zoll-Fernseher B5 ist einer der besten Fernseher, die ich je hatte. Bild- und Tonqualität sind hervorragend. Sein schlankes und besonderes Design verleiht unserem Wohnzimmer zusätzliche Eleganz. Die Software läuft einwandfrei und die KI-Funktion macht ihn noch attraktiver. Eine der besten Funktionen ist der Augenschonmodus, der das Bild weicher und augenschonender macht – ideal für längeres Fernsehen.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Fußballgucker Kumpel"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/43407a7d-11e9-5814-92e8-c878c3ffdf4b",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/56ba9892-1e21-5cab-88e2-71cfddff9e25"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/2e4069c2-d6c6-5ebf-891b-9f78b38c799f",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/191d1139-5439-553c-8892-5e189356c914"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/0c62ba3e-bdd6-5464-bfd4-c20d9e46ad60",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/973b394a-b13e-51ac-8166-ae8f0797965e"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/7156e124-cc2e-5abe-9e68-c98c7cad5b0a",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/f8f429be-1820-5615-a1e4-f9996c83ebca"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/66b3523d-5384-5ec5-b490-8cfa42b2c3f2",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/9374e18c-de5b-5cbf-a4f8-0d6adf116b0c"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/8b554e91-72b5-564d-9696-52d81e7040e1",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/35b94007-1206-559f-b193-5775686ae801"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-09-08T17:22:41.000+00:00",
+            "datePublished": "2025-09-08T19:45:16.000+00:00",
+            "headline": "Fantastic OLED TV that's affordable!",
+            "reviewBody": "65 inch LG OLED AI B5 4K Smart TV 2025\nOLED65B5PUA\nPurchased this OLED TV and it was delivered yesterday.\nThe picture is superb even during daylight with my trip pane picture window a foot away from the left of the TV. No glare issues at all which surprised me somewhat!\nVery pleased with the OLED picture, lots of adjustments available. I use the AI feature to setup my custom favorite video setting which worked very well and was easy to do.\nI have been shopping for several years for an OLED with Dolby Vision and Dolby Atmos that was affordable and the latest LG sale price on this 65 B series with a nine hundred discount for the bill. My 55 LG LED backlit LCD is still working perfectly and has a really good picture for the tech however this OLED is far superior looking and has a lot of newer tech including the AI adjusting that's helpful. Lots to learn yet, I haven't even used the voice control stuff yet. I have added some pics taken of the TV screen with YouTube in 4k, HDR 10 during the day with the window blinds opened.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tproveau"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlY2FuYWRh/a1f3c106-525e-5d64-ac68-0b60f7bca50b",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlY2FuYWRh/419814c6-2841-5c3c-943c-c74d2df6a73f"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlY2FuYWRh/20f873a6-fbca-575c-a02f-43b9bb852a74",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlY2FuYWRh/ecfc2cb4-3785-5b93-bc3f-e79ff1ecb061"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlY2FuYWRh/213c5f99-b566-5d9e-8fdf-22fc62db1ee2",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlY2FuYWRh/0f81c646-6faf-5ccf-a160-dd84d90a3291"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlY2FuYWRh/58352c6e-5817-53f7-b13f-bfac3b4f1e11",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlY2FuYWRh/98da9104-a000-5277-918c-e3d77a83c3f3"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlY2FuYWRh/3150a7fd-2053-5b48-a6f4-47ce24ceafaa",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlY2FuYWRh/5683a737-a5d5-5daa-84e5-9fde11bf3cbf"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlY2FuYWRh/50918966-8435-56eb-b0ef-856b66a55f27",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlY2FuYWRh/6627a743-85c6-5e94-b2a6-a59888f6cfd6"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-12-23T11:50:00.000+00:00",
+            "datePublished": "2025-12-23T12:30:11.000+00:00",
+            "headline": "Der beste OLED-Fernseher, den ich je hatte",
+            "reviewBody": "Einer der besten OLED-Fernseher überhaupt. Bildqualität, Design und Spielemodus sind sehr ansprechend. Absolut empfehlenswert für ein optimales Seherlebnis, insbesondere beim Fußballgucken.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "beste Freundin bei Fußbal"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/b18ec217-c1db-59fd-a896-bbeef2d72b7b",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/6929e421-aa73-549a-9fa5-f9c743f9c0b1"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/8d52e393-e9af-5292-bc6f-5eb29f13bf90",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/5646849f-3cf0-5dfe-b6c0-d3e11bd6316e"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/d4619d6d-4abb-5cf0-b214-4b9260515768",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/abb37247-3e2c-513f-9301-33bd18f46256"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/283b1614-d56d-52de-a48b-f2caf4201a4c",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/3f1ce445-f282-5585-986a-9e1300320c48"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/83aa14c6-4b0b-516b-889f-a4db9336ae06",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/1f513240-b32b-5027-aaa4-4d85a0c917f7"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/99e3f1a3-6640-541f-80eb-234704d6d290",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/4806644a-6803-5976-98fd-5b667e113e60"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-06-23T08:21:48.000+00:00",
+            "datePublished": "2025-06-24T14:32:45.000+00:00",
+            "headline": "Excelentes funciones de aplicación",
+            "reviewBody": "He adquirido este TV LG OLED-55' y es espectacular.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PACO Y REME."
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e47a5b80-7e1d-58d3-b008-ff161ef98a52",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/38f901be-3cce-590a-ac17-095f053eade1"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/048b2996-4050-55e3-9271-617987f74bf2",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/65aefc5f-b06b-5df2-9908-1daecbccb4e6"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/120cd9c0-5dec-580f-844f-075942179ed9",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/6ad62c04-49f4-5e5a-ae4a-26ee308ad870"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/0d563e74-bef0-5e02-9ecb-6330c015e731",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/9e92ce6e-c4cd-51df-9132-9d7ab047f2ad"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/83aa439f-8074-5f16-967d-d4e152803d2a",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/bf068e0f-8900-580f-a486-10fcde21f281"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/0c994bee-c9d4-5267-9bdd-fd7a0c172b83",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/79941d91-779f-5368-b61b-2ed63082da79"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-08-06T17:48:19.000+00:00",
+            "datePublished": "2025-08-06T22:30:07.000+00:00",
+            "headline": "Stunning picture and sound",
+            "reviewBody": "[This review was collected as part of a promotion.] I upgraded from an 82\" 2019 QLED to the LG OLED83B5PUA and have been blown away by the difference in picture quality. Blacks are obviously better, but everything is crisper, with a 3D quality that was missing from my old TV.\n\nThis is in a living room that doubles as a casual daytime spot and a theater room at night. With Dolby Vision and Dolby Atmos playing 4K content, movies come alive. I’ve even found myself putting on the kids’ animated movies just because they look so stunning on this TV.\n\nI compared the B, C, and G series side by side in-store. While I could see some subtle differences, I knew I’d never watch them like that at home, and I’m very happy with my purchase.\n\nReview submitted as part of a program that provides a purchase discount.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jason O"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/45c169a1-68c8-5e08-8087-4815cb2e28a9",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/ee20d8bc-cef0-57f7-b2a0-d699af399cf8"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/cfe1986b-dea0-5850-abe1-e4a1f8d9cc02",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/14d8f2ce-8ba9-5638-a629-0c62940b8260"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/dd3c62f6-1923-5bb7-b9fc-61f6791f55cb",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/1acccbbd-5636-5c34-9995-b0b634d2e1de"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/703fe4ea-8d36-5b87-b4ad-ba8f64da7632",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/007f72c3-e8bd-54d8-8e93-513c8f4662f1"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/fffe27c7-7b70-5f5e-a0ac-13e9374b0b7e",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/8b293b14-dd21-57be-a6c4-79fe0875814d"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-08-04T18:00:26.000+00:00",
+            "datePublished": "2025-08-04T23:00:14.000+00:00",
+            "headline": "I would recommend this TV movie experience",
+            "reviewBody": "[This review was collected as part of a promotion.] I’ve been using this TV LG OLED83B5PUA mainly in my living room to watch movies and shows with my family, and the experience has been amazing. I chose this model because I wanted something that would really elevate the picture quality and this OLED screen delivers deep blacks, vibrant colors, and a contrast that makes everything pop.\n\nRight out of the box, I was impressed by how sleek and modern the design is. Setup was super easy and intuitive  everything was ready to go within minutes. One thing that really surprised me was the sound quality. Even without an external speaker system, it’s clear and powerful.\n\nIt fits perfectly in my space and has quickly become the centerpiece of our living room. The smart apps work smoothly and make everyday use super convenient. I’d absolutely recommend this TV to anyone who wants that cinematic experience at home with top-tier picture quality.\n\nReview submitted as part of a program that provides a discount on the purchase.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Priscila F"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/154320d7-0741-513c-b403-3bef5693911e",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/532d4859-8394-5eef-a12b-d8d28a326c10"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/af52d0b3-21c6-5141-beb9-2a2440b3e171",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/0b7f82cb-7762-5eb6-81c8-089c3d61e9cc"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/eee7ee21-1c1d-5f13-8394-99b02c7b170b",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/2f8979fd-a11f-5ed3-80dc-5792c5a51af0"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/26d7adeb-6f3c-5143-971c-4c9c34e68e7f",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/981ff178-1576-5c3c-bde8-297efcc0581d"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/440e630d-2298-573d-9209-6abb17f80909",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/8805e212-56e1-5e1d-aecd-8a534dd99455"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-09-12T16:31:19.000+00:00",
+            "datePublished": "2025-09-12T17:00:06.000+00:00",
+            "headline": "Gutes Gerät, Mega Bild",
+            "reviewBody": "Der LG OLED AI B5 77 Zoll überzeugt auf ganzer Linie. Das ultraflache Design – vermutlich nur etwa 6 mm dick – ist ein echter Hingucker, auch die Rückseite wirkt modern und aufgeräumt.\n\nSmart Features:\nAlle wichtigen Streaming-Apps wie Netflix, Prime Video & Co. sind direkt verfügbar. Die Sprachsteuerung funktioniert zuverlässig, zudem lässt sich der TV problemlos mit Alexa koppeln. Praktisch ist auch die Maussteuerung über die Fernbedienung, wodurch Navigation besonders intuitiv wird.\n\nBild & Klang:\nDas Bild ist schlichtweg erstklassig: satte Farben, exzellenter Kontrast und HDR-Unterstützung bieten ein echtes Kinoerlebnis. Die vielen Bildoptimierungsoptionen erlauben individuelle Anpassungen, und spezielle Programme zur OLED-Pflege helfen, die Lebensdauer des Panels zu sichern. Der Klang ist solide, für ein richtiges Heimkino-Erlebnis empfiehlt sich jedoch eine zusätzliche Soundanlage.\n\nEnergieeffizienz:\nDer TV hat die Energieeffizienzklasse F, was natürlich nicht optimal ist, aber die Bestimmungen wurden in letzter Zeit geändert.\n\nFazit:\nDer LG OLED AI B5 kombiniert top Bildqualität, modernes Design und smarte Funktionen. Für alle, die einen großen, eleganten Fernseher mit vielseitigen Smart-Features suchen, ist er eine klare Empfehlung – allein für Heimkino-Liebhaber lohnt sich ein externes Soundsystem.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "stephanies646_9824"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/35245a89-d35c-541a-946a-8a025bb92b9c",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/fd5ba52f-d8aa-5082-b32f-cce313f9b5c3"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/3e0d4414-8b22-583f-a573-aa0aeba793e0",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/20864c96-0b87-53d1-a755-b55ab25dffe7"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/07f83224-3920-52de-9761-d5e5dac8aaf4",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/428de263-f172-52cb-a639-805f4b74ce27"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/19d19f3a-03a2-5b1d-97af-bebca111e490",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/96717f0d-4873-5d7e-8c87-abf17f7b49b0"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/a74a1c0a-76e8-59c8-b66c-8ecd3db8d4e2",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/e14b4ad6-565f-5eb3-ba46-b0989abe7371"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-08-04T18:01:35.000+00:00",
+            "datePublished": "2025-08-04T23:00:14.000+00:00",
+            "headline": "A Worthy Upgrade",
+            "reviewBody": "[This review was collected as part of a promotion.] Just upgraded to the LG B5 77” OLED from my 2017 LG C7 65” and I‘ve been blown away by the quality. I’ve been using it for watching sports, streaming shows and movies, and gaming. It’s been amazing across the board for all of those. The picture is super sharp, colors look incredible, and the brightness has worked great in my bright living room. \n\nWatching sports makes me feel right in the action, and games run incredible smooth. The smart TV features are easy to use, which makes flipping between apps super quick and seamless. The AI features have been great in recommending the best picture setting for whatever app I may be using.\n\nAttached to this are pictures of my setup!\n\nReview submitted as part of a program that provides a purchase discount.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Matthew G"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/df3732c5-f68d-5988-915e-258d4add61ce",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/3e326917-5557-5f7f-bd45-fbf95aedcbb3"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/9a927cdf-90d3-5649-a5b6-2bfc7d66c13e",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/0f753177-4c90-53d0-a6b8-d7c53d53ed28"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/8f19dc66-6125-5b9c-9a61-c1428837e322",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/b5f73bca-06b7-57e5-b692-34d41fe15d2a"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/305d07f4-cede-54f4-b244-d3b4bd02722c",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/784e7265-255c-558b-b8aa-e851300df131"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org/",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/oled/oled83b59la/",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "itemReviewed": {
+            "@type": "IndividualProduct",
+            "name": "OLED83B59LA"
+          },
+          "ratingValue": "4.6",
+          "reviewCount": 625,
+          "bestRating": 5
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "product",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/oled/oled83b59la/",
+        "name": "83 Zoll LG OLED AI B5 4K Smart TV",
+        "image": "/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/450.jpg",
+        "description": "Entdecken Sie LG OLED83B59LA. Für Bilder, Bewertungen und technische Daten zu LG klicken 83 Zoll LG OLED AI B5 4K Smart TV.",
+        "mpn": "OLED83B59LA",
+        "brand": {
+          "@type": "Brand",
+          "name": "LG"
+        },
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "EUR",
+          "price": "2119",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "LG DE"
+          }
+        },
+        "size": {
+          "@type": "QuantitativeValue",
+          "unitCode": "MMT",
+          "value": "4K OLED"
+        },
+        "hasEnergyConsumptionDetails": {
+          "@type": "EnergyConsumptionDetails",
+          "hasEnergyEfficiencyCategory": "https://schema.org/EUEnergyEfficiencyCategoryF",
+          "energyEfficiencyScaleMax": "https://schema.org/EUEnergyEfficiencyCategoryA1Plus",
+          "energyEfficiencyScaleMin": "https://schema.org/EUEnergyEfficiencyCategoryG"
+        },
+        "hasCertification": {
+          "@type": "Certification",
+          "issuedBy": {
+            "@type": "Organization",
+            "name": "European_Commission"
+          },
+          "name": "EPREL",
+          "certificationIdentification": "2247995"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.lg.com/de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "TVs & Soundbars",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "OLED",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/oled/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "OLED83B59LA",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/oled/oled83b59la/"
+          }
+        ]
+      }
+    ]
+  }
+}

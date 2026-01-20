@@ -1,0 +1,1952 @@
+{
+  "crawledAt": "2026-01-20T05:37:59.031Z",
+  "url": "https://www.lg.com/de/tvs-und-soundbars/4k-uhd-tvs/65ur78006lk/",
+  "modelNumber": "65UR78006LK",
+  "category": "4K UHD",
+  "basicInfo": {
+    "productName": "65 Zoll LG 4K Smart UHD TV UR78",
+    "description": "Entdecken Sie LG 65UR78006LK. Für Bilder, Bewertungen und technische Daten zu LG klicken 65 Zoll LG 4K Smart UHD TV UR78.",
+    "headline": "65 Zoll LG 4K Smart UHD TV UR78",
+    "screenSize": "65 Zoll",
+    "series": "L",
+    "brand": "LG",
+    "modelNumber": "65UR78006LK"
+  },
+  "pricing": {
+    "currentPrice": "659",
+    "currency": "EUR",
+    "availability": "OutOfStock",
+    "seller": "LG DE"
+  },
+  "ratings": {
+    "averageRating": "4.3",
+    "reviewCount": 363,
+    "bestRating": 5
+  },
+  "energyEfficiency": {
+    "category": "F",
+    "scaleMax": "A1Plus",
+    "scaleMin": "G"
+  },
+  "media": {
+    "images": [
+      {
+        "src": "https://t.teads.tv/track?action=pageView&env=js-web&tag_version=8.5.0_d71d360&provider=tag&buyer_pixel_id=7484&referer=https%3A%2F%2Fwww.lg.com%2Fde%2Ftvs-und-soundbars%2F4k-uhd-tvs%2F65ur78006lk%2F&user_session_id=1079fadd-9d90-452e-850c-d9ff73d8afa9&hasConsent=true&cht=timeout",
+        "srcset": null,
+        "alt": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/banners/2026-01-15-LG-CB26-GNB-290x90px-V1-jgr.jpg",
+        "srcset": null,
+        "alt": " Gute Vorsätze für 2026",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/banners/2026-01-15-LG-CB26-GNB-290x90px-V1-jgr.jpg",
+        "srcset": null,
+        "alt": " Gute Vorsätze für 2026",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "65UR78006LK EU 수정.pdf",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "65UR78006LK EU 수정.pdf",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/large13.jpg?w=800",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/large01.jpg?w=800",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/deals-gallery/streaming-deals-1600x1062.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Streaming deals",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/large02.jpg?w=800",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/large03.jpg?w=800",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/large04.jpg?w=800",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/large05.jpg?w=800",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/large06.jpg?w=800",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/large07.jpg?w=800",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/large08.jpg?w=800",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/large09.jpg?w=800",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/large10.jpg?w=800",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/large11.jpg?w=800",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/large12.jpg?w=800",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/large13.jpg?w=800",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/large01.jpg?w=800",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/small01.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/deals-gallery/streaming-deals-180x180.jpg",
+        "srcset": null,
+        "alt": "Streaming deals",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/small02.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/small03.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/small04.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/small05.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/small06.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/small07.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/small08.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/small09.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/small10.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/small11.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/small12.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/small13.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/large01.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/deals-gallery/streaming-deals-1600x1062.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Streaming deals",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/large02.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/large03.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/large04.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/large05.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/large06.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/large07.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/large08.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/large09.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/large10.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/large11.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/large12.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/large13.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/small01.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/deals-gallery/streaming-deals-180x180.jpg",
+        "srcset": null,
+        "alt": "Streaming deals",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/small02.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/small03.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/small04.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/small05.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/small06.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/small07.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/small08.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/small09.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/small10.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/small11.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/small12.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/gallery/small13.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG 4K Smart UHD TV UR78, 65UR78006LK",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/uhd2023/tv-uhd-01-intro-mobile.jpg",
+        "srcset": null,
+        "alt": "Das Naturbild mit dem Felsenberg, der sich von oben und unten gegenübersteht, zeigt den Kontrast und die Details.",
+        "width": 1600,
+        "height": 800
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/uhd2023/tv-uhd-02-1-a5-gen6-mobile.jpg",
+        "srcset": null,
+        "alt": "Der Chipsatz erscheint aktiviert.",
+        "width": 1600,
+        "height": 820
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/uhd2023/tv-uhd-03-1-4k-upscaling-mobile.jpg",
+        "srcset": null,
+        "alt": "Ein Blick in die Natur, der die Bildqualität von Nicht-4K-Inhalten und hochskalierten 4K-Inhalten vergleicht.",
+        "width": 1600,
+        "height": 1100
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/uhd2023/tv-uhd-03-5-ai-brightness-control-desktop.jpg",
+        "srcset": null,
+        "alt": "Ein Bildschirm, der ein Bild eines Waldes zeigt und dessen Helligkeit je nach Umgebung angepasst wird.",
+        "width": 1000,
+        "height": 560
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/uhd2023/tv-uhd-04-big-screen-mobile.jpg",
+        "srcset": null,
+        "alt": "Eine UHD-TV-Halterung an der Wand hinter einem Tisch mit Zen-Stil-Einstellung.",
+        "width": 1600,
+        "height": 953
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/uhd2023/tv-uhd-06-1-audio-matching-mobile.jpg",
+        "srcset": null,
+        "alt": "Eine Hälfte des unteren Bildschirms und die Hälfte der Soundbar. Das Fernsehgerät zeigt weiße Heuschrecken, die über das Wasser laufen.",
+        "width": 1600,
+        "height": 873
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/uhd2023/tv-uhd-06-2-wow-orchestra-interface-2-mobile.jpg",
+        "srcset": null,
+        "alt": "Die Schnittstelle zum Ändern von Einstellungen wird auf dem Fernsehbildschirm angezeigt.",
+        "width": 1600,
+        "height": 1205
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/uhd2023/tv-uhd-07-all-new-home-mobile_v1.jpg",
+        "srcset": null,
+        "alt": "Diese Szene der Aktivierung von „All New Home“ wird auf dem Fernsehbildschirm gespielt.",
+        "width": 1600,
+        "height": 984
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/uhd2023/tv-uhd-08-my-profile-mobile_v1.jpg",
+        "srcset": null,
+        "alt": "Diese Szene der Aktivierung der „My profile“-Funktion wird auf dem Fernsehbildschirm abgespielt.",
+        "width": 1000,
+        "height": 560
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/uhd2023/tv-uhd-09-quick-card-mobile_v1.jpg",
+        "srcset": null,
+        "alt": "Diese Szene der Aktivierung der „Quick Card“-Funktion wird auf dem Fernsehbildschirm abgespielt.",
+        "width": 1000,
+        "height": 560
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/uhd2023/tv-uhd-10-1-ai-concierge-mobile.jpg",
+        "srcset": null,
+        "alt": "Das Gesicht eines Mannes wird auf dem Fernsehbildschirm angezeigt und empfohlene Stichwörter werden daneben angezeigt.",
+        "width": 1600,
+        "height": 936
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/uhd2023/tv-uhd-12-1-smart-assistant-mobile.jpg",
+        "srcset": null,
+        "alt": "Das Logo von hey google Das Logo von alexa built-in Das Logo von Works mit Apple AirPlay Das Logo von Works mit Apple Home",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/uhd2023/tv-uhd-13-1-cinema-mobile.jpg",
+        "srcset": null,
+        "alt": "Das Bild zeigt ein Paar, das eine Sendung mit einem LG UHD-Fernseher anschaut.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/uhd2023/tv-uhd-14-filmmaker-mode-desktop.jpg",
+        "srcset": null,
+        "alt": "Ein Filmregisseur blickt auf einen großen TV-Monitor und bearbeitet etwas. Der Fernsehbildschirm zeigt einen Kran vor einem violetten Himmel. Das Logo des FILMMAKER MODE befindet sich in der unteren rechten Ecke.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/uhd2023/tv-uhd-15-9-ott-mobile.jpg",
+        "srcset": null,
+        "alt": "Die Logos der Streaming-Dienste sind abgebildet und daneben die passenden Ausschnitte aus Filmen und Serien. Es gibt Bilder von Wednesday auf Netflix, TED LASSO auf Apple TV, National Treasure auf Disney Plus, The rings of power auf PRIME VIDEO und leopard auf LG CHANNELS.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/uhd2023/tv-uhd-16-gaming-mobile.jpg",
+        "srcset": null,
+        "alt": "Ein Video, das ein Auto in einem Videospiel von hinten verfolgt, während es in der Dämmerung durch eine hell erleuchtete Straße fährt.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/pt/images/tv/features/uhd2023/tv-uhd-17-game-optimizer-icon-general-desktop.png",
+        "srcset": null,
+        "alt": "Das Bild zeigt die Einstellungen und das Spiel-Dashboard, das während der Ausführung einer Spielesoftware angezeigt wird.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/sg/images/tv/features/uhd2023/tv-uhd-17-game-optimizer-icon-hover-desktop.png",
+        "srcset": null,
+        "alt": "Das Bild zeigt die Einstellungen und das Spiel-Dashboard, das während der Ausführung einer Spielesoftware angezeigt wird.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/pt/images/tv/features/uhd2023/tv-uhd-17-hgig-icon-general-desktop.png",
+        "srcset": null,
+        "alt": "Das Bild zeigt die linke Hälfte eines Bildes ohne HGiG und die rechte Hälfte mit HGiG, um den Kontrast zu zeigen.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/pt/images/tv/features/uhd2023/tv-uhd-17-hgig-icon-hover-desktop.png",
+        "srcset": null,
+        "alt": "Das Bild zeigt die linke Hälfte eines Bildes ohne HGiG und die rechte Hälfte mit HGiG, um den Kontrast zu zeigen.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/pt/images/tv/features/uhd2023/tv-uhd-17-cloud-gaming-icon-general-desktop.png",
+        "srcset": null,
+        "alt": "Das Bild zeigt GeForce NOW auf einem LG UHD TV mit Shows und Spielen.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/pt/images/tv/features/uhd2023/tv-uhd-17-cloud-gaming-icon-hover-desktop.png",
+        "srcset": null,
+        "alt": "Das Bild zeigt GeForce NOW auf einem LG UHD TV mit Shows und Spielen.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/uhd2023/tv-uhd-17-1-game-optimizer-mobile.jpg",
+        "srcset": null,
+        "alt": "Das Bild zeigt die Einstellungen und das Spiel-Dashboard, das während der Ausführung einer Spielesoftware angezeigt wird.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/uhd2023/tv-uhd-17-2-hgig-mobile.jpg",
+        "srcset": null,
+        "alt": "Das Bild zeigt die linke Hälfte eines Bildes ohne HGiG und die rechte Hälfte mit HGiG, um den Kontrast zu zeigen.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/uhd2023/tv-uhd-17-3-cloud-game-mobile.jpg",
+        "srcset": null,
+        "alt": "Das Bild zeigt GeForce NOW auf einem LG UHD TV mit Shows und Spielen.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/201-4kuhd-ur78-65-65ur78006lk/installation-video/Installation-TV-UR-65%2055%2050-Stand-Thumbnail-750X576-M.jpg",
+        "srcset": null,
+        "alt": "Installationsvideo zur Montage des Standfußes für den LG UHD AI ThinQ 4K UR78 Smart TV Fernseher.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/spec/65ur78006lk-UHD-UR78-2023-Stand-65-Dimension-Mobile.jpg",
+        "srcset": null,
+        "alt": "65ur78006lk",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/08a275cc-4f8d-443b-911b-8087070e7208",
+        "srcset": null,
+        "alt": "lg.com",
+        "width": 111,
+        "height": 55
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/08a275cc-4f8d-443b-911b-8087070e7208",
+        "srcset": null,
+        "alt": "lg.com",
+        "width": 111,
+        "height": 55
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/86d7885a-c9c5-4a20-b1f9-b82f9cbc100f",
+        "srcset": null,
+        "alt": "lg.com",
+        "width": 111,
+        "height": 55
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/08a275cc-4f8d-443b-911b-8087070e7208",
+        "srcset": null,
+        "alt": "lg.com",
+        "width": 111,
+        "height": 55
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YnJhbmRsb2dvMg/17ace0b0-6b80-42e7-8b9e-ddf7e332a75d",
+        "srcset": null,
+        "alt": "LG UK",
+        "width": 111,
+        "height": 55
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YnJhbmRsb2dvMg/17ace0b0-6b80-42e7-8b9e-ddf7e332a75d",
+        "srcset": null,
+        "alt": "LG UK",
+        "width": 111,
+        "height": 55
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YnJhbmRsb2dvMg/17ace0b0-6b80-42e7-8b9e-ddf7e332a75d",
+        "srcset": null,
+        "alt": "LG UK",
+        "width": 111,
+        "height": 55
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/43qned86a6c/450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 43 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV 43QNED86A6C",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 83 Zoll LG OLED AI B5 4K Smart TV OLED83B59LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/uhd/ua75/gp1/gallery/43-ua75-a/basic1/uhd-ua75-2025-43-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 75 Zoll LG UHD AI UA75 4K Smart TV 2025 75UA75006LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65qned85a6c_aeu_eedg_de_c/gallery/450_b.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 65 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV 65QNED86A6A",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/uhd/ua73/gp1/gallery/50-ua73-a/basic/uhd-ua73-2025-50-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 50 Zoll LG UHD AI UA73 4K Smart TV 2025 50UA73006LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_manual-software_48x48.svg",
+        "srcset": null,
+        "alt": "Symbol Benutzerhandbuch und Software",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_complaints_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Fehlerbehebung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_warranty_48x48.svg",
+        "srcset": null,
+        "alt": "Garantie-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_part-accessory_48x48.svg",
+        "srcset": null,
+        "alt": "Symbol für Teile und Zubehör",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/buy/icon_register-a-product_48.svg",
+        "srcset": null,
+        "alt": "Symbol Produktregistrierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_product_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Produktsupport",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_order_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Bestellsupport",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/Icon_request-a-repair_60x60.svg",
+        "srcset": null,
+        "alt": "Symbol für Reparaturanfrage",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_chat-with-us__60x60.svg",
+        "srcset": null,
+        "alt": "Livechat-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_whatsapp_60x60.svg",
+        "srcset": null,
+        "alt": "WhatsApp-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_email-us_60x60.svg",
+        "srcset": null,
+        "alt": "E-Mail-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_call_48.svg",
+        "srcset": null,
+        "alt": "Anruf-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/common/find-a-store-test/gradation-icon/banner-light-icons.svg",
+        "srcset": null,
+        "alt": "Filialsymbol suchen",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/450_b.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 55 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV 55QNED86A6A",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/50qned86a6c/new-gallery/450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 50 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV 50QNED86A6C",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/qned/123-qned85-65-65qned85t6c/gallery/450x450/2024_65_QNED85_EU_01.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Vorderansicht des LG QNED MiniLED AI QNED85 4K Smart Fernsehers (Modell 2024) mit lebendiger abstrakter Kunst auf dem Bildschirm.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/uhd/ua75/gp1/gallery/43-ua75-a/basic1/uhd-ua75-2025-43-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 75 Zoll LG UHD AI UA75 4K Smart TV 2025 75UA75006LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/facebook-circle-fill.svg",
+        "srcset": null,
+        "alt": "Facebook",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/youtube-circle-fill.svg",
+        "srcset": null,
+        "alt": "Youtube",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/instagram-circle-fill.svg",
+        "srcset": null,
+        "alt": "Instagram",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/ot_company_logo.png",
+        "srcset": null,
+        "alt": "Firmenlogo",
+        "width": 600,
+        "height": 106
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/powered_by_logo.svg",
+        "srcset": null,
+        "alt": "Powered by Onetrust",
+        "width": 136,
+        "height": 16
+      },
+      {
+        "src": "https://lantern.roeye.com/track.php?fingerprint=0e398a32-f94c-4327-8b91-78c9b166e387&referrer=&landingpage=https%3A%2F%2Fwww.lg.com%2Fde%2Ftvs-und-soundbars%2F4k-uhd-tvs%2F65ur78006lk%2F&useragent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F143.0.7499.4%20Safari%2F537.36&site=63126",
+        "srcset": null,
+        "alt": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://bat.bing.com/action/0?ti=355009024&Ver=2&mid=4f7d99db-fda6-46c7-9c05-49d159e3c3fc&bo=1&sid=fc549eb0f5bb11f0a0a5b7ae3fc4ae70&vid=fc548160f5bb11f0b35da3cae89cc6a9&vids=0&msclkid=N&pi=0&lg=en-US&sw=1280&sh=720&sc=24&nwd=1&tl=65%20Zoll%204K%20LG%20UHD%20AI%20Smart%20TV%20UT78%20%7C%20LG%20DE%20%7C%20LG%20DE&p=https%3A%2F%2Fwww.lg.com%2Fde%2Ftvs-und-soundbars%2F4k-uhd-tvs%2F65ur78006lk%2F&r=&lt=4706&evt=pageLoad&sv=2&cdb=AQET&rn=904782",
+        "srcset": null,
+        "alt": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "videos": [
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/uhd2023/tv-uhd-02-1-a5-gen6-desktop.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/uhd2023/tv-uhd-07-all-new-home-desktop_v1.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/uhd2023/tv-uhd-08-my-profile-desktop_v1.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/uhd2023/tv-uhd-09-quick-card-desktop_v1.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/uhd2023/tv-uhd-16-gaming-mobile.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/uhd2023/tv-uhd-16-gaming-desktop.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      }
+    ]
+  },
+  "specifications": {
+    "€124,92": "Monatliche Rate",
+    "€1.499,00": "Gesamtbetrag inkl. Zinsen",
+    "0%": "Zinssatz",
+    "€74,96": "Monatliche Rate",
+    "€1.798,99": "Gesamtbetrag inkl. Zinsen",
+    "€40,00": "Monatliche Rate",
+    "€120,00": "Gesamtbetrag inkl. Zinsen"
+  },
+  "features": [
+    "Game Optimizer und Dashboard",
+    "HGiG",
+    "Cloud Gaming"
+  ],
+  "reviews": {
+    "summary": {},
+    "featured": [
+      {
+        "headline": "Ottimo rapporto qualità/prezzo",
+        "body": "Ho acquistato questo tv circa 2 settimane fa' , ottimo rapporto qualità prezzo, bisogna muoversi nei vari settaggio per una qualità video più che buona, ottima la funzionalità gaming optimizer che permette ulteriori opzioni avanzate per regolare l'immagine. Sound ottimo. Peccato per l'hdr dove le immagini diventano scure sia con la ps5 sia con skyq e con l' app prime video del tv. Telecomando con tasti piccolissimi tutti attaccati molto fastidioso da utilizzare al buio. Non mi è arrivato il telecomando indicato in descrizione e non so' il motivo. Comprarlo a parte non mi sembra corretto ma tant'è. Processore un po' lento ma per il prezzo che ha il tv è promosso sicuramente.",
+        "rating": 4,
+        "author": "Dadda",
+        "dateCreated": "2024-10-27T16:32:17.000+00:00",
+        "datePublished": "2025-09-28T01:15:10.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1pdF9pdA/65b92deb-5734-5f00-9cf6-d777b5bc2d91",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1pdF9pdA/29d05528-b209-5866-8dfe-73df5aec4dd1",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1pdF9pdA/14dd4cf0-7078-587d-b066-992aaa27e188"
+        ]
+      },
+      {
+        "headline": "Non ci sono più le APPS",
+        "body": "La tv LG 55ur78 dopo aver dato tutti i consensi alla privacy all'improvviso ha smesso di funzionare la funzione APPS. Ci sono sempre dei codici di errore con il server e non si riesce più a caricare PRIME, NETFLIX, DISNEY, insomma tutte le apps sono scomparse e dopo averle provate tutte ... reset e connessioni non so più che fare... però funziona la pagina internet quindi la connessione c'è. Chi può aiutarmi?",
+        "rating": 4,
+        "author": "William",
+        "dateCreated": "2025-02-28T08:43:17.000+00:00",
+        "datePublished": "2025-02-28T14:16:19.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1pdF9pdA/1ef5027f-6b95-5cc9-bbfe-3fbf2a02529c",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1pdF9pdA/ac37da37-a18e-5edf-ac35-4bcc83747671",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1pdF9pdA/f9c974d7-d995-50a4-bacf-6090939c8919"
+        ]
+      },
+      {
+        "headline": "Einfach ein klasse LG TV - Gerät",
+        "body": "5 Sterne verdient. Es ist mein drittes LG TV- Gerät die sogar heute noch funktionsfähig sind. Das einzige was mich an meinem neuen Gerät stört ist die Fernbedienung. Leider war hier nur eine ganz normale Fernbedienung dabei sehr unübersichtlich ist und man aus Versehen auch immer wieder mal einen falschen Knopf drückt den man nicht drücken möchte.",
+        "rating": 5,
+        "author": "HaJoOs",
+        "dateCreated": "2024-11-17T21:23:17.000+00:00",
+        "datePublished": "2024-11-20T15:30:07.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/8162c034-0c2e-5e12-b228-82f3c0c67727",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/9528bdbe-5e17-5956-b354-424eeb9b8504"
+        ]
+      },
+      {
+        "headline": "Fantástica imagen",
+        "body": "Compre este producto el mes pasado y me parece un excelente producto",
+        "rating": 5,
+        "author": "Abuemovil",
+        "dateCreated": "2023-10-05T19:04:36.000+00:00",
+        "datePublished": "2023-11-10T21:16:23.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/af3ab381-8950-576f-9107-97e5dac5af2a",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/c45ebe3d-5896-514a-8681-9a43c8f4fd28",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/a0829947-a268-5d55-8c51-b31663d28e03"
+        ]
+      },
+      {
+        "headline": "Manca il telecomando puntatore e ricerca vocale",
+        "body": "Oggi mi è  arrivata la tv acquistata on line presso Mediaworld. Il telecomando non è PUNTATORE ed alcune funzioni non vengono supportate come Audio AI. Ho provato anche con un altro telecomando Lg puntatore ma la TV 55UR78 non lo riconosce neanche con la ricerca vocale con il microfono. Cosa devo fare per avere tutte le funzioni disponibili e soprattutto quale telecomando completo occorre per questa tv LG?",
+        "rating": 4,
+        "author": "William",
+        "dateCreated": "2025-02-27T18:50:24.000+00:00",
+        "datePublished": "2025-02-28T03:30:58.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1pdF9pdA/7eeaf846-6098-547f-80b6-efe35e259129",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1pdF9pdA/972d6a8e-baee-5499-95d0-4a97ec0b530f"
+        ]
+      },
+      {
+        "headline": "Awsome tv",
+        "body": "Just got this LG 55UR78 and its amazing. Im used to Android tv so havent got a Google feeling just yet. Only negative about this tv is the remote, buttons are so close and there is no navigation wheel which makes your fingers fumble a lot!!",
+        "rating": 4,
+        "author": "Baumann82",
+        "dateCreated": "2023-12-17T07:25:37.000+00:00",
+        "datePublished": "2023-12-17T19:00:09.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/c385f438-6d05-576a-accc-3d020dccbd75",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/2309ad87-b5e0-5fcb-bbf5-1a03960bd928"
+        ]
+      },
+      {
+        "headline": "Excellent picture quality",
+        "body": "Excellent quality sound brilliant very happy with the purchase whatever we need everything is here in my new LG tv definitely recommend easy to setup no problem at all",
+        "rating": 5,
+        "author": "Zonny",
+        "dateCreated": "2023-05-17T15:57:26.000+00:00",
+        "datePublished": "2023-05-17T20:45:11.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/7702e396-0525-5794-b7a0-c61f6bf3d254",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/4623f3e7-8823-5e8c-8355-d81c745152e5"
+        ]
+      },
+      {
+        "headline": "Good TV",
+        "body": "[This review was collected as part of a promotion.] All seems good so far, not had time to check out all the features yet. Tv connected to my Internet without issue and has synced with my VM settop box without issue.",
+        "rating": 5,
+        "author": "Another Richard",
+        "dateCreated": "2025-10-15T17:46:37.000+00:00",
+        "datePublished": "2025-10-16T14:00:09.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/9c6b79e8-4ba6-5c05-b440-26480b8e42fa",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/723211af-064c-5fb0-890a-4cda57a76ecc"
+        ]
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://www.lg.com/de/"
+    },
+    {
+      "position": 2,
+      "name": "TVs & Soundbars",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/"
+    },
+    {
+      "position": 3,
+      "name": "4K TVs",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/4k-uhd-tvs/"
+    },
+    {
+      "position": 4,
+      "name": "65UR78006LK",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/4k-uhd-tvs/65ur78006lk/"
+    }
+  ],
+  "faq": [],
+  "metadata": {
+    "mpn": "65UR78006LK",
+    "title": "65 Zoll 4K LG UHD AI Smart TV UT78 | LG DE | LG DE",
+    "description": "Entdecke den LG UHD TV UT78 in 65 Zoll. Tauche ein in eine Welt voller Brillanz und fesselndem Sound.",
+    "ogImage": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/65UR78006LK_AEU_EEDG_DE_C-450x450.jpg",
+    "ogTitle": "65 Zoll LG 4K Smart UHD TV UR78 - 65UR78006LK | LG DE",
+    "canonical": "https://www.lg.com/de/tvs-und-soundbars/4k-uhd-tvs/65ur78006lk/"
+  },
+  "structuredData": {
+    "jsonLd": [
+      {
+        "@context": "https://schema.org/",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/4k-uhd-tvs/65ur78006lk/",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "itemReviewed": {
+            "@type": "IndividualProduct",
+            "name": "65UR78006LK"
+          },
+          "ratingValue": "4.3",
+          "reviewCount": 363,
+          "bestRating": 5
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/4k-uhd-tvs/65ur78006lk/",
+        "review": [
+          {
+            "@type": "Review",
+            "dateCreated": "2024-10-27T16:32:17.000+00:00",
+            "datePublished": "2025-09-28T01:15:10.000+00:00",
+            "headline": "Ottimo rapporto qualità/prezzo",
+            "reviewBody": "Ho acquistato questo tv circa 2 settimane fa' , ottimo rapporto qualità prezzo, bisogna muoversi nei vari settaggio per una qualità video più che buona, ottima la funzionalità gaming optimizer che permette ulteriori opzioni avanzate per regolare l'immagine. Sound ottimo. Peccato per l'hdr dove le immagini diventano scure sia con la ps5 sia con skyq e con l' app prime video del tv. Telecomando con tasti piccolissimi tutti attaccati molto fastidioso da utilizzare al buio. Non mi è arrivato il telecomando indicato in descrizione e non so' il motivo. Comprarlo a parte non mi sembra corretto ma tant'è. Processore un po' lento ma per il prezzo che ha il tv è promosso sicuramente.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 4,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dadda"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1pdF9pdA/65b92deb-5734-5f00-9cf6-d777b5bc2d91",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1pdF9pdA/215caaf2-8adc-5bc3-bd55-f5538d82dfae"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1pdF9pdA/29d05528-b209-5866-8dfe-73df5aec4dd1",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1pdF9pdA/3a9dca73-2282-58e3-8ea1-f4fb1f8f5ed5"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1pdF9pdA/14dd4cf0-7078-587d-b066-992aaa27e188",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1pdF9pdA/962c0b02-1dcb-560a-bfb7-bbedfc586833"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-02-28T08:43:17.000+00:00",
+            "datePublished": "2025-02-28T14:16:19.000+00:00",
+            "headline": "Non ci sono più le APPS",
+            "reviewBody": "La tv LG 55ur78 dopo aver dato tutti i consensi alla privacy all'improvviso ha smesso di funzionare la funzione APPS. Ci sono sempre dei codici di errore con il server e non si riesce più a caricare PRIME, NETFLIX, DISNEY, insomma tutte le apps sono scomparse e dopo averle provate tutte ... reset e connessioni non so più che fare... però funziona la pagina internet quindi la connessione c'è. Chi può aiutarmi?",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 4,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "William"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1pdF9pdA/1ef5027f-6b95-5cc9-bbfe-3fbf2a02529c",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1pdF9pdA/8dba9174-ee48-52bd-ac05-44ed9a25b152"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1pdF9pdA/ac37da37-a18e-5edf-ac35-4bcc83747671",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1pdF9pdA/6448b2af-2e30-5455-8c6d-e5212935d79a"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1pdF9pdA/f9c974d7-d995-50a4-bacf-6090939c8919",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1pdF9pdA/4a3feee6-6d74-5330-8827-9af4874b185e"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-11-17T21:23:17.000+00:00",
+            "datePublished": "2024-11-20T15:30:07.000+00:00",
+            "headline": "Einfach ein klasse LG TV - Gerät",
+            "reviewBody": "5 Sterne verdient. Es ist mein drittes LG TV- Gerät die sogar heute noch funktionsfähig sind. Das einzige was mich an meinem neuen Gerät stört ist die Fernbedienung. Leider war hier nur eine ganz normale Fernbedienung dabei sehr unübersichtlich ist und man aus Versehen auch immer wieder mal einen falschen Knopf drückt den man nicht drücken möchte.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HaJoOs"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/8162c034-0c2e-5e12-b228-82f3c0c67727",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/4db7eebf-7216-55c0-9678-0bd7172d66a9"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/9528bdbe-5e17-5956-b354-424eeb9b8504",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/0a0370a5-0dc2-5399-af2e-ca8abf85a3ab"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2023-10-05T19:04:36.000+00:00",
+            "datePublished": "2023-11-10T21:16:23.000+00:00",
+            "headline": "Fantástica imagen",
+            "reviewBody": "Compre este producto el mes pasado y me parece un excelente producto",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Abuemovil"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/af3ab381-8950-576f-9107-97e5dac5af2a",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/94efccc3-fb31-5c73-b416-a049e872679b"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/c45ebe3d-5896-514a-8681-9a43c8f4fd28",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/7e785fd8-c519-5061-8847-490a73d5c079"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/a0829947-a268-5d55-8c51-b31663d28e03",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/3d28b021-660c-5262-82da-cde5705e28cb"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-02-27T18:50:24.000+00:00",
+            "datePublished": "2025-02-28T03:30:58.000+00:00",
+            "headline": "Manca il telecomando puntatore e ricerca vocale",
+            "reviewBody": "Oggi mi è  arrivata la tv acquistata on line presso Mediaworld. Il telecomando non è PUNTATORE ed alcune funzioni non vengono supportate come Audio AI. Ho provato anche con un altro telecomando Lg puntatore ma la TV 55UR78 non lo riconosce neanche con la ricerca vocale con il microfono. Cosa devo fare per avere tutte le funzioni disponibili e soprattutto quale telecomando completo occorre per questa tv LG?",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 4,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "William"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1pdF9pdA/7eeaf846-6098-547f-80b6-efe35e259129",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1pdF9pdA/4033c252-58f7-5266-afc1-188db63c10f7"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1pdF9pdA/972d6a8e-baee-5499-95d0-4a97ec0b530f",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1pdF9pdA/e94c2143-424f-594c-bff5-9b2bba8889e8"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2023-12-17T07:25:37.000+00:00",
+            "datePublished": "2023-12-17T19:00:09.000+00:00",
+            "headline": "Awsome tv",
+            "reviewBody": "Just got this LG 55UR78 and its amazing. Im used to Android tv so havent got a Google feeling just yet. Only negative about this tv is the remote, buttons are so close and there is no navigation wheel which makes your fingers fumble a lot!!",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 4,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Baumann82"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/c385f438-6d05-576a-accc-3d020dccbd75",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/3a9a51a7-915f-58f6-b311-987edcfb27c5"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/2309ad87-b5e0-5fcb-bbf5-1a03960bd928",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/bc6ae536-b1c8-5e87-a5a3-48e82a17bd8c"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2023-05-17T15:57:26.000+00:00",
+            "datePublished": "2023-05-17T20:45:11.000+00:00",
+            "headline": "Excellent picture quality",
+            "reviewBody": "Excellent quality sound brilliant very happy with the purchase whatever we need everything is here in my new LG tv definitely recommend easy to setup no problem at all",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Zonny"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/7702e396-0525-5794-b7a0-c61f6bf3d254",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/42042ef8-c3ee-5848-adce-0cd9d6d510dd"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/4623f3e7-8823-5e8c-8355-d81c745152e5",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/a032861f-06d1-5655-a9ce-79308190580c"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-10-15T17:46:37.000+00:00",
+            "datePublished": "2025-10-16T14:00:09.000+00:00",
+            "headline": "Good TV",
+            "reviewBody": "[This review was collected as part of a promotion.] All seems good so far, not had time to check out all the features yet. Tv connected to my Internet without issue and has synced with my VM settop box without issue.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Another Richard"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/9c6b79e8-4ba6-5c05-b440-26480b8e42fa",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/9117db2a-6ae0-5ed4-a6dc-0486bbf6fdcc"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/723211af-064c-5fb0-890a-4cda57a76ecc",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/751a14f8-375c-5c6b-b598-927de43b6e5d"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "product",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/4k-uhd-tvs/65ur78006lk/",
+        "name": "65 Zoll LG 4K Smart UHD TV UR78",
+        "image": "/content/dam/channel/wcms/de/images/tv/65ur78006lk_aeu_eedg_de_c/65UR78006LK_AEU_EEDG_DE_C-450x450.jpg",
+        "description": "Entdecken Sie LG 65UR78006LK. Für Bilder, Bewertungen und technische Daten zu LG klicken 65 Zoll LG 4K Smart UHD TV UR78.",
+        "mpn": "65UR78006LK",
+        "brand": {
+          "@type": "Brand",
+          "name": "LG"
+        },
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "EUR",
+          "price": "659",
+          "availability": "https://schema.org/OutOfStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "LG DE"
+          }
+        },
+        "size": {
+          "@type": "QuantitativeValue",
+          "unitCode": "",
+          "value": ""
+        },
+        "hasEnergyConsumptionDetails": {
+          "@type": "EnergyConsumptionDetails",
+          "hasEnergyEfficiencyCategory": "https://schema.org/EUEnergyEfficiencyCategoryF",
+          "energyEfficiencyScaleMax": "https://schema.org/EUEnergyEfficiencyCategoryA1Plus",
+          "energyEfficiencyScaleMin": "https://schema.org/EUEnergyEfficiencyCategoryG"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.lg.com/de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "TVs & Soundbars",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "4K TVs",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/4k-uhd-tvs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "65UR78006LK",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/4k-uhd-tvs/65ur78006lk/"
+          }
+        ]
+      }
+    ]
+  }
+}

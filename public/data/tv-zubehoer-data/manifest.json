@@ -1,0 +1,43 @@
+{
+  "category": "tv-zubehoer",
+  "updatedAt": "2026-01-20T06:42:27.273Z",
+  "totalProducts": 5,
+  "products": [
+    {
+      "modelNumber": "AKB76045003",
+      "productName": " Magic Remote-Fernbedienung der TV 2024-Serie",
+      "price": "40",
+      "imageCount": 102,
+      "videoCount": 0
+    },
+    {
+      "modelNumber": "EBX30147101",
+      "productName": "Slim Magic Remote-Fernbedienung der LG TV 2025-Serie",
+      "price": "43.99",
+      "rating": "1.0",
+      "imageCount": 98,
+      "videoCount": 0
+    },
+    {
+      "modelNumber": "EBX30147201",
+      "productName": "Magic Remote-Fernbedienung der LG TV 2025-Serie",
+      "price": "48.99",
+      "imageCount": 103,
+      "videoCount": 0
+    },
+    {
+      "modelNumber": "FC25XA",
+      "productName": "StanbyME 2 Folio Cover",
+      "price": "89",
+      "imageCount": 111,
+      "videoCount": 0
+    },
+    {
+      "modelNumber": "WS25XA",
+      "productName": "StanbyME 2 Wandhalterung",
+      "price": "39",
+      "imageCount": 109,
+      "videoCount": 0
+    }
+  ]
+}

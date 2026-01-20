@@ -1,0 +1,1165 @@
+{
+  "crawledAt": "2026-01-20T05:11:22.167Z",
+  "url": "https://www.lg.com/de/tvs-und-soundbars/tv-bundles/oled65c5elb-ds60tr/",
+  "modelNumber": "OLED65C5ELB-DS60TR",
+  "category": "TV Bundles",
+  "basicInfo": {
+    "productName": "65 Zoll LG OLED evo AI C5E 4K Smart TV 2025 + 5.1-Kanal LG Home Theater Soundbar DS60TR mit Surround-Sound und hinteren Lautsprechern",
+    "description": "Entdecken Sie LG OLED65C5ELB.DS60TR. Für Bilder, Bewertungen und technische Daten zu LG klicken 65 Zoll LG OLED evo AI C5E 4K Smart TV 2025 + 5.1-Kanal LG Home Theater Soundbar DS60TR mit Surround-Sound und hinteren Lautsprechern.",
+    "headline": "65 Zoll LG OLED evo AI C5E 4K Smart TV 2025 + 5.1-Kanal LG Home Theater Soundbar DS60TR mit Surround-Sound und hinteren Lautsprechern",
+    "screenSize": "65 Zoll",
+    "series": "C",
+    "brand": "LG",
+    "modelNumber": "OLED65C5ELB-DS60TR"
+  },
+  "pricing": {
+    "currentPrice": "1448.98",
+    "currency": "EUR",
+    "availability": "PreOrder",
+    "seller": "LG DE"
+  },
+  "ratings": {
+    "averageRating": "4.8",
+    "reviewCount": 4,
+    "bestRating": 5
+  },
+  "energyEfficiency": {
+    "category": "F",
+    "scaleMax": "",
+    "scaleMin": ""
+  },
+  "media": {
+    "images": [
+      {
+        "src": "https://t.teads.tv/track?action=pageView&env=js-web&tag_version=8.5.0_d71d360&provider=tag&buyer_pixel_id=7484&referer=https%3A%2F%2Fwww.lg.com%2Fde%2Ftvs-und-soundbars%2Ftv-bundles%2Foled65c5elb-ds60tr%2F&user_session_id=1079fadd-9d90-452e-850c-d9ff73d8afa9&hasConsent=true&cht=timeout",
+        "srcset": null,
+        "alt": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/banners/2026-01-15-LG-CB26-GNB-290x90px-V1-jgr.jpg",
+        "srcset": null,
+        "alt": " Gute Vorsätze für 2026",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/banners/2026-01-15-LG-CB26-GNB-290x90px-V1-jgr.jpg",
+        "srcset": null,
+        "alt": " Gute Vorsätze für 2026",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "OLED65C5ELB EU.pdf",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "OLED65C5ELB EU.pdf",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled65c5elb-ds60tr/1600x1062_OLED65C5ELB.DS60TR.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG OLED evo AI C5E 4K Smart TV 2025 + 5.1-Kanal LG Home Theater Soundbar DS60TR mit Surround-Sound und hinteren Lautsprechern, OLED65C5ELB.DS60TR",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://img.youtube.com/vi/-/maxresdefault.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG OLED evo AI C5E 4K Smart TV 2025 + 5.1-Kanal LG Home Theater Soundbar DS60TR mit Surround-Sound und hinteren Lautsprechern, OLED65C5ELB.DS60TR",
+        "width": 120,
+        "height": 90
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled65c5elb-ds60tr/1600x1062_OLED65C5ELB.DS60TR.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG OLED evo AI C5E 4K Smart TV 2025 + 5.1-Kanal LG Home Theater Soundbar DS60TR mit Surround-Sound und hinteren Lautsprechern, OLED65C5ELB.DS60TR",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://img.youtube.com/vi/-/maxresdefault.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG OLED evo AI C5E 4K Smart TV 2025 + 5.1-Kanal LG Home Theater Soundbar DS60TR mit Surround-Sound und hinteren Lautsprechern, OLED65C5ELB.DS60TR",
+        "width": 120,
+        "height": 90
+      },
+      {
+        "src": "https://img.youtube.com/vi/-/maxresdefault.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG OLED evo AI C5E 4K Smart TV 2025 + 5.1-Kanal LG Home Theater Soundbar DS60TR mit Surround-Sound und hinteren Lautsprechern, OLED65C5ELB.DS60TR",
+        "width": 120,
+        "height": 90
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled65c5elb-ds60tr/180x180_OLED65C5ELB.DS60TR.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG OLED evo AI C5E 4K Smart TV 2025 + 5.1-Kanal LG Home Theater Soundbar DS60TR mit Surround-Sound und hinteren Lautsprechern, OLED65C5ELB.DS60TR",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled65c5elb-ds60tr/1600x1062_OLED65C5ELB.DS60TR.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG OLED evo AI C5E 4K Smart TV 2025 + 5.1-Kanal LG Home Theater Soundbar DS60TR mit Surround-Sound und hinteren Lautsprechern, OLED65C5ELB.DS60TR",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled65c5elb-ds60tr/180x180_OLED65C5ELB.DS60TR.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG OLED evo AI C5E 4K Smart TV 2025 + 5.1-Kanal LG Home Theater Soundbar DS60TR mit Surround-Sound und hinteren Lautsprechern, OLED65C5ELB.DS60TR",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://img.youtube.com/vi/-/maxresdefault.jpg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG OLED evo AI C5E 4K Smart TV 2025 + 5.1-Kanal LG Home Theater Soundbar DS60TR mit Surround-Sound und hinteren Lautsprechern, OLED65C5ELB.DS60TR",
+        "width": 120,
+        "height": 90
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/1-channel/br/personalization/PersonalizationAiPoC/PN0002_default_black_mobile.png",
+        "srcset": null,
+        "alt": "",
+        "width": 1440,
+        "height": 222
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/65-c5e-b/basic/oled-c5e-2025-65-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 65 Zoll LG OLED evo AI C5 4K Smart TV OLED65C5ELB",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "OLED65C5ELB EU.pdf",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/lautsprecher/soundbars/gallery/ds60tr/s60tr-basic.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht der LG Soundbar DS60TR, Subwoofer und hintere Lautsprecher",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/65-c5e-b/basic/oled-c5e-2025-65-basic-01.jpg/jcr:content/renditions/thum-165x165.jpeg",
+        "srcset": null,
+        "alt": "65 Zoll LG OLED evo AI C5 4K Smart TV",
+        "width": 450,
+        "height": 450
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/lautsprecher/soundbars/gallery/ds60tr/s60tr-basic.jpg/jcr:content/renditions/thum-165x165.jpeg",
+        "srcset": null,
+        "alt": "5.1-Kanal LG Home Theater Soundbar DS60TR mit Surround-Sound und hinteren Lautsprechern",
+        "width": 450,
+        "height": 450
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/65-c5e-b/basic/oled-c5e-2025-65-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 65 Zoll LG OLED evo AI C5 4K Smart TV OLED65C5ELB",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled55c5elb-ds60tr/450x450_OLED55C5ELB.DS60TR.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled65b59la-ds40tr/450x450_OLED65B59LA.DS40TR.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled55c5elb-dsc9s/450x450_OLED55C5ELB.DSC9S.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/m5-evo/gp1/gallery/65-m5-a/gallery_new/Basic.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Vorderansicht des LG OLED M5 TVs. OLED-Emblem „12 Years of world number 1“ und LG OLED evo AI 2025-Logo sind auf dem Bildschirm zu sehen. Zero Connect Box in der Ecke mit dem Titel „Zero Connect Box mit drahtloser Video- und Audioübertragung in 4K mit 144Hz“",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled65g57lw/OLED65G57LW-450-1.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 65 Zoll LG OLED evo AI G5 4K Smart TV OLED65G57LW",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled48b59la-ds40tr/450x450_OLED48B59LA.DS40TR.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 83 Zoll LG OLED AI B5 4K Smart TV OLED83B59LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_manual-software_48x48.svg",
+        "srcset": null,
+        "alt": "Symbol Benutzerhandbuch und Software",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_complaints_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Fehlerbehebung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_warranty_48x48.svg",
+        "srcset": null,
+        "alt": "Garantie-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_part-accessory_48x48.svg",
+        "srcset": null,
+        "alt": "Symbol für Teile und Zubehör",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/buy/icon_register-a-product_48.svg",
+        "srcset": null,
+        "alt": "Symbol Produktregistrierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_product_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Produktsupport",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_order_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Bestellsupport",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/Icon_request-a-repair_60x60.svg",
+        "srcset": null,
+        "alt": "Symbol für Reparaturanfrage",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_chat-with-us__60x60.svg",
+        "srcset": null,
+        "alt": "Livechat-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_whatsapp_60x60.svg",
+        "srcset": null,
+        "alt": "WhatsApp-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_email-us_60x60.svg",
+        "srcset": null,
+        "alt": "E-Mail-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_call_48.svg",
+        "srcset": null,
+        "alt": "Anruf-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/common/find-a-store-test/gradation-icon/banner-light-icons.svg",
+        "srcset": null,
+        "alt": "Filialsymbol suchen",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/facebook-circle-fill.svg",
+        "srcset": null,
+        "alt": "Facebook",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/youtube-circle-fill.svg",
+        "srcset": null,
+        "alt": "Youtube",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/instagram-circle-fill.svg",
+        "srcset": null,
+        "alt": "Instagram",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/ot_company_logo.png",
+        "srcset": null,
+        "alt": "Firmenlogo",
+        "width": 600,
+        "height": 106
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/powered_by_logo.svg",
+        "srcset": null,
+        "alt": "Powered by Onetrust",
+        "width": 136,
+        "height": 16
+      },
+      {
+        "src": "https://lantern.roeye.com/track.php?fingerprint=0e398a32-f94c-4327-8b91-78c9b166e387&referrer=&landingpage=https%3A%2F%2Fwww.lg.com%2Fde%2Ftvs-und-soundbars%2Ftv-bundles%2Foled65c5elb-ds60tr%2F&useragent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F143.0.7499.4%20Safari%2F537.36&site=63126",
+        "srcset": null,
+        "alt": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://bat.bing.com/action/0?ti=355009024&Ver=2&mid=fdbfd717-4128-42b2-a9fe-cf948c64189f&bo=1&sid=fc549eb0f5bb11f0a0a5b7ae3fc4ae70&vid=fc548160f5bb11f0b35da3cae89cc6a9&vids=0&msclkid=N&pi=0&lg=en-US&sw=1280&sh=720&sc=24&nwd=1&tl=65%20Zoll%20LG%20OLED%20evo%20AI%20C5E%204K%20Smart%20TV%202025%20%2B%205.1-Kanal%20LG%C2%A0Home%20Theater%20Soundbar%C2%A0DS60TR%20mit%20Surround-Sound%20und%20hinteren%20Lautsprechern%20%7C%20LG%20DE&p=https%3A%2F%2Fwww.lg.com%2Fde%2Ftvs-und-soundbars%2Ftv-bundles%2Foled65c5elb-ds60tr%2F&r=&lt=2414&evt=pageLoad&sv=2&cdb=AQET&rn=589295",
+        "srcset": null,
+        "alt": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://sync.addlv.smt.docomo.ne.jp/tafs/p/dsync?id=7&value=RRdZ_TMk5SKgdGl9mRDZWHyMgwfoMbfUay6hyRkuFJY",
+        "srcset": null,
+        "alt": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "videos": []
+  },
+  "specifications": {
+    "Display-Typ": "4K OLED",
+    "Bildschirmauflösung": "4K Ultra HD (3.840 x 2.160 Pixel)",
+    "Bildwiederholfrequenz": "120 Hz nativ (VRR 144 Hz)",
+    "Farbumfang (Wide Color Gamut)": "OLED Color",
+    "Bildprozessor": "α9 Gen8 4K AI-Prozessor",
+    "AI Upscaling": "α9 4K AI Super Upscaling",
+    "Dynamic Tone Mapping": "Ja (OLED Dynamic Tone Mapping Pro)",
+    "AI Genre-Auswahl": "Ja (SDR/HDR)",
+    "AI Brightness Control (AI-Helligkeitsanpassung)": "Ja",
+    "HDR (High Dynamic Range)": "Dolby Vision / HDR10 / HLG",
+    "FILMMAKER MODE™": "Ja",
+    "HFR (High Frame Rate)": "4K 120 fps (HDMI, Tuner, USB)",
+    "Dimming-Technologie": "Pixel Dimming",
+    "Bewegungskompensation / Zwischenbildberechnung": "OLED Motion",
+    "Voreingestellte Bildmodi": "10 Bildmodi",
+    "AI Picture Pro": "Ja",
+    "QMS (Quick Media Switching)": "Ja",
+    "G-Sync-kompatibel (Nvidia)": "Ja",
+    "FreeSync-kompatibel (AMD)": "Ja",
+    "Unterstützt HGIG": "Ja",
+    "Game Optimizer": "Ja (Game Dashboard)",
+    "Unterstützt ALLM (Auto Low Latency Mode)": "Ja",
+    "Unterstützt VRR (Variable Refresh Rate)": "Ja (bis zu 144 Hz)",
+    "Dolby Vision Gaming (4K@120 Hz)": "Ja",
+    "Pixelreaktionszeit": "Unter 0,1 ms",
+    "Unterstützt Apple Airplay2": "Ja",
+    "Betriebssystem (OS)": "webOS 25",
+    "Kompatibel zu USB-Webcams": "Ja",
+    "AI Chatbot": "Ja",
+    "Always Ready-Funktion": "Ja",
+    "Internet Browser": "Ja",
+    "Google Cast": "Ja",
+    "Google Home / Hub": "Ja",
+    "Hands-Free Voice Control (Freihand-Sprachsteuerung)": "Ja",
+    "Home Hub": "Ja",
+    "Intelligente Spracherkennung": "Ja",
+    "LG Channels": "Ja",
+    "Magic Remote-Fernbedienung": "im Lieferumfang enthalten",
+    "Multi View-Funktion": "Ja",
+    "Smartphone Fernbedienungs-App": "Ja (LG ThinQ)",
+    "Voice ID": "Ja",
+    "Works with Apple Airplay": "Ja",
+    "Unterstützt Apple Home": "Ja",
+    "Dolby Atmos": "Ja",
+    "AI Sound": "α9 AI Sound Pro (virtueller 11.1.2 Up-Mix)",
+    "Clear Voice Pro (Bessere Sprachverständlichkeit)": "Ja (AI-Stimmenoptimierung)",
+    "LG Sound Sync": "Ja",
+    "Sound Mode Share": "Ja",
+    "Simultane Audioausgabe": "Ja",
+    "Bluetooth Surround Ready-Funktion": "Ja (2-Wege-Playback)",
+    "Leistung": "40 Watt",
+    "AI Acoustic Tuning (AI-Akustikabstimmung)": "Ja",
+    "Audio Codec": "AC4, AC3 (Dolby Digital), EAC3, HE-AAC, AAC, MP2, MP3, PCM, WMA, apt-X (weitere Informationen im Handbuch)",
+    "Abstrahlrichtung der Lautsprecher": "Nach unten abstrahlend",
+    "Lautsprechersystem (Kanäle)": "2.2",
+    "WOW Orchestra": "Ja",
+    "Simplink (HDMI CEC)": "Ja",
+    "HDMI ARC (Audio Return Channel)": "eARC (auf HDMI 2)",
+    "Bluetooth-Unterstützung": "Ja (v 5.3)",
+    "LAN (Ethernet)": "1",
+    "Optisch digitaler Audioanschluss (S/PDIF, Toslink)": "1",
+    "HDMI-Eingänge": "4 (unterstützt 4K@120Hz, eARC, VRR, ALLM, QMS (4 von 4 Anschlüsse))",
+    "CI-Slot": "1 (außer UK und Irland)",
+    "Antennenanschlüsse (Tuner)": "2",
+    "USB-Anschlüsse": "3 (USB 2.0)",
+    "WLAN": "Ja (Wi-Fi 6 / 802.11ax)",
+    "Hoher Kontrast": "Ja",
+    "Graustufen": "Ja",
+    "Invertierte Farben": "Ja",
+    "Abmessungen TV ohne Standfuß (BxHxT)": "1.441 x 826 x 45,1",
+    "Abmessungen TV mit Standfuß (BxHxT)": "1.441 x 880 x 230",
+    "Abmessungen der Verpackung (BxHxT, mm)": "1.600 x 950 x 200",
+    "Abmessungen Standfuß (BxT)": "470 x 230",
+    "Gewicht TV ohne Standfuß": "16,6",
+    "Gewicht TV mit Standfuß": "18,5",
+    "Gesamtgewicht inkl. Verpackung (kg)": "26,4",
+    "Unterstützter VESA-Standard (BxH)": "300 x 200",
+    "EAN Code": "8806096399330",
+    "Stromversorgung (Spannung, Frequenz)": "Wechselstrom, 100-240 Volt, 50-60 Hz",
+    "Leistungsaufnahme (Standby)": "Unter 0,5 Watt",
+    "Fernbedienung": "Ja",
+    "Stromkabel": "Ja (fest am TV angebracht)",
+    "Analoger TV-Empfang": "Ja",
+    "Digitaler TV-Empfang": "DVB-T2/T (Terrestrisch), DVB-C (Kabel), DVB-S2/S (Satellit)",
+    "AI Sound Pro": "Ja",
+    "Music": "Ja",
+    "Cinema": "Ja",
+    "Game": "Ja",
+    "Bass Blast / Bass Blast +": "Ja",
+    "Clear Voice Pro": "Ja",
+    "Sport": "Ja",
+    "Standard": "Ja",
+    "Dolby Digital": "Ja",
+    "AAC": "Ja",
+    "DTS Digital Surround": "Ja",
+    "Optisch": "1",
+    "HDMI Out": "1",
+    "USB": "1",
+    "Bluetooth Codec - SBC/AAC": "Ja",
+    "Wireless Rear Ready": "Ja",
+    "Audio Return Channel (ARC)": "Ja",
+    "CEC (Simplink)": "Ja",
+    "Remote App - iOS/Android OS": "Ja",
+    "TV Sound Mode Share": "Ja",
+    "Soundbar Mode Control": "Ja",
+    "WOW Interface": "Ja",
+    "hauptsächlich": "2,5 kg",
+    "Subwoofer": "5,7 kg",
+    "Rücklautsprecher": "100,0 x 176,5 x 120,0 mm",
+    "Gesamtgewicht inkl. Verpackung": "12,56 kg",
+    "Rücklautsprecher (2EA)": "2,1 kg",
+    "Optisches Kabel": "Ja",
+    "Wandhalterung": "Ja",
+    "Garantiekarte": "Ja",
+    "Bar Code": "8806091927309",
+    "€124,92": "Monatliche Rate",
+    "€1.499,00": "Gesamtbetrag inkl. Zinsen",
+    "0%": "Zinssatz",
+    "€74,96": "Monatliche Rate",
+    "€1.798,99": "Gesamtbetrag inkl. Zinsen",
+    "€40,00": "Monatliche Rate",
+    "€120,00": "Gesamtbetrag inkl. Zinsen"
+  },
+  "features": [],
+  "reviews": {
+    "summary": {},
+    "featured": [
+      {
+        "headline": "Sehr hell, kräftige Farben und stabile Leistung",
+        "body": "Der LG G5 beeindruckt mich mit seiner sehr hohen Helligkeit, den kräftigen Farben und der insgesamt stabilen Leistung. Die Bildqualität und die schnelle Bedienung machen das Gerät wirklich empfehlenswert. Die Lieferung war sehr schnell und ich habe das Produkt ohne Probleme erhalten",
+        "rating": 5,
+        "author": "Eroza",
+        "dateCreated": "2025-11-18T05:08:21.000+00:00",
+        "datePublished": "2025-11-18T12:15:05.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/a15ffc80-463a-5abd-86b7-771057aa619d"
+        ]
+      },
+      {
+        "headline": "Der LG G5 hat eine sehr hohe Helligkeit und kräfti",
+        "body": "Der LG G5 hat eine sehr hohe Helligkeit und kräftige Farben. Zurzeit läuft er stabil. Insgesamt bin ich zufrieden – sowohl die Geschwindigkeit als auch die Bildqualität sind wirklich überzeugend.",
+        "rating": 5,
+        "author": "Eroza",
+        "dateCreated": "2025-11-18T04:42:40.000+00:00",
+        "datePublished": "2025-11-18T12:15:05.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/6be6cf78-2371-5d08-8001-12e711a3bb89"
+        ]
+      },
+      {
+        "headline": "Immer aufpassen",
+        "body": "Lg macht immer gute Produkte aber manchmal DHL hat schlechte mitarbeiter je nach Ort \r\nMenie wurde zurück geschickt \r\nLeider habe ich auch das Angebot nicht mehr",
+        "rating": 4,
+        "author": "Snoopy25m",
+        "dateCreated": "2025-12-10T17:26:47.000+00:00",
+        "datePublished": "2025-12-10T17:45:10.000+00:00",
+        "images": []
+      },
+      {
+        "headline": "Unkomplizierte Abwicklung",
+        "body": "Alles unkompliziert, sehr gutes Angebot . Bestätigung kam sofort. Auf die Lieferung warte ich noch .",
+        "rating": 5,
+        "author": "Zico",
+        "dateCreated": "2025-11-02T19:15:12.000+00:00",
+        "datePublished": "2025-11-02T21:00:06.000+00:00",
+        "images": []
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://www.lg.com/de/"
+    },
+    {
+      "position": 2,
+      "name": "TVs & Soundbars",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/"
+    },
+    {
+      "position": 3,
+      "name": "TV Bundles",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/tv-bundles/"
+    },
+    {
+      "position": 4,
+      "name": "OLED65C5ELB.DS60TR",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/tv-bundles/oled65c5elb-ds60tr/"
+    }
+  ],
+  "faq": [],
+  "metadata": {
+    "mpn": "OLED65C5ELB.DS60TR",
+    "title": "65 Zoll LG OLED evo AI C5E 4K Smart TV 2025 + 5.1-Kanal LG Home Theater Soundbar DS60TR mit Surround-Sound und hinteren Lautsprechern | LG DE",
+    "description": "Entdecken Sie LG OLED65C5ELB.DS60TR. Für Bilder, Bewertungen und technische Daten zu LG klicken 65 Zoll LG OLED evo AI C5E 4K Smart TV 2025 + 5.1-Kanal LG Home Theater Soundbar DS60TR mit Surround-Sound und hinteren Lautsprechern.",
+    "ogImage": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled65c5elb-ds60tr/450x450_OLED65C5ELB.DS60TR.jpg",
+    "ogTitle": "65 Zoll LG OLED evo AI C5E 4K Smart TV 2025 + 5.1-Kanal LG Home Theater Soundbar DS60TR mit Surround-Sound und hinteren Lautsprechern - OLED65C5ELB.DS60TR | LG DE",
+    "canonical": "https://www.lg.com/de/tvs-und-soundbars/tv-bundles/oled65c5elb-ds60tr/"
+  },
+  "structuredData": {
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "VideoObject",
+        "name": "-",
+        "description": "",
+        "thumbnailUrl": "-",
+        "uploadDate": "2025-09-15",
+        "contentUrl": ""
+      },
+      {
+        "@context": "https://schema.org",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/tv-bundles/oled65c5elb-ds60tr/",
+        "review": [
+          {
+            "@type": "Review",
+            "dateCreated": "2025-11-18T05:08:21.000+00:00",
+            "datePublished": "2025-11-18T12:15:05.000+00:00",
+            "headline": "Sehr hell, kräftige Farben und stabile Leistung",
+            "reviewBody": "Der LG G5 beeindruckt mich mit seiner sehr hohen Helligkeit, den kräftigen Farben und der insgesamt stabilen Leistung. Die Bildqualität und die schnelle Bedienung machen das Gerät wirklich empfehlenswert. Die Lieferung war sehr schnell und ich habe das Produkt ohne Probleme erhalten",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Eroza"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/a15ffc80-463a-5abd-86b7-771057aa619d",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/e831183c-30dc-5bb4-a53c-bb1bbe650ba3"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-11-18T04:42:40.000+00:00",
+            "datePublished": "2025-11-18T12:15:05.000+00:00",
+            "headline": "Der LG G5 hat eine sehr hohe Helligkeit und kräfti",
+            "reviewBody": "Der LG G5 hat eine sehr hohe Helligkeit und kräftige Farben. Zurzeit läuft er stabil. Insgesamt bin ich zufrieden – sowohl die Geschwindigkeit als auch die Bildqualität sind wirklich überzeugend.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Eroza"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/6be6cf78-2371-5d08-8001-12e711a3bb89",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/edaffed3-31e7-5b40-9592-2c2faae97d39"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-12-10T17:26:47.000+00:00",
+            "datePublished": "2025-12-10T17:45:10.000+00:00",
+            "headline": "Immer aufpassen",
+            "reviewBody": "Lg macht immer gute Produkte aber manchmal DHL hat schlechte mitarbeiter je nach Ort \r\nMenie wurde zurück geschickt \r\nLeider habe ich auch das Angebot nicht mehr",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 4,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Snoopy25m"
+            },
+            "image": [],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-11-02T19:15:12.000+00:00",
+            "datePublished": "2025-11-02T21:00:06.000+00:00",
+            "headline": "Unkomplizierte Abwicklung",
+            "reviewBody": "Alles unkompliziert, sehr gutes Angebot . Bestätigung kam sofort. Auf die Lieferung warte ich noch .",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Zico"
+            },
+            "image": [],
+            "video": [],
+            "comment": []
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org/",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/tv-bundles/oled65c5elb-ds60tr/",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "itemReviewed": {
+            "@type": "IndividualProduct",
+            "name": null
+          },
+          "ratingValue": "4.8",
+          "reviewCount": 4,
+          "bestRating": 5
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "product",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/tv-bundles/oled65c5elb-ds60tr/",
+        "name": "65 Zoll LG OLED evo AI C5E 4K Smart TV 2025 + 5.1-Kanal LG Home Theater Soundbar DS60TR mit Surround-Sound und hinteren Lautsprechern",
+        "image": "/content/dam/channel/wcms/de/gallery/pto/oled65c5elb-ds60tr/450x450_OLED65C5ELB.DS60TR.jpg",
+        "description": "Entdecken Sie LG OLED65C5ELB.DS60TR. Für Bilder, Bewertungen und technische Daten zu LG klicken 65 Zoll LG OLED evo AI C5E 4K Smart TV 2025 + 5.1-Kanal LG Home Theater Soundbar DS60TR mit Surround-Sound und hinteren Lautsprechern.",
+        "mpn": "OLED65C5ELB.DS60TR",
+        "brand": {
+          "@type": "Brand",
+          "name": "LG"
+        },
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "EUR",
+          "price": "1448.98",
+          "availability": "https://schema.org/PreOrder",
+          "seller": {
+            "@type": "Organization",
+            "name": "LG DE"
+          }
+        },
+        "size": {
+          "@type": "QuantitativeValue",
+          "unitCode": "",
+          "value": ""
+        },
+        "hasEnergyConsumptionDetails": {
+          "@type": "EnergyConsumptionDetails",
+          "hasEnergyEfficiencyCategory": "https://schema.org/EUEnergyEfficiencyCategoryF",
+          "energyEfficiencyScaleMax": "",
+          "energyEfficiencyScaleMin": ""
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.lg.com/de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "TVs & Soundbars",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "TV Bundles",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/tv-bundles/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "OLED65C5ELB.DS60TR",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/tv-bundles/oled65c5elb-ds60tr/"
+          }
+        ]
+      }
+    ]
+  }
+}

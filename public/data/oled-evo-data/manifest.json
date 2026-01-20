@@ -1,0 +1,71 @@
+{
+  "category": "oled-evo",
+  "updatedAt": "2026-01-20T06:42:27.219Z",
+  "totalProducts": 8,
+  "products": [
+    {
+      "modelNumber": "OLED48C5ELB",
+      "productName": "48 Zoll LG OLED evo AI C5 4K Smart TV",
+      "price": "899",
+      "rating": "4.8",
+      "imageCount": 176,
+      "videoCount": 14
+    },
+    {
+      "modelNumber": "OLED48G59LS",
+      "productName": "48 Zoll LG OLED evo AI G5 4K Smart TV ",
+      "price": "949",
+      "rating": "4.7",
+      "imageCount": 207,
+      "videoCount": 19
+    },
+    {
+      "modelNumber": "OLED55C5ELB",
+      "productName": "55 Zoll LG OLED evo AI C5 4K Smart TV",
+      "price": "1049",
+      "rating": "4.8",
+      "imageCount": 186,
+      "videoCount": 16
+    },
+    {
+      "modelNumber": "OLED55G57LW",
+      "productName": "55 Zoll LG OLED evo AI G5 4K Smart TV",
+      "price": "1449",
+      "rating": "4.7",
+      "imageCount": 204,
+      "videoCount": 17
+    },
+    {
+      "modelNumber": "OLED55G59LS",
+      "productName": "55 Zoll LG OLED evo AI G5 4K Smart TV",
+      "price": "1349",
+      "rating": "4.7",
+      "imageCount": 217,
+      "videoCount": 19
+    },
+    {
+      "modelNumber": "OLED65C5ELB",
+      "productName": "65 Zoll LG OLED evo AI C5 4K Smart TV",
+      "price": "1399",
+      "rating": "4.8",
+      "imageCount": 188,
+      "videoCount": 16
+    },
+    {
+      "modelNumber": "OLED77G57LW",
+      "productName": "77 Zoll LG OLED evo AI G5 4K Smart TV",
+      "price": "2999",
+      "rating": "4.8",
+      "imageCount": 201,
+      "videoCount": 10
+    },
+    {
+      "modelNumber": "OLED77M49LA",
+      "productName": "77 Zoll LG SIGNATURE OLED M4 True Wireless TV mit 4K 144 Hz Video- und Audioübertragung",
+      "price": "",
+      "rating": "4.8",
+      "imageCount": 167,
+      "videoCount": 46
+    }
+  ]
+}

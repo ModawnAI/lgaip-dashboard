@@ -1,0 +1,2121 @@
+{
+  "crawledAt": "2026-01-20T03:47:27.493Z",
+  "url": "https://www.lg.com/de/tvs-und-soundbars/signature-oled/oled97m59la/",
+  "modelNumber": "OLED97M59LA",
+  "category": "LG SIGNATURE OLED",
+  "basicInfo": {
+    "productName": "True Wireless TV 97 Zoll LG SIGNATURE OLED M5 mit 4K Video- und Audioübertragung",
+    "headline": "True Wireless TV 97 Zoll LG SIGNATURE OLED M5 mit 4K Video- und Audioübertragung",
+    "screenSize": "97 Zoll",
+    "series": "M",
+    "year": 2025,
+    "brand": "LG",
+    "modelNumber": "OLED97M59LA"
+  },
+  "pricing": {
+    "currentPrice": "30499",
+    "currency": "EUR",
+    "availability": "OutOfStock",
+    "seller": "LG DE"
+  },
+  "ratings": {
+    "averageRating": "4.9",
+    "reviewCount": 44,
+    "bestRating": 5
+  },
+  "energyEfficiency": {
+    "category": "G",
+    "scaleMax": "A1Plus",
+    "scaleMin": "G"
+  },
+  "media": {
+    "images": [
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "OLED97M59LA EU.pdf",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "OLED97M59LA EU.pdf",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-15.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Geräumiges Wohnzimmer mit Blick auf eine Stadtlandschaft. Der LG OLED TV steht auf einem Standfuß. Das ultra-schlanke Design sorgt für eine beeindruckende Wirkung des Bildschirms. Die Zero Connect Box ist zu sehen, aber unauffällig aufgestellt. ",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Frontansicht des Weltweit ersten True Wireless TVs 97 Zoll LG OLED evo AI M5 mit 4K 144Hz Video und Audioübertragung OLED77M59LA",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-02.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Zero Connect Box mit den entsprechenden Größenangaben in Millimetern. ",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-03.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Frontansicht und Seitenansicht des LG SIGNATURE OLED TV M5 mit den Abmessungen Länge, Breite, Höhe und Tiefe.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-04.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Der Bildschirm des LG SIGNATURE OLED TV M5 zeigt eine Höhle mit Blick auf den Himmel. Der Text handelt davon, wie beeindruckend Details in visuell verlustfreier 4K-Qualität sind. ",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-05.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "LG SIGNATURE OLED TV M5 mit Spiel auf dem Bildschirm, das flüssiges und nahtloses Gameplay zeigt. Die Zero Connect Box ist zwar sichtbar, fügt sich aber gut in den Raum ein. Gaming-Zertifizierungen sind sichtbar. Der Text handelt von ultraschnellem, kabellosem Gaming mit 120Hz und geringer Latenz.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-06.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Drei Symbole, die die drei kostenlosen Vorteile der LG True Wireless TVs darstellen. Freie Standortwahl, Frei von Kabelsalat, Frei von Sress. Der Text handelt davon, sich von den Grenzen des kabelgebundenen Fernsehens zu befreien und eine mühelose Einrichtung und einen sauberen, offenen Raum zu genießen.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-07.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Der Alpha 11 Gen2 4K AI-Prozessor steht vor einem dunklen Hintergrund. Er leuchtet in einem lilablauen Licht, das die Mikrochip-Schaltkreise um ihn herum erhellt. In der Überschrift geht es darum, wie der Prozessor, der für LG OLED evo entwickelt wurde, 4K-Qualität, atemberaubende Farben und Helligkeit mit Präzision auf Pixelebene liefert. Die Leistungsstatistiken sind sichtbar. 6,7-mal verbessert",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-08.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Ein Space Shuttle startet vom Boden. Die Szene ist in der Mitte geteilt, wobei eine Hälfte etwas dunkler und matter ist. Die andere Hälfte zeigt, wie hell die Raketenexplosion ist, und demonstriert, wie hell Bilder auf einem LG OLED TV-Bildschirm mit der lichtemittierenden Struktur und der Beleuchtungssteuerungsarchitektur von Brightness Booster Max sein können.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-09.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Wohnzimmer mit einem an der Wand montierten LG OLED TV. Auf dem Fernseher ist eine Bergkette vor einem dunklen, sternenübersäten Abendhimmel zu sehen. Diese Szene ist in zwei Hälften geteilt, um zu zeigen, wie Perfektes Schwarz echte Schwarzwerte liefert – egal, ob es um dich herum hell oder dunkel ist. Die eine Seite der Szene zeigt eine trübe, grauere Version des Querformat-Displays mit der Aufs",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-10.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Bunter Papagei in ultrahoher Auflösung vor schwarzem Hintergrund. Rundherum schweben Wassertropfen in der Luft. Das Bild präsentiert Perfekte Fabren, wobei jeder einzelne Farbton auf dem Körper des Papageis leuchtend und lebendig ist. Verschiedene Logo-Zertifizierungen von UL und Intertek sind sichtbar. Diese beziehen sich auf seine 100%ige Farbtreue und sein 100%iges Farbvolumen. Auch Text ist si",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-11.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "LG AI Magic Remote-Fernbedienung mit hervorgehobenem AI Button. Rundherum befinden sich die verschiedenen Funktionen, auf die ein Benutzer über die Schaltfläche zugreifen kann. AI Voice ID, AI Search, AI Chatbot, AI Concierge, AI Picture Wizard, AI Sound Wizard. Der Text erklärt, dass die LG AI Magic Remote dein AI-Erlebnis mit einem speziellen AI Button vervollständigt und wie eine Computer-Maus ",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-12.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "LG TV-Bildschirm mit einer AI Magic Remote im Vordergrund. Der AI Button ist hervorgehoben und eine Sprechblase zeigt den Text „Schlage einen Film vor, der mir gefällt“. Auf dem Bildschirm sehen wir das Benutzersymbol E, das anzeigt, dass AI Voice ID in der Lage war, den Benutzer zu identifizieren und personalisierte Empfehlungen allein auf der Grundlage seiner Stimme zu geben. ",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-13.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Nahaufnahme eines LG OLED TV-Bildschirms, der zeigt, wie AI Search funktioniert. Ein kleines Chat-Fenster ist geöffnet und zeigt, wie der Benutzer nachfragt, welche Sportspiele verfügbar sind. AI Search antwortete per Chat und zeigte Vorschaubilder verfügbarer Inhalte an. Es wird auch eine Aufforderung mit einer Frage an Microsoft Copilot angezeigt. ",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-14.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Auf einem LG TV-Bildschirm werden Science-Fiction-Inhalte abgespielt. Auf dem Bildschirm befindet sich die Benutzeroberfläche des AI Chatbots. Der Benutzer hat dem Chatbot mitgeteilt, dass der Bildschirm zu dunkel ist. Der Chatbot bot Lösungen für die Anfrage an. Die gesamte Szene ist in zwei Hälften geteilt. Die eine Seite ist dunkler, die andere Seite heller und zeigt, wie der AI Chatbot das Pro",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-15.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Geräumiges Wohnzimmer mit Blick auf eine Stadtlandschaft. Der LG OLED TV steht auf einem Standfuß. Das ultra-schlanke Design sorgt für eine beeindruckende Wirkung des Bildschirms. Die Zero Connect Box ist zu sehen, aber unauffällig aufgestellt. ",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Frontansicht des Weltweit ersten True Wireless TVs 97 Zoll LG OLED evo AI M5 mit 4K 144Hz Video und Audioübertragung OLED77M59LA",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/TH-01.jpg",
+        "srcset": null,
+        "alt": "Frontansicht des Weltweit ersten True Wireless TVs 97 Zoll LG OLED evo AI M5 mit 4K 144Hz Video und Audioübertragung OLED77M59LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/TH-02.jpg",
+        "srcset": null,
+        "alt": "Zero Connect Box mit den entsprechenden Größenangaben in Millimetern. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/TH-03.jpg",
+        "srcset": null,
+        "alt": "Frontansicht und Seitenansicht des LG SIGNATURE OLED TV M5 mit den Abmessungen Länge, Breite, Höhe und Tiefe.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/TH-04.jpg",
+        "srcset": null,
+        "alt": "Der Bildschirm des LG SIGNATURE OLED TV M5 zeigt eine Höhle mit Blick auf den Himmel. Der Text handelt davon, wie beeindruckend Details in visuell verlustfreier 4K-Qualität sind. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/TH-05.jpg",
+        "srcset": null,
+        "alt": "LG SIGNATURE OLED TV M5 mit Spiel auf dem Bildschirm, das flüssiges und nahtloses Gameplay zeigt. Die Zero Connect Box ist zwar sichtbar, fügt sich aber gut in den Raum ein. Gaming-Zertifizierungen sind sichtbar. Der Text handelt von ultraschnellem, kabellosem Gaming mit 120Hz und geringer Latenz.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/TH-06.jpg",
+        "srcset": null,
+        "alt": "Drei Symbole, die die drei kostenlosen Vorteile der LG True Wireless TVs darstellen. Freie Standortwahl, Frei von Kabelsalat, Frei von Sress. Der Text handelt davon, sich von den Grenzen des kabelgebundenen Fernsehens zu befreien und eine mühelose Einrichtung und einen sauberen, offenen Raum zu genießen.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/TH-07.jpg",
+        "srcset": null,
+        "alt": "Der Alpha 11 Gen2 4K AI-Prozessor steht vor einem dunklen Hintergrund. Er leuchtet in einem lilablauen Licht, das die Mikrochip-Schaltkreise um ihn herum erhellt. In der Überschrift geht es darum, wie der Prozessor, der für LG OLED evo entwickelt wurde, 4K-Qualität, atemberaubende Farben und Helligkeit mit Präzision auf Pixelebene liefert. Die Leistungsstatistiken sind sichtbar. 6,7-mal verbessert",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/TH-08.jpg",
+        "srcset": null,
+        "alt": "Ein Space Shuttle startet vom Boden. Die Szene ist in der Mitte geteilt, wobei eine Hälfte etwas dunkler und matter ist. Die andere Hälfte zeigt, wie hell die Raketenexplosion ist, und demonstriert, wie hell Bilder auf einem LG OLED TV-Bildschirm mit der lichtemittierenden Struktur und der Beleuchtungssteuerungsarchitektur von Brightness Booster Max sein können.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/TH-09.jpg",
+        "srcset": null,
+        "alt": "Wohnzimmer mit einem an der Wand montierten LG OLED TV. Auf dem Fernseher ist eine Bergkette vor einem dunklen, sternenübersäten Abendhimmel zu sehen. Diese Szene ist in zwei Hälften geteilt, um zu zeigen, wie Perfektes Schwarz echte Schwarzwerte liefert – egal, ob es um dich herum hell oder dunkel ist. Die eine Seite der Szene zeigt eine trübe, grauere Version des Querformat-Displays mit der Aufs",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/TH-10.jpg",
+        "srcset": null,
+        "alt": "Bunter Papagei in ultrahoher Auflösung vor schwarzem Hintergrund. Rundherum schweben Wassertropfen in der Luft. Das Bild präsentiert Perfekte Fabren, wobei jeder einzelne Farbton auf dem Körper des Papageis leuchtend und lebendig ist. Verschiedene Logo-Zertifizierungen von UL und Intertek sind sichtbar. Diese beziehen sich auf seine 100%ige Farbtreue und sein 100%iges Farbvolumen. Auch Text ist si",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/TH-11.jpg",
+        "srcset": null,
+        "alt": "LG AI Magic Remote-Fernbedienung mit hervorgehobenem AI Button. Rundherum befinden sich die verschiedenen Funktionen, auf die ein Benutzer über die Schaltfläche zugreifen kann. AI Voice ID, AI Search, AI Chatbot, AI Concierge, AI Picture Wizard, AI Sound Wizard. Der Text erklärt, dass die LG AI Magic Remote dein AI-Erlebnis mit einem speziellen AI Button vervollständigt und wie eine Computer-Maus ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/TH-12.jpg",
+        "srcset": null,
+        "alt": "LG TV-Bildschirm mit einer AI Magic Remote im Vordergrund. Der AI Button ist hervorgehoben und eine Sprechblase zeigt den Text „Schlage einen Film vor, der mir gefällt“. Auf dem Bildschirm sehen wir das Benutzersymbol E, das anzeigt, dass AI Voice ID in der Lage war, den Benutzer zu identifizieren und personalisierte Empfehlungen allein auf der Grundlage seiner Stimme zu geben. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/TH-13.jpg",
+        "srcset": null,
+        "alt": "Nahaufnahme eines LG OLED TV-Bildschirms, der zeigt, wie AI Search funktioniert. Ein kleines Chat-Fenster ist geöffnet und zeigt, wie der Benutzer nachfragt, welche Sportspiele verfügbar sind. AI Search antwortete per Chat und zeigte Vorschaubilder verfügbarer Inhalte an. Es wird auch eine Aufforderung mit einer Frage an Microsoft Copilot angezeigt. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/TH-14.jpg",
+        "srcset": null,
+        "alt": "Auf einem LG TV-Bildschirm werden Science-Fiction-Inhalte abgespielt. Auf dem Bildschirm befindet sich die Benutzeroberfläche des AI Chatbots. Der Benutzer hat dem Chatbot mitgeteilt, dass der Bildschirm zu dunkel ist. Der Chatbot bot Lösungen für die Anfrage an. Die gesamte Szene ist in zwei Hälften geteilt. Die eine Seite ist dunkler, die andere Seite heller und zeigt, wie der AI Chatbot das Pro",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/TH-15.jpg",
+        "srcset": null,
+        "alt": "Geräumiges Wohnzimmer mit Blick auf eine Stadtlandschaft. Der LG OLED TV steht auf einem Standfuß. Das ultra-schlanke Design sorgt für eine beeindruckende Wirkung des Bildschirms. Die Zero Connect Box ist zu sehen, aber unauffällig aufgestellt. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des Weltweit ersten True Wireless TVs 97 Zoll LG OLED evo AI M5 mit 4K 144Hz Video und Audioübertragung OLED77M59LA",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-02.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Zero Connect Box mit den entsprechenden Größenangaben in Millimetern. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-03.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht und Seitenansicht des LG SIGNATURE OLED TV M5 mit den Abmessungen Länge, Breite, Höhe und Tiefe.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-04.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Der Bildschirm des LG SIGNATURE OLED TV M5 zeigt eine Höhle mit Blick auf den Himmel. Der Text handelt davon, wie beeindruckend Details in visuell verlustfreier 4K-Qualität sind. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-05.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "LG SIGNATURE OLED TV M5 mit Spiel auf dem Bildschirm, das flüssiges und nahtloses Gameplay zeigt. Die Zero Connect Box ist zwar sichtbar, fügt sich aber gut in den Raum ein. Gaming-Zertifizierungen sind sichtbar. Der Text handelt von ultraschnellem, kabellosem Gaming mit 120Hz und geringer Latenz.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-06.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Drei Symbole, die die drei kostenlosen Vorteile der LG True Wireless TVs darstellen. Freie Standortwahl, Frei von Kabelsalat, Frei von Sress. Der Text handelt davon, sich von den Grenzen des kabelgebundenen Fernsehens zu befreien und eine mühelose Einrichtung und einen sauberen, offenen Raum zu genießen.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-07.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Der Alpha 11 Gen2 4K AI-Prozessor steht vor einem dunklen Hintergrund. Er leuchtet in einem lilablauen Licht, das die Mikrochip-Schaltkreise um ihn herum erhellt. In der Überschrift geht es darum, wie der Prozessor, der für LG OLED evo entwickelt wurde, 4K-Qualität, atemberaubende Farben und Helligkeit mit Präzision auf Pixelebene liefert. Die Leistungsstatistiken sind sichtbar. 6,7-mal verbessert",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-08.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Ein Space Shuttle startet vom Boden. Die Szene ist in der Mitte geteilt, wobei eine Hälfte etwas dunkler und matter ist. Die andere Hälfte zeigt, wie hell die Raketenexplosion ist, und demonstriert, wie hell Bilder auf einem LG OLED TV-Bildschirm mit der lichtemittierenden Struktur und der Beleuchtungssteuerungsarchitektur von Brightness Booster Max sein können.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-09.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Wohnzimmer mit einem an der Wand montierten LG OLED TV. Auf dem Fernseher ist eine Bergkette vor einem dunklen, sternenübersäten Abendhimmel zu sehen. Diese Szene ist in zwei Hälften geteilt, um zu zeigen, wie Perfektes Schwarz echte Schwarzwerte liefert – egal, ob es um dich herum hell oder dunkel ist. Die eine Seite der Szene zeigt eine trübe, grauere Version des Querformat-Displays mit der Aufs",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-10.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Bunter Papagei in ultrahoher Auflösung vor schwarzem Hintergrund. Rundherum schweben Wassertropfen in der Luft. Das Bild präsentiert Perfekte Fabren, wobei jeder einzelne Farbton auf dem Körper des Papageis leuchtend und lebendig ist. Verschiedene Logo-Zertifizierungen von UL und Intertek sind sichtbar. Diese beziehen sich auf seine 100%ige Farbtreue und sein 100%iges Farbvolumen. Auch Text ist si",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-11.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "LG AI Magic Remote-Fernbedienung mit hervorgehobenem AI Button. Rundherum befinden sich die verschiedenen Funktionen, auf die ein Benutzer über die Schaltfläche zugreifen kann. AI Voice ID, AI Search, AI Chatbot, AI Concierge, AI Picture Wizard, AI Sound Wizard. Der Text erklärt, dass die LG AI Magic Remote dein AI-Erlebnis mit einem speziellen AI Button vervollständigt und wie eine Computer-Maus ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-12.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "LG TV-Bildschirm mit einer AI Magic Remote im Vordergrund. Der AI Button ist hervorgehoben und eine Sprechblase zeigt den Text „Schlage einen Film vor, der mir gefällt“. Auf dem Bildschirm sehen wir das Benutzersymbol E, das anzeigt, dass AI Voice ID in der Lage war, den Benutzer zu identifizieren und personalisierte Empfehlungen allein auf der Grundlage seiner Stimme zu geben. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-13.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Nahaufnahme eines LG OLED TV-Bildschirms, der zeigt, wie AI Search funktioniert. Ein kleines Chat-Fenster ist geöffnet und zeigt, wie der Benutzer nachfragt, welche Sportspiele verfügbar sind. AI Search antwortete per Chat und zeigte Vorschaubilder verfügbarer Inhalte an. Es wird auch eine Aufforderung mit einer Frage an Microsoft Copilot angezeigt. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-14.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Auf einem LG TV-Bildschirm werden Science-Fiction-Inhalte abgespielt. Auf dem Bildschirm befindet sich die Benutzeroberfläche des AI Chatbots. Der Benutzer hat dem Chatbot mitgeteilt, dass der Bildschirm zu dunkel ist. Der Chatbot bot Lösungen für die Anfrage an. Die gesamte Szene ist in zwei Hälften geteilt. Die eine Seite ist dunkler, die andere Seite heller und zeigt, wie der AI Chatbot das Pro",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/DZ-15.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Geräumiges Wohnzimmer mit Blick auf eine Stadtlandschaft. Der LG OLED TV steht auf einem Standfuß. Das ultra-schlanke Design sorgt für eine beeindruckende Wirkung des Bildschirms. Die Zero Connect Box ist zu sehen, aber unauffällig aufgestellt. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/TH-01.jpg",
+        "srcset": null,
+        "alt": "Frontansicht des Weltweit ersten True Wireless TVs 97 Zoll LG OLED evo AI M5 mit 4K 144Hz Video und Audioübertragung OLED77M59LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/TH-02.jpg",
+        "srcset": null,
+        "alt": "Zero Connect Box mit den entsprechenden Größenangaben in Millimetern. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/TH-03.jpg",
+        "srcset": null,
+        "alt": "Frontansicht und Seitenansicht des LG SIGNATURE OLED TV M5 mit den Abmessungen Länge, Breite, Höhe und Tiefe.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/TH-04.jpg",
+        "srcset": null,
+        "alt": "Der Bildschirm des LG SIGNATURE OLED TV M5 zeigt eine Höhle mit Blick auf den Himmel. Der Text handelt davon, wie beeindruckend Details in visuell verlustfreier 4K-Qualität sind. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/TH-05.jpg",
+        "srcset": null,
+        "alt": "LG SIGNATURE OLED TV M5 mit Spiel auf dem Bildschirm, das flüssiges und nahtloses Gameplay zeigt. Die Zero Connect Box ist zwar sichtbar, fügt sich aber gut in den Raum ein. Gaming-Zertifizierungen sind sichtbar. Der Text handelt von ultraschnellem, kabellosem Gaming mit 120Hz und geringer Latenz.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/TH-06.jpg",
+        "srcset": null,
+        "alt": "Drei Symbole, die die drei kostenlosen Vorteile der LG True Wireless TVs darstellen. Freie Standortwahl, Frei von Kabelsalat, Frei von Sress. Der Text handelt davon, sich von den Grenzen des kabelgebundenen Fernsehens zu befreien und eine mühelose Einrichtung und einen sauberen, offenen Raum zu genießen.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/TH-07.jpg",
+        "srcset": null,
+        "alt": "Der Alpha 11 Gen2 4K AI-Prozessor steht vor einem dunklen Hintergrund. Er leuchtet in einem lilablauen Licht, das die Mikrochip-Schaltkreise um ihn herum erhellt. In der Überschrift geht es darum, wie der Prozessor, der für LG OLED evo entwickelt wurde, 4K-Qualität, atemberaubende Farben und Helligkeit mit Präzision auf Pixelebene liefert. Die Leistungsstatistiken sind sichtbar. 6,7-mal verbessert",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/TH-08.jpg",
+        "srcset": null,
+        "alt": "Ein Space Shuttle startet vom Boden. Die Szene ist in der Mitte geteilt, wobei eine Hälfte etwas dunkler und matter ist. Die andere Hälfte zeigt, wie hell die Raketenexplosion ist, und demonstriert, wie hell Bilder auf einem LG OLED TV-Bildschirm mit der lichtemittierenden Struktur und der Beleuchtungssteuerungsarchitektur von Brightness Booster Max sein können.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/TH-09.jpg",
+        "srcset": null,
+        "alt": "Wohnzimmer mit einem an der Wand montierten LG OLED TV. Auf dem Fernseher ist eine Bergkette vor einem dunklen, sternenübersäten Abendhimmel zu sehen. Diese Szene ist in zwei Hälften geteilt, um zu zeigen, wie Perfektes Schwarz echte Schwarzwerte liefert – egal, ob es um dich herum hell oder dunkel ist. Die eine Seite der Szene zeigt eine trübe, grauere Version des Querformat-Displays mit der Aufs",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/TH-10.jpg",
+        "srcset": null,
+        "alt": "Bunter Papagei in ultrahoher Auflösung vor schwarzem Hintergrund. Rundherum schweben Wassertropfen in der Luft. Das Bild präsentiert Perfekte Fabren, wobei jeder einzelne Farbton auf dem Körper des Papageis leuchtend und lebendig ist. Verschiedene Logo-Zertifizierungen von UL und Intertek sind sichtbar. Diese beziehen sich auf seine 100%ige Farbtreue und sein 100%iges Farbvolumen. Auch Text ist si",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/TH-11.jpg",
+        "srcset": null,
+        "alt": "LG AI Magic Remote-Fernbedienung mit hervorgehobenem AI Button. Rundherum befinden sich die verschiedenen Funktionen, auf die ein Benutzer über die Schaltfläche zugreifen kann. AI Voice ID, AI Search, AI Chatbot, AI Concierge, AI Picture Wizard, AI Sound Wizard. Der Text erklärt, dass die LG AI Magic Remote dein AI-Erlebnis mit einem speziellen AI Button vervollständigt und wie eine Computer-Maus ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/TH-12.jpg",
+        "srcset": null,
+        "alt": "LG TV-Bildschirm mit einer AI Magic Remote im Vordergrund. Der AI Button ist hervorgehoben und eine Sprechblase zeigt den Text „Schlage einen Film vor, der mir gefällt“. Auf dem Bildschirm sehen wir das Benutzersymbol E, das anzeigt, dass AI Voice ID in der Lage war, den Benutzer zu identifizieren und personalisierte Empfehlungen allein auf der Grundlage seiner Stimme zu geben. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/TH-13.jpg",
+        "srcset": null,
+        "alt": "Nahaufnahme eines LG OLED TV-Bildschirms, der zeigt, wie AI Search funktioniert. Ein kleines Chat-Fenster ist geöffnet und zeigt, wie der Benutzer nachfragt, welche Sportspiele verfügbar sind. AI Search antwortete per Chat und zeigte Vorschaubilder verfügbarer Inhalte an. Es wird auch eine Aufforderung mit einer Frage an Microsoft Copilot angezeigt. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/TH-14.jpg",
+        "srcset": null,
+        "alt": "Auf einem LG TV-Bildschirm werden Science-Fiction-Inhalte abgespielt. Auf dem Bildschirm befindet sich die Benutzeroberfläche des AI Chatbots. Der Benutzer hat dem Chatbot mitgeteilt, dass der Bildschirm zu dunkel ist. Der Chatbot bot Lösungen für die Anfrage an. Die gesamte Szene ist in zwei Hälften geteilt. Die eine Seite ist dunkler, die andere Seite heller und zeigt, wie der AI Chatbot das Pro",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/TH-15.jpg",
+        "srcset": null,
+        "alt": "Geräumiges Wohnzimmer mit Blick auf eine Stadtlandschaft. Der LG OLED TV steht auf einem Standfuß. Das ultra-schlanke Design sorgt für eine beeindruckende Wirkung des Bildschirms. Die Zero Connect Box ist zu sehen, aber unauffällig aufgestellt. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/promotion/thumbnail/2025-12-15-LG-CB26-Desktop-1920x720px-noText-jgr_20260115_010718_.jpg",
+        "srcset": null,
+        "alt": "Drei gute Vorsätze fürs neue Jahr – die bleiben.",
+        "width": 1920,
+        "height": 720
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/features/desktop/lg-signature-oled-m5-2025-01-feature-award-d-1.jpg",
+        "srcset": null,
+        "alt": "2025 CES Innovation Award mit einer Ehrung als „Best of Innovation“. ",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/features/desktop/lg-signature-oled-m5-2025-01-feature-award-d-2.jpg",
+        "srcset": null,
+        "alt": "Reviewed Awards CES 2025 Logo",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/features/desktop/lg-signature-oled-m5-2025-01-feature-award-d-3.jpg",
+        "srcset": null,
+        "alt": "Abzeichen „CES Innovation Awards“ mit Ehrung „2025 Honoree“.",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/features/desktop/lg-signature-oled-m5-2025-01-feature-award-d-4.jpg",
+        "srcset": null,
+        "alt": "Logo von AVForums Editor's Choice für LG webOS 24 als bestes Smart TV-System 2024/2025. ",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/features/desktop/lg-signature-oled-m5-2025-05-feature-3-free-d-1.jpg",
+        "srcset": null,
+        "alt": "Wohnzimmer mit einem LG True Wireless TV und einer LG Soundbar, die an der Wand befestigt ist. Die Zero Connect Box ist unter einem Beistelltisch neben der Couch kaum zu sehen – sie lässt sich praktisch überall aufstellen. Das gesamte Layout des Wohnzimmers wirkt ordentlich und aufgeräumt.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/features/desktop/lg-signature-oled-m5-2025-05-feature-3-free-d-2.jpg",
+        "srcset": null,
+        "alt": "Wohnzimmer mit Blick von der Couch auf einen an der Wand montierten LG True Wireless TV und einer LG Soundbar. Auf dem Couchtisch steht ein Laptop, der mit der Zero Connect Box verbunden ist. Diese befindet sich kaum sichtbar unter dem Tisch. Der Laptop-Bildschirm, auf dem ein Live-Videoanruf läuft, wird kabellos auf den Fernsehbildschirm gespiegelt. Der gesamte Raum wirkt aufgeräumt und ist frei von Kabelsalat.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/features/desktop/lg-signature-oled-m5-2025-05-feature-3-free-d-3.jpg",
+        "srcset": null,
+        "alt": "Wohnzimmer mit einer Person, die ein Video-Game auf einem an der Wand montierten LG True Wireless TV mit LG Soundbar spielt. Sie hält einen Controller in der Hand, aber die Spielekonsole ist nicht sofort zu sehen. Es sind auch keine Kabel zu sehen. Die Zero Connect Box steht versteckt unter einem Beistelltisch.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/features/mobile/lg-signature-oled-m5-2025-12-feature-ai-magic-remote-m-01.jpg",
+        "srcset": null,
+        "alt": "LG AI Magic Remote-Fernbedienung mit hervorgehobenem ai Button. Es gibt eine grafische UI-Darstellung mit Symbolen, die zeigt, wie der AI Button den Zugang zu verschiedenen AI-Funktionen ermöglicht. Zu den Services gehören AI Voice ID, AI Search, AI Chatbot, AI Concierge, AI Picture Wizard und AI Sound Wizard. Die Funktionsweise wird gezeigt, indem der Cursor über einer Benutzeroberfläche erscheint und zeigt, wie die Fernbedienung wie eine Maus zum Zeigen und Klicken verwendet werden kann.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/features/mobile/lg-signature-oled-m5-2025-13-feature-ai-voice-id-m-01.jpg",
+        "srcset": null,
+        "alt": "Eine vierköpfige Familie ist um einen LG AI TV versammelt. Um die Person, welche die Fernbedienung hält, erscheint ein Kreis mit ihrem Namen. Hier wird gezeigt, wie AI Voice ID die Stimmsignatur eines jeden Benutzers erkennt. Die webOS-Oberfläche zeigt dann, wie die AI automatisch das Konto wechselt und personalisierte Inhalte empfiehlt.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/features/mobile/lg-signature-oled-m5-2025-14-feature-ai-search-m.jpg",
+        "srcset": null,
+        "alt": "Nahaufnahme eines LG OLED TV-Bildschirms, der zeigt, wie AI Search funktioniert. Ein kleines Chat-Fenster ist geöffnet und zeigt, wie der Benutzer nachfragt, welche Sportbegegnungen verfügbar sind. AI Search antwortete per Chat und zeigte Vorschaubilder verfügbarer Inhalte an. Es wird auch eine Aufforderung mit einer Frage an Microsoft Copilot angezeigt.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/features/mobile/lg-signature-oled-m5-2025-15-feature-ai-chatbot-m.jpg",
+        "srcset": null,
+        "alt": "Auf einem LG OLED TV-Bildschirm werden Science-Fiction-Inhalte abgespielt. Auf dem Bildschirm befindet sich die Benutzeroberfläche des AI Chatbots. Der Benutzer hat dem Chatbot mitgeteilt, dass der Bildschirm zu dunkel ist. Der Chatbot bietet Lösungen für die Anfrage an. Die gesamte Szene ist in zwei Hälften geteilt. Die eine Seite ist dunkler, die andere Seite heller und zeigt, wie der AI Chatbot das Problem für den Nutzer automatisch gelöst hat.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/features/mobile/lg-signature-oled-m5-2025-16-feature-ai-concierge-m-03.jpg",
+        "srcset": null,
+        "alt": "Die LG AI Magic Remote-Fernbedienung vor einem LG TV-Bildschirm. Auf dem Bildschirm erscheint eine personalisierte Begrüßung durch die LG AI mit benutzerdefinierten Schlüsselwörtern, die auf dem Such- und Sehverlauf des Benutzers basieren. An der Fernbedienung befinden sich ein Symbol und ein Hinweis darauf, dass die AI Concierge-Funktion mit einem kurzen Druck auf den AI Button leicht zugänglich ist.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/features/mobile/lg-signature-oled-m5-2025-17-feature-ai-picture-wizard-m.jpg",
+        "srcset": null,
+        "alt": "Bildschirm eines Benutzers, der den Personalisierungsprozess des AI Picture Wizard durchläuft. Es werden Bilderserien angezeigt, in denen die Auswahl des Benutzers hervorgehoben wird. Ein Ladesymbol erscheint und ein Landschaftsbild wird von links nach rechts verbessert.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/features/mobile/lg-signature-oled-m5-2025-18-feature-ai-sound-wizard-m.jpg",
+        "srcset": null,
+        "alt": "Bildschirm eines Benutzers, der den Personalisierungsprozess des AI Sound Wizard durchläuft. Es werden eine Reihe von Symbolen für Klänge ausgewählt. Zu sehen sind eine Jazzsängerin und ein Saxophonist, wobei die personalisierten Klänge durch Klangwellen dargestellt werden, die über das Bild animiert werden. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/features/mobile/lg-signature-oled-m5-2025-19-feature-hi-lg-m.jpg",
+        "srcset": null,
+        "alt": "Eine Person in ihrem Wohnzimmer. Eine Sprechblase um sie herum zeigt, wie sie mit ihrem LG-Fernseher interagiert, indem sie einfach „Hi LG“ sagt.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/features/mobile/lg-signature-oled-m5-2025-20-feature-webos-re-new-program-m.jpg",
+        "srcset": null,
+        "alt": "Logo und Name des webOS Re:New-Programms mit dem CES Innovation Award 2025 Honoree Logo. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/m5-evo/gp1/features/desktop/oled-m5-2025-31-feature-webos-youtube-d-1.jpg",
+        "srcset": null,
+        "alt": "Der Titel \"2025 LG AI TV\" und \"AI Voice ID\" wird angezeigt. Ein Mann und eine Frau sitzen auf einer Couch und halten eine TV-Fernbedienung in der Hand.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/m5-evo/gp1/features/desktop/oled-m5-2025-31-feature-webos-youtube-d-2.jpg",
+        "srcset": null,
+        "alt": "Der Titel \"2025 LG AI TV\" und \"AI Search\" wird angezeigt. Eine dreiköpfige Familie sitzt auf der Couch im Wohnzimmer.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/m5-evo/gp1/features/desktop/oled-m5-2025-31-feature-webos-youtube-d-3.jpg",
+        "srcset": null,
+        "alt": "Der Titel \"2025 LG AI TV\" und \"Al Chatbot & Al Picture/Sound Wizard\" wird angezeigt. Ein Mädchen sitzt, lächelt und schaut in die Ferne.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/m5-evo/gp1/features/desktop/oled-m5-2025-31-feature-webos-youtube-d-4.jpg",
+        "srcset": null,
+        "alt": "Der Titel \"2025 LG AI TV\" und \"Al Concierge\" wird angezeigt. Die LG Al Magic Remote-Fernbedienung ist sichtbar. Ein Mann sitzt auf der Couch.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsg10ty/sg10ty-basic.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht der LG Soundbar SG10TY und des Subwoofers",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/features/desktop/lg-signature-oled-m5-2025-29-feature-best-oled-tv-for-movies-d-1.jpg",
+        "srcset": null,
+        "alt": "Ein Regisseur vor einem Bedienfeld, der den Film „Killers of the Flower Moon“ auf einem LG OLED TV bearbeitet. Unten links das Dolby Vision-Logo und das FILMMAKER MODE-Logo.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/features/desktop/lg-signature-oled-m5-2025-29-feature-best-oled-tv-for-movies-d-2.jpg",
+        "srcset": null,
+        "alt": "Ein Paar schaut einen Film im Wohnzimmer auf einem LG OLED TV mit LG Soundbar. Grafiken zeigen, wie Dolby Atmos den ganzen Raum mit Klang aus allen Richtungen füllt. Das Dolby Atmos-Logo befindet sich in der unteren Ecke.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/features/mobile/lg-signature-oled-m5-2025-32-feature-resource-efficiency-banner-m.jpg",
+        "srcset": null,
+        "alt": "Zertifizierungszeichen für Ressourceneffizienz von Intertek.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/4f57878e-cc1a-4047-845f-7baac15b1991",
+        "srcset": null,
+        "alt": "LG Spain",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/4f57878e-cc1a-4047-845f-7baac15b1991",
+        "srcset": null,
+        "alt": "LG Spain",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/4f57878e-cc1a-4047-845f-7baac15b1991",
+        "srcset": null,
+        "alt": "LG Spain",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/4f57878e-cc1a-4047-845f-7baac15b1991",
+        "srcset": null,
+        "alt": "LG Spain",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/4f57878e-cc1a-4047-845f-7baac15b1991",
+        "srcset": null,
+        "alt": "LG Spain",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/4f57878e-cc1a-4047-845f-7baac15b1991",
+        "srcset": null,
+        "alt": "LG Spain",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/4f57878e-cc1a-4047-845f-7baac15b1991",
+        "srcset": null,
+        "alt": "LG Spain",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/kuehlschraenke/gmg861mbae/gallery/450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Vorderansicht des 508L & 178,7 cm großen InstaView®  Multi Door Kühlschranks Metal Sorbet GMG861MBAE",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/gallery/gbbw726cpy/gallery-new/450-01.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Front view",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-c.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/kuehlschraenke-gefrierschraenke/gsxv90mcae_amcqeur_eedg_de_c/450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "gsxv90mcae",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/ca_en/images/monitors/gaming-monitors/45gx950a-b/gallery/ultragear-gaming-45gx950a-2025-gallery-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "front view",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled65g57lw/OLED65G57LW-450-1.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 65 Zoll LG OLED evo AI G5 4K Smart TV OLED65G57LW",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/kuehlschraenke-gefrierschraenke/GSXE81EVBD-basic-450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "front view",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-d.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_manual-software_48x48.svg",
+        "srcset": null,
+        "alt": "Symbol Benutzerhandbuch und Software",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_complaints_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Fehlerbehebung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_warranty_48x48.svg",
+        "srcset": null,
+        "alt": "Garantie-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_part-accessory_48x48.svg",
+        "srcset": null,
+        "alt": "Symbol für Teile und Zubehör",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/buy/icon_register-a-product_48.svg",
+        "srcset": null,
+        "alt": "Symbol Produktregistrierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_product_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Produktsupport",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_order_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Bestellsupport",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/Icon_request-a-repair_60x60.svg",
+        "srcset": null,
+        "alt": "Symbol für Reparaturanfrage",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_chat-with-us__60x60.svg",
+        "srcset": null,
+        "alt": "Livechat-Symbol",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_whatsapp_60x60.svg",
+        "srcset": null,
+        "alt": "WhatsApp-Symbol",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_email-us_60x60.svg",
+        "srcset": null,
+        "alt": "E-Mail-Symbol",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_call_48.svg",
+        "srcset": null,
+        "alt": "Anruf-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/common/find-a-store-test/gradation-icon/banner-light-icons.svg",
+        "srcset": null,
+        "alt": "Filialsymbol suchen",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des Weltweit erster, transparenter \"True Wireless\" OLED TV LG SIGNATURE OLED T 77 Zoll mit kabelloser 4K-Video- und Audioübertragung OLED77T49LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/facebook-circle-fill.svg",
+        "srcset": null,
+        "alt": "Facebook",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/youtube-circle-fill.svg",
+        "srcset": null,
+        "alt": "Youtube",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/instagram-circle-fill.svg",
+        "srcset": null,
+        "alt": "Instagram",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/ot_company_logo.png",
+        "srcset": null,
+        "alt": "Firmenlogo",
+        "width": 600,
+        "height": 106
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/powered_by_logo.svg",
+        "srcset": null,
+        "alt": "Powered by Onetrust",
+        "width": 136,
+        "height": 16
+      }
+    ],
+    "videos": [
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/video/lg-signature-oled-m5-2025-02-video-kv-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/video/lg-signature-oled-m5-2025-02-video-kv-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/video/lg-signature-oled-m5-2025-04-video-true-wireless-gaming-m-1.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/video/lg-signature-oled-m5-2025-04-video-true-wireless-gaming-d-1.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/video/lg-signature-oled-m5-2025-11-video-ai-picture-pro-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/video/lg-signature-oled-m5-2025-11-video-ai-picture-pro-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/video/lg-signature-oled-m5-2025-12-video-ai-magic-remote-d-01.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/video/lg-signature-oled-m5-2025-13-video-ai-voice-id-m-01.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/video/lg-signature-oled-m5-2025-13-video-ai-voice-id-d-01.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/video/lg-signature-oled-m5-2025-17-video-ai-picture-wizard-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/video/lg-signature-oled-m5-2025-17-video-ai-picture-wizard-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/video/lg-signature-oled-m5-2025-18-video-ai-sound-wizard-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/video/lg-signature-oled-m5-2025-18-video-ai-sound-wizard-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/video/lg-signature-oled-m5-2025-21-video-home-hub-d-02.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/video/lg-signature-oled-m5-2025-21-video-home-hub-d-01.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/video/lg-signature-oled-m5-2025-26-video-lg-channels-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/video/lg-signature-oled-m5-2025-26-video-lg-channels-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/video/lg-signature-oled-m5-2025-28-video-gaming-portal-m-02.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/video/lg-signature-oled-m5-2025-28-video-gaming-portal-d-02.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      }
+    ]
+  },
+  "specifications": {
+    "€124,92": "Monatliche Rate",
+    "€1.499,00": "Gesamtbetrag inkl. Zinsen",
+    "0%": "Zinssatz",
+    "€74,96": "Monatliche Rate",
+    "€1.798,99": "Gesamtbetrag inkl. Zinsen",
+    "€40,00": "Monatliche Rate",
+    "€120,00": "Gesamtbetrag inkl. Zinsen"
+  },
+  "features": [],
+  "reviews": {
+    "summary": {},
+    "featured": [
+      {
+        "headline": "Fantastico Producto y magnifica atencion ..",
+        "body": "He comprado este televisor a traves de la web de lg oficial. He incluido tambien el envio a la casa y el montaje en pared incluido , por los tecnicos que nos mando la marca y todo ha ido perfecto, el envio y la instalacion en la fecha y hasta la hora acordada, ya todo el mundo funcionara asi.\nEn cuanto a la calidad del producto, ha superado con creces las expectativas, aparte de la calidad de imagen y sonido, la rapidez con la que se mueve por el menu, y la rapidez al abrir las aplicaciones instaladas..\nTotalmente satisfecho, seguiremos disfrutando de el.",
+        "rating": 5,
+        "author": "Jorge el guapo",
+        "dateCreated": "2025-11-19T16:45:12.000+00:00",
+        "datePublished": "2025-11-19T22:31:41.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/829b5dd0-355e-5f17-ad63-35ef4c10bc85",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/3d536378-a417-56c1-b72a-7f72e918f719",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/7de9ab1e-9b62-583c-9cb8-5a455aff8485",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/f6e40ed3-46ff-5d2b-87fa-5d4eaba786cd"
+        ]
+      },
+      {
+        "headline": "Sueño cumplido",
+        "body": "Me acaban de instalar mi último Oled Lg, esta vez de 97 pulgadas, mi sueño esperado, la profesionalidad de  los instaladores fantastica, y el televisor me quedo sin palabras para describir su calidad de imagen. A partir de ahora es el momento de empezar a descubrir sus numerosas posibilidades .",
+        "rating": 5,
+        "author": "carlos eusebio",
+        "dateCreated": "2025-11-21T09:28:24.000+00:00",
+        "datePublished": "2025-11-21T15:46:56.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/20686464-143d-5f73-a26a-f1316d95e68b",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e07d0234-2f21-5bd3-8beb-6884288165fb",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e3794561-517f-548e-88f6-9a2119a4afb1",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/fa76520b-a710-5e87-beaa-5663dfab2732"
+        ]
+      },
+      {
+        "headline": "Imágenes perfectas.",
+        "body": "(Esta reseña se ha recibido a través de una promoción.) Me ha llegado hoy la TV. Tiene una calidad impresionante. Ha merecido la pena la compra.",
+        "rating": 5,
+        "author": "Tdesesk",
+        "dateCreated": "2025-12-13T20:22:47.000+00:00",
+        "datePublished": "2025-12-14T22:32:14.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/a32b1734-d4aa-5716-b8b8-7d0668fafc08",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/28fb06c3-22d2-5642-bdfd-2d1af67cee13",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/a3694720-c7c8-5ea5-aecd-5c7aec988339"
+        ]
+      },
+      {
+        "headline": "Gelungene Trennung von flachem Screen und Kabeln",
+        "body": "Zur 1a Qualität des OLED Bildes muss ich nicht mehr viel sagen - auch bei Tageslicht leuchtstark, tolle Farben und Kontraste, sehr geringe Larenzzeit bei Spielen .\r\nDas absolute Highlight des M5 ist die gelungene Trennung von OLED Screen und den ganzen Kabeln, die sonst am Screen hängen. Bei mir sind das neben dem Netzkabel mindestens 3x HDMI, LAN, Antenne, USB. Die Funkverbindung zwischen Screen und Zero Connect Box funktioniert wunderbar. Der Bildschirm hängt wie ein flacher Bilderrahmen an der Wand. Absolutes Endgame Gerät!",
+        "rating": 5,
+        "author": "Duckman",
+        "dateCreated": "2025-12-08T15:32:05.000+00:00",
+        "datePublished": "2025-12-08T16:45:15.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/251b94db-3f04-58ba-8b4a-649cd9de7577",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/3d6f68e6-7ef6-58a6-ae51-c370d5184d40"
+        ]
+      },
+      {
+        "headline": "La calidad que se espera de un OLED Evo",
+        "body": "(Esta reseña se ha recibido a través de una promoción.) La televisión es una auténtica gozada. En la pared, parece un verdadero cuadro. De los colores y sonido hace falta hablar poco, sí en cambio de como mejora la imagen la nueva IA, ya que es absolutamente impresionante. Un pequeño engorro es ajustar en un primer momento bien el receptor para que la calidad de imagen sea impoluta, pero una vez ubicado solo hay que desentenderse y para alguien a quien le dan tanto \"toc\" los cables como a mí, es una maravilla.",
+        "rating": 5,
+        "author": "Anonym",
+        "dateCreated": "2025-12-11T10:53:20.000+00:00",
+        "datePublished": "2025-12-13T01:01:58.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/cc8e203f-77a3-5860-95cf-90e05b919ee8",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/5a38d521-a29f-5ae0-8a71-4f2c790585a1"
+        ]
+      },
+      {
+        "headline": "Brutal imagen y diseño.",
+        "body": "(Esta reseña se ha recibido a través de una promoción.) Impresionante televisión tanto en diseño como en imagen. La he puesto en la pared y parece un cuadro. He cogido con conexiones inalámbricas por comodidad, y va genial. La pantalla de 83 es enorme pero a 3 metros te acostumbras enseguida. Finalmente no parece tan grande. Esto encantado. Muy recomendable.",
+        "rating": 5,
+        "author": "Gartxotg",
+        "dateCreated": "2025-12-13T18:32:21.000+00:00",
+        "datePublished": "2025-12-15T02:16:35.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/0f61bc0c-21ed-5a7c-89b7-a50220ba7a89",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/db4fd8c7-bd43-5541-96a0-c26c21077f7b"
+        ]
+      },
+      {
+        "headline": "IMPRESIONANTE CALIDAD DE IMAGEN",
+        "body": "He comprado este producto durante el Black Friday de Noviembre y es una pasada en cuanto a calidad y funcionalidades, estoy muy contento ahora solo a disfrutarlo.",
+        "rating": 5,
+        "author": "Joseluis65",
+        "dateCreated": "2025-12-27T14:45:35.000+00:00",
+        "datePublished": "2025-12-27T16:02:19.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/6ce2cfa3-562e-54a9-a573-bca51dadb971",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/7e83ff74-24ab-510d-ab10-41f2b104fd8a"
+        ]
+      },
+      {
+        "headline": "OLED77M59LA",
+        "body": "(Esta reseña se ha recibido a través de una promoción.) Compré el LG OLED77M59LA el 7 de diciembre y me ha llegado esta mañana. Estaba acostumbrado a Sony, pero decidí darle una oportunidad a LG… y me alegro mucho. La calidad de imagen es espectacular: negros profundos, colores muy vivos y un brillo que realmente se nota, sobre todo viendo películas en 4K. El sonido también sorprende, llena bien la sala sin necesidad de barra adicional.\nAdemás, va muy fluido para juegos gracias a la alta tasa de refresco, y el sistema Smart TV es rápido e intuitivo.\n\nLo único que me hubiese gustado es que viniera con la opción de una pata o patas para ponerlo encima de un mueble de TV, porque así sería más fácil colocarlo sin tener que usar el soporte de pared.\n\nEn resumen, un televisor grande, moderno y con una calidad que se nota. Estoy muy contento con la compra.",
+        "rating": 5,
+        "author": "Mike_1970",
+        "dateCreated": "2025-12-11T17:58:36.000+00:00",
+        "datePublished": "2025-12-13T01:01:58.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/7a06f37d-ba6f-572e-bb6d-575027f28347"
+        ]
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://www.lg.com/de/"
+    },
+    {
+      "position": 2,
+      "name": "TVs & Soundbars",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/"
+    },
+    {
+      "position": 3,
+      "name": "LG SIGNATURE OLED",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/signature-oled/"
+    },
+    {
+      "position": 4,
+      "name": "OLED97M59LA",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/signature-oled/oled97m59la/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Wie man ein sauberes Heimkino-Setup ohne Kabel erstellt?",
+      "answer": "Um ein sauberes Heimkino-Setup ohne störende Kabel zu schaffen, kannst du mit dem LG True Wireless TV deinen Raum frei von Kabelsalat halten. Gestalte dein ideales Film-Setup für dein ultimatives Kinoerlebnis und genieße die Freiheit eines mühelosen Setups, der dir einen sauberen, offenen Raum schenkt. Verbinde all deine Geräte bequem an die Zero Connect Box an und sei kabellos.1"
+    },
+    {
+      "question": "Ist die Leistung eines kabellosen TVs beim Filmeschauen genauso gut wie die eines kabelgebundenen?",
+      "answer": "Ja, die Leistung ist genauso gut wie bei einem kabelgebunden TV. Unsere True Wireless Technologie mit 4K Video- und Audioübertragung sorgt dafür, dass du das gleiche Fernseherlebnis wie bei einem kabelgebundenen TV genießt. Der LG OLED evo M5 ist eine erstklassige Wahl für Heimkinofans, mit Dolby Vision, Dolby Atmos und dem Filmmaker®2 Modus mit Umgebungsbeleuchtung für den Kinoeffekt. Angetrieben vom α (Alpha) 11 AI Prozessor Gen2 liefert er dank AI Picture Pro verbesserte Tiefe und Details, während AI Sound Pro für immersives 11.1.2-Kanal-Audio sorgt. Die optimierte Brightness Booster Ultimate Technologie von LG steigert die Bildschirmhelligkeit um bis zu das Dreifache im Vergleich zu herkömmlichen OLED-Modellen. Der M5 hat die UL-Zertifikate &quot;Perfektes Schwarz&quot; und &quot;Perfekte Farben&quot;4 erhalten, sowie von Intertek die Bestätigung für 100 Prozent Farbtreue und 100 Prozent Farbvolumen. Vom TÜV Rheinland3 wurde der M5 mit der Bewertung &quot;Perfekt&quot; für klare Bildqualität ausgezeichnet, selbst bei heller Umgebung.&nbsp;Erlebe visuell verlustfreie 4K-Brillianz auch kabellos, mit dem weltweit ersten True Wireless TV und der atemberaubenden Bildqualität des LG OLED G5.1"
+    },
+    {
+      "question": "Wie kann ich Kabelsalat in meinem Gaming-Bereich reduzieren?",
+      "answer": "Du kannst den Kabelsalat in deinem Gaming-Bereich minimieren und gleichzeitig erstklassige Gaming-Leistung genießen.Der M5 ist der optimale Fernseher für alle, die sowohl ein beeindruckendes Gaming-Erlebnis als auch ein flexibles, aufgeräumtes Setup wünschen. Mit der Zero Connect Box5 kannst du deine Konsolen in Reichweite platzieren – auf einem nahegelegenen Regal, in einem Schrank oder direkt neben dem Sofa.6 So gibt es keine Kabel zwischen dem Fernseher und dem Entertainment-Gerät. Nur LGs True Wireless TV befreit dich von den Einschränkungen kabelgebundener Verbindungen und liefert trotzdem atemberaubende Bild- und Soundqualität, ganz wie ein kabelgebundener Fernseher7. Gestalte dir dein sauberes Traum-Setup für kabelloses Gaming.7&nbsp; Gehe kabellos, ohne Chaos, und richte deinen Raum so ein, wie du es möchtest."
+    },
+    {
+      "question": "Ist die Bild- und Soundqualität bei kabellosen TVs gut genug für Gaming?",
+      "answer": "Ja, die Bild- und Soundqualität eines kabellosen Fernsehers ist absolut gamingtauglich. Der OLED evo M5 TV, der weltweit erste True Wireless TV mit der Bildqualität des LG OLED G5s, ermöglicht dir nahtloses Spielen mit extrem niedriger Latenz, selbst in actionreichen Szenen bei bis zu 4K 144Hz.8 Vom Intertek für seine qualifizierte Gaming-Leistung zertifiziert,9 bietet der M5 eine ultraschnelle Reaktionszeit von unter 0,1ms. So erlebst du flüssige, lebendige Bilder in messerscharfer Klarheit. Entdecke die Freude am leistungsstarken, kabellosen Gaming7 auf einem True Wireless TV, der Nvidia G-Sync kompatibel und AMD FreeSync Premium zertifiziert ist.10"
+    }
+  ],
+  "metadata": {
+    "mpn": "OLED97M59LA",
+    "title": "True Wireless TV 97 Zoll LG SIGNATURE OLED M5 mit 4K Video- und Audioübertragung - OLED97M59LA | LG DE",
+    "description": "Entdecke die nächste Generation der Smart AI TVs mit dem LG OLED97M59LA für ein optimales, auf dich zugeschnittenes Seherlebnis.",
+    "ogImage": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/Basic.jpg",
+    "ogTitle": "True Wireless TV 97 Zoll LG SIGNATURE OLED M5 mit 4K Video- und Audioübertragung - OLED97M59LA | LG DE",
+    "canonical": "https://www.lg.com/de/tvs-und-soundbars/signature-oled/oled97m59la/"
+  },
+  "structuredData": {
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/signature-oled/oled97m59la/",
+        "review": [
+          {
+            "@type": "Review",
+            "dateCreated": "2025-11-19T16:45:12.000+00:00",
+            "datePublished": "2025-11-19T22:31:41.000+00:00",
+            "headline": "Fantastico Producto y magnifica atencion ..",
+            "reviewBody": "He comprado este televisor a traves de la web de lg oficial. He incluido tambien el envio a la casa y el montaje en pared incluido , por los tecnicos que nos mando la marca y todo ha ido perfecto, el envio y la instalacion en la fecha y hasta la hora acordada, ya todo el mundo funcionara asi.\nEn cuanto a la calidad del producto, ha superado con creces las expectativas, aparte de la calidad de imagen y sonido, la rapidez con la que se mueve por el menu, y la rapidez al abrir las aplicaciones instaladas..\nTotalmente satisfecho, seguiremos disfrutando de el.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jorge el guapo"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/829b5dd0-355e-5f17-ad63-35ef4c10bc85",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/da9bed59-ec5c-5dc7-ac7f-1f2312c29b64"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/3d536378-a417-56c1-b72a-7f72e918f719",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/2c8bf907-907f-5f63-b778-158d84855bf5"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/7de9ab1e-9b62-583c-9cb8-5a455aff8485",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e4cd10e5-32c8-52cc-838b-fe03672bed0d"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/f6e40ed3-46ff-5d2b-87fa-5d4eaba786cd",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/964999a7-78ed-5954-a250-53f79d073353"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-11-21T09:28:24.000+00:00",
+            "datePublished": "2025-11-21T15:46:56.000+00:00",
+            "headline": "Sueño cumplido",
+            "reviewBody": "Me acaban de instalar mi último Oled Lg, esta vez de 97 pulgadas, mi sueño esperado, la profesionalidad de  los instaladores fantastica, y el televisor me quedo sin palabras para describir su calidad de imagen. A partir de ahora es el momento de empezar a descubrir sus numerosas posibilidades .",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "carlos eusebio"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/20686464-143d-5f73-a26a-f1316d95e68b",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/fd6334c1-afac-54ba-823f-6e67340df1ac"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e07d0234-2f21-5bd3-8beb-6884288165fb",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/8f4ed7a3-28cf-5e2e-bc3c-cbf092fa1c7f"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e3794561-517f-548e-88f6-9a2119a4afb1",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/22c1482f-81ab-5247-957a-f14b33a72200"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/fa76520b-a710-5e87-beaa-5663dfab2732",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/73b1571b-ac32-5fca-b055-0e1473d8bd3f"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-12-13T20:22:47.000+00:00",
+            "datePublished": "2025-12-14T22:32:14.000+00:00",
+            "headline": "Imágenes perfectas.",
+            "reviewBody": "(Esta reseña se ha recibido a través de una promoción.) Me ha llegado hoy la TV. Tiene una calidad impresionante. Ha merecido la pena la compra.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tdesesk"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/a32b1734-d4aa-5716-b8b8-7d0668fafc08",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/f39607c8-b08d-547a-b8b8-2f4cd50382a7"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/28fb06c3-22d2-5642-bdfd-2d1af67cee13",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/a6b07edf-5455-59b8-a757-36a8acc3204b"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/a3694720-c7c8-5ea5-aecd-5c7aec988339",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/0d462e82-fc6c-5d40-8fb1-78b217002ca8"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-12-08T15:32:05.000+00:00",
+            "datePublished": "2025-12-08T16:45:15.000+00:00",
+            "headline": "Gelungene Trennung von flachem Screen und Kabeln",
+            "reviewBody": "Zur 1a Qualität des OLED Bildes muss ich nicht mehr viel sagen - auch bei Tageslicht leuchtstark, tolle Farben und Kontraste, sehr geringe Larenzzeit bei Spielen .\r\nDas absolute Highlight des M5 ist die gelungene Trennung von OLED Screen und den ganzen Kabeln, die sonst am Screen hängen. Bei mir sind das neben dem Netzkabel mindestens 3x HDMI, LAN, Antenne, USB. Die Funkverbindung zwischen Screen und Zero Connect Box funktioniert wunderbar. Der Bildschirm hängt wie ein flacher Bilderrahmen an der Wand. Absolutes Endgame Gerät!",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Duckman"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/251b94db-3f04-58ba-8b4a-649cd9de7577",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/5137c07d-6842-5909-9f79-d7bce1695792"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/3d6f68e6-7ef6-58a6-ae51-c370d5184d40",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/16d266ca-d25a-5dcf-b258-d7a5a689a2aa"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-12-11T10:53:20.000+00:00",
+            "datePublished": "2025-12-13T01:01:58.000+00:00",
+            "headline": "La calidad que se espera de un OLED Evo",
+            "reviewBody": "(Esta reseña se ha recibido a través de una promoción.) La televisión es una auténtica gozada. En la pared, parece un verdadero cuadro. De los colores y sonido hace falta hablar poco, sí en cambio de como mejora la imagen la nueva IA, ya que es absolutamente impresionante. Un pequeño engorro es ajustar en un primer momento bien el receptor para que la calidad de imagen sea impoluta, pero una vez ubicado solo hay que desentenderse y para alguien a quien le dan tanto \"toc\" los cables como a mí, es una maravilla.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonym"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/cc8e203f-77a3-5860-95cf-90e05b919ee8",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/91e21d45-1d0a-5572-bb43-3f1c2760ae4e"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/5a38d521-a29f-5ae0-8a71-4f2c790585a1",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/c193ed04-0f99-5ef5-b9ff-d2dd9235041e"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-12-13T18:32:21.000+00:00",
+            "datePublished": "2025-12-15T02:16:35.000+00:00",
+            "headline": "Brutal imagen y diseño.",
+            "reviewBody": "(Esta reseña se ha recibido a través de una promoción.) Impresionante televisión tanto en diseño como en imagen. La he puesto en la pared y parece un cuadro. He cogido con conexiones inalámbricas por comodidad, y va genial. La pantalla de 83 es enorme pero a 3 metros te acostumbras enseguida. Finalmente no parece tan grande. Esto encantado. Muy recomendable.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gartxotg"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/0f61bc0c-21ed-5a7c-89b7-a50220ba7a89",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/4f898217-4b4b-5ad0-bbae-dc3eb23a162d"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/db4fd8c7-bd43-5541-96a0-c26c21077f7b",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/7af18011-e296-503e-8dbe-2c5ddb899075"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-12-27T14:45:35.000+00:00",
+            "datePublished": "2025-12-27T16:02:19.000+00:00",
+            "headline": "IMPRESIONANTE CALIDAD DE IMAGEN",
+            "reviewBody": "He comprado este producto durante el Black Friday de Noviembre y es una pasada en cuanto a calidad y funcionalidades, estoy muy contento ahora solo a disfrutarlo.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joseluis65"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/6ce2cfa3-562e-54a9-a573-bca51dadb971",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/3ff6df41-b0ae-5ee1-ba54-a7cda7b95efc"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/7e83ff74-24ab-510d-ab10-41f2b104fd8a",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/34a9a3ca-5388-5f02-82e2-f4eeaa32f9d6"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-12-11T17:58:36.000+00:00",
+            "datePublished": "2025-12-13T01:01:58.000+00:00",
+            "headline": "OLED77M59LA",
+            "reviewBody": "(Esta reseña se ha recibido a través de una promoción.) Compré el LG OLED77M59LA el 7 de diciembre y me ha llegado esta mañana. Estaba acostumbrado a Sony, pero decidí darle una oportunidad a LG… y me alegro mucho. La calidad de imagen es espectacular: negros profundos, colores muy vivos y un brillo que realmente se nota, sobre todo viendo películas en 4K. El sonido también sorprende, llena bien la sala sin necesidad de barra adicional.\nAdemás, va muy fluido para juegos gracias a la alta tasa de refresco, y el sistema Smart TV es rápido e intuitivo.\n\nLo único que me hubiese gustado es que viniera con la opción de una pata o patas para ponerlo encima de un mueble de TV, porque así sería más fácil colocarlo sin tener que usar el soporte de pared.\n\nEn resumen, un televisor grande, moderno y con una calidad que se nota. Estoy muy contento con la compra.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mike_1970"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/7a06f37d-ba6f-572e-bb6d-575027f28347",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/35b95036-2d78-51bb-ad9d-d01b518a98ba"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org/",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/signature-oled/oled97m59la/",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "itemReviewed": {
+            "@type": "IndividualProduct",
+            "name": "OLED97M59LA"
+          },
+          "ratingValue": "4.9",
+          "reviewCount": 44,
+          "bestRating": 5
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "product",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/signature-oled/oled97m59la/",
+        "name": "True Wireless TV 97 Zoll LG SIGNATURE OLED M5 mit 4K Video- und Audioübertragung",
+        "image": "/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/m5-signature/gp1/gallery/97-m5-a/gallery_new/Basic.jpg",
+        "description": "Entdecken Sie LG OLED97M59LA. Für Bilder, Bewertungen und technische Daten zu LG klicken True Wireless TV 97 Zoll LG SIGNATURE OLED M5 mit 4K Video- und Audioübertragung.",
+        "mpn": "OLED97M59LA",
+        "brand": {
+          "@type": "Brand",
+          "name": "LG"
+        },
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "EUR",
+          "price": "30499",
+          "availability": "https://schema.org/OutOfStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "LG DE"
+          }
+        },
+        "size": {
+          "@type": "QuantitativeValue",
+          "unitCode": "MMT",
+          "value": "2.155 x 1.235 x 28,2"
+        },
+        "hasEnergyConsumptionDetails": {
+          "@type": "EnergyConsumptionDetails",
+          "hasEnergyEfficiencyCategory": "https://schema.org/EUEnergyEfficiencyCategoryG",
+          "energyEfficiencyScaleMax": "https://schema.org/EUEnergyEfficiencyCategoryA1Plus",
+          "energyEfficiencyScaleMin": "https://schema.org/EUEnergyEfficiencyCategoryG"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.lg.com/de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "TVs & Soundbars",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "LG SIGNATURE OLED",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/signature-oled/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "OLED97M59LA",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/signature-oled/oled97m59la/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Wie man ein sauberes Heimkino-Setup ohne Kabel erstellt?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Um ein sauberes Heimkino-Setup ohne störende Kabel zu schaffen, kannst du mit dem LG True Wireless TV deinen Raum frei von Kabelsalat halten. Gestalte dein ideales Film-Setup für dein ultimatives Kinoerlebnis und genieße die Freiheit eines mühelosen Setups, der dir einen sauberen, offenen Raum schenkt. Verbinde all deine Geräte bequem an die Zero Connect Box an und sei kabellos.1"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Ist die Leistung eines kabellosen TVs beim Filmeschauen genauso gut wie die eines kabelgebundenen?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ja, die Leistung ist genauso gut wie bei einem kabelgebunden TV. Unsere True Wireless Technologie mit 4K Video- und Audioübertragung sorgt dafür, dass du das gleiche Fernseherlebnis wie bei einem kabelgebundenen TV genießt. Der LG OLED evo M5 ist eine erstklassige Wahl für Heimkinofans, mit Dolby Vision, Dolby Atmos und dem Filmmaker®2 Modus mit Umgebungsbeleuchtung für den Kinoeffekt. Angetrieben vom α (Alpha) 11 AI Prozessor Gen2 liefert er dank AI Picture Pro verbesserte Tiefe und Details, während AI Sound Pro für immersives 11.1.2-Kanal-Audio sorgt. Die optimierte Brightness Booster Ultimate Technologie von LG steigert die Bildschirmhelligkeit um bis zu das Dreifache im Vergleich zu herkömmlichen OLED-Modellen. Der M5 hat die UL-Zertifikate &quot;Perfektes Schwarz&quot; und &quot;Perfekte Farben&quot;4 erhalten, sowie von Intertek die Bestätigung für 100 Prozent Farbtreue und 100 Prozent Farbvolumen. Vom TÜV Rheinland3 wurde der M5 mit der Bewertung &quot;Perfekt&quot; für klare Bildqualität ausgezeichnet, selbst bei heller Umgebung.&nbsp;Erlebe visuell verlustfreie 4K-Brillianz auch kabellos, mit dem weltweit ersten True Wireless TV und der atemberaubenden Bildqualität des LG OLED G5.1"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Wie kann ich Kabelsalat in meinem Gaming-Bereich reduzieren?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Du kannst den Kabelsalat in deinem Gaming-Bereich minimieren und gleichzeitig erstklassige Gaming-Leistung genießen.Der M5 ist der optimale Fernseher für alle, die sowohl ein beeindruckendes Gaming-Erlebnis als auch ein flexibles, aufgeräumtes Setup wünschen. Mit der Zero Connect Box5 kannst du deine Konsolen in Reichweite platzieren – auf einem nahegelegenen Regal, in einem Schrank oder direkt neben dem Sofa.6 So gibt es keine Kabel zwischen dem Fernseher und dem Entertainment-Gerät. Nur LGs True Wireless TV befreit dich von den Einschränkungen kabelgebundener Verbindungen und liefert trotzdem atemberaubende Bild- und Soundqualität, ganz wie ein kabelgebundener Fernseher7. Gestalte dir dein sauberes Traum-Setup für kabelloses Gaming.7&nbsp; Gehe kabellos, ohne Chaos, und richte deinen Raum so ein, wie du es möchtest."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Ist die Bild- und Soundqualität bei kabellosen TVs gut genug für Gaming?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ja, die Bild- und Soundqualität eines kabellosen Fernsehers ist absolut gamingtauglich. Der OLED evo M5 TV, der weltweit erste True Wireless TV mit der Bildqualität des LG OLED G5s, ermöglicht dir nahtloses Spielen mit extrem niedriger Latenz, selbst in actionreichen Szenen bei bis zu 4K 144Hz.8 Vom Intertek für seine qualifizierte Gaming-Leistung zertifiziert,9 bietet der M5 eine ultraschnelle Reaktionszeit von unter 0,1ms. So erlebst du flüssige, lebendige Bilder in messerscharfer Klarheit. Entdecke die Freude am leistungsstarken, kabellosen Gaming7 auf einem True Wireless TV, der Nvidia G-Sync kompatibel und AMD FreeSync Premium zertifiziert ist.10"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

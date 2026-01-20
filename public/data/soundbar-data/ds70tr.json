@@ -1,0 +1,1944 @@
+{
+  "crawledAt": "2026-01-20T06:31:07.259Z",
+  "url": "https://www.lg.com/de/lautsprecher/soundbars/ds70tr/",
+  "modelNumber": "DS70TR",
+  "category": "Soundbar",
+  "basicInfo": {
+    "productName": "5.1.1-Kanal LG Home Theater Soundbar DS70TR mit Dolby Atmos und hinteren Lautsprechern",
+    "description": "Entdecken Sie LG DS70TR. Für Bilder, Bewertungen und technische Daten zu LG klicken 5.1.1-Kanal LG Home Theater Soundbar DS70TR mit Dolby Atmos und hinteren Lautsprechern.",
+    "headline": "5.1.1-Kanal LG Home Theater Soundbar DS70TR mit Dolby Atmos und hinteren Lautsprechern",
+    "screenSize": "70 Zoll",
+    "series": "T",
+    "brand": "LG",
+    "modelNumber": "DS70TR"
+  },
+  "pricing": {
+    "currentPrice": "399",
+    "currency": "EUR",
+    "availability": "OutOfStock",
+    "seller": "LG DE"
+  },
+  "ratings": {
+    "averageRating": "4.6",
+    "reviewCount": 390,
+    "bestRating": 5
+  },
+  "energyEfficiency": {
+    "category": "",
+    "scaleMax": "",
+    "scaleMin": ""
+  },
+  "media": {
+    "images": [
+      {
+        "src": "https://t.teads.tv/track?action=pageView&env=js-web&tag_version=8.5.0_d71d360&provider=tag&buyer_pixel_id=7484&referer=https%3A%2F%2Fwww.lg.com%2Fde%2Flautsprecher%2Fsoundbars%2Fds70tr%2F&user_session_id=1079fadd-9d90-452e-850c-d9ff73d8afa9&hasConsent=true&cht=timeout",
+        "srcset": null,
+        "alt": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/banners/2026-01-15-LG-CB26-GNB-290x90px-V1-jgr.jpg",
+        "srcset": null,
+        "alt": " Gute Vorsätze für 2026",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/banners/2026-01-15-LG-CB26-GNB-290x90px-V1-jgr.jpg",
+        "srcset": null,
+        "alt": " Gute Vorsätze für 2026",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-13-75.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Schrägansicht des 75-Zoll LG QNED, LG Soundbar S75TR, hintere Lautsprecher und Subwoofer",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Frontansicht der LG Soundbar S75TR, Subwoofer und hintere Lautsprecher",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-02.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Schrägansicht der LG Soundbar S75TR, Subwoofer und hintere Lautsprecher",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-03.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Frontansicht der LG Soundbar S75TR",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-04.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Draufansicht der LG Soundbar S75TR",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-05.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Schräge Draufsicht auf den Center-Up-Firing-Kanal der LG Soundbar S75TR",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-06.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Frontansicht auf die Seitenecke der LG Soundbar S75TR",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-07.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Schrägansicht der Rückseite der LG Soundbar S75TR",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-08.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Schrägansicht des Subwoofers",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-09.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Rückansicht des Subwoofers",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-10.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Schrägansicht der hinteren Lautsprecher",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-11.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Rückansicht der hinteren Lautsprecher",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-12-65.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Frontansicht des 65-Zoll LG QNED, LG Soundbar S75TR, hintere Lautsprecher und Subwoofer",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-12-65.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Frontansicht des 75-Zoll LG QNED, LG Soundbar S75TR, hintere Lautsprecher und Subwoofer",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-13-65.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Schrägansicht des 65-Zoll LG QNED, LG Soundbar S75TR, hintere Lautsprecher und Subwoofer",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-13-75.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Schrägansicht des 75-Zoll LG QNED, LG Soundbar S75TR, hintere Lautsprecher und Subwoofer",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Frontansicht der LG Soundbar S75TR, Subwoofer und hintere Lautsprecher",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-thumbnail-01.jpg",
+        "srcset": null,
+        "alt": "Frontansicht der LG Soundbar S75TR, Subwoofer und hintere Lautsprecher",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-thumbnail-02.jpg",
+        "srcset": null,
+        "alt": "Schrägansicht der LG Soundbar S75TR, Subwoofer und hintere Lautsprecher",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-thumbnail-03.jpg",
+        "srcset": null,
+        "alt": "Frontansicht der LG Soundbar S75TR",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-thumbnail-04.jpg",
+        "srcset": null,
+        "alt": "Draufansicht der LG Soundbar S75TR",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-thumbnail-05.jpg",
+        "srcset": null,
+        "alt": "Schräge Draufsicht auf den Center-Up-Firing-Kanal der LG Soundbar S75TR",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-thumbnail-06.jpg",
+        "srcset": null,
+        "alt": "Frontansicht auf die Seitenecke der LG Soundbar S75TR",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-thumbnail-07.jpg",
+        "srcset": null,
+        "alt": "Schrägansicht der Rückseite der LG Soundbar S75TR",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-thumbnail-08.jpg",
+        "srcset": null,
+        "alt": "Schrägansicht des Subwoofers",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-thumbnail-09.jpg",
+        "srcset": null,
+        "alt": "Rückansicht des Subwoofers",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-thumbnail-10.jpg",
+        "srcset": null,
+        "alt": "Schrägansicht der hinteren Lautsprecher",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-thumbnail-11.jpg",
+        "srcset": null,
+        "alt": "Rückansicht der hinteren Lautsprecher",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-thumbnail-12-65.jpg",
+        "srcset": null,
+        "alt": "Frontansicht des 65-Zoll LG QNED, LG Soundbar S75TR, hintere Lautsprecher und Subwoofer",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-thumbnail-12-75.jpg",
+        "srcset": null,
+        "alt": "Frontansicht des 75-Zoll LG QNED, LG Soundbar S75TR, hintere Lautsprecher und Subwoofer",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-13-65.jpg",
+        "srcset": null,
+        "alt": "Schrägansicht des 65-Zoll LG QNED, LG Soundbar S75TR, hintere Lautsprecher und Subwoofer",
+        "width": 2010,
+        "height": 1334
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-thumbnail-13-75.jpg",
+        "srcset": null,
+        "alt": "Schrägansicht des 75-Zoll LG QNED, LG Soundbar S75TR, hintere Lautsprecher und Subwoofer",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht der LG Soundbar S75TR, Subwoofer und hintere Lautsprecher",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-02.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Schrägansicht der LG Soundbar S75TR, Subwoofer und hintere Lautsprecher",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-03.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht der LG Soundbar S75TR",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-04.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Draufansicht der LG Soundbar S75TR",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-05.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Schräge Draufsicht auf den Center-Up-Firing-Kanal der LG Soundbar S75TR",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-06.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht auf die Seitenecke der LG Soundbar S75TR",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-07.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Schrägansicht der Rückseite der LG Soundbar S75TR",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-08.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Schrägansicht des Subwoofers",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-09.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Rückansicht des Subwoofers",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-10.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Schrägansicht der hinteren Lautsprecher",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-11.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Rückansicht der hinteren Lautsprecher",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-12-65.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 65-Zoll LG QNED, LG Soundbar S75TR, hintere Lautsprecher und Subwoofer",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-12-65.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 75-Zoll LG QNED, LG Soundbar S75TR, hintere Lautsprecher und Subwoofer",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-13-65.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Schrägansicht des 65-Zoll LG QNED, LG Soundbar S75TR, hintere Lautsprecher und Subwoofer",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-13-75.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Schrägansicht des 75-Zoll LG QNED, LG Soundbar S75TR, hintere Lautsprecher und Subwoofer",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-thumbnail-01.jpg",
+        "srcset": null,
+        "alt": "Frontansicht der LG Soundbar S75TR, Subwoofer und hintere Lautsprecher",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-thumbnail-02.jpg",
+        "srcset": null,
+        "alt": "Schrägansicht der LG Soundbar S75TR, Subwoofer und hintere Lautsprecher",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-thumbnail-03.jpg",
+        "srcset": null,
+        "alt": "Frontansicht der LG Soundbar S75TR",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-thumbnail-04.jpg",
+        "srcset": null,
+        "alt": "Draufansicht der LG Soundbar S75TR",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-thumbnail-05.jpg",
+        "srcset": null,
+        "alt": "Schräge Draufsicht auf den Center-Up-Firing-Kanal der LG Soundbar S75TR",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-thumbnail-06.jpg",
+        "srcset": null,
+        "alt": "Frontansicht auf die Seitenecke der LG Soundbar S75TR",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-thumbnail-07.jpg",
+        "srcset": null,
+        "alt": "Schrägansicht der Rückseite der LG Soundbar S75TR",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-thumbnail-08.jpg",
+        "srcset": null,
+        "alt": "Schrägansicht des Subwoofers",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-thumbnail-09.jpg",
+        "srcset": null,
+        "alt": "Rückansicht des Subwoofers",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-thumbnail-10.jpg",
+        "srcset": null,
+        "alt": "Schrägansicht der hinteren Lautsprecher",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-thumbnail-11.jpg",
+        "srcset": null,
+        "alt": "Rückansicht der hinteren Lautsprecher",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-thumbnail-12-65.jpg",
+        "srcset": null,
+        "alt": "Frontansicht des 65-Zoll LG QNED, LG Soundbar S75TR, hintere Lautsprecher und Subwoofer",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-thumbnail-12-75.jpg",
+        "srcset": null,
+        "alt": "Frontansicht des 75-Zoll LG QNED, LG Soundbar S75TR, hintere Lautsprecher und Subwoofer",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-13-65.jpg",
+        "srcset": null,
+        "alt": "Schrägansicht des 65-Zoll LG QNED, LG Soundbar S75TR, hintere Lautsprecher und Subwoofer",
+        "width": 2010,
+        "height": 1334
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/av-soundbar-s70tr-gallery-thumbnail-13-75.jpg",
+        "srcset": null,
+        "alt": "Schrägansicht des 75-Zoll LG QNED, LG Soundbar S75TR, hintere Lautsprecher und Subwoofer",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/75qned86t6a-ds70tr/450x450_75QNED86T6A.DS70TR.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/65qned86t6a-ds70tr/450x450_65QNED86T6A.DS70TR.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/55qned86t6a-ds70tr/450x450_55QNED86T6A.DS70TR.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/feature/av-soundbar-s70tr-02-summary-m-v3.jpg",
+        "srcset": null,
+        "alt": "Die LG Soundbar und der LG QNED Fernseher an der Wand mit der passenden QNED-Halterung in einem grauen und hölzernen Wohnraum in schräger Perspektive, wobei ein gitarrespielender Mann vor dem Meer zu sehen ist.   LG Soundbar und LG TV in einem Wohnzimmer bei der Wiedergabe einer Orchesteraufführung. Von der Soundbar gehen weiße Tröpfchen, die Schallwellen darstellen, nach oben und nach vorne und projizieren vom Fernseher, während der Subwoofer von unten einen Klangeffekt erzeugt.  LG Soundbar und LG TV in einem schwarzen Raum bei der Wiedergabe einer Musikaufführung. Von der Soundbar kommen weiße Tröpfchen, die Schallwellen darstellen, nach oben und nach vorne, während der Subwoofer von unten einen Klangeffekt erzeugt.",
+        "width": 1920,
+        "height": 480
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/feature/av-soundbar-s70tr-03-lg-qned-matching-design-m.jpg",
+        "srcset": null,
+        "alt": "Die LG Soundbar und der LG QNED Fernseher an der Wand mit der passenden QNED-Halterung in einem grauen und hölzernen Wohnraum in schräger Perspektive, wobei auf dem LG QNED Fernseher ein Gitarre spielender Mann zu sehen ist.  LG Soundbar und LG QNED Fernseher vor einer cremefarbenen Wand mit der passenden QNED-Fernsehhalterung. Der Fernseher zeigt ein Video, in dem eine Frau in einem Aufnahmestudio singt. Unter dem Fernseher befindet sich ein moderner geometrischer Holzständer.   LG Soundbar und LG QNED Fernseher an einer Wand mit der passenden QNED-Fernsehhalterung in einem gemütlichen und schwach beleuchteten Wohnraum mit Kinderspielzeug. Auf dem Fernseher läuft ein Video, in dem ein kleiner Junge Cello spielt. ",
+        "width": 1920,
+        "height": 1455
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/feature/av-soundbar-s70tr-05-perfect-match-m-1-v3.jpg",
+        "srcset": null,
+        "alt": "LG Soundbar, LG TV und ein Subwoofer befinden sich in einem Wohnzimmer und spielen eine Musikaufführung. Weiße Tröpfchen bilden Schallwellen, die von der Soundbar nach oben und vorne schießen und vom Fernseher projiziert werden. Ein Subwoofer erzeugt einen Klangeffekt von unten.",
+        "width": 1600,
+        "height": 1016
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/feature/av-soundbar-s70tr-05-perfect-match-m-01-v4.jpg",
+        "srcset": null,
+        "alt": "Ein gemütliches Konzert wird auf einem LG TV mit einer LG Soundbar darunter abgespielt.",
+        "width": 1600,
+        "height": 1016
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/feature/av-soundbar-s70tr-05-perfect-match-m-1-v3.jpg",
+        "srcset": null,
+        "alt": "LG Soundbar, LG TV und ein Subwoofer befinden sich in einem Wohnzimmer und spielen eine Musikaufführung. Weiße Tröpfchen bilden Schallwellen, die von der Soundbar nach oben und vorne schießen und vom Fernseher projiziert werden. Ein Subwoofer erzeugt einen Klangeffekt von unten.",
+        "width": 1600,
+        "height": 1016
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/feature/av-soundbar-s70tr-05-perfect-match-m-01-v4.jpg",
+        "srcset": null,
+        "alt": "Ein gemütliches Konzert wird auf einem LG TV mit einer LG Soundbar darunter abgespielt.",
+        "width": 1600,
+        "height": 1016
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/feature/av-soundbar-s70tr-06-center-up-firing-channel-mobile.jpg",
+        "srcset": null,
+        "alt": "LG Soundbar und LG TV in einem schwarzen Raum bei der Wiedergabe einer Musikaufführung. Weiße Tröpfchen, die Schallwellen darstellen, schießen von der Soundbar nach oben und nach vorne. Ein Subwoofer erzeugt einen Klangeffekt von unten.",
+        "width": 1600,
+        "height": 1293
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/feature/av-soundbar-s70tr-07-triple-level-spatial-sound-m-v2.jpg",
+        "srcset": null,
+        "alt": "LG Soundbar und LG TV befinden sich in einer großen Stadtwohnung. Drei rote Bänder, die virtuelle Ebenen darstellen, mit einer deutlichen mittleren Ebene bilden eine Klangkuppel, die die Sofas einhüllt.",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/feature/av-soundbar-s70tr-08-surround-sound-m-v2.jpg",
+        "srcset": null,
+        "alt": "LG Soundbar, LG TV, hintere Lautsprecher und ein Subwoofer befinden sich in einem Wohnzimmer in einem Wolkenkratzer und spielen eine Musikaufführung. Weiße, aus Tröpfchen bestehende Klangwellen werden von der Soundbar projiziert und um das Sofa geschlungen. Ein Subwoofer erzeugt einen Klangeffekt von unten. Dolby Atmos-Logo DTS X-Logo",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/feature/soundbar-s70t-2024-featurer-09-rear-speakers.jpg",
+        "srcset": null,
+        "alt": "Die hinteren Lautsprecher stehen vor einer LG Soundbar mit virtuellem Soundeffekt. Die hinteren Lautsprecher sind mit einem grauen Kabel miteinander verbunden. Ein hinterer Lautsprecher und die Haupt-Soundbar mit einem Konnektivitätssymbol darüber.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/feature/av-soundbar-s70tr-10-multi-channel-audio-experience-m-2-v2.jpg",
+        "srcset": null,
+        "alt": "LG Soundbar, LG TV und ein Subwoofer stehen in einer modernen Stadtwohnung. Die LG Soundbar strahlt Schallwellen aus weißen Tröpfchen aus, die den Raum füllen, und ein Subwoofer erzeugt einen Klangeffekt von unten. Gemeinsam erzeugen sie einen Kuppeleffekt im Raum.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/feature/av-soundbar-s70tr-11-ai-sound-pro-m-2.jpg",
+        "srcset": null,
+        "alt": "Eine LG Soundbar mit drei verschiedenen Fernsehern darüber. Der Fernseher direkt darüber zeigt eine Szene aus einem Actionfilm, in der ein Auto auf einen Mann und eine Frau zurast. Der Fernseher auf der rechten Seite zeigt ein Musikkonzert mit einer Frau, die singt. Im Fernseher auf der linken Seite sieht man einen Nachrichtensprecher, der vor einem verzierten Gebäude eine Eilmeldung filmt. Zwischen dem Fernseher und der Soundbar befindet sich ein blaues Diagramm einer Schallwelle.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/feature/av-soundbar-s70tr-11-ai-sound-pro-m-v2.jpg",
+        "srcset": null,
+        "alt": "Eine LG Soundbar mit drei verschiedenen Fernsehern darüber. Der unmittelbar obere zeigt ein Musikkonzert mit einer singenden Frau. Im Fernseher auf der rechten Seite sieht man einen Nachrichtensprecher, der vor einem verzierten Gebäude eine Eilmeldung filmt. Im Fernseher auf der linken Seite ist ein Standbild aus einem Actionfilm mit einem Mann im Schatten zu sehen. Zwischen dem Fernseher und der Soundbar befindet sich ein violettes Diagramm einer Schallwelle.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/feature/av-soundbar-s70tr-11-ai-sound-pro-m-1.jpg",
+        "srcset": null,
+        "alt": "Eine LG Soundbar mit drei verschiedenen Fernsehern darüber. Der Fernseher direkt darüber zeigt einen Nachrichtensprecher, der vor einem verzierten Gebäude eine Eilmeldung filmt. Im Fernseher auf der rechten Seite ist ein Standbild aus einem Actionfilm mit einem Mann im Schatten zu sehen. Der Fernseher auf der linken Seite zeigt ein Musikkonzert mit einer Frau, die singt. Zwischen dem Fernseher und der Soundbar befindet sich ein minzfarbenes Diagramm einer Schallwelle.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/feature/av-soundbar-s70tr-11-ai-sound-pro-m-2.jpg",
+        "srcset": null,
+        "alt": "Eine LG Soundbar mit drei verschiedenen Fernsehern darüber. Der Fernseher direkt darüber zeigt eine Szene aus einem Actionfilm, in der ein Auto auf einen Mann und eine Frau zurast. Der Fernseher auf der rechten Seite zeigt ein Musikkonzert mit einer Frau, die singt. Im Fernseher auf der linken Seite sieht man einen Nachrichtensprecher, der vor einem verzierten Gebäude eine Eilmeldung filmt. Zwischen dem Fernseher und der Soundbar befindet sich ein blaues Diagramm einer Schallwelle.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/feature/av-soundbar-s70tr-11-ai-sound-pro-m-v2.jpg",
+        "srcset": null,
+        "alt": "Eine LG Soundbar mit drei verschiedenen Fernsehern darüber. Der unmittelbar obere zeigt ein Musikkonzert mit einer singenden Frau. Im Fernseher auf der rechten Seite sieht man einen Nachrichtensprecher, der vor einem verzierten Gebäude eine Eilmeldung filmt. Im Fernseher auf der linken Seite ist ein Standbild aus einem Actionfilm mit einem Mann im Schatten zu sehen. Zwischen dem Fernseher und der Soundbar befindet sich ein violettes Diagramm einer Schallwelle.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/feature/av-soundbar-s70tr-12-intense-gaming-m-1-v2.jpg",
+        "srcset": null,
+        "alt": "LG Soundbar und LG TV erscheinen zusammen. Auf dem Bildschirm wird ein Autorennspiel gezeigt. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/feature/av-soundbar-s90tr-14-recycled-inside-mobile-v.jpg",
+        "srcset": null,
+        "alt": "Es gibt eine Frontalperspektive der Soundbar von hinten und eine Abbildung des Metallrahmens der Soundbar von vorne. Ein schräger Blick auf die Rückseite des Metallrahmens der Soundbar mit der Aufschrift „Recycelter Kunststoff“ an der Kante des Rahmens.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/feature/av-soundbar-s90tr-15-recycled-outside-mobile-v.jpg",
+        "srcset": null,
+        "alt": "Ein Piktogramm zeigt Kunststoffflaschen mit dem Wort „Kunststoffflaschen“ darunter. Ein Pfeil auf der rechten Seite zeigt auf ein Recycling-Symbol mit der Aufschrift „Wiedergeboren als Polyester-Jersey“ darunter. Ein Pfeil auf der rechten Seite zeigt auf den linken Teil einer LG Soundbar mit der Aufschrift „LG Soundbar mit recyceltem Stoff“ darunter.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/feature/av-soundbar-s70tr-15-pulp-packaging-mobile.jpg",
+        "srcset": null,
+        "alt": "Die LG Soundbar-Verpackung vor einem beigen Hintergrund mit illustrierten Bäumen.   Energy Star-Logo SGS Eco Product-Logo",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://contentorigin.bazaarvoice.com/cohley/default/Cohley_Logo.png",
+        "srcset": null,
+        "alt": "cohley.com",
+        "width": 400,
+        "height": 213
+      },
+      {
+        "src": "https://contentorigin.bazaarvoice.com/cohley/default/Cohley_Logo.png",
+        "srcset": null,
+        "alt": "cohley.com",
+        "width": 400,
+        "height": 213
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/4f57878e-cc1a-4047-845f-7baac15b1991",
+        "srcset": null,
+        "alt": "LG Spain",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://contentorigin.bazaarvoice.com/cohley/default/Cohley_Logo.png",
+        "srcset": null,
+        "alt": "cohley.com",
+        "width": 400,
+        "height": 213
+      },
+      {
+        "src": "https://contentorigin.bazaarvoice.com/cohley/default/Cohley_Logo.png",
+        "srcset": null,
+        "alt": "cohley.com",
+        "width": 400,
+        "height": 213
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/4f57878e-cc1a-4047-845f-7baac15b1991",
+        "srcset": null,
+        "alt": "LG Spain",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://contentorigin.bazaarvoice.com/theinsiders/default/C19_Insiders_PeopleTrustPeople_Logo_Grey.png",
+        "srcset": null,
+        "alt": "The Insiders",
+        "width": 300,
+        "height": 122
+      },
+      {
+        "src": "https://contentorigin.bazaarvoice.com/theinsiders/default/C19_Insiders_PeopleTrustPeople_Logo_Grey.png",
+        "srcset": null,
+        "alt": "The Insiders",
+        "width": 300,
+        "height": 122
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/lautsprecher/soundbars/gallery/s70ty-basic.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht der LG Soundbar DS70TY und des Subwoofers",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/dsc9s-basic-350.jpg",
+        "srcset": null,
+        "alt": "Vorderansicht von Soundbar und Woofer",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/lautsprecher/soundbars/gallery/ds40tr/s40tr-basic.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht der LG Soundbar DS40TR und des Subwoofers",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/s20a/gallery/soundbar-s20a-2025-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 2.0 Kanal LG TV Soundbar S20A mit Dolby Digital und DTS Surround",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lautsprecher/soundbars/xt7s/gallery/XT7S-Basic.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Front view",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_manual-software_48x48.svg",
+        "srcset": null,
+        "alt": "Symbol Benutzerhandbuch und Software",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_complaints_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Fehlerbehebung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_warranty_48x48.svg",
+        "srcset": null,
+        "alt": "Garantie-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_part-accessory_48x48.svg",
+        "srcset": null,
+        "alt": "Symbol für Teile und Zubehör",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/buy/icon_register-a-product_48.svg",
+        "srcset": null,
+        "alt": "Symbol Produktregistrierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_product_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Produktsupport",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_order_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Bestellsupport",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/Icon_request-a-repair_60x60.svg",
+        "srcset": null,
+        "alt": "Symbol für Reparaturanfrage",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_chat-with-us__60x60.svg",
+        "srcset": null,
+        "alt": "Livechat-Symbol",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_whatsapp_60x60.svg",
+        "srcset": null,
+        "alt": "WhatsApp-Symbol",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_email-us_60x60.svg",
+        "srcset": null,
+        "alt": "E-Mail-Symbol",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_call_48.svg",
+        "srcset": null,
+        "alt": "Anruf-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/common/find-a-store-test/gradation-icon/banner-light-icons.svg",
+        "srcset": null,
+        "alt": "Filialsymbol suchen",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/dsc9s-basic-350.jpg",
+        "srcset": null,
+        "alt": "Vorderansicht von Soundbar und Woofer",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/lautsprecher/soundbars/gallery/s70ty-basic.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht der LG Soundbar DS70TY und des Subwoofers",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/s20a/gallery/soundbar-s20a-2025-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 2.0 Kanal LG TV Soundbar S20A mit Dolby Digital und DTS Surround",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/lautsprecher/soundbars/gallery/ds60tr/s60tr-basic.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht der LG Soundbar DS60TR, Subwoofer und hintere Lautsprecher",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/facebook-circle-fill.svg",
+        "srcset": null,
+        "alt": "Facebook",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/youtube-circle-fill.svg",
+        "srcset": null,
+        "alt": "Youtube",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/instagram-circle-fill.svg",
+        "srcset": null,
+        "alt": "Instagram",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/ot_company_logo.png",
+        "srcset": null,
+        "alt": "Firmenlogo",
+        "width": 600,
+        "height": 106
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/powered_by_logo.svg",
+        "srcset": null,
+        "alt": "Powered by Onetrust",
+        "width": 136,
+        "height": 16
+      },
+      {
+        "src": "https://lantern.roeye.com/track.php?fingerprint=0e398a32-f94c-4327-8b91-78c9b166e387&referrer=&landingpage=https%3A%2F%2Fwww.lg.com%2Fde%2Flautsprecher%2Fsoundbars%2Fds70tr%2F&useragent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F143.0.7499.4%20Safari%2F537.36&site=63126",
+        "srcset": null,
+        "alt": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://bat.bing.com/action/0?ti=355009024&Ver=2&mid=fb63290c-2af8-4baa-b798-13b04d3f5a93&bo=1&sid=fc549eb0f5bb11f0a0a5b7ae3fc4ae70&vid=fc548160f5bb11f0b35da3cae89cc6a9&vids=0&msclkid=N&pi=0&lg=en-US&sw=1280&sh=720&sc=24&nwd=1&tl=5.1.1-Kanal%20LG%C2%A0Home%20Theater%20Soundbar%20DS70TR%20mit%20Dolby%20Atmos%20und%20hinteren%20Lautsprechern%20%7C%20LG%20DE&p=https%3A%2F%2Fwww.lg.com%2Fde%2Flautsprecher%2Fsoundbars%2Fds70tr%2F&r=&lt=5211&evt=pageLoad&sv=2&cdb=AQET&rn=8493",
+        "srcset": null,
+        "alt": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "videos": [
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/feature/av-soundbar-s70tr-01-kv-mobile.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/feature/av-soundbar-s70tr-01-kv-desktop.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      }
+    ]
+  },
+  "specifications": {
+    "€124,92": "Monatliche Rate",
+    "€1.499,00": "Gesamtbetrag inkl. Zinsen",
+    "0%": "Zinssatz",
+    "€74,96": "Monatliche Rate",
+    "€1.798,99": "Gesamtbetrag inkl. Zinsen",
+    "€40,00": "Monatliche Rate",
+    "€120,00": "Gesamtbetrag inkl. Zinsen"
+  },
+  "features": [],
+  "reviews": {
+    "summary": {},
+    "featured": [
+      {
+        "headline": "A must have to make your home into a cinema!",
+        "body": "[This review was collected as part of a promotion.] The LG S70TR Surround Sound speaker system with Dolby Atmos delivers an immersive audio experience that brings movies and music to life. The speakers produce clear and powerful sound, creating a surround sound effect that enhances your viewing and listening pleasure. With Dolby Atmos technology, you can enjoy realistic and detailed sound that fills the room. Setting up the system is easy, and the sleek design of the speakers adds a stylish touch to any room. Overall, the LG S70TR Surround Sound speaker system is a top choice for those who seek high-quality audio performance. It's a real bang for your buck and pairs perfectly with my LG TV. Review submitted as part of a program that provides a purchase discount.",
+        "rating": 5,
+        "author": "Taylor C",
+        "dateCreated": "2024-08-23T05:13:30.000+00:00",
+        "datePublished": "2024-08-23T05:30:04.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/26d71c29-1d78-58e2-a168-a80175a9d44a",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/79fd0e65-4a07-5a21-907e-86b873ca8260",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/fa6087a7-3801-5580-9d02-b3b79dd93e9a",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/38823b1c-0747-50b3-8f88-7bba794c6bb1",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/cd758313-18f4-54d1-82cc-b3ee55682dbd"
+        ]
+      },
+      {
+        "headline": "Game Changer. Loving My New LG Soundbar!",
+        "body": "[This review was collected as part of a promotion.] I was in the market for a soundbar with the upcoming football season in mind, and I am so glad I chose the LG Soundbar. The audio quality is truly impressive - rich, immersive, and makes everything from movies to music sound fantastic. One of the standout features for me is the ability to pair it with my phone and control it through the app, adding a layer of convenience that I never knew I needed. I can't wait to watch games with this product! Whether I'm watching my favorite shows or having friends over for a movie night, the soundbar consistently elevates the experience. If you're looking to upgrade your home audio setup, the LG Soundbar is definitely worth considering. Highly recommend! Review submitted as part of a program that provides a purchase discount.",
+        "rating": 5,
+        "author": "Evan B.",
+        "dateCreated": "2024-07-25T22:33:51.000+00:00",
+        "datePublished": "2024-10-09T14:15:08.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/08a9907d-4cc4-55b9-b5aa-72b4b50af475",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/39aaeef0-63e7-5daa-837b-2eb5b511ff25",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/e382ded7-6b0a-5bb3-92e2-0625111bf726",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/5c8608b1-6e90-5747-9d43-c24b8f2e213e",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/e32b98c4-c49a-5a90-b887-48b8563ab898"
+        ]
+      },
+      {
+        "headline": "La Grandeza es un grado.",
+        "body": "(Esta reseña se ha recibido a través de una promoción.) Esta reseña ha sido Incentivada \n\nYa ni miro otras marcas...SOLO LG.\n\nEs la segunda TV que compro de LG , y tengo una lavavajillas y una lavadora, y estoy mirando de comprar un frigorífico.\n\nEsta 86QNED86T6A es una MARAVILLA...Grande, se ve de CINE y super fácil de configurar gracias a la Inteligencia artificial con la que cuenta su poderoso procesador de ultima generación A8. El sistema VUELA por lo menús a una velocidad pasmosa, casi increíble para un Televisor.\n\nEl sistema FALD crea unos entornos negros de autentico lujo, casi a la altura de un OLED.\n\n\nQue mas decir...!!! Super recomendado !!!",
+        "rating": 5,
+        "author": "Comprador Compulsivo",
+        "dateCreated": "2025-03-29T20:49:13.000+00:00",
+        "datePublished": "2025-03-30T00:01:16.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/9662e5de-004e-5ee5-b03a-532d5414a6ac",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/6c2b75d5-4691-5f96-b55c-7bc40b1b23c5",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/6ed97edf-95b7-5a67-8ba6-2a8334d9ed59"
+        ]
+      },
+      {
+        "headline": "Amazing Soundbar",
+        "body": "[This review was collected as part of a promotion.] I was looking for a soundbar for my TV to increase my viewing experience. I have been using the LG wireless soundbar, S70TY, for about a week. The install was super easy! Everything came in one box - even a wall mount. Such a thoughtful touch to make installation that much smoother. With everything being wireless, the soundbar and 400W subwoofer connected seamlessly with my TV. This soundbar is so impressive. It has three audio channels for different types of viewing. My favorite is the cinema for movies. Also the innovative up-firing center channel allows you to hear the actor voices super clear without sacrificing the other sound effects. Perfect for whispered voice scenes. My living room has a large ceiling and sounds can get lost. That is not the case with this soundbar. It projects incredible sound and has turned my living room into a movie theater. Highly recommend! Review submitted as part of a program that provides a purchase discount.",
+        "rating": 5,
+        "author": "Molly C",
+        "dateCreated": "2024-07-25T22:33:02.000+00:00",
+        "datePublished": "2024-10-09T16:45:06.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/187fd6cd-3b5a-52c5-ba37-a3903435b2c7",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/842d82b9-4f33-5cf0-93d0-f9f09841ea40",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/77866275-e17d-5665-8d21-2aeecc078fc8",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/c0f0cc2a-e015-5193-a7bf-cd37a88ee803"
+        ]
+      },
+      {
+        "headline": "Amazing Soundbar",
+        "body": "[This review was collected as part of a promotion.] I was looking for a soundbar for my TV to increase my viewing experience. I have been using the LG wireless soundbar, S70TY, for about a week. The install was super easy! Everything came in one box - even a wall mount. Such a thoughtful touch to make installation that much smoother. With everything being wireless, the soundbar and 400W subwoofer connected seamlessly with my TV. This soundbar is so impressive. It has three audio channels for different types of viewing. My favorite is the cinema for movies. Also the innovative up-firing center channel allows you to hear the actor voices super clear without sacrificing the other sound effects. Perfect for whispered voice scenes. My living room has a large ceiling and sounds can get lost. That is not the case with this soundbar. It projects incredible sound and has turned my living room into a movie theater. Highly recommend! Review submitted as part of a program that provides a purchase discount.",
+        "rating": 5,
+        "author": "Molly C",
+        "dateCreated": "2024-07-25T17:33:11.000+00:00",
+        "datePublished": "2024-07-26T16:30:19.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/0c836b7c-ef6a-5762-8e98-130d64b789c4",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/a6c7f351-c64f-5424-a119-e5a9ec264974",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/bf127085-de74-5b66-a5b0-ecc551799862",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/a7917d2f-f46d-5f09-8309-80024d6aab52"
+        ]
+      },
+      {
+        "headline": "SONIDO ENVOLVENTE",
+        "body": "Compre la LGS70TY hace un mes y medio y ha sido un gran acierto. Es la primera barra de sonido que tengo y me ha sorprendido cómo mejora las prestaciones de audio de la TV.  Se disfruta de un sonido envolvente y la experiencia en el visionado de las películas y los deportes ha mejorado notablemente. Estoy muy contenta.",
+        "rating": 5,
+        "author": "AZAHARASM",
+        "dateCreated": "2024-10-31T23:11:16.000+00:00",
+        "datePublished": "2024-11-01T12:31:13.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/a3c55eb9-d3c6-5709-adbe-42d5ac9e646f",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/d3069c7d-143a-5e66-81ab-7b3f59d80dd9",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/9e5b4d78-6abd-5421-9036-66cd353902e2",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/32e84eb8-e657-5d4a-8792-52e5503d399a"
+        ]
+      },
+      {
+        "headline": "Really Powerful Sound",
+        "body": "[This review was collected as part of a promotion.] I'm really impressed with the LG S70TY 3.1.1ch Soundbar. This is my first soundbar upgrade in seven years. It was well packaged and easy to unbox and install. I have it connected to an LG TV that I use for my gaming PC, and three of my gaming consoles. I love the sound quality. The soundbar really makes my music, movies, and entertainment sound enhanced. It does a great job with surround sound and provides an elevated audio experience. The bass, treble, and mids really stand out. The bass speaker is really solid and hits hard.\n\nI love good quality sound, it's one of my passions. I probably use the soundbar everyday and enjoy every moment of enhanced sound quality. The color also matches my other equipment.",
+        "rating": 5,
+        "author": "jmcollabo",
+        "dateCreated": "2024-05-22T01:27:26.000+00:00",
+        "datePublished": "2024-05-22T14:47:39.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/07d64440-5b3f-5a39-950e-d7d61853a0e4",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/60084b3f-1f5c-5eae-bd39-fcb7c70e6c0b",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/ef84c654-d5a0-5010-a401-daef0100d4cc"
+        ]
+      },
+      {
+        "headline": "Average Soundbar",
+        "body": "[This review was collected as part of a promotion.] I hooked this LG soundbar up to an older LG tv in hopes that it would make me an LG person. I didn't like the sound of the TV by itself so I had high hopes for the soundbar. I found that the bass blast had the best sound for me. The AI sound pro setting also sounded fairly good too. The clear voice option did make the voices sound louder. In my opinion there wasn't much difference in the rest of the sound options. I did try adjusting the sound settings for a fine tuning but I couldn't hear any difference. I honestly didn't care for the soundbar because it did sound tinny to me even after settling on bass blast for the tone that I liked the best.",
+        "rating": 3,
+        "author": "Ladywhiteraven",
+        "dateCreated": "2024-05-22T01:42:10.000+00:00",
+        "datePublished": "2024-05-22T16:03:02.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/a27677ed-1945-59ec-a72d-5fc228c66462",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/d068feff-4e15-594a-bf42-254781594a72"
+        ]
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://www.lg.com/de/"
+    },
+    {
+      "position": 2,
+      "name": "Lautsprecher",
+      "url": "https://www.lg.com/de/lautsprecher/"
+    },
+    {
+      "position": 3,
+      "name": "Soundbars",
+      "url": "https://www.lg.com/de/lautsprecher/soundbars/"
+    },
+    {
+      "position": 4,
+      "name": "DS70TR",
+      "url": "https://www.lg.com/de/lautsprecher/soundbars/ds70tr/"
+    }
+  ],
+  "faq": [],
+  "metadata": {
+    "mpn": "DS70TR",
+    "title": "5.1.1-Kanal LG Home Theater Soundbar DS70TR mit Dolby Atmos und hinteren Lautsprechern | LG DE",
+    "description": "Entdecke die LG Soundbar DS70TR: Dolby Atmos, High Resolution Audio sowie ein Center-Upfiring-Speaker sorgen für das ultimative Hörerlebnis. Die DS70TR verfügt über Rücklautsprecher und passt dank praktischer WOW Features perfekt zu deinem LG TV ab 50 Zoll.",
+    "ogImage": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/s70tr-basic.jpg",
+    "ogTitle": "5.1.1-Kanal LG Home Theater Soundbar DS70TR mit Dolby Atmos und hinteren Lautsprechern - DS70TR | LG DE",
+    "canonical": "https://www.lg.com/de/lautsprecher/soundbars/ds70tr/"
+  },
+  "structuredData": {
+    "jsonLd": [
+      {
+        "@context": "https://schema.org/",
+        "@id": "https://www.lg.com/de/lautsprecher/soundbars/ds70tr/",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "itemReviewed": {
+            "@type": "IndividualProduct",
+            "name": "DS70TR"
+          },
+          "ratingValue": "4.6",
+          "reviewCount": 390,
+          "bestRating": 5
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@id": "https://www.lg.com/de/lautsprecher/soundbars/ds70tr/",
+        "review": [
+          {
+            "@type": "Review",
+            "dateCreated": "2024-08-23T05:13:30.000+00:00",
+            "datePublished": "2024-08-23T05:30:04.000+00:00",
+            "headline": "A must have to make your home into a cinema!",
+            "reviewBody": "[This review was collected as part of a promotion.] The LG S70TR Surround Sound speaker system with Dolby Atmos delivers an immersive audio experience that brings movies and music to life. The speakers produce clear and powerful sound, creating a surround sound effect that enhances your viewing and listening pleasure. With Dolby Atmos technology, you can enjoy realistic and detailed sound that fills the room. Setting up the system is easy, and the sleek design of the speakers adds a stylish touch to any room. Overall, the LG S70TR Surround Sound speaker system is a top choice for those who seek high-quality audio performance. It's a real bang for your buck and pairs perfectly with my LG TV. Review submitted as part of a program that provides a purchase discount.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Taylor C"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/26d71c29-1d78-58e2-a168-a80175a9d44a",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/8db9ca56-eceb-5165-bcd9-a1f1d5cffb8c"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/79fd0e65-4a07-5a21-907e-86b873ca8260",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/e5a0a012-44d7-5257-bbd8-b0a7d50d432f"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/fa6087a7-3801-5580-9d02-b3b79dd93e9a",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/4bb98867-62a9-5c63-8c64-4b90382865ba"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/38823b1c-0747-50b3-8f88-7bba794c6bb1",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/da137c68-17e4-56ee-9eb7-453a876fb6fb"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/cd758313-18f4-54d1-82cc-b3ee55682dbd",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/e11a2c90-c64d-56a9-8c06-0915b39397bc"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-07-25T22:33:51.000+00:00",
+            "datePublished": "2024-10-09T14:15:08.000+00:00",
+            "headline": "Game Changer. Loving My New LG Soundbar!",
+            "reviewBody": "[This review was collected as part of a promotion.] I was in the market for a soundbar with the upcoming football season in mind, and I am so glad I chose the LG Soundbar. The audio quality is truly impressive - rich, immersive, and makes everything from movies to music sound fantastic. One of the standout features for me is the ability to pair it with my phone and control it through the app, adding a layer of convenience that I never knew I needed. I can't wait to watch games with this product! Whether I'm watching my favorite shows or having friends over for a movie night, the soundbar consistently elevates the experience. If you're looking to upgrade your home audio setup, the LG Soundbar is definitely worth considering. Highly recommend! Review submitted as part of a program that provides a purchase discount.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Evan B."
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/08a9907d-4cc4-55b9-b5aa-72b4b50af475",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/8b493e7a-d592-5796-8553-5c141bd9e4fa"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/39aaeef0-63e7-5daa-837b-2eb5b511ff25",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/96d9b677-8cc9-5644-8991-848fe4347652"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/e382ded7-6b0a-5bb3-92e2-0625111bf726",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/1c7e2688-d85f-5d02-8a15-d66de6119600"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/5c8608b1-6e90-5747-9d43-c24b8f2e213e",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/ef11d2e7-63ae-5263-a389-46ba900fb34b"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/e32b98c4-c49a-5a90-b887-48b8563ab898",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/a432f181-b86c-574d-8a94-e3c6b3a2c699"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-03-29T20:49:13.000+00:00",
+            "datePublished": "2025-03-30T00:01:16.000+00:00",
+            "headline": "La Grandeza es un grado.",
+            "reviewBody": "(Esta reseña se ha recibido a través de una promoción.) Esta reseña ha sido Incentivada \n\nYa ni miro otras marcas...SOLO LG.\n\nEs la segunda TV que compro de LG , y tengo una lavavajillas y una lavadora, y estoy mirando de comprar un frigorífico.\n\nEsta 86QNED86T6A es una MARAVILLA...Grande, se ve de CINE y super fácil de configurar gracias a la Inteligencia artificial con la que cuenta su poderoso procesador de ultima generación A8. El sistema VUELA por lo menús a una velocidad pasmosa, casi increíble para un Televisor.\n\nEl sistema FALD crea unos entornos negros de autentico lujo, casi a la altura de un OLED.\n\n\nQue mas decir...!!! Super recomendado !!!",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Comprador Compulsivo"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/9662e5de-004e-5ee5-b03a-532d5414a6ac",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/9f25b6d0-3fd9-5042-a4a6-310477f65151"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/6c2b75d5-4691-5f96-b55c-7bc40b1b23c5",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/bf11381e-83c6-500f-b880-e32ab2c7e17e"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/6ed97edf-95b7-5a67-8ba6-2a8334d9ed59",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/5edc4d44-910c-5fa3-8acf-999c68ddb23a"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-07-25T22:33:02.000+00:00",
+            "datePublished": "2024-10-09T16:45:06.000+00:00",
+            "headline": "Amazing Soundbar",
+            "reviewBody": "[This review was collected as part of a promotion.] I was looking for a soundbar for my TV to increase my viewing experience. I have been using the LG wireless soundbar, S70TY, for about a week. The install was super easy! Everything came in one box - even a wall mount. Such a thoughtful touch to make installation that much smoother. With everything being wireless, the soundbar and 400W subwoofer connected seamlessly with my TV. This soundbar is so impressive. It has three audio channels for different types of viewing. My favorite is the cinema for movies. Also the innovative up-firing center channel allows you to hear the actor voices super clear without sacrificing the other sound effects. Perfect for whispered voice scenes. My living room has a large ceiling and sounds can get lost. That is not the case with this soundbar. It projects incredible sound and has turned my living room into a movie theater. Highly recommend! Review submitted as part of a program that provides a purchase discount.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Molly C"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/187fd6cd-3b5a-52c5-ba37-a3903435b2c7",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/b7263501-dbd7-5982-b76d-18ce34434034"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/842d82b9-4f33-5cf0-93d0-f9f09841ea40",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/6c9d2703-89db-5318-8215-686fb478d4af"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/77866275-e17d-5665-8d21-2aeecc078fc8",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/52f70648-3a01-5c93-a5b6-3be6c2a209fe"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/c0f0cc2a-e015-5193-a7bf-cd37a88ee803",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/2e61f0bc-e5ce-5a78-939e-4fce4830c1f1"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-07-25T17:33:11.000+00:00",
+            "datePublished": "2024-07-26T16:30:19.000+00:00",
+            "headline": "Amazing Soundbar",
+            "reviewBody": "[This review was collected as part of a promotion.] I was looking for a soundbar for my TV to increase my viewing experience. I have been using the LG wireless soundbar, S70TY, for about a week. The install was super easy! Everything came in one box - even a wall mount. Such a thoughtful touch to make installation that much smoother. With everything being wireless, the soundbar and 400W subwoofer connected seamlessly with my TV. This soundbar is so impressive. It has three audio channels for different types of viewing. My favorite is the cinema for movies. Also the innovative up-firing center channel allows you to hear the actor voices super clear without sacrificing the other sound effects. Perfect for whispered voice scenes. My living room has a large ceiling and sounds can get lost. That is not the case with this soundbar. It projects incredible sound and has turned my living room into a movie theater. Highly recommend! Review submitted as part of a program that provides a purchase discount.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Molly C"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/0c836b7c-ef6a-5762-8e98-130d64b789c4",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/85f8c377-e60b-5384-b140-2a8a92910905"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/a6c7f351-c64f-5424-a119-e5a9ec264974",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/7fd373c6-3a25-526d-975b-b8df8eb0c086"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/bf127085-de74-5b66-a5b0-ecc551799862",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/edcf7f5a-0087-5b31-bc35-5331de3b006c"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/a7917d2f-f46d-5f09-8309-80024d6aab52",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/cf2639b0-c2fd-5d70-9b75-7c8188c40f47"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-10-31T23:11:16.000+00:00",
+            "datePublished": "2024-11-01T12:31:13.000+00:00",
+            "headline": "SONIDO ENVOLVENTE",
+            "reviewBody": "Compre la LGS70TY hace un mes y medio y ha sido un gran acierto. Es la primera barra de sonido que tengo y me ha sorprendido cómo mejora las prestaciones de audio de la TV.  Se disfruta de un sonido envolvente y la experiencia en el visionado de las películas y los deportes ha mejorado notablemente. Estoy muy contenta.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AZAHARASM"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/a3c55eb9-d3c6-5709-adbe-42d5ac9e646f",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/bcd66ac6-9af3-50f4-a00d-96939ca08a94"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/d3069c7d-143a-5e66-81ab-7b3f59d80dd9",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e1d781f2-4224-54e1-a158-1bdd4ed0fc03"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/9e5b4d78-6abd-5421-9036-66cd353902e2",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/0e17f496-edbd-5398-9168-e6028762d7a7"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/32e84eb8-e657-5d4a-8792-52e5503d399a",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/b9dafac1-fd76-5f57-9d56-9c994e4c64a6"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-05-22T01:27:26.000+00:00",
+            "datePublished": "2024-05-22T14:47:39.000+00:00",
+            "headline": "Really Powerful Sound",
+            "reviewBody": "[This review was collected as part of a promotion.] I'm really impressed with the LG S70TY 3.1.1ch Soundbar. This is my first soundbar upgrade in seven years. It was well packaged and easy to unbox and install. I have it connected to an LG TV that I use for my gaming PC, and three of my gaming consoles. I love the sound quality. The soundbar really makes my music, movies, and entertainment sound enhanced. It does a great job with surround sound and provides an elevated audio experience. The bass, treble, and mids really stand out. The bass speaker is really solid and hits hard.\n\nI love good quality sound, it's one of my passions. I probably use the soundbar everyday and enjoy every moment of enhanced sound quality. The color also matches my other equipment.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jmcollabo"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/07d64440-5b3f-5a39-950e-d7d61853a0e4",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/eb96313d-e741-56aa-b7f9-907b771b6b9b"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/60084b3f-1f5c-5eae-bd39-fcb7c70e6c0b",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/682600c5-fd21-53f7-8ecf-e97e573f810e"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/ef84c654-d5a0-5010-a401-daef0100d4cc",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/e9c95e5e-92f2-5d2e-b916-f89f1c2d4625"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-05-22T01:42:10.000+00:00",
+            "datePublished": "2024-05-22T16:03:02.000+00:00",
+            "headline": "Average Soundbar",
+            "reviewBody": "[This review was collected as part of a promotion.] I hooked this LG soundbar up to an older LG tv in hopes that it would make me an LG person. I didn't like the sound of the TV by itself so I had high hopes for the soundbar. I found that the bass blast had the best sound for me. The AI sound pro setting also sounded fairly good too. The clear voice option did make the voices sound louder. In my opinion there wasn't much difference in the rest of the sound options. I did try adjusting the sound settings for a fine tuning but I couldn't hear any difference. I honestly didn't care for the soundbar because it did sound tinny to me even after settling on bass blast for the tone that I liked the best.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 3,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ladywhiteraven"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/a27677ed-1945-59ec-a72d-5fc228c66462",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/5b09ee86-747a-59e3-a47a-201205954cd0"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/d068feff-4e15-594a-bf42-254781594a72",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/d4222c9d-a839-51fd-a704-df4dfab2d45e"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "product",
+        "@id": "https://www.lg.com/de/lautsprecher/soundbars/ds70tr/",
+        "name": "5.1.1-Kanal LG Home Theater Soundbar DS70TR mit Dolby Atmos und hinteren Lautsprechern",
+        "image": "/content/dam/channel/wcms/de/_he/2024/gallery/ds70tr/gallery/s70tr-basic.jpg",
+        "description": "Entdecken Sie LG DS70TR. Für Bilder, Bewertungen und technische Daten zu LG klicken 5.1.1-Kanal LG Home Theater Soundbar DS70TR mit Dolby Atmos und hinteren Lautsprechern.",
+        "mpn": "DS70TR",
+        "brand": {
+          "@type": "Brand",
+          "name": "LG"
+        },
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "EUR",
+          "price": "399",
+          "availability": "https://schema.org/OutOfStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "LG DE"
+          }
+        },
+        "size": {
+          "@type": "QuantitativeValue",
+          "unitCode": "MMT",
+          "value": "Ja"
+        },
+        "hasEnergyConsumptionDetails": {
+          "@type": "EnergyConsumptionDetails",
+          "hasEnergyEfficiencyCategory": "",
+          "energyEfficiencyScaleMax": "",
+          "energyEfficiencyScaleMin": ""
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.lg.com/de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Lautsprecher",
+            "item": "https://www.lg.com/de/lautsprecher/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Soundbars",
+            "item": "https://www.lg.com/de/lautsprecher/soundbars/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "DS70TR",
+            "item": "https://www.lg.com/de/lautsprecher/soundbars/ds70tr/"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2300 @@
+{
+  "crawledAt": "2026-01-20T03:49:31.641Z",
+  "url": "https://www.lg.com/de/tvs-und-soundbars/oled/oled55b49la/",
+  "modelNumber": "OLED55B49LA",
+  "category": "OLED",
+  "basicInfo": {
+    "productName": "55 Zoll LG OLED B4 4K Smart TV",
+    "headline": "55 Zoll LG OLED B4 4K Smart TV",
+    "screenSize": "55 Zoll",
+    "series": "B",
+    "year": 2024,
+    "brand": "LG",
+    "modelNumber": "OLED55B49LA"
+  },
+  "pricing": {
+    "currentPrice": "1899",
+    "currency": "EUR",
+    "availability": "OutOfStock",
+    "seller": "LG DE"
+  },
+  "ratings": {
+    "averageRating": "4.7",
+    "reviewCount": 866,
+    "bestRating": 5
+  },
+  "energyEfficiency": {
+    "category": "G",
+    "scaleMax": "A1Plus",
+    "scaleMin": "G"
+  },
+  "media": {
+    "images": [
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/banners/2026-01-15-LG-CB26-GNB-290x90px-V1-jgr.jpg",
+        "srcset": null,
+        "alt": " Gute Vorsätze für 2026",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/banners/2026-01-15-LG-CB26-GNB-290x90px-V1-jgr.jpg",
+        "srcset": null,
+        "alt": " Gute Vorsätze für 2026",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "OLED55B49LA EU.pdf",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "OLED55B49LA EU.pdf",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-15.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Vogelperspektive auf den LG OLED AI B4 4K Smart TV, die sein ultradünnes Gehäuse und die Standfußanordnung veranschaulicht.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Frontansicht des LG OLED AI B4 4K Smart TVs mit rahmenlosem Design, „LG OLED AI 2024“- und „Weltweit Nr. 1 OLED-TV seit 11 Jahren“-Logos sowie webOS Re:New Program Branding.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-02.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Rechtsseitige flache Ansicht des LG OLED AI B4 4K Smart TVs, die sein ultradünnes Gehäuse und die V-förmigen Standfüße hervorhebt.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-03.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Rückansicht des LG OLED AI B4 4K Smart TVs mit ebenem Rückgehäuse und zwei V-förmigen Standfüßen.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-04.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Seitenansicht des LG OLED AI B4 4K Smart TVs mit 45,9 mm schmalem Profil und 235 mm Standtiefenmaß.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-05.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Abmessungsdiagramm des LG OLED AI B4 4K Smart TVs: Breite 1228mm, Höhe 708 mm (Panel), 772 mm mit Standfuß, Tiefe 45,9 mm ohne Standfuß, 235 mm mit Standfuß.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-06.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Lifestyle-Aufnahme des LG OLED AI B4 4K Smart TV auf seinem Standfuß in einem modernen Wohnzimmer, das eine bunte Straßenszene zeigt.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-07.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Detailansicht der Rückseite des LG OLED AI B4 4K Smart TVs mit HDMI IN 3 (eARC/ARC) und 4, USB IN 2, optischem Digital-Audio-Ausgang, RS‑232C-Serviceport, LAN- und ANT/Cable-Anschlüssen.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-08.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Nahaufnahme der Seitenansicht des LG OLED AI B4 4K Smart TVs mit HDMI IN 1 & 2, USB IN 1 und ANT/Cable-Eingang an der Seitenkante.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-09.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Detailansicht des Standfußes des LG OLED AI B4 4K Smart TV mit schlanken Metallbeinen und strukturierter Oberfläche.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-10.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Nahaufnahme der oberen rechten Bildschirm-Ecke des LG OLED AI B4 4K Smart TV mit ultradünner Blende und glänzender Oberfläche.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-11.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Tief geneigte Ansicht von der rechten Seite des LG OLED AI B4 4K Smart TV, die sein schlankes Seitenprofil und den Standfuß zeigt.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-12.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Leicht geneigte Ansicht von der rechten Seite des LG OLED AI B4 4K Smart TV, die seine schlanke Blende und den Standfuß hervorhebt.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-13.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Leicht geneigte Ansicht von der linken Seite des LG OLED AI B4 4K Smart TV, die seine schlanke Blende und den Standfuß hervorhebt.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-14.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Schrägansicht von oben rechts auf den LG OLED AI B4 4K Smart TV, die die linke Seite und den schlanken Rahmen zeigt.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-15.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Vogelperspektive auf den LG OLED AI B4 4K Smart TV, die sein ultradünnes Gehäuse und die Standfußanordnung veranschaulicht.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Frontansicht des LG OLED AI B4 4K Smart TVs mit rahmenlosem Design, „LG OLED AI 2024“- und „Weltweit Nr. 1 OLED-TV seit 11 Jahren“-Logos sowie webOS Re:New Program Branding.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/350x350/oled-b4-55-a-gallery-01.jpg",
+        "srcset": null,
+        "alt": "Frontansicht des LG OLED AI B4 4K Smart TVs mit rahmenlosem Design, „LG OLED AI 2024“- und „Weltweit Nr. 1 OLED-TV seit 11 Jahren“-Logos sowie webOS Re:New Program Branding.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/350x350/oled-b4-55-a-gallery-02.jpg",
+        "srcset": null,
+        "alt": "Rechtsseitige flache Ansicht des LG OLED AI B4 4K Smart TVs, die sein ultradünnes Gehäuse und die V-förmigen Standfüße hervorhebt.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/350x350/oled-b4-55-a-gallery-03.jpg",
+        "srcset": null,
+        "alt": "Rückansicht des LG OLED AI B4 4K Smart TVs mit ebenem Rückgehäuse und zwei V-förmigen Standfüßen.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/350x350/oled-b4-55-a-gallery-04.jpg",
+        "srcset": null,
+        "alt": "Seitenansicht des LG OLED AI B4 4K Smart TVs mit 45,9 mm schmalem Profil und 235 mm Standtiefenmaß.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/350x350/oled-b4-55-a-gallery-05.jpg",
+        "srcset": null,
+        "alt": "Abmessungsdiagramm des LG OLED AI B4 4K Smart TVs: Breite 1228mm, Höhe 708 mm (Panel), 772 mm mit Standfuß, Tiefe 45,9 mm ohne Standfuß, 235 mm mit Standfuß.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/350x350/oled-b4-55-a-gallery-06.jpg",
+        "srcset": null,
+        "alt": "Lifestyle-Aufnahme des LG OLED AI B4 4K Smart TV auf seinem Standfuß in einem modernen Wohnzimmer, das eine bunte Straßenszene zeigt.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/350x350/oled-b4-55-a-gallery-07.jpg",
+        "srcset": null,
+        "alt": "Detailansicht der Rückseite des LG OLED AI B4 4K Smart TVs mit HDMI IN 3 (eARC/ARC) und 4, USB IN 2, optischem Digital-Audio-Ausgang, RS‑232C-Serviceport, LAN- und ANT/Cable-Anschlüssen.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/350x350/oled-b4-55-a-gallery-08.jpg",
+        "srcset": null,
+        "alt": "Nahaufnahme der Seitenansicht des LG OLED AI B4 4K Smart TVs mit HDMI IN 1 & 2, USB IN 1 und ANT/Cable-Eingang an der Seitenkante.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/350x350/oled-b4-55-a-gallery-09.jpg",
+        "srcset": null,
+        "alt": "Detailansicht des Standfußes des LG OLED AI B4 4K Smart TV mit schlanken Metallbeinen und strukturierter Oberfläche.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/350x350/oled-b4-55-a-gallery-10.jpg",
+        "srcset": null,
+        "alt": "Nahaufnahme der oberen rechten Bildschirm-Ecke des LG OLED AI B4 4K Smart TV mit ultradünner Blende und glänzender Oberfläche.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/350x350/oled-b4-55-a-gallery-11.jpg",
+        "srcset": null,
+        "alt": "Tief geneigte Ansicht von der rechten Seite des LG OLED AI B4 4K Smart TV, die sein schlankes Seitenprofil und den Standfuß zeigt.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/350x350/oled-b4-55-a-gallery-12.jpg",
+        "srcset": null,
+        "alt": "Leicht geneigte Ansicht von der rechten Seite des LG OLED AI B4 4K Smart TV, die seine schlanke Blende und den Standfuß hervorhebt.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/350x350/oled-b4-55-a-gallery-13.jpg",
+        "srcset": null,
+        "alt": "Leicht geneigte Ansicht von der linken Seite des LG OLED AI B4 4K Smart TV, die seine schlanke Blende und den Standfuß hervorhebt.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/350x350/oled-b4-55-a-gallery-14.jpg",
+        "srcset": null,
+        "alt": "Schrägansicht von oben rechts auf den LG OLED AI B4 4K Smart TV, die die linke Seite und den schlanken Rahmen zeigt.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/350x350/oled-b4-55-a-gallery-15.jpg",
+        "srcset": null,
+        "alt": "Vogelperspektive auf den LG OLED AI B4 4K Smart TV, die sein ultradünnes Gehäuse und die Standfußanordnung veranschaulicht.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des LG OLED AI B4 4K Smart TVs mit rahmenlosem Design, „LG OLED AI 2024“- und „Weltweit Nr. 1 OLED-TV seit 11 Jahren“-Logos sowie webOS Re:New Program Branding.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-02.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Rechtsseitige flache Ansicht des LG OLED AI B4 4K Smart TVs, die sein ultradünnes Gehäuse und die V-förmigen Standfüße hervorhebt.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-03.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Rückansicht des LG OLED AI B4 4K Smart TVs mit ebenem Rückgehäuse und zwei V-förmigen Standfüßen.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-04.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Seitenansicht des LG OLED AI B4 4K Smart TVs mit 45,9 mm schmalem Profil und 235 mm Standtiefenmaß.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-05.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Abmessungsdiagramm des LG OLED AI B4 4K Smart TVs: Breite 1228mm, Höhe 708 mm (Panel), 772 mm mit Standfuß, Tiefe 45,9 mm ohne Standfuß, 235 mm mit Standfuß.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-06.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Lifestyle-Aufnahme des LG OLED AI B4 4K Smart TV auf seinem Standfuß in einem modernen Wohnzimmer, das eine bunte Straßenszene zeigt.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-07.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Detailansicht der Rückseite des LG OLED AI B4 4K Smart TVs mit HDMI IN 3 (eARC/ARC) und 4, USB IN 2, optischem Digital-Audio-Ausgang, RS‑232C-Serviceport, LAN- und ANT/Cable-Anschlüssen.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-08.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Nahaufnahme der Seitenansicht des LG OLED AI B4 4K Smart TVs mit HDMI IN 1 & 2, USB IN 1 und ANT/Cable-Eingang an der Seitenkante.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-09.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Detailansicht des Standfußes des LG OLED AI B4 4K Smart TV mit schlanken Metallbeinen und strukturierter Oberfläche.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-10.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Nahaufnahme der oberen rechten Bildschirm-Ecke des LG OLED AI B4 4K Smart TV mit ultradünner Blende und glänzender Oberfläche.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-11.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Tief geneigte Ansicht von der rechten Seite des LG OLED AI B4 4K Smart TV, die sein schlankes Seitenprofil und den Standfuß zeigt.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-12.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Leicht geneigte Ansicht von der rechten Seite des LG OLED AI B4 4K Smart TV, die seine schlanke Blende und den Standfuß hervorhebt.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-13.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Leicht geneigte Ansicht von der linken Seite des LG OLED AI B4 4K Smart TV, die seine schlanke Blende und den Standfuß hervorhebt.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-14.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Schrägansicht von oben rechts auf den LG OLED AI B4 4K Smart TV, die die linke Seite und den schlanken Rahmen zeigt.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/2010x1334/oled-b4-55-a-gallery-15.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Vogelperspektive auf den LG OLED AI B4 4K Smart TV, die sein ultradünnes Gehäuse und die Standfußanordnung veranschaulicht.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/350x350/oled-b4-55-a-gallery-01.jpg",
+        "srcset": null,
+        "alt": "Frontansicht des LG OLED AI B4 4K Smart TVs mit rahmenlosem Design, „LG OLED AI 2024“- und „Weltweit Nr. 1 OLED-TV seit 11 Jahren“-Logos sowie webOS Re:New Program Branding.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/350x350/oled-b4-55-a-gallery-02.jpg",
+        "srcset": null,
+        "alt": "Rechtsseitige flache Ansicht des LG OLED AI B4 4K Smart TVs, die sein ultradünnes Gehäuse und die V-förmigen Standfüße hervorhebt.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/350x350/oled-b4-55-a-gallery-03.jpg",
+        "srcset": null,
+        "alt": "Rückansicht des LG OLED AI B4 4K Smart TVs mit ebenem Rückgehäuse und zwei V-förmigen Standfüßen.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/350x350/oled-b4-55-a-gallery-04.jpg",
+        "srcset": null,
+        "alt": "Seitenansicht des LG OLED AI B4 4K Smart TVs mit 45,9 mm schmalem Profil und 235 mm Standtiefenmaß.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/350x350/oled-b4-55-a-gallery-05.jpg",
+        "srcset": null,
+        "alt": "Abmessungsdiagramm des LG OLED AI B4 4K Smart TVs: Breite 1228mm, Höhe 708 mm (Panel), 772 mm mit Standfuß, Tiefe 45,9 mm ohne Standfuß, 235 mm mit Standfuß.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/350x350/oled-b4-55-a-gallery-06.jpg",
+        "srcset": null,
+        "alt": "Lifestyle-Aufnahme des LG OLED AI B4 4K Smart TV auf seinem Standfuß in einem modernen Wohnzimmer, das eine bunte Straßenszene zeigt.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/350x350/oled-b4-55-a-gallery-07.jpg",
+        "srcset": null,
+        "alt": "Detailansicht der Rückseite des LG OLED AI B4 4K Smart TVs mit HDMI IN 3 (eARC/ARC) und 4, USB IN 2, optischem Digital-Audio-Ausgang, RS‑232C-Serviceport, LAN- und ANT/Cable-Anschlüssen.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/350x350/oled-b4-55-a-gallery-08.jpg",
+        "srcset": null,
+        "alt": "Nahaufnahme der Seitenansicht des LG OLED AI B4 4K Smart TVs mit HDMI IN 1 & 2, USB IN 1 und ANT/Cable-Eingang an der Seitenkante.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/350x350/oled-b4-55-a-gallery-09.jpg",
+        "srcset": null,
+        "alt": "Detailansicht des Standfußes des LG OLED AI B4 4K Smart TV mit schlanken Metallbeinen und strukturierter Oberfläche.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/350x350/oled-b4-55-a-gallery-10.jpg",
+        "srcset": null,
+        "alt": "Nahaufnahme der oberen rechten Bildschirm-Ecke des LG OLED AI B4 4K Smart TV mit ultradünner Blende und glänzender Oberfläche.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/350x350/oled-b4-55-a-gallery-11.jpg",
+        "srcset": null,
+        "alt": "Tief geneigte Ansicht von der rechten Seite des LG OLED AI B4 4K Smart TV, die sein schlankes Seitenprofil und den Standfuß zeigt.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/350x350/oled-b4-55-a-gallery-12.jpg",
+        "srcset": null,
+        "alt": "Leicht geneigte Ansicht von der rechten Seite des LG OLED AI B4 4K Smart TV, die seine schlanke Blende und den Standfuß hervorhebt.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/350x350/oled-b4-55-a-gallery-13.jpg",
+        "srcset": null,
+        "alt": "Leicht geneigte Ansicht von der linken Seite des LG OLED AI B4 4K Smart TV, die seine schlanke Blende und den Standfuß hervorhebt.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/350x350/oled-b4-55-a-gallery-14.jpg",
+        "srcset": null,
+        "alt": "Schrägansicht von oben rechts auf den LG OLED AI B4 4K Smart TV, die die linke Seite und den schlanken Rahmen zeigt.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/350x350/oled-b4-55-a-gallery-15.jpg",
+        "srcset": null,
+        "alt": "Vogelperspektive auf den LG OLED AI B4 4K Smart TV, die sein ultradünnes Gehäuse und die Standfußanordnung veranschaulicht.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/awards/HIFI.DE-Testsiegel-Fernseher-LG-OLED55B49LA-9.1.jpg",
+        "srcset": null,
+        "alt": "Hifi.de OLED55B49LA",
+        "width": 3000,
+        "height": 1742
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-01-intro-visual-m.jpg",
+        "srcset": null,
+        "alt": "Der LG OLED TV B4 in einem Winkel von 45 Grad zur linken Seite mit einem grünen und orangefarbenen abstrakten Kunstwerk auf dem Bildschirm vor einem grünen Hintergrund mit 3D-Kugeln. Der OLED TV dreht sich nach vorne. Unten rechts befindet sich ein Logo des LG Alpha 8 4K AI-Prozessors.\t",
+        "width": 1600,
+        "height": 1000
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-02-oled-11th-m.jpg",
+        "srcset": null,
+        "alt": "Ein goldenes Emblem der weltweiten Nummer 1 unter den OLED TVs seit 11 Jahren vor einem schwarzen Hintergrund. Ein Lichtstrahl leuchtet auf das Emblem, und goldene abstrakte Sterne füllen den Himmel darüber.\t",
+        "width": 1600,
+        "height": 700
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-03-summary-m.jpg",
+        "srcset": null,
+        "alt": "Der alpha 8 4K AI-Prozessor von LG auf einem Motherboard, der orangefarbene Lichtblitze aussended.  Ein OLED TV, OLED Care ist im Support-Menü ausgewählt, welches auf dem Bildschirm angezeigt wird.  Das schlanke Design in einer Seitenansicht, wie es in einem modernen Wohnbereich flach an die Wand gehängt wird.",
+        "width": 1600,
+        "height": 560
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-04-ai-processor-m-1.jpg",
+        "srcset": null,
+        "alt": "Der α8 4K AI-Prozessor von LG, in der Dunkelheit fast nicht zu erkennen. Der AI-Prozessor leuchtet grün und bunte Lichtblitze fliegen aus ihm heraus. Auf der Hauptplatine erscheinen weitere Strahlen, die sich weiter ausdehnen. Weiße Punkte, die wie Sterne aussehen, werden sichtbar und erwecken den Eindruck einer intergalaktischen Szene.",
+        "width": 1600,
+        "height": 1000
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-05-ai-processor-summary-m.jpg",
+        "srcset": null,
+        "alt": "Ein LG OLED TV in einem modernen Wohnbereich, der eine musikalische Aufführung auf dem Bildschirm zeigt. Blaue kreisförmige Wellen, welche die Personalisierung darstellen, umgeben den Fernseher und den Raum.  Eine Frau mit strahlend blauen Augen und einem orangefarbenen Oberteil in einem dunklen Raum. Rote Linien, die AI-Verfeinerungen darstellen, bedecken einen Teil ihres Gesichts, das hell und detailliert ist, während der Rest des Bildes stumpf aussieht.   Ein LG OLED TV, mit Klangblasen und Wellen, die vom Bildschirm ausgehen und den Raum füllen.",
+        "width": 1600,
+        "height": 480
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-06-ai-picture-wizard-m.jpg",
+        "srcset": null,
+        "alt": "Es wird eine Galerie mit 6 Bildern von Heißluftballons am Himmel gezeigt. Zwei Bilder sind ausgewählt. Als nächstes erscheint eine Galerie mit 6 Bildern von Menschen, die Seifenblasen pusten. Zwei weitere werden ausgewählt. Es erscheint ein schwarzer Bildschirm mit einem rosa und violetten Laden-Symbol. Eine mystische Landschaft erscheint und von links nach rechts erscheinen nach und nach Verfeinerungen.\t",
+        "width": 1600,
+        "height": 800
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/desktop/oled-b4-08-ai-brightness-control-d-2.jpg",
+        "srcset": null,
+        "alt": "Ein LG OLED TV in einem modernen Wohnraum bei Nacht. Das Bild des Polarlichts wird auf dem Bildschirm mit der idealen Helligkeitsstufe angezeigt.\t",
+        "width": 1600,
+        "height": 700
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/desktop/oled-b4-08-ai-brightness-control-d-1.jpg",
+        "srcset": null,
+        "alt": "Ein LG OLED TV in einem modernen Wohnraum bei Tag. Das Bild des Polarlichts wird auf dem Bildschirm mit der idealen Helligkeitsstufe angezeigt.\t",
+        "width": 1600,
+        "height": 700
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-09-ai-picture-pro-m.jpg",
+        "srcset": null,
+        "alt": "Eine Frau mit strahlend blauen Augen und einem orangefarbenen Oberteil in einem dunklen Raum. Rote Linien, die AI-Verfeinerungen darstellen, bedecken einen Teil ihres Gesichts, das hell und detailliert ist, während der Rest des Bildes stumpf aussieht. \t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-10-ai-sound-pro-m-3.jpg",
+        "srcset": null,
+        "alt": "Ein LG OLED TV zeigt einen Musiker bei einem Auftritt, mit hellen Kreisgrafiken um die Mikrofone und Instrumente.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-10-ai-sound-pro-m-1.jpg",
+        "srcset": null,
+        "alt": "Ein LG OLED TV, mit Klangblasen und Wellen, die vom Bildschirm ausgehen und den Raum füllen.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-10-ai-sound-pro-m-2.jpg",
+        "srcset": null,
+        "alt": "Ein Mann fährt auf einem Motorrad auf einer unbefestigten Straße mit hellen Kreisgrafiken um das Motorrad herum.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-10-ai-sound-pro-m-3.jpg",
+        "srcset": null,
+        "alt": "Ein LG OLED TV zeigt einen Musiker bei einem Auftritt, mit hellen Kreisgrafiken um die Mikrofone und Instrumente.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-10-ai-sound-pro-m-1.jpg",
+        "srcset": null,
+        "alt": "Ein LG OLED TV, mit Klangblasen und Wellen, die vom Bildschirm ausgehen und den Raum füllen.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-11-self-lit-oled-m.jpg",
+        "srcset": null,
+        "alt": "4 Schichten eines Fernsehers in der Seitenansicht: Hintergrundbeleuchtung, TFT und OLED, Film und Glas. Die Hintergrundbeleuchtung erlischt und die anderen 3 kommen zusammen und drehen sich dann nach oben, um das gesamte Fernsehgerät von der Vorderseite zu zeigen.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/master/he/tv/2024-tv/lg-com/2024-gp1/oled-pdp/b4/features/mobile/oled-b4-12-infinite-contrast-m-v2.jpg",
+        "srcset": null,
+        "alt": "Der Schriftzug „PERFEKTES SCHWARZ“ erscheint in fetten schwarzen Großbuchstaben. Ein schwarzes, scharf umrissenes Gebirge bedeckt dann die Buchstaben und gibt den Blick auf ein Dorf und Sanddünen frei. Das schwarze Exemplar verschwindet hinter einem schwarzen Himmel.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-34-perfect-black-m.jpg",
+        "srcset": null,
+        "alt": "Die Milchstraße füllt den Nachthimmel über einer Canyonlandschaft. Über dem Bild steht in weißen Blockbuchstaben „Grau ist nicht schwarz“ vor einem schwarzen Hintergrund. Der Bildschirm ist in zwei Seiten aufgeteilt und mit „Andere“ und „LG OLED“ gekennzeichnet. Die andere Seite ist deutlich dunkler und kontrastärmer, während die LG OLED-Seite hell und kontrastreich ist. Die LG OLED-Seite weist außerdem die Discomfort Glare Free-Zertifizierung auf.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/master/he/tv/2024-tv/lg-com/2024-gp1/oled-pdp/b4/features/mobile/oled-b4-13-color-fidelity-volume-m-v3.jpg",
+        "srcset": null,
+        "alt": "Eine belebte Stadtszene am frühen Abend mit kräftigen Farben und Kontrasten.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-14-oled-care-m.jpg",
+        "srcset": null,
+        "alt": "OLED TV steht auf der rechten Seite des Bildes. Das Support-Menü wird auf dem Bildschirm angezeigt und das Menü OLED Care ist ausgewählt.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-15-slimline-design-m.jpg",
+        "srcset": null,
+        "alt": "Der LG OLED TV B4 an der Wand eines neutralen Wohnraums, der ein buntes Foto eines Sonnenuntergangs über dem Meer zeigt. \t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-17-vast-size-m-01.jpg",
+        "srcset": null,
+        "alt": "Vergleich des LG OLED TV B4 in verschiedenen Größen: OLED B4 55 Zoll, OLED B4 65 Zoll, OLED B4 77 Zoll.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-18-webos-renew-m.jpg",
+        "srcset": null,
+        "alt": "webOS Re:New Programm-Logo hat einen schwarzen Hintergrund mit einer gelben und orangefarbenen, violetten kreisförmigen Kugel am unteren Rand. \t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/gallery/2024-05-06-LG-TV-OLED_webOS-pfa.jpg",
+        "srcset": null,
+        "alt": "Der Startbildschirm von webOS 24 mit den Kategorien Home Office, Spiel, Musik, Heimzentrale und Sportkategorien. Im unteren Teil des Bildschirms werden unter „Deine Top-Empfehlungen“ personalisierte Empfehlungen angezeigt.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-20-dolby-filmmakermode-m.jpg",
+        "srcset": null,
+        "alt": "\"Ein Regisseur vor einem Bedienfeld, während er den Film „Killers of the Flower Moon“ auf einem LG OLED TV bearbeitet. Ein Zitat von Martin Scorsese: „Zuhause sollte jeder Film im Filmmaker Mode gesehen werden“, Bildüberlagerung mit dem „Killers of the Flower Moon“-Logo, dem Apple TV+-Logo und einem „Demnächst“-Logo.  Dolby Vision (Logo) FILMMAKER MODE™-Logo\"\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-21-dolby-atmos-m.jpg",
+        "srcset": null,
+        "alt": "Ein gemütlicher, schwach beleuchteter Wohnraum, ein LG OLED TV, auf dem ein Paar einen Regenschirm benutzt, und helle Kreisgrafiken umgeben den Raum. Dolby Atmos-Logo in der unteren linken Ecke.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/desktop/oled-b4-22-movie-cog-video-thumbnail-d-1.jpg",
+        "srcset": null,
+        "alt": "Ein schwarz-weißes Standbild aus einem Interview mit Lee Sung Jin. Sein Name taucht in fetten orangefarbenen Buchstaben am unteren Rand des Rahmens auf. Der Schriftzug „LG OLED“ befindet sich in der oberen linken Ecke und das Wort Film in der oberen rechten Ecke.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/desktop/oled-b4-22-movie-cog-video-thumbnail-d-2.jpg",
+        "srcset": null,
+        "alt": "Ein schwarz-weißes Standbild aus einem Interview mit Hamaguchi Ryusuke. Sein Name taucht in fetten orangefarbenen Buchstaben am unteren Rand des Rahmens auf. Der Schriftzug „LG OLED“ befindet sich in der oberen linken Ecke und das Wort Film in der oberen rechten Ecke.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-23-ultimate-gaming-m-v2.jpg",
+        "srcset": null,
+        "alt": "Eine unscharfe Szene eines schnell fahrenden Autos in einem Rennspiel. Die Szene ist verfeinert, was zu einer flüssigen und klaren Bewegung führt. Logo von FreeSync Premium Pro und Logo von NVIDIA G-SYNC in der oberen rechten Ecke.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-24-game-dashboard-m.jpg",
+        "srcset": null,
+        "alt": "Eine FPS-Spielszene mit dem Game Dashboard, das während des Spiels über dem Bildschirm erscheint.  Eine dunkle, winterliche Szene mit dem Game-Optimizer-Menü, das über dem Spiel erscheint.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-25-cloud-gaming-m.jpg",
+        "srcset": null,
+        "alt": "Ein Boosteroid-Startbildschirm mit der Anzeige „Trine 4: The Nightmare Prince“.  Ein GeForce-NOW-Startbildschirm mit fünf verschiedenen Spiel-Miniaturansichten auf der rechten Seite.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-26-sustainability-m.jpg",
+        "srcset": null,
+        "alt": "LG OLED-Verpackung vor einem beigen Hintergrund mit illustrierten Bäumen.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/installation-video/Installation-TV-B5-65%2055-Stand-Thumbnail-765X576-M.jpg",
+        "srcset": null,
+        "alt": "Installationsvideo zur Montage des Standfußes für den LG OLED evo AI B4 Fernseher.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/spec/B4-Stand-55-Dimension-Mobile.jpg",
+        "srcset": null,
+        "alt": "OLED55B49LA",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://contentorigin.bazaarvoice.com/cohley/default/Cohley_Logo.png",
+        "srcset": null,
+        "alt": "cohley.com",
+        "width": 400,
+        "height": 213
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/9a6d003c-94c6-4ff7-a98b-1e51d1b2405b",
+        "srcset": null,
+        "alt": "LG US",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/4f57878e-cc1a-4047-845f-7baac15b1991",
+        "srcset": null,
+        "alt": "LG Spain",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YnJhbmRsb2dvMg/17ace0b0-6b80-42e7-8b9e-ddf7e332a75d",
+        "srcset": null,
+        "alt": "LG UK",
+        "width": 111,
+        "height": 55
+      },
+      {
+        "src": "https://contentorigin.bazaarvoice.com/cohley/default/Cohley_Logo.png",
+        "srcset": null,
+        "alt": "cohley.com",
+        "width": 400,
+        "height": 213
+      },
+      {
+        "src": "https://contentorigin.bazaarvoice.com/cohley/default/Cohley_Logo.png",
+        "srcset": null,
+        "alt": "cohley.com",
+        "width": 400,
+        "height": 213
+      },
+      {
+        "src": "https://contentorigin.bazaarvoice.com/cohley/default/Cohley_Logo.png",
+        "srcset": null,
+        "alt": "cohley.com",
+        "width": 400,
+        "height": 213
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/1622915b-114a-4918-b0ff-c6ba87171900",
+        "srcset": null,
+        "alt": "LG Sweden",
+        "width": 175,
+        "height": 94
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/kuehlschraenke/gmg861mbae/gallery/450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Vorderansicht des 508L & 178,7 cm großen InstaView®  Multi Door Kühlschranks Metal Sorbet GMG861MBAE",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/gallery/gbbw726cpy/gallery-new/450-01.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Front view",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-c.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/kuehlschraenke-gefrierschraenke/gsxv90mcae_amcqeur_eedg_de_c/450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "gsxv90mcae",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/ca_en/images/monitors/gaming-monitors/45gx950a-b/gallery/ultragear-gaming-45gx950a-2025-gallery-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "front view",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled65g57lw/OLED65G57LW-450-1.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 65 Zoll LG OLED evo AI G5 4K Smart TV OLED65G57LW",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/kuehlschraenke-gefrierschraenke/GSXE81EVBD-basic-450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "front view",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-d.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_manual-software_48x48.svg",
+        "srcset": null,
+        "alt": "Symbol Benutzerhandbuch und Software",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_complaints_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Fehlerbehebung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_warranty_48x48.svg",
+        "srcset": null,
+        "alt": "Garantie-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_part-accessory_48x48.svg",
+        "srcset": null,
+        "alt": "Symbol für Teile und Zubehör",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/buy/icon_register-a-product_48.svg",
+        "srcset": null,
+        "alt": "Symbol Produktregistrierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_product_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Produktsupport",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_order_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Bestellsupport",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/Icon_request-a-repair_60x60.svg",
+        "srcset": null,
+        "alt": "Symbol für Reparaturanfrage",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_chat-with-us__60x60.svg",
+        "srcset": null,
+        "alt": "Livechat-Symbol",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_whatsapp_60x60.svg",
+        "srcset": null,
+        "alt": "WhatsApp-Symbol",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_email-us_60x60.svg",
+        "srcset": null,
+        "alt": "E-Mail-Symbol",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_call_48.svg",
+        "srcset": null,
+        "alt": "Anruf-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/common/find-a-store-test/gradation-icon/banner-light-icons.svg",
+        "srcset": null,
+        "alt": "Filialsymbol suchen",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 83 Zoll LG OLED AI B5 4K Smart TV OLED83B59LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled77b59la/basic_450vv.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 77 Zoll LG OLED AI B5 4K Smart TV OLED77B59LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled65b59la/basic_450v.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 65 Zoll LG OLED AI B5 4K Smart TV OLED65B59LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled55b59la/Basic-450-01.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 55 Zoll LG OLED AI B5 4K Smart TV OLED55B59LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/facebook-circle-fill.svg",
+        "srcset": null,
+        "alt": "Facebook",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/youtube-circle-fill.svg",
+        "srcset": null,
+        "alt": "Youtube",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/instagram-circle-fill.svg",
+        "srcset": null,
+        "alt": "Instagram",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/ot_company_logo.png",
+        "srcset": null,
+        "alt": "Firmenlogo",
+        "width": 600,
+        "height": 106
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/powered_by_logo.svg",
+        "srcset": null,
+        "alt": "Powered by Onetrust",
+        "width": 136,
+        "height": 16
+      }
+    ],
+    "videos": [
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-01-intro-visual-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/desktop/oled-b4-01-intro-visual-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-04-ai-processor-m-1.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/desktop/oled-b4-04-ai-processor-d-1.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-06-ai-picture-wizard-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/desktop/oled-b4-06-ai-picture-wizard-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-07-ai-acoustic-tuning-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/desktop/oled-b4-07-ai-acoustic-tuning-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-09-ai-picture-pro-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/desktop/oled-b4-09-ai-picture-pro-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-11-self-lit-oled-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/desktop/oled-b4-11-self-lit-oled-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/master/he/tv/2024-tv/lg-com/2024-gp1/oled-pdp/b4/video/oled-b4-12-infinite-contrast-m-v2.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/master/he/tv/2024-tv/lg-com/2024-gp1/oled-pdp/b4/video/oled-b4-12-infinite-contrast-d-v2.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/mobile/oled-b4-23-ultimate-gaming-m-v2.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/oled-tv/2024/b4-pdp-update/features/desktop/oled-b4-23-ultimate-gaming-d-v2.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      }
+    ]
+  },
+  "specifications": {
+    "€124,92": "Monatliche Rate",
+    "€1.499,00": "Gesamtbetrag inkl. Zinsen",
+    "0%": "Zinssatz",
+    "€74,96": "Monatliche Rate",
+    "€1.798,99": "Gesamtbetrag inkl. Zinsen",
+    "€40,00": "Monatliche Rate",
+    "€120,00": "Gesamtbetrag inkl. Zinsen"
+  },
+  "features": [],
+  "reviews": {
+    "summary": {},
+    "featured": [
+      {
+        "headline": "Beyond my imagination",
+        "body": "[This review was collected as part of a promotion.] I was looking for a new smart TV for family movie nights.  My family’s favorite way to unwind after a long week is to make some popcorn and watch a movie.  We use various streaming platforms so wanted a TV that was easy to navigate with good visual effects and sound quality.  The LG OLED65B4 Smart TV proved to be the answer.  The features absolutely blew me away - from the ease of setup, the 4K quality visuals with crisp colors and the superb sound, movie nights have taken on a whole new atmosphere.  It feels like we have our own movie theater in our living room.  Also, I love the extra features included like the option to use the mouse on the remote or not, the ability to interact and connect to Alexa, and the ability to download art from museums turning the tv into a piece of art.  It even has an eye care mode! Such thoughtful features and LG really thought of everything.  Highly recommend! Review submitted as part of a program providing a purchase discount.",
+        "rating": 5,
+        "author": "Molly C",
+        "dateCreated": "2024-11-15T01:45:23.000+00:00",
+        "datePublished": "2024-11-15T19:00:10.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/1fa782de-3828-549d-8c84-45e25c5af2b2",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/916fea30-1c24-564b-8c1a-26d46f65e50c",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/5c02a6ff-403b-53d1-a4d5-5d986bf71f29",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/4a8d7946-0ff9-5a54-92eb-a8a603b688b1",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/814a5071-8e5b-5761-8960-9bbdfcf3c5dc",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/5409eda8-67fc-5020-bf66-608e2fdde8c3"
+        ]
+      },
+      {
+        "headline": "Great TV but needs a detailed User Manual.",
+        "body": "[This review was collected as part of a promotion.] The picture is beautiful, the sound quality even from the built-in speakers is remarkably good, and I would give it 5 stars except for the inexcusable absence of any kind of user manual. The settings are very complicated, and there is no explanation available. There is no printed manual, and the online \"User Manual\" is a ridiculous 28-page document with 2 pages of setup instructions and nothing about the dozens of items in the Settings menus. You have to search Google and YouTube for explanations, some good, some completely wrong. That's unacceptable. WE NEED A USER MANUAL!",
+        "rating": 4,
+        "author": "sdl701",
+        "dateCreated": "2024-11-30T19:14:36.000+00:00",
+        "datePublished": "2024-12-02T19:30:12.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/730b9b57-75b3-5bf4-98ef-edb02e207006",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/080d6c6f-b4ca-547c-9d84-08d12412ce05",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/08d75dc2-de77-5edd-9a5e-359708907163",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/e7d9c184-dc8c-5efe-bb9a-15833e53eb61",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/534e18e3-2f11-5f09-aa5b-bd8b6a329052"
+        ]
+      },
+      {
+        "headline": "¡Grandiosa compra!",
+        "body": "Muy buen televisor con una profunda nitidez en sus colores y muy contento con el producto nuevo de este año.",
+        "rating": 5,
+        "author": "Jorge59",
+        "dateCreated": "2024-09-12T22:17:01.000+00:00",
+        "datePublished": "2024-09-13T13:01:00.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/8ea7fe14-a9e6-5c9a-b8fc-554054a7211e",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e838cd37-e19f-504e-b22c-a48dad0ef4e1",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/aef9fb60-36c6-5d87-a6d3-a5394d053b47",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/849b147e-f4c8-5abf-9256-1a79a76bb68b",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/88f40a4f-1390-58fb-94a9-860bd94a4806",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/7c70ddfc-34f7-592d-871c-045ed844dd2b"
+        ]
+      },
+      {
+        "headline": "65 inch LG OLED AI B4 Smart TV 2024",
+        "body": "One of the best tvs I've bought. Really good picture.",
+        "rating": 5,
+        "author": "Homerfenton",
+        "dateCreated": "2024-08-06T18:21:16.000+00:00",
+        "datePublished": "2024-08-06T19:45:12.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/9d7f43dc-349a-5f29-8e66-63ef613b414a",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/69d09178-4e3a-5aad-a3e9-263d1144b287",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/ada97800-5576-5528-921a-fee95b34a0aa",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/c9317b00-7b0a-59b4-ae46-62dea8b8cc3e"
+        ]
+      },
+      {
+        "headline": "An absolute must have!",
+        "body": "[This review was collected as part of a promotion.] This was my first TV upgrade in years. I went with the 77-Inch Class OLED B4 Series TV I loved that it had webOS 24. It was super easy to set up with the stands but I also have the option to mount it. The point and click remote makes browsing apps and shows a breeze. I couldn't believe how thin it was when I set it up, I didn't think it was possible to have a tv be this slim. The picture quality and audio is top of the line and for the price it's bang for your buck. It looks super chic in my living space and I get so many comments when people see it in action.Review submitted as part of a program that provides a purchase discount.",
+        "rating": 5,
+        "author": "Taylor C",
+        "dateCreated": "2024-06-03T12:56:52.000+00:00",
+        "datePublished": "2024-10-09T16:45:06.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/cdca5f40-4501-567f-91b9-331f95a2712c",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/0e524385-328e-5988-ba67-d7d1548e89ec",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/867a97c3-7983-5176-bbe9-c6bd88550079"
+        ]
+      },
+      {
+        "headline": "An absolute must have!",
+        "body": "[This review was collected as part of a promotion.] This was my first TV upgrade in years. I went with the 77-Inch Class OLED B4 Series TV I loved that it had webOS 24. It was super easy to set up with the stands but I also have the option to mount it. The point and click remote makes browsing apps and shows a breeze. I couldn't believe how thin it was when I set it up, I didn't think it was possible to have a tv be this slim. The picture quality and audio is top of the line and for the price it's bang for your buck. It looks super chic in my living space and I get so many comments when people see it in action.Review submitted as part of a program that provides a purchase discount.",
+        "rating": 5,
+        "author": "Taylor C",
+        "dateCreated": "2024-06-03T07:56:58.000+00:00",
+        "datePublished": "2024-06-03T20:49:32.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/ab4f5964-571e-51a1-b659-58f580a2d7b8",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/e5146595-7fef-5abd-bcf3-ed76ce134857",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/7571cf2c-5407-5bbe-9056-ad591da42386"
+        ]
+      },
+      {
+        "headline": "A TV that doubles as art!",
+        "body": "[This review was collected as part of a promotion.] At-home movie nights are a big part of our household, and this TV has taken them to a whole new level! The picture quality and color are truly unmatched. It’s so clear and vibrant, making our movie-watching and video-game experience so much better. The super thin profile gives a really sleek vibe, and I love how the screen has little to no glare. The Always Ready feature is a favorite, allowing us to display screensavers like art pieces and motions. I particularly love this because we host events and dinners frequently, and it’s great to turn our TV into a piece of decor when needed. I do wish you could slow down how fast it cycles through the art gallery you choose, though. Some settings were also a little frustrating to set up, forcing us to pair the LG remote with our other Smart Home devices even though we kept selecting “decline.” Overall, this is a really great TV with a ton of incredible features! Review submitted as part of a program that provides a purchase discount.",
+        "rating": 5,
+        "author": "Brittney G",
+        "dateCreated": "2024-09-25T06:24:32.000+00:00",
+        "datePublished": "2024-10-09T14:15:08.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/b6687d05-f2fa-5d3b-9167-2c3a97ecb78a",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/26b059ff-7459-5413-968f-312af9d60d1c",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/5a918d1a-0dbf-53a5-88b3-9b94befbffd4",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/5244f83a-fbe5-55db-8c83-dbf538bcde8b"
+        ]
+      },
+      {
+        "headline": "Fantastisk fin bild med innovativa funktioner",
+        "body": "[Denna recension hämtades som en del av en kampanj.] Jag deltar som testpilot via Smartson och har köpt produkten till reducerat testpilotspris.\n\nVi var väldigt nyfikna på denna TV och hur den skulle prestera när familjen spelade spel samt tittade på film och TV.\nDet var väldigt lätt att installera TV:n, men det rekommenderas starkt att man är 2st då storleken gör att det blir lite omständligt att flytta på TV;n (fast det vet man ju när man köper en TV av denna storlek). TV;n är lätt för sin storlek. Fotstativet var väldigt lätt att montera och vi gillade dess design som är minimalistiskt då det gör att ingen onödig plats tas upp av ett otympligt stativ. Det följer den smala designen på TV;n. Dessutom är det perfekt plats mellan stativen för en soundbar. Det finns gott om anslutningsmöjligheter. Dock ska man veta att dessa ingångar (förutom strömkabeln) sitter på vänster sida (om man tittar på skärmen) vilket kan behöva lite längre kablar om t.ex spelkonsol, TV box m.m. är placerade i en TV möbel på höger sida. \nDesignen är smal och snygg, med en liten ram runt skärmen. Byggkvaliten känns bra och gedigen trots att den är så smal, den kändes robust när vi bar och hanterade den vid installationen. Kontakter och anslutningar kändes robusta. \nNär man startade TV;n för första gången, gick man igenom en installationsprocess där man stegvis gjorde alla inställningar. Denna var väldigt tydlig och enkel att följa - mycket bra!!!\nPrestandan när man spelar på t.ex PS5 i 4K är inga som helst problem. Bilden flyter fint och detaljer samt färger hänger med mycket bra. Mina söner var väldigt nöjda när de spelade. De använde inställningen \"speloptimeraren\" för att finjustera till sina preferenser, vilket de tyckte var lätt och innovativt. De gillade särskilt inställningen \"Förhindra inmatningsfördröjning\" när de spelade spel som klarar 120 fps. Detta gjorde att TV;n matchade spelets uppdateringsfrekvens vilket förhindrar \"dubbelbilder\" eller att den skippar en bild.\nBilden är mycket bra ända ut i kanterna, vi kunde inte se något lagg i bilden, varken vid spel, TV eller film.\nLjudet är förvånansvärt bra med tanke på hur platta högtalarna är. Det finns en bas som man märker, men den är inte allt för djup av förklarliga skäl. När vi installerade vår soundbar blev ljudet mycket bra och filmer som Aquaman och Ghostbusters blev ett nöje att titta på!\nVi tittade också på sport och använde då bildläge \"sport\". Detta läge var vi inte så nöjda med eftersom vi tyckte att färgerna blev för intensiva och konturerna lite suddiga på objekt som visades på avstånd.\nVårt slutgiltiga omdöme blir att detta är en mycket bra TV för spel, film och serier. Vi rekommenderar en soundbar eller externt ljud för att göra upplevelsen komplett (fungerar väldigt bra utan också). För de som tittar mycket på sport rekommenderar vi att de tittar på bilden i en affär (för att avgöra om de tycker om \"sportinställningen\") innan de köper denna TV. I standard bildläge tyckte vi att sport såg bra ut.\nVi rekommenderar denna TV!",
+        "rating": 4,
+        "author": "Redstone57",
+        "dateCreated": "2024-06-08T13:55:49.000+00:00",
+        "datePublished": "2024-06-08T15:46:53.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1zZQ/3fdf1935-4d59-5a9c-8aae-6de2e30b7e3e",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1zZQ/9520ae8a-53db-5731-b2fc-b379c9a1879a",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1zZQ/da11822f-a03f-5472-b6b2-b993c8d2ffa4",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1zZQ/e083e0b5-4bae-5f2d-aa3e-8519e2af8c41"
+        ]
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://www.lg.com/de/"
+    },
+    {
+      "position": 2,
+      "name": "TVs & Soundbars",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/"
+    },
+    {
+      "position": 3,
+      "name": "OLED",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/oled/"
+    },
+    {
+      "position": 4,
+      "name": "OLED55B49LA",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/oled/oled55b49la/"
+    }
+  ],
+  "faq": [],
+  "metadata": {
+    "mpn": "OLED55B49LA",
+    "title": "55 Zoll LG OLED B4 4K AI TV - OLED55B49LA | LG DE",
+    "description": "Entdecke den 55 Zoll LG OLED B4 4K AI TV: ✓OLED ✓alpha 8 4K AI-Prozessor ✓AI-Funktionen ✓ultra-schlankes Design",
+    "ogImage": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/450x450/oled-b4-55-a-gallery-01.jpg",
+    "ogTitle": "55 Zoll LG OLED B4 4K Smart TV - OLED55B49LA | LG DE",
+    "canonical": "https://www.lg.com/de/tvs-und-soundbars/oled/oled55b49la/"
+  },
+  "structuredData": {
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/oled/oled55b49la/",
+        "review": [
+          {
+            "@type": "Review",
+            "dateCreated": "2024-11-15T01:45:23.000+00:00",
+            "datePublished": "2024-11-15T19:00:10.000+00:00",
+            "headline": "Beyond my imagination",
+            "reviewBody": "[This review was collected as part of a promotion.] I was looking for a new smart TV for family movie nights.  My family’s favorite way to unwind after a long week is to make some popcorn and watch a movie.  We use various streaming platforms so wanted a TV that was easy to navigate with good visual effects and sound quality.  The LG OLED65B4 Smart TV proved to be the answer.  The features absolutely blew me away - from the ease of setup, the 4K quality visuals with crisp colors and the superb sound, movie nights have taken on a whole new atmosphere.  It feels like we have our own movie theater in our living room.  Also, I love the extra features included like the option to use the mouse on the remote or not, the ability to interact and connect to Alexa, and the ability to download art from museums turning the tv into a piece of art.  It even has an eye care mode! Such thoughtful features and LG really thought of everything.  Highly recommend! Review submitted as part of a program providing a purchase discount.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Molly C"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/1fa782de-3828-549d-8c84-45e25c5af2b2",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/9702d18d-f431-5943-8567-482fa9de1d0f"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/916fea30-1c24-564b-8c1a-26d46f65e50c",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/597756ea-e246-57d8-8aff-f5c498e5b05a"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/5c02a6ff-403b-53d1-a4d5-5d986bf71f29",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/34db4dcc-f80a-5e2a-b3db-8d29a3fd7da4"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/4a8d7946-0ff9-5a54-92eb-a8a603b688b1",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/ecc1e8cd-02d9-5f16-a611-ed89b0543165"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/814a5071-8e5b-5761-8960-9bbdfcf3c5dc",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/ec3ff057-2e11-5827-a0a4-0fab6ff9c6ae"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/5409eda8-67fc-5020-bf66-608e2fdde8c3",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/1ff79eee-26a9-55d7-b07d-d6088a4d3b82"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-11-30T19:14:36.000+00:00",
+            "datePublished": "2024-12-02T19:30:12.000+00:00",
+            "headline": "Great TV but needs a detailed User Manual.",
+            "reviewBody": "[This review was collected as part of a promotion.] The picture is beautiful, the sound quality even from the built-in speakers is remarkably good, and I would give it 5 stars except for the inexcusable absence of any kind of user manual. The settings are very complicated, and there is no explanation available. There is no printed manual, and the online \"User Manual\" is a ridiculous 28-page document with 2 pages of setup instructions and nothing about the dozens of items in the Settings menus. You have to search Google and YouTube for explanations, some good, some completely wrong. That's unacceptable. WE NEED A USER MANUAL!",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 4,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sdl701"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/730b9b57-75b3-5bf4-98ef-edb02e207006",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/a96355ad-bdb6-540a-8996-dbccd476ddbd"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/080d6c6f-b4ca-547c-9d84-08d12412ce05",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/c3823a24-98cd-5139-bd23-4b73b5fed5b0"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/08d75dc2-de77-5edd-9a5e-359708907163",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/f3c4c4ec-c9d7-524b-ba36-d6707c81d176"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/e7d9c184-dc8c-5efe-bb9a-15833e53eb61",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/769f8abd-5221-58e9-89b2-f7c264c84b0a"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/534e18e3-2f11-5f09-aa5b-bd8b6a329052",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/749921ac-4d1f-59e6-8352-48877f4d8736"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-09-12T22:17:01.000+00:00",
+            "datePublished": "2024-09-13T13:01:00.000+00:00",
+            "headline": "¡Grandiosa compra!",
+            "reviewBody": "Muy buen televisor con una profunda nitidez en sus colores y muy contento con el producto nuevo de este año.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jorge59"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/8ea7fe14-a9e6-5c9a-b8fc-554054a7211e",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/63a9c264-eca3-50b6-87f3-b70aa56efd3b"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e838cd37-e19f-504e-b22c-a48dad0ef4e1",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/4495b84a-1160-56a8-a77f-4f5750fc991a"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/aef9fb60-36c6-5d87-a6d3-a5394d053b47",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/aa025844-30ab-5366-a681-57800a5b90ce"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/849b147e-f4c8-5abf-9256-1a79a76bb68b",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/bf3e64d6-85ef-5935-88bc-29d94f1ec408"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/88f40a4f-1390-58fb-94a9-860bd94a4806",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/7c6b604a-8fd3-50aa-8362-99956d0604a1"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/7c70ddfc-34f7-592d-871c-045ed844dd2b",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/b75e7a1f-0259-578f-864f-5933901889c9"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-08-06T18:21:16.000+00:00",
+            "datePublished": "2024-08-06T19:45:12.000+00:00",
+            "headline": "65 inch LG OLED AI B4 Smart TV 2024",
+            "reviewBody": "One of the best tvs I've bought. Really good picture.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Homerfenton"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/9d7f43dc-349a-5f29-8e66-63ef613b414a",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/ec63fd33-67c4-5de2-9a79-0e22c476fb2e"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/69d09178-4e3a-5aad-a3e9-263d1144b287",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/8ebca749-a1c3-5c57-8946-e59c3a32b988"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/ada97800-5576-5528-921a-fee95b34a0aa",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/5811adcb-2f42-5e0f-b724-82d4b536d4f3"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/c9317b00-7b0a-59b4-ae46-62dea8b8cc3e",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/8d939b46-8f90-5cc4-b396-32b89fbcf34e"
+                }
+              }
+            ],
+            "video": [
+              {
+                "@type": "VideoObject",
+                "description": "Bewertung zu Video 1",
+                "name": "G3BbpUyJFfg",
+                "uploadDate": "2024-08-06T18:21:16.000+00:00",
+                "thumbnailUrl": "https://www.youtube.com/watch?v=G3BbpUyJFfg",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//img.youtube.com/vi/undefined/0.jpg"
+                }
+              }
+            ],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-06-03T12:56:52.000+00:00",
+            "datePublished": "2024-10-09T16:45:06.000+00:00",
+            "headline": "An absolute must have!",
+            "reviewBody": "[This review was collected as part of a promotion.] This was my first TV upgrade in years. I went with the 77-Inch Class OLED B4 Series TV I loved that it had webOS 24. It was super easy to set up with the stands but I also have the option to mount it. The point and click remote makes browsing apps and shows a breeze. I couldn't believe how thin it was when I set it up, I didn't think it was possible to have a tv be this slim. The picture quality and audio is top of the line and for the price it's bang for your buck. It looks super chic in my living space and I get so many comments when people see it in action.Review submitted as part of a program that provides a purchase discount.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Taylor C"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/cdca5f40-4501-567f-91b9-331f95a2712c",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/1e049b62-024f-5a6a-9eff-137a5f871367"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/0e524385-328e-5988-ba67-d7d1548e89ec",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/388dcc7c-40a1-5ce8-a0b3-6428d7d58ae6"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/867a97c3-7983-5176-bbe9-c6bd88550079",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/f5f764f4-97d0-54b2-ade7-1e494fb0eed2"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-06-03T07:56:58.000+00:00",
+            "datePublished": "2024-06-03T20:49:32.000+00:00",
+            "headline": "An absolute must have!",
+            "reviewBody": "[This review was collected as part of a promotion.] This was my first TV upgrade in years. I went with the 77-Inch Class OLED B4 Series TV I loved that it had webOS 24. It was super easy to set up with the stands but I also have the option to mount it. The point and click remote makes browsing apps and shows a breeze. I couldn't believe how thin it was when I set it up, I didn't think it was possible to have a tv be this slim. The picture quality and audio is top of the line and for the price it's bang for your buck. It looks super chic in my living space and I get so many comments when people see it in action.Review submitted as part of a program that provides a purchase discount.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Taylor C"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/ab4f5964-571e-51a1-b659-58f580a2d7b8",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/8d12bfa6-c2a1-5a97-869e-d7b032fbfa31"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/e5146595-7fef-5abd-bcf3-ed76ce134857",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/da781b33-6cbe-5d0a-ba17-42b99f554af5"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/7571cf2c-5407-5bbe-9056-ad591da42386",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/05520c4d-fb34-5680-8f85-8d981f6d2ad3"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-09-25T06:24:32.000+00:00",
+            "datePublished": "2024-10-09T14:15:08.000+00:00",
+            "headline": "A TV that doubles as art!",
+            "reviewBody": "[This review was collected as part of a promotion.] At-home movie nights are a big part of our household, and this TV has taken them to a whole new level! The picture quality and color are truly unmatched. It’s so clear and vibrant, making our movie-watching and video-game experience so much better. The super thin profile gives a really sleek vibe, and I love how the screen has little to no glare. The Always Ready feature is a favorite, allowing us to display screensavers like art pieces and motions. I particularly love this because we host events and dinners frequently, and it’s great to turn our TV into a piece of decor when needed. I do wish you could slow down how fast it cycles through the art gallery you choose, though. Some settings were also a little frustrating to set up, forcing us to pair the LG remote with our other Smart Home devices even though we kept selecting “decline.” Overall, this is a really great TV with a ton of incredible features! Review submitted as part of a program that provides a purchase discount.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brittney G"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/b6687d05-f2fa-5d3b-9167-2c3a97ecb78a",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/57c4f6c6-e864-57ac-b5f0-b88be09294e8"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/26b059ff-7459-5413-968f-312af9d60d1c",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/dc0cb420-ffe3-57a9-bd56-7258e61e46a5"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/5a918d1a-0dbf-53a5-88b3-9b94befbffd4",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/942b08a5-273d-56a8-ad86-8db2c0d164a0"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/5244f83a-fbe5-55db-8c83-dbf538bcde8b",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGc/4a8777b9-7705-5e9d-8eb6-ae7912e84f4f"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-06-08T13:55:49.000+00:00",
+            "datePublished": "2024-06-08T15:46:53.000+00:00",
+            "headline": "Fantastisk fin bild med innovativa funktioner",
+            "reviewBody": "[Denna recension hämtades som en del av en kampanj.] Jag deltar som testpilot via Smartson och har köpt produkten till reducerat testpilotspris.\n\nVi var väldigt nyfikna på denna TV och hur den skulle prestera när familjen spelade spel samt tittade på film och TV.\nDet var väldigt lätt att installera TV:n, men det rekommenderas starkt att man är 2st då storleken gör att det blir lite omständligt att flytta på TV;n (fast det vet man ju när man köper en TV av denna storlek). TV;n är lätt för sin storlek. Fotstativet var väldigt lätt att montera och vi gillade dess design som är minimalistiskt då det gör att ingen onödig plats tas upp av ett otympligt stativ. Det följer den smala designen på TV;n. Dessutom är det perfekt plats mellan stativen för en soundbar. Det finns gott om anslutningsmöjligheter. Dock ska man veta att dessa ingångar (förutom strömkabeln) sitter på vänster sida (om man tittar på skärmen) vilket kan behöva lite längre kablar om t.ex spelkonsol, TV box m.m. är placerade i en TV möbel på höger sida. \nDesignen är smal och snygg, med en liten ram runt skärmen. Byggkvaliten känns bra och gedigen trots att den är så smal, den kändes robust när vi bar och hanterade den vid installationen. Kontakter och anslutningar kändes robusta. \nNär man startade TV;n för första gången, gick man igenom en installationsprocess där man stegvis gjorde alla inställningar. Denna var väldigt tydlig och enkel att följa - mycket bra!!!\nPrestandan när man spelar på t.ex PS5 i 4K är inga som helst problem. Bilden flyter fint och detaljer samt färger hänger med mycket bra. Mina söner var väldigt nöjda när de spelade. De använde inställningen \"speloptimeraren\" för att finjustera till sina preferenser, vilket de tyckte var lätt och innovativt. De gillade särskilt inställningen \"Förhindra inmatningsfördröjning\" när de spelade spel som klarar 120 fps. Detta gjorde att TV;n matchade spelets uppdateringsfrekvens vilket förhindrar \"dubbelbilder\" eller att den skippar en bild.\nBilden är mycket bra ända ut i kanterna, vi kunde inte se något lagg i bilden, varken vid spel, TV eller film.\nLjudet är förvånansvärt bra med tanke på hur platta högtalarna är. Det finns en bas som man märker, men den är inte allt för djup av förklarliga skäl. När vi installerade vår soundbar blev ljudet mycket bra och filmer som Aquaman och Ghostbusters blev ett nöje att titta på!\nVi tittade också på sport och använde då bildläge \"sport\". Detta läge var vi inte så nöjda med eftersom vi tyckte att färgerna blev för intensiva och konturerna lite suddiga på objekt som visades på avstånd.\nVårt slutgiltiga omdöme blir att detta är en mycket bra TV för spel, film och serier. Vi rekommenderar en soundbar eller externt ljud för att göra upplevelsen komplett (fungerar väldigt bra utan också). För de som tittar mycket på sport rekommenderar vi att de tittar på bilden i en affär (för att avgöra om de tycker om \"sportinställningen\") innan de köper denna TV. I standard bildläge tyckte vi att sport såg bra ut.\nVi rekommenderar denna TV!",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 4,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Redstone57"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1zZQ/3fdf1935-4d59-5a9c-8aae-6de2e30b7e3e",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1zZQ/5302586d-4710-5559-9761-70a2addfe7a8"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1zZQ/9520ae8a-53db-5731-b2fc-b379c9a1879a",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1zZQ/85a28fae-ccde-5e0f-9308-9601f5806832"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1zZQ/da11822f-a03f-5472-b6b2-b993c8d2ffa4",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1zZQ/382aac4e-2c06-5c8c-af87-4b4354be9231"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1zZQ/e083e0b5-4bae-5f2d-aa3e-8519e2af8c41",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1zZQ/2e37ab43-a071-5c09-aa43-4b6144016a77"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org/",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/oled/oled55b49la/",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "itemReviewed": {
+            "@type": "IndividualProduct",
+            "name": "OLED55B49LA"
+          },
+          "ratingValue": "4.7",
+          "reviewCount": 866,
+          "bestRating": 5
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "product",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/oled/oled55b49la/",
+        "name": "55 Zoll LG OLED B4 4K Smart TV",
+        "image": "/content/dam/channel/wcms/de/d2c-content/oled-b/093-oled-b4-55-oled55b49la/gallery/450x450/oled-b4-55-a-gallery-01.jpg",
+        "description": "Entdecken Sie LG OLED55B49LA. Für Bilder, Bewertungen und technische Daten zu LG klicken 55 Zoll LG OLED B4 4K Smart TV.",
+        "mpn": "OLED55B49LA",
+        "brand": {
+          "@type": "Brand",
+          "name": "LG"
+        },
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "EUR",
+          "price": "1899",
+          "availability": "https://schema.org/OutOfStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "LG DE"
+          }
+        },
+        "size": {
+          "@type": "QuantitativeValue",
+          "unitCode": "",
+          "value": ""
+        },
+        "hasEnergyConsumptionDetails": {
+          "@type": "EnergyConsumptionDetails",
+          "hasEnergyEfficiencyCategory": "https://schema.org/EUEnergyEfficiencyCategoryG",
+          "energyEfficiencyScaleMax": "https://schema.org/EUEnergyEfficiencyCategoryA1Plus",
+          "energyEfficiencyScaleMin": "https://schema.org/EUEnergyEfficiencyCategoryG"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.lg.com/de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "TVs & Soundbars",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "OLED",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/oled/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "OLED55B49LA",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/oled/oled55b49la/"
+          }
+        ]
+      }
+    ]
+  }
+}

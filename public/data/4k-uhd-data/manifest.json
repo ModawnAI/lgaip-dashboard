@@ -1,0 +1,79 @@
+{
+  "category": "4k-uhd",
+  "updatedAt": "2026-01-20T06:42:27.159Z",
+  "totalProducts": 9,
+  "products": [
+    {
+      "modelNumber": "43UR91006LA",
+      "productName": "43 Zoll LG 4K Smart UHD TV UR91",
+      "price": "",
+      "rating": "4.4",
+      "imageCount": 176,
+      "videoCount": 3
+    },
+    {
+      "modelNumber": "55UT73006LA",
+      "productName": "55 Zoll 4K LG UHD Smart TV UT73",
+      "price": "749",
+      "rating": "4.0",
+      "imageCount": 180,
+      "videoCount": 4
+    },
+    {
+      "modelNumber": "65UR78006LK",
+      "productName": "65 Zoll LG 4K Smart UHD TV UR78",
+      "price": "659",
+      "rating": "4.3",
+      "imageCount": 183,
+      "videoCount": 6
+    },
+    {
+      "modelNumber": "65UR81006LJ",
+      "productName": "65 Zoll LG 4K Smart UHD TV UR81",
+      "price": "",
+      "rating": "4.3",
+      "imageCount": 168,
+      "videoCount": 3
+    },
+    {
+      "modelNumber": "75UR80006LJ",
+      "productName": "75 Zoll LG 4K Smart UHD TV UR80",
+      "price": "",
+      "rating": "4.4",
+      "imageCount": 163,
+      "videoCount": 3
+    },
+    {
+      "modelNumber": "75UT80006LA",
+      "productName": "75 Zoll 4K LG UHD Smart TV UT80",
+      "price": "899",
+      "rating": "4.3",
+      "imageCount": 181,
+      "videoCount": 4
+    },
+    {
+      "modelNumber": "75UT81006LA",
+      "productName": "75 Zoll 4K LG UHD Smart TV UT81",
+      "price": "698.99",
+      "rating": "4.4",
+      "imageCount": 184,
+      "videoCount": 4
+    },
+    {
+      "modelNumber": "86UT81006LA",
+      "productName": "86 Zoll 4K LG UHD Smart TV UT81",
+      "price": "899",
+      "rating": "4.3",
+      "imageCount": 182,
+      "videoCount": 4
+    },
+    {
+      "modelNumber": "98UT91006LA",
+      "productName": "98 Zoll 4K LG UHD Smart TV UT91",
+      "price": "2999",
+      "rating": "4.7",
+      "imageCount": 173,
+      "videoCount": 4
+    }
+  ]
+}

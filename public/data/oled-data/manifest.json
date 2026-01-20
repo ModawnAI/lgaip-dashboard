@@ -1,0 +1,234 @@
+{
+  "category": "oled",
+  "updatedAt": "2026-01-20T06:42:27.210Z",
+  "totalProducts": 30,
+  "products": [
+    {
+      "imageCount": 0,
+      "videoCount": 0
+    },
+    {
+      "imageCount": 0,
+      "videoCount": 0
+    },
+    {
+      "imageCount": 0,
+      "videoCount": 0
+    },
+    {
+      "modelNumber": "OLED42C47LA",
+      "productName": "42 Zoll LG OLED evo C4 4K Smart TV",
+      "price": "1699",
+      "rating": "4.8",
+      "imageCount": 197,
+      "videoCount": 20
+    },
+    {
+      "modelNumber": "OLED42C57LA",
+      "productName": "42 Zoll LG OLED evo AI C5 4K Smart TV",
+      "price": "",
+      "rating": "4.7",
+      "imageCount": 174,
+      "videoCount": 14
+    },
+    {
+      "modelNumber": "OLED48C59LB",
+      "productName": "48 Zoll LG OLED evo AI C5 4K Smart TV",
+      "price": "",
+      "rating": "4.7",
+      "imageCount": 175,
+      "videoCount": 14
+    },
+    {
+      "modelNumber": "OLED55B49LA",
+      "productName": "55 Zoll LG OLED B4 4K Smart TV",
+      "price": "1899",
+      "rating": "4.7",
+      "imageCount": 193,
+      "videoCount": 16
+    },
+    {
+      "modelNumber": "OLED55B4ELA",
+      "productName": "55 Zoll LG OLED B4 4K Smart TV",
+      "price": "749",
+      "rating": "4.6",
+      "imageCount": 194,
+      "videoCount": 16
+    },
+    {
+      "modelNumber": "OLED55B59LA",
+      "productName": "55 Zoll LG OLED AI B5 4K Smart TV",
+      "price": "899",
+      "rating": "4.5",
+      "imageCount": 185,
+      "videoCount": 17
+    },
+    {
+      "modelNumber": "OLED55C47LA",
+      "productName": "55 Zoll LG OLED evo C4 4K Smart TV",
+      "price": "",
+      "rating": "4.8",
+      "imageCount": 198,
+      "videoCount": 20
+    },
+    {
+      "modelNumber": "OLED55G48LW",
+      "productName": "55 Zoll LG OLED evo G4 4K Smart TV",
+      "price": "2799",
+      "rating": "4.8",
+      "imageCount": 205,
+      "videoCount": 24
+    },
+    {
+      "modelNumber": "OLED65B42LA",
+      "productName": "65 Zoll LG OLED B4 4K Smart TV",
+      "price": "2799",
+      "rating": "4.7",
+      "imageCount": 193,
+      "videoCount": 16
+    },
+    {
+      "modelNumber": "OLED65B59LA",
+      "productName": "65 Zoll LG OLED AI B5 4K Smart TV ",
+      "price": "1199",
+      "rating": "4.6",
+      "imageCount": 193,
+      "videoCount": 17
+    },
+    {
+      "modelNumber": "OLED65C57LA",
+      "productName": "65 Zoll LG OLED evo AI C5 4K Smart TV",
+      "price": "",
+      "rating": "4.8",
+      "imageCount": 184,
+      "videoCount": 16
+    },
+    {
+      "modelNumber": "OLED65C59LB",
+      "productName": "65 Zoll LG OLED evo AI C5 4K Smart TV",
+      "price": "",
+      "rating": "4.8",
+      "imageCount": 186,
+      "videoCount": 16
+    },
+    {
+      "modelNumber": "OLED65G48LW",
+      "productName": "65 Zoll LG OLED evo G4 4K Smart TV",
+      "price": "",
+      "rating": "4.8",
+      "imageCount": 190,
+      "videoCount": 24
+    },
+    {
+      "modelNumber": "OLED65G57LW",
+      "productName": "65 Zoll LG OLED evo AI G5 4K Smart TV",
+      "price": "1849",
+      "rating": "4.8",
+      "imageCount": 203,
+      "videoCount": 17
+    },
+    {
+      "productName": "65 Zoll LG OLED evo AI G5 4K Smart TV",
+      "price": "1849",
+      "rating": "4.8",
+      "imageCount": 0,
+      "videoCount": 0
+    },
+    {
+      "modelNumber": "OLED65M59LA",
+      "productName": "True Wireless TV 65 Zoll LG OLED evo AI M5 mit 4K 144Hz Video- und Audioübertragung",
+      "price": "1798.99",
+      "rating": "4.9",
+      "imageCount": 179,
+      "videoCount": 19
+    },
+    {
+      "modelNumber": "OLED77C47LA",
+      "productName": "77 Zoll LG OLED evo C4 4K Smart TV",
+      "price": "2518.94",
+      "rating": "4.8",
+      "imageCount": 197,
+      "videoCount": 20
+    },
+    {
+      "modelNumber": "OLED77C58LA",
+      "productName": "77 Zoll LG OLED evo AI C5 4K Smart TV",
+      "price": "4599",
+      "rating": "4.8",
+      "imageCount": 188,
+      "videoCount": 16
+    },
+    {
+      "modelNumber": "OLED77G48LW",
+      "productName": "77 Zoll LG OLED evo G4 4K Smart TV",
+      "price": "",
+      "rating": "4.8",
+      "imageCount": 190,
+      "videoCount": 24
+    },
+    {
+      "modelNumber": "OLED77T49LA",
+      "productName": "Weltweit erster, transparenter \"True Wireless\" TV LG SIGNATURE OLED T 77 Zoll mit 4K-Video- und Audioübertragung",
+      "price": "49999",
+      "rating": "4.9",
+      "imageCount": 173,
+      "videoCount": 12
+    },
+    {
+      "modelNumber": "OLED83B59LA",
+      "productName": "83 Zoll LG OLED AI B5 4K Smart TV",
+      "price": "2119",
+      "rating": "4.6",
+      "imageCount": 197,
+      "videoCount": 17
+    },
+    {
+      "modelNumber": "OLED83C44LA",
+      "productName": "83 Zoll LG OLED evo C4 4K Smart TV",
+      "price": "",
+      "rating": "4.9",
+      "imageCount": 192,
+      "videoCount": 20
+    },
+    {
+      "modelNumber": "OLED83C5ELA",
+      "productName": "83 Zoll LG OLED evo AI C5E 4K Smart TV",
+      "price": "3199.01",
+      "rating": "4.8",
+      "imageCount": 182,
+      "videoCount": 16
+    },
+    {
+      "modelNumber": "OLED83G58LW",
+      "productName": "83 Zoll LG OLED evo AI G5 4K Smart TV",
+      "price": "",
+      "rating": "4.8",
+      "imageCount": 191,
+      "videoCount": 19
+    },
+    {
+      "modelNumber": "OLED97G48LW",
+      "productName": "97 Zoll LG OLED evo G4 4K Smart TV",
+      "price": "29999",
+      "rating": "4.8",
+      "imageCount": 196,
+      "videoCount": 24
+    },
+    {
+      "modelNumber": "OLED97M49LA",
+      "productName": "97 Zoll LG SIGNATURE OLED M4 True Wireless TV mit 4K 120 Hz Video- und Audioübertragung",
+      "price": "",
+      "rating": "4.8",
+      "imageCount": 164,
+      "videoCount": 46
+    },
+    {
+      "modelNumber": "OLED97M59LA",
+      "productName": "True Wireless TV 97 Zoll LG SIGNATURE OLED M5 mit 4K Video- und Audioübertragung",
+      "price": "30499",
+      "rating": "4.9",
+      "imageCount": 178,
+      "videoCount": 19
+    }
+  ]
+}

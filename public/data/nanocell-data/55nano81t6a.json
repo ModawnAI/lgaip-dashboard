@@ -1,0 +1,1748 @@
+{
+  "crawledAt": "2026-01-20T05:56:05.536Z",
+  "url": "https://www.lg.com/de/tvs-und-soundbars/nanocell/55nano81t6a/",
+  "modelNumber": "55NANO81T6A",
+  "category": "NanoCell",
+  "basicInfo": {
+    "productName": "55 Zoll 4K LG NanoCell Smart TV NANO81 ",
+    "description": "Entdecken Sie LG 55NANO81T6A. Für Bilder, Bewertungen und technische Daten zu LG klicken 55 Zoll 4K LG NanoCell Smart TV NANO81 .",
+    "headline": "55 Zoll 4K LG NanoCell Smart TV NANO81",
+    "screenSize": "55 Zoll",
+    "series": "T",
+    "brand": "LG",
+    "modelNumber": "55NANO81T6A"
+  },
+  "pricing": {
+    "currentPrice": "899",
+    "currency": "EUR",
+    "availability": "OutOfStock",
+    "seller": "LG DE"
+  },
+  "ratings": {
+    "averageRating": "4.2",
+    "reviewCount": 142,
+    "bestRating": 5
+  },
+  "energyEfficiency": {
+    "category": "G",
+    "scaleMax": "A1Plus",
+    "scaleMin": "G"
+  },
+  "media": {
+    "images": [
+      {
+        "src": "https://t.teads.tv/track?action=pageView&env=js-web&tag_version=8.5.0_d71d360&provider=tag&buyer_pixel_id=7484&referer=https%3A%2F%2Fwww.lg.com%2Fde%2Ftvs-und-soundbars%2Fnanocell%2F55nano81t6a%2F&user_session_id=1079fadd-9d90-452e-850c-d9ff73d8afa9&hasConsent=true&cht=timeout",
+        "srcset": null,
+        "alt": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/banners/2026-01-15-LG-CB26-GNB-290x90px-V1-jgr.jpg",
+        "srcset": null,
+        "alt": " Gute Vorsätze für 2026",
+        "width": 290,
+        "height": 90
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/banners/2026-01-15-LG-CB26-GNB-290x90px-V1-jgr.jpg",
+        "srcset": null,
+        "alt": " Gute Vorsätze für 2026",
+        "width": 290,
+        "height": 90
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 620,
+        "height": 316
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 580,
+        "height": 296
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "55NANO81T6A EU.pdf",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "55NANO81T6A EU.pdf",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-15.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Draufsicht des LG NanoCell AI NANO81 4K Smart TVs mit horizontal ausgerichteter Standfußstruktur.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Vorderansicht des LG NanoCell AI NANO81 4K Smart TVs mit 4K-Auflösung, großem Display und Standfuß mit breitem Abstand.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-02.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Schrägansicht des LG NanoCell AI NANO81 4K Smart TVs mit breitem Betrachtungswinkel und NanoColor-Technologie für satte Farben.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-03.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Rückansicht des LG NanoCell AI NANO81 4K Smart TVs mit zentral platzierter Kabelführung und VESA-Montagepunkten.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-04.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Seitliche Profilansicht des LG NanoCell AI NANO81 4K Smart TVs mit schlankem Gehäuse und flachem Aufbau.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-05.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Abmessungen des LG NanoCell AI NANO81 4K Smart TVs: Breite 1235mm, Höhe 780mm, Tiefe 230mm, Bildschirmdiagonale 55 Zoll.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-06.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Der LG NanoCell AI NANO81 4K Smart TV, installiert in einem Wohnzimmer, verfügt über True Color Accuracy für präzise Farbwiedergabe und hohen Kontrast.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-07.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Rückseitige Anschlussübersicht des LG NanoCell AI NANO81 4K Smart TVs mit optimiertem Zugang zu HDMI, LAN und Antenne.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-08.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Seitlicher Anschlussbereich des LG NanoCell AI NANO81 4K Smart TVs mit mehreren HDMI- und USB-Eingängen für flexible Konnektivität.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-09.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Detailansicht des Standfußes und unteren Rahmens des LG NanoCell AI NANO81 4K Smart TVs mit abstraktem grünem Muster auf dem Bildschirm.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-10.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Detailansicht des oberen rechten Rahmens des LG NanoCell AI NANO81 4K Smart TVs mit schmaler Einfassung.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-11.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Ansicht des LG NanoCell AI NANO81 4K Smart TVs mit intensiver Farbdarstellung und realistischer Bildverarbeitung.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-12.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Schrägansicht des LG NanoCell AI NANO81 4K Smart TVs mit RGB-Farbdarstellung und rechteckiger Rahmenform.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-13.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Dynamische Seitenansicht des LG NanoCell AI NANO81 4K Smart TVs mit stabilen Standfüßen und kräftigen Displayfarben.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-14.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Tiefwinkelansicht des LG NanoCell AI NANO81 4K Smart TVs mit Betonung auf stabile Standfußstruktur.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-15.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Draufsicht des LG NanoCell AI NANO81 4K Smart TVs mit horizontal ausgerichteter Standfußstruktur.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Vorderansicht des LG NanoCell AI NANO81 4K Smart TVs mit 4K-Auflösung, großem Display und Standfuß mit breitem Abstand.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/350x350/Nano81-55-Gallery-01.jpg",
+        "srcset": null,
+        "alt": "Vorderansicht des LG NanoCell AI NANO81 4K Smart TVs mit 4K-Auflösung, großem Display und Standfuß mit breitem Abstand.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/350x350/Nano81-55-Gallery-02.jpg",
+        "srcset": null,
+        "alt": "Schrägansicht des LG NanoCell AI NANO81 4K Smart TVs mit breitem Betrachtungswinkel und NanoColor-Technologie für satte Farben.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/350x350/Nano81-55-Gallery-03.jpg",
+        "srcset": null,
+        "alt": "Rückansicht des LG NanoCell AI NANO81 4K Smart TVs mit zentral platzierter Kabelführung und VESA-Montagepunkten.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/350x350/Nano81-55-Gallery-04.jpg",
+        "srcset": null,
+        "alt": "Seitliche Profilansicht des LG NanoCell AI NANO81 4K Smart TVs mit schlankem Gehäuse und flachem Aufbau.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/350x350/Nano81-55-Gallery-05.jpg",
+        "srcset": null,
+        "alt": "Abmessungen des LG NanoCell AI NANO81 4K Smart TVs: Breite 1235mm, Höhe 780mm, Tiefe 230mm, Bildschirmdiagonale 55 Zoll.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/350x350/Nano81-55-Gallery-06.jpg",
+        "srcset": null,
+        "alt": "Der LG NanoCell AI NANO81 4K Smart TV, installiert in einem Wohnzimmer, verfügt über True Color Accuracy für präzise Farbwiedergabe und hohen Kontrast.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/350x350/Nano81-55-Gallery-07.jpg",
+        "srcset": null,
+        "alt": "Rückseitige Anschlussübersicht des LG NanoCell AI NANO81 4K Smart TVs mit optimiertem Zugang zu HDMI, LAN und Antenne.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/350x350/Nano81-55-Gallery-08.jpg",
+        "srcset": null,
+        "alt": "Seitlicher Anschlussbereich des LG NanoCell AI NANO81 4K Smart TVs mit mehreren HDMI- und USB-Eingängen für flexible Konnektivität.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/350x350/Nano81-55-Gallery-09.jpg",
+        "srcset": null,
+        "alt": "Detailansicht des Standfußes und unteren Rahmens des LG NanoCell AI NANO81 4K Smart TVs mit abstraktem grünem Muster auf dem Bildschirm.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/350x350/Nano81-55-Gallery-10.jpg",
+        "srcset": null,
+        "alt": "Detailansicht des oberen rechten Rahmens des LG NanoCell AI NANO81 4K Smart TVs mit schmaler Einfassung.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/350x350/Nano81-55-Gallery-11.jpg",
+        "srcset": null,
+        "alt": "Ansicht des LG NanoCell AI NANO81 4K Smart TVs mit intensiver Farbdarstellung und realistischer Bildverarbeitung.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/350x350/Nano81-55-Gallery-12.jpg",
+        "srcset": null,
+        "alt": "Schrägansicht des LG NanoCell AI NANO81 4K Smart TVs mit RGB-Farbdarstellung und rechteckiger Rahmenform.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/350x350/Nano81-55-Gallery-13.jpg",
+        "srcset": null,
+        "alt": "Dynamische Seitenansicht des LG NanoCell AI NANO81 4K Smart TVs mit stabilen Standfüßen und kräftigen Displayfarben.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/350x350/Nano81-55-Gallery-14.jpg",
+        "srcset": null,
+        "alt": "Tiefwinkelansicht des LG NanoCell AI NANO81 4K Smart TVs mit Betonung auf stabile Standfußstruktur.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/350x350/Nano81-55-Gallery-15.jpg",
+        "srcset": null,
+        "alt": "Draufsicht des LG NanoCell AI NANO81 4K Smart TVs mit horizontal ausgerichteter Standfußstruktur.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Vorderansicht des LG NanoCell AI NANO81 4K Smart TVs mit 4K-Auflösung, großem Display und Standfuß mit breitem Abstand.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-02.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Schrägansicht des LG NanoCell AI NANO81 4K Smart TVs mit breitem Betrachtungswinkel und NanoColor-Technologie für satte Farben.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-03.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Rückansicht des LG NanoCell AI NANO81 4K Smart TVs mit zentral platzierter Kabelführung und VESA-Montagepunkten.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-04.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Seitliche Profilansicht des LG NanoCell AI NANO81 4K Smart TVs mit schlankem Gehäuse und flachem Aufbau.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-05.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Abmessungen des LG NanoCell AI NANO81 4K Smart TVs: Breite 1235mm, Höhe 780mm, Tiefe 230mm, Bildschirmdiagonale 55 Zoll.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-06.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Der LG NanoCell AI NANO81 4K Smart TV, installiert in einem Wohnzimmer, verfügt über True Color Accuracy für präzise Farbwiedergabe und hohen Kontrast.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-07.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Rückseitige Anschlussübersicht des LG NanoCell AI NANO81 4K Smart TVs mit optimiertem Zugang zu HDMI, LAN und Antenne.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-08.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Seitlicher Anschlussbereich des LG NanoCell AI NANO81 4K Smart TVs mit mehreren HDMI- und USB-Eingängen für flexible Konnektivität.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-09.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Detailansicht des Standfußes und unteren Rahmens des LG NanoCell AI NANO81 4K Smart TVs mit abstraktem grünem Muster auf dem Bildschirm.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-10.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Detailansicht des oberen rechten Rahmens des LG NanoCell AI NANO81 4K Smart TVs mit schmaler Einfassung.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-11.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Ansicht des LG NanoCell AI NANO81 4K Smart TVs mit intensiver Farbdarstellung und realistischer Bildverarbeitung.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-12.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Schrägansicht des LG NanoCell AI NANO81 4K Smart TVs mit RGB-Farbdarstellung und rechteckiger Rahmenform.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-13.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Dynamische Seitenansicht des LG NanoCell AI NANO81 4K Smart TVs mit stabilen Standfüßen und kräftigen Displayfarben.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-14.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Tiefwinkelansicht des LG NanoCell AI NANO81 4K Smart TVs mit Betonung auf stabile Standfußstruktur.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/2010x1334/Nano81-55-Gallery-15.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Draufsicht des LG NanoCell AI NANO81 4K Smart TVs mit horizontal ausgerichteter Standfußstruktur.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/350x350/Nano81-55-Gallery-01.jpg",
+        "srcset": null,
+        "alt": "Vorderansicht des LG NanoCell AI NANO81 4K Smart TVs mit 4K-Auflösung, großem Display und Standfuß mit breitem Abstand.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/350x350/Nano81-55-Gallery-02.jpg",
+        "srcset": null,
+        "alt": "Schrägansicht des LG NanoCell AI NANO81 4K Smart TVs mit breitem Betrachtungswinkel und NanoColor-Technologie für satte Farben.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/350x350/Nano81-55-Gallery-03.jpg",
+        "srcset": null,
+        "alt": "Rückansicht des LG NanoCell AI NANO81 4K Smart TVs mit zentral platzierter Kabelführung und VESA-Montagepunkten.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/350x350/Nano81-55-Gallery-04.jpg",
+        "srcset": null,
+        "alt": "Seitliche Profilansicht des LG NanoCell AI NANO81 4K Smart TVs mit schlankem Gehäuse und flachem Aufbau.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/350x350/Nano81-55-Gallery-05.jpg",
+        "srcset": null,
+        "alt": "Abmessungen des LG NanoCell AI NANO81 4K Smart TVs: Breite 1235mm, Höhe 780mm, Tiefe 230mm, Bildschirmdiagonale 55 Zoll.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/350x350/Nano81-55-Gallery-06.jpg",
+        "srcset": null,
+        "alt": "Der LG NanoCell AI NANO81 4K Smart TV, installiert in einem Wohnzimmer, verfügt über True Color Accuracy für präzise Farbwiedergabe und hohen Kontrast.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/350x350/Nano81-55-Gallery-07.jpg",
+        "srcset": null,
+        "alt": "Rückseitige Anschlussübersicht des LG NanoCell AI NANO81 4K Smart TVs mit optimiertem Zugang zu HDMI, LAN und Antenne.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/350x350/Nano81-55-Gallery-08.jpg",
+        "srcset": null,
+        "alt": "Seitlicher Anschlussbereich des LG NanoCell AI NANO81 4K Smart TVs mit mehreren HDMI- und USB-Eingängen für flexible Konnektivität.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/350x350/Nano81-55-Gallery-09.jpg",
+        "srcset": null,
+        "alt": "Detailansicht des Standfußes und unteren Rahmens des LG NanoCell AI NANO81 4K Smart TVs mit abstraktem grünem Muster auf dem Bildschirm.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/350x350/Nano81-55-Gallery-10.jpg",
+        "srcset": null,
+        "alt": "Detailansicht des oberen rechten Rahmens des LG NanoCell AI NANO81 4K Smart TVs mit schmaler Einfassung.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/350x350/Nano81-55-Gallery-11.jpg",
+        "srcset": null,
+        "alt": "Ansicht des LG NanoCell AI NANO81 4K Smart TVs mit intensiver Farbdarstellung und realistischer Bildverarbeitung.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/350x350/Nano81-55-Gallery-12.jpg",
+        "srcset": null,
+        "alt": "Schrägansicht des LG NanoCell AI NANO81 4K Smart TVs mit RGB-Farbdarstellung und rechteckiger Rahmenform.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/350x350/Nano81-55-Gallery-13.jpg",
+        "srcset": null,
+        "alt": "Dynamische Seitenansicht des LG NanoCell AI NANO81 4K Smart TVs mit stabilen Standfüßen und kräftigen Displayfarben.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/350x350/Nano81-55-Gallery-14.jpg",
+        "srcset": null,
+        "alt": "Tiefwinkelansicht des LG NanoCell AI NANO81 4K Smart TVs mit Betonung auf stabile Standfußstruktur.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/350x350/Nano81-55-Gallery-15.jpg",
+        "srcset": null,
+        "alt": "Draufsicht des LG NanoCell AI NANO81 4K Smart TVs mit horizontal ausgerichteter Standfußstruktur.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/nano2024/nano80/features/nanocell-nano80-02-pure-color-m.jpg",
+        "srcset": null,
+        "alt": "Ein hell erleuchtetes, regenbogenfarbenes Riesenrad vor einem schwarzen Nachthimmel, aufgenommen aus einem niedrigen Winkel.\t",
+        "width": 1920,
+        "height": 960
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/nano2024/nano80/features/nanocell-nano80-03-ai-processor-m.jpg",
+        "srcset": null,
+        "alt": "LGs alpha 5 KI-Prozessor 4K Gen7 mit gelbfarbenem Licht, das von der Unterseite ausstrahlt, und bunten Leiterbahnen, die vom KI-Prozessor abzweigen.\t",
+        "width": 1920,
+        "height": 1200
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/nano2024/nano80/features/nanocell-nano80-05-ai-brightness-control-d-2.jpg",
+        "srcset": null,
+        "alt": "LG-Fernseher und LG Soundbar in einem modernen Wohnraum bei Nacht. Die Darstellung des Polarlichts auf dem Bildschirm erfolgt in der idealen Helligkeit.\t",
+        "width": 1600,
+        "height": 700
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/nano2024/nano80/features/nanocell-nano80-05-ai-brightness-control-d-1.jpg",
+        "srcset": null,
+        "alt": "LG-Fernseher und LG Soundbar in einem modernen Wohnraum bei Tag. Die Darstellung des Polarlichts auf dem Bildschirm erfolgt in der idealen Helligkeit.\t",
+        "width": 1600,
+        "height": 700
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/nano2024/nano80/features/nanocell-nano80-06-ai-sound-pro-m-3.jpg",
+        "srcset": null,
+        "alt": "Ein LG-Fernseher zeigt Musikaufführungen. Um die Mikrofone und Instrumente herum sind helle Kreisgrafiken zu sehen.\t",
+        "width": 1600,
+        "height": 1050
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/nano2024/nano80/features/nanocell-nano80-06-ai-sound-pro-m-1.jpg",
+        "srcset": null,
+        "alt": "LG-Fernseher mit Klangblasen und Wellen, die vom Bildschirm ausgehen und den Raum füllen.\t",
+        "width": 1600,
+        "height": 1050
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/nano2024/nano80/features/nanocell-nano80-06-ai-sound-pro-m-2.jpg",
+        "srcset": null,
+        "alt": "Ein Mann fährt auf einem Motorrad auf einer unbefestigten Straße mit hellen Kreisgrafiken um das Motorrad herum.\t",
+        "width": 1600,
+        "height": 1050
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/nano2024/nano80/features/nanocell-nano80-06-ai-sound-pro-m-3.jpg",
+        "srcset": null,
+        "alt": "Ein LG-Fernseher zeigt Musikaufführungen. Um die Mikrofone und Instrumente herum sind helle Kreisgrafiken zu sehen.\t",
+        "width": 1600,
+        "height": 1050
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/nano2024/nano80/features/nanocell-nano80-06-ai-sound-pro-m-1.jpg",
+        "srcset": null,
+        "alt": "LG-Fernseher mit Klangblasen und Wellen, die vom Bildschirm ausgehen und den Raum füllen.\t",
+        "width": 1600,
+        "height": 1050
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/nano2024/nano80/features/nanocell-nano80-07-webos-renew-program-m.jpg",
+        "srcset": null,
+        "alt": "Ein Bild des Logos des webOS Re:New Program vor einem schwarzen Hintergrund mit einer blauen und violetten kreisförmigen Kugel am unteren Rand.\t",
+        "width": 1600,
+        "height": 960
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/nano2024/nano80/features/nanocell-nano80-08-webos-24-m.jpg",
+        "srcset": null,
+        "alt": "Startbildschirm von webOS 24 mit den Kategorien Heimbüro, Spiel, Musik, Heimzentrale und Sport. Im unteren Teil des Bildschirms werden unter „Ihre Top-Empfehlungen“ personalisierte Empfehlungen angezeigt.\t",
+        "width": 1600,
+        "height": 1000
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/nano2024/nano80/features/nanocell-nano80-11-filmmakermode-m.jpg",
+        "srcset": null,
+        "alt": "Ein Mann in einem dunklen Schnittstudio, der auf einen LG-Fernseher schaut, auf dem ein Sonnenuntergang zu sehen ist. Rechts unten auf dem Bild befindet sich ein FILMMAKER-Mode-Logo.\t",
+        "width": 1600,
+        "height": 800
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/nano2024/nano80/features/nanocell-nano80-12-home-cinema-experience-m-v1.jpg",
+        "srcset": null,
+        "alt": "Eine Familie sitzt auf dem Boden eines schwach beleuchteten Wohnzimmers an einem kleinen Tisch und blickt auf einen LG-Fernseher an der Wand, der die Erde aus dem Weltraum zeigt.",
+        "width": 1600,
+        "height": 960
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/nano2024/nano80/features/nanocell-nano80-13-powerful-gameplay-m.jpg",
+        "srcset": null,
+        "alt": "Ein Auto-Rennspiel mit der Aufschrift „WIN!“ auf der Tafel an der Ziellinie, während der Spieler den Joystick festhält. Die ALLM-, eARC- und HGiG-Logos sind an der unteren linken Ecke platziert.\t",
+        "width": 1600,
+        "height": 856
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/nano2024/nano80/features/nanocell-nano80-14-game-dashboard-m.jpg",
+        "srcset": null,
+        "alt": "Eine FPS-Spielszene mit dem Game Dashboard, das während des Spiels über dem Bildschirm erscheint. Eine dunkle, winterliche Szene mit dem Game-Optimizer-Menü, das über dem Spiel erscheint.\t",
+        "width": 1920,
+        "height": 920
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/nano2024/nano80/features/nanocell-nano80-15-cloud-gaming-m.jpg",
+        "srcset": null,
+        "alt": "Ein Boosteroid-Startbildschirm mit der Anzeige „Trine 4: The Nightmare Prince“. Ein GeForce NOW-Startbildschirm mit fünf verschiedenen Spiel-Miniaturansichten auf der rechten Seite. \t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/nano2024/nano80/features/nanocell-nano80-16-sustainability-m-V.jpg",
+        "srcset": null,
+        "alt": "LG-NanoCell-Verpackung vor einem beigen Hintergrund mit illustrierten Bäumen.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/installation-video/Installation-TV-NANO81-55-Stand-Thumbnail-755X576-M.jpg",
+        "srcset": null,
+        "alt": "Installationsvideo zur Montage des Standfußes für den LG NanoCell AI NANO81 4K Smart TV Fernseher.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/spec/NanoCell-81-2024-Stand-55-Dimension-Mobile.jpg",
+        "srcset": null,
+        "alt": "55NANO81T6A",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/0a67ae73-ba8b-451a-87aa-6939b1d00f9a",
+        "srcset": null,
+        "alt": "LG France",
+        "width": 111,
+        "height": 55
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/8bd27f83-4e68-43e5-8bcf-502ab0a9370d",
+        "srcset": null,
+        "alt": "lg.com",
+        "width": 111,
+        "height": 55
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YnJhbmRsb2dvMg/17ace0b0-6b80-42e7-8b9e-ddf7e332a75d",
+        "srcset": null,
+        "alt": "LG UK",
+        "width": 111,
+        "height": 55
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/65qned85t6c-s20a/450x450_65QNED85T6C.S20A.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled65b59la-ds40tr/450x450_OLED65B59LA.DS40TR.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/uhd/ua73/gp1/gallery/50-ua73-a/basic/uhd-ua73-2025-50-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 50 Zoll LG UHD AI UA73 4K Smart TV 2025 50UA73006LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/43qned86a6c/450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 43 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV 43QNED86A6C",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_manual-software_48x48.svg",
+        "srcset": null,
+        "alt": "Symbol Benutzerhandbuch und Software",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_complaints_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Fehlerbehebung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_warranty_48x48.svg",
+        "srcset": null,
+        "alt": "Garantie-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_part-accessory_48x48.svg",
+        "srcset": null,
+        "alt": "Symbol für Teile und Zubehör",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/buy/icon_register-a-product_48.svg",
+        "srcset": null,
+        "alt": "Symbol Produktregistrierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_product_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Produktsupport",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_order_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Bestellsupport",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/Icon_request-a-repair_60x60.svg",
+        "srcset": null,
+        "alt": "Symbol für Reparaturanfrage",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_chat-with-us__60x60.svg",
+        "srcset": null,
+        "alt": "Livechat-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_whatsapp_60x60.svg",
+        "srcset": null,
+        "alt": "WhatsApp-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_email-us_60x60.svg",
+        "srcset": null,
+        "alt": "E-Mail-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_call_48.svg",
+        "srcset": null,
+        "alt": "Anruf-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/common/find-a-store-test/gradation-icon/banner-light-icons.svg",
+        "srcset": null,
+        "alt": "Filialsymbol suchen",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/facebook-circle-fill.svg",
+        "srcset": null,
+        "alt": "Facebook",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/youtube-circle-fill.svg",
+        "srcset": null,
+        "alt": "Youtube",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/instagram-circle-fill.svg",
+        "srcset": null,
+        "alt": "Instagram",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/ot_company_logo.png",
+        "srcset": null,
+        "alt": "Firmenlogo",
+        "width": 600,
+        "height": 106
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/powered_by_logo.svg",
+        "srcset": null,
+        "alt": "Powered by Onetrust",
+        "width": 136,
+        "height": 16
+      },
+      {
+        "src": "https://lantern.roeye.com/track.php?fingerprint=0e398a32-f94c-4327-8b91-78c9b166e387&referrer=&landingpage=https%3A%2F%2Fwww.lg.com%2Fde%2Ftvs-und-soundbars%2Fnanocell%2F55nano81t6a%2F&useragent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F143.0.7499.4%20Safari%2F537.36&site=63126",
+        "srcset": null,
+        "alt": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://bat.bing.com/action/0?ti=355009024&Ver=2&mid=4d825f85-0d00-4db7-8fa2-c7110a916fd7&bo=1&sid=fc549eb0f5bb11f0a0a5b7ae3fc4ae70&vid=fc548160f5bb11f0b35da3cae89cc6a9&vids=0&msclkid=N&pi=0&lg=en-US&sw=1280&sh=720&sc=24&nwd=1&tl=55%20Zoll%204K%20LG%20NanoCell%20AI%20Smart%20TV%20NANO81%20%7C%20LG%20DE&p=https%3A%2F%2Fwww.lg.com%2Fde%2Ftvs-und-soundbars%2Fnanocell%2F55nano81t6a%2F&r=&lt=2529&evt=pageLoad&sv=2&cdb=AQET&rn=901168",
+        "srcset": null,
+        "alt": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "videos": [
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/nano2024/nano80/features/nanocell-nano80-03-ai-processor-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/nano2024/nano80/features/nanocell-nano80-03-ai-processor-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/nano2024/nano80/features/nanocell-nano80-04-ai-acoustic-tuning-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/nano2024/nano80/features/nanocell-nano80-04-ai-acoustic-tuning-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      }
+    ]
+  },
+  "specifications": {
+    "€124,92": "Monatliche Rate",
+    "€1.499,00": "Gesamtbetrag inkl. Zinsen",
+    "0%": "Zinssatz",
+    "€74,96": "Monatliche Rate",
+    "€1.798,99": "Gesamtbetrag inkl. Zinsen",
+    "€40,00": "Monatliche Rate",
+    "€120,00": "Gesamtbetrag inkl. Zinsen"
+  },
+  "features": [],
+  "reviews": {
+    "summary": {},
+    "featured": [
+      {
+        "headline": "Clouding des grauens, extrem langsamer Prozessor",
+        "body": "Erstmal eine kurze Pro und Contra liste:\nPro: gute Austattung\nContra: ghosting, clouding, langsamer Prozessor, unzureichender Service\n\nDieser TV wirkt so als ist es ein technischer Rückschritt mit neuen 2024 AI Label. Das Menü ist quälend langsam, unser alter LG Smart TV aus dem Jahr 2017 ist dagegen eine Rakete. Wir haben auch noch einen LG Smart 3D TV aus dem Jahr 2010 im Einsatz, selbst dieser ist dagegen wahnsinnig schnell. Das Bild weist starkes Clouding auf, es sieht aus wie vertikale Balken. Das Problem konnte später auch bei ausgestellten Geräten gesehen werden. Der LG Support hat für die erste Antwort auf meine Kontakt/Service-Anfrage sich sage und schreibe 1 Monat Zeit gelassen. Ich musste noch mal alles Senden, da meine Bilder nicht ausreichend waren. Die letzte Antwort hat über ein Monat Zeit benötigt.\n\nLG, NEIN danke!! Der schlechte Service hat bewiesen, dass ich um diese Marke in Zukunft einen großen Bogen machen werde.",
+        "rating": 1,
+        "author": "Mirsch",
+        "dateCreated": "2025-01-14T13:13:27.000+00:00",
+        "datePublished": "2025-01-16T13:15:10.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/8c236e22-277b-57f2-b1af-06db9fb649d7",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/528f8bd2-4b08-55e2-9797-475a891e98b6",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/44621972-9c57-5c1c-8457-619b5417e064",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/112936bd-7416-5f76-9b42-7457fe0bfdaf",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/548d6cba-e51d-58ea-a585-88acd9e9772d"
+        ]
+      },
+      {
+        "headline": "Einfach traurig was die Hintergrundbeleuchtung ang",
+        "body": "Einfach traurig was die Hintergrundbeleuchtung angeht. \nBei dunklem Bildinhalt an den Rändern weiße helle stellen. Ersatzgerät bekommen, genau das selbe Problem. LG Support sagt \"Ist Produktionsbedingt\". \n\nVon 900€ deutlich mehr erwartet.",
+        "rating": 1,
+        "author": "Leon S",
+        "dateCreated": "2024-11-06T12:48:48.000+00:00",
+        "datePublished": "2024-11-08T23:30:12.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/262a5ab3-4c6f-5cd9-9187-4e740747b15a",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/9c946972-25f5-5589-8484-ea340fedc8a2"
+        ]
+      },
+      {
+        "headline": "Alles gut, nur das Bild nicht.",
+        "body": "Ich bin mit allem zufrieden außer mit dem Bild. Sobald der Fernseher sehr helle und dazu bewegte Bilder wiedergeben muss, sind über das gesamte Display vertikale dunkle Balken zu sehen. Ich bin gespannt was der Support dazu sagt. Das Gerät ist Neu.",
+        "rating": 2,
+        "author": "Ma84",
+        "dateCreated": "2025-01-06T21:37:32.000+00:00",
+        "datePublished": "2025-01-09T16:45:10.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/b72dc96d-c781-5507-b68c-ba45535cbafc"
+        ]
+      },
+      {
+        "headline": "Superbe TV",
+        "body": "*Avis sponsorisé* \nConception du produit vraiment à la hauteur de mes attentes, la qualité d’image est exceptionnelle. Petit plus; la télécommande magique chamboule (dans le bon sens) toutes les habitudes.",
+        "rating": 5,
+        "author": "Ferdi Esgn",
+        "dateCreated": "2024-09-10T11:48:00.000+00:00",
+        "datePublished": "2024-09-10T18:15:09.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1mcg/c23d5d77-b3f1-5887-bff0-ba0489ef6c3e",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1mcg/484329b3-5488-5c99-abe8-b81f00647af7"
+        ]
+      },
+      {
+        "headline": "Tolles Gerät mit leichten Schwächen",
+        "body": "Im Großen und Ganzen ein tolles Gerät... Habe mir auch gleich den 86 Zoll zugelegt... Bild und Sound sind wirklich einmalig gerade, weil die Farben nicht noch künstlich nach oben gepusht werden...ist das sehr angenehm für die Augen... Dennoch muss ich einen Stern abziehen, da ich Telekom Magenta Kunde bin und es die Magenta App auf dem Gerät so nicht gibt. Das heißt, ich musste mir wieder ein externes Gerät zulegen, was ich mit nem Smart TV sparen wollte... Schade. Aber vllt kommt ja mal irgendwann die Telekom und LG zusammen...",
+        "rating": 4,
+        "author": "Rehorik",
+        "dateCreated": "2024-12-10T09:55:45.000+00:00",
+        "datePublished": "2024-12-13T13:30:17.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/d0c11b0f-4ed2-5330-9e26-0bf808223382"
+        ]
+      },
+      {
+        "headline": "Mooie beeldkwaliteit en helder geluid.",
+        "body": "Moeilijk te begrijpen flatscreen en erg onduidelijke handleiding.",
+        "rating": 5,
+        "author": "Marco",
+        "dateCreated": "2024-11-13T15:42:25.000+00:00",
+        "datePublished": "2025-08-24T00:15:34.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1ubF9ubA/8f75e063-b527-5a5c-be07-a99e4db21547",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1ubF9ubA/120dcc68-5165-59f7-bbdb-bbef63592c11"
+        ]
+      },
+      {
+        "headline": "Das Produkt kam beschädigt an.",
+        "body": "Das Produkt kam beschädigt an. Ich habe eine Reparatur beantragt, aber niemand hatte Interesse. Forderungen werden nicht erfüllt. Ich würde wenn möglich eine - negative Bewertung abgeben",
+        "rating": 1,
+        "author": "akyildiz",
+        "dateCreated": "2024-10-26T19:43:46.000+00:00",
+        "datePublished": "2024-10-28T15:45:13.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/f0276370-66d0-5768-8b18-620710575166"
+        ]
+      },
+      {
+        "headline": "Overall great tv",
+        "body": "Overall a very good TV for the price range. Whilst I would rather have a higher refresh rate as I like to do intense first-person shooter gaming I have found that this TV works just as good at 60 hertz and with the game mode options selected it helps improve the drop of lag. The color and the user interface is very nice and easy to use however I prefer to use a fire stick on the device as I find interfaces just a bit more slow. Overall I would recommend this TV for everyone who would use it as a daily TV and not care too much about the intense black color so then you would go for the OLED but this one just works as perfect as your daily budget friendly",
+        "rating": 4,
+        "author": "Slizza786",
+        "dateCreated": "2025-02-24T13:35:51.000+00:00",
+        "datePublished": "2025-02-24T14:00:10.000+00:00",
+        "images": []
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://www.lg.com/de/"
+    },
+    {
+      "position": 2,
+      "name": "TVs & Soundbars",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/"
+    },
+    {
+      "position": 3,
+      "name": "NanoCell",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/nanocell/"
+    },
+    {
+      "position": 4,
+      "name": "55NANO81T6A",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/nanocell/55nano81t6a/"
+    }
+  ],
+  "faq": [],
+  "metadata": {
+    "mpn": "55NANO81T6A",
+    "title": "55 Zoll 4K LG NanoCell AI Smart TV NANO81 | LG DE",
+    "description": "Entdecke den LG NanoCell NANO81 mit α5 Gen7 4K AI-Prozessor mit zahlreichen AI-Funktionen für bestmögliche Bildqualität und optimalen Sound. ",
+    "ogImage": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/450x450/Nano81-55-Gallery-01.jpg",
+    "ogTitle": "55 Zoll 4K LG NanoCell Smart TV NANO81 - 55NANO81T6A | LG DE",
+    "canonical": "https://www.lg.com/de/tvs-und-soundbars/nanocell/55nano81t6a/"
+  },
+  "structuredData": {
+    "jsonLd": [
+      {
+        "@context": "https://schema.org/",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/nanocell/55nano81t6a/",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "itemReviewed": {
+            "@type": "IndividualProduct",
+            "name": "55NANO81T6A"
+          },
+          "ratingValue": "4.2",
+          "reviewCount": 142,
+          "bestRating": 5
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/nanocell/55nano81t6a/",
+        "review": [
+          {
+            "@type": "Review",
+            "dateCreated": "2025-01-14T13:13:27.000+00:00",
+            "datePublished": "2025-01-16T13:15:10.000+00:00",
+            "headline": "Clouding des grauens, extrem langsamer Prozessor",
+            "reviewBody": "Erstmal eine kurze Pro und Contra liste:\nPro: gute Austattung\nContra: ghosting, clouding, langsamer Prozessor, unzureichender Service\n\nDieser TV wirkt so als ist es ein technischer Rückschritt mit neuen 2024 AI Label. Das Menü ist quälend langsam, unser alter LG Smart TV aus dem Jahr 2017 ist dagegen eine Rakete. Wir haben auch noch einen LG Smart 3D TV aus dem Jahr 2010 im Einsatz, selbst dieser ist dagegen wahnsinnig schnell. Das Bild weist starkes Clouding auf, es sieht aus wie vertikale Balken. Das Problem konnte später auch bei ausgestellten Geräten gesehen werden. Der LG Support hat für die erste Antwort auf meine Kontakt/Service-Anfrage sich sage und schreibe 1 Monat Zeit gelassen. Ich musste noch mal alles Senden, da meine Bilder nicht ausreichend waren. Die letzte Antwort hat über ein Monat Zeit benötigt.\n\nLG, NEIN danke!! Der schlechte Service hat bewiesen, dass ich um diese Marke in Zukunft einen großen Bogen machen werde.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 1,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mirsch"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/8c236e22-277b-57f2-b1af-06db9fb649d7",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/aff527dc-bc83-5b73-9556-0b78984a9fd6"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/528f8bd2-4b08-55e2-9797-475a891e98b6",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/a4cacdb2-5421-5717-92e6-e64a53d636d7"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/44621972-9c57-5c1c-8457-619b5417e064",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/f1832040-13f6-526d-8e6b-a051948b6cfc"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/112936bd-7416-5f76-9b42-7457fe0bfdaf",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/aef7d02d-f29b-550a-a500-ee91cd566372"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/548d6cba-e51d-58ea-a585-88acd9e9772d",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/540fb2fa-4500-582d-8515-10ae46d38a81"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-11-06T12:48:48.000+00:00",
+            "datePublished": "2024-11-08T23:30:12.000+00:00",
+            "headline": "Einfach traurig was die Hintergrundbeleuchtung ang",
+            "reviewBody": "Einfach traurig was die Hintergrundbeleuchtung angeht. \nBei dunklem Bildinhalt an den Rändern weiße helle stellen. Ersatzgerät bekommen, genau das selbe Problem. LG Support sagt \"Ist Produktionsbedingt\". \n\nVon 900€ deutlich mehr erwartet.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 1,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Leon S"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/262a5ab3-4c6f-5cd9-9187-4e740747b15a",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/29281a6e-7954-5d12-b638-fe85b65a4971"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/9c946972-25f5-5589-8484-ea340fedc8a2",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/04db4ae5-9ec6-5d1b-a391-e8fed3d8f279"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-01-06T21:37:32.000+00:00",
+            "datePublished": "2025-01-09T16:45:10.000+00:00",
+            "headline": "Alles gut, nur das Bild nicht.",
+            "reviewBody": "Ich bin mit allem zufrieden außer mit dem Bild. Sobald der Fernseher sehr helle und dazu bewegte Bilder wiedergeben muss, sind über das gesamte Display vertikale dunkle Balken zu sehen. Ich bin gespannt was der Support dazu sagt. Das Gerät ist Neu.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 2,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ma84"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/b72dc96d-c781-5507-b68c-ba45535cbafc",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/72e7c8e4-9fe8-5a35-aec7-d31e29d397e3"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-09-10T11:48:00.000+00:00",
+            "datePublished": "2024-09-10T18:15:09.000+00:00",
+            "headline": "Superbe TV",
+            "reviewBody": "*Avis sponsorisé* \nConception du produit vraiment à la hauteur de mes attentes, la qualité d’image est exceptionnelle. Petit plus; la télécommande magique chamboule (dans le bon sens) toutes les habitudes.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ferdi Esgn"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1mcg/c23d5d77-b3f1-5887-bff0-ba0489ef6c3e",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1mcg/43e7f606-c07a-58de-9705-ed7426bffd0d"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1mcg/484329b3-5488-5c99-abe8-b81f00647af7",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1mcg/02ddf3ca-9317-53ff-aa92-c0914b6d51ba"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-12-10T09:55:45.000+00:00",
+            "datePublished": "2024-12-13T13:30:17.000+00:00",
+            "headline": "Tolles Gerät mit leichten Schwächen",
+            "reviewBody": "Im Großen und Ganzen ein tolles Gerät... Habe mir auch gleich den 86 Zoll zugelegt... Bild und Sound sind wirklich einmalig gerade, weil die Farben nicht noch künstlich nach oben gepusht werden...ist das sehr angenehm für die Augen... Dennoch muss ich einen Stern abziehen, da ich Telekom Magenta Kunde bin und es die Magenta App auf dem Gerät so nicht gibt. Das heißt, ich musste mir wieder ein externes Gerät zulegen, was ich mit nem Smart TV sparen wollte... Schade. Aber vllt kommt ja mal irgendwann die Telekom und LG zusammen...",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 4,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rehorik"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/d0c11b0f-4ed2-5330-9e26-0bf808223382",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/e32c6dd2-b0da-592e-8868-c63331c91b27"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-11-13T15:42:25.000+00:00",
+            "datePublished": "2025-08-24T00:15:34.000+00:00",
+            "headline": "Mooie beeldkwaliteit en helder geluid.",
+            "reviewBody": "Moeilijk te begrijpen flatscreen en erg onduidelijke handleiding.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marco"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1ubF9ubA/8f75e063-b527-5a5c-be07-a99e4db21547",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1ubF9ubA/2db03abb-c826-59ce-be61-3e972cfd2399"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1ubF9ubA/120dcc68-5165-59f7-bbdb-bbef63592c11",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1ubF9ubA/e1f7e34c-f2e4-5fb7-86d3-49a117e5940e"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-10-26T19:43:46.000+00:00",
+            "datePublished": "2024-10-28T15:45:13.000+00:00",
+            "headline": "Das Produkt kam beschädigt an.",
+            "reviewBody": "Das Produkt kam beschädigt an. Ich habe eine Reparatur beantragt, aber niemand hatte Interesse. Forderungen werden nicht erfüllt. Ich würde wenn möglich eine - negative Bewertung abgeben",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 1,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "akyildiz"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/f0276370-66d0-5768-8b18-620710575166",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/3e91329c-1ae8-5b4f-843e-33535437c8f3"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-02-24T13:35:51.000+00:00",
+            "datePublished": "2025-02-24T14:00:10.000+00:00",
+            "headline": "Overall great tv",
+            "reviewBody": "Overall a very good TV for the price range. Whilst I would rather have a higher refresh rate as I like to do intense first-person shooter gaming I have found that this TV works just as good at 60 hertz and with the game mode options selected it helps improve the drop of lag. The color and the user interface is very nice and easy to use however I prefer to use a fire stick on the device as I find interfaces just a bit more slow. Overall I would recommend this TV for everyone who would use it as a daily TV and not care too much about the intense black color so then you would go for the OLED but this one just works as perfect as your daily budget friendly",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 4,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Slizza786"
+            },
+            "image": [],
+            "video": [],
+            "comment": []
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "product",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/nanocell/55nano81t6a/",
+        "name": "55 Zoll 4K LG NanoCell Smart TV NANO81 ",
+        "image": "/content/dam/channel/wcms/de/d2c-content/nanocell/174-nanocell-nano81-55-55nano81t6a/gallery/450x450/Nano81-55-Gallery-01.jpg",
+        "description": "Entdecken Sie LG 55NANO81T6A. Für Bilder, Bewertungen und technische Daten zu LG klicken 55 Zoll 4K LG NanoCell Smart TV NANO81 .",
+        "mpn": "55NANO81T6A",
+        "brand": {
+          "@type": "Brand",
+          "name": "LG"
+        },
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "EUR",
+          "price": "899",
+          "availability": "https://schema.org/OutOfStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "LG DE"
+          }
+        },
+        "size": {
+          "@type": "QuantitativeValue",
+          "unitCode": "",
+          "value": ""
+        },
+        "hasEnergyConsumptionDetails": {
+          "@type": "EnergyConsumptionDetails",
+          "hasEnergyEfficiencyCategory": "https://schema.org/EUEnergyEfficiencyCategoryG",
+          "energyEfficiencyScaleMax": "https://schema.org/EUEnergyEfficiencyCategoryA1Plus",
+          "energyEfficiencyScaleMin": "https://schema.org/EUEnergyEfficiencyCategoryG"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.lg.com/de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "TVs & Soundbars",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "NanoCell",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/nanocell/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "55NANO81T6A",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/nanocell/55nano81t6a/"
+          }
+        ]
+      }
+    ]
+  }
+}

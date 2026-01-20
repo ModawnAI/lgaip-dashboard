@@ -1,0 +1,1824 @@
+{
+  "crawledAt": "2026-01-20T05:24:39.062Z",
+  "url": "https://www.lg.com/de/tvs-und-soundbars/nanocell/75nano90a6b/",
+  "modelNumber": "75NANO90A6B",
+  "category": "NanoCell",
+  "basicInfo": {
+    "productName": "75 Zoll LG NanoCell AI NANO90 4K Smart TV ",
+    "description": "Entdecken Sie LG 75NANO90A6B. Für Bilder, Bewertungen und technische Daten zu LG klicken 75 Zoll LG NanoCell AI NANO90 4K Smart TV .",
+    "headline": "75 Zoll LG NanoCell AI NANO90 4K Smart TV",
+    "screenSize": "75 Zoll",
+    "series": "A",
+    "brand": "LG",
+    "modelNumber": "75NANO90A6B"
+  },
+  "pricing": {
+    "currentPrice": "",
+    "currency": "EUR",
+    "seller": "LG DE"
+  },
+  "ratings": {
+    "averageRating": "4.7",
+    "reviewCount": 6,
+    "bestRating": 5
+  },
+  "energyEfficiency": {
+    "category": "E",
+    "scaleMax": "A1Plus",
+    "scaleMin": "G",
+    "eprelCertificationId": "2227307"
+  },
+  "media": {
+    "images": [
+      {
+        "src": "https://t.teads.tv/track?action=pageView&env=js-web&tag_version=8.5.0_d71d360&provider=tag&buyer_pixel_id=7484&referer=https%3A%2F%2Fwww.lg.com%2Fde%2Ftvs-und-soundbars%2Fnanocell%2F75nano90a6b%2F&user_session_id=1079fadd-9d90-452e-850c-d9ff73d8afa9&hasConsent=true&cht=timeout",
+        "srcset": null,
+        "alt": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/banners/2026-01-15-LG-CB26-GNB-290x90px-V1-jgr.jpg",
+        "srcset": null,
+        "alt": " Gute Vorsätze für 2026",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/banners/2026-01-15-LG-CB26-GNB-290x90px-V1-jgr.jpg",
+        "srcset": null,
+        "alt": " Gute Vorsätze für 2026",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "75NANO90A6B EU.pdf",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "75NANO90A6B EU.pdf",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/gallery/nanocell-nano90-2025-75-gallery-15.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Auf einem LG TV-Bildschirm werden Science-Fiction-Inhalte abgespielt. Auf dem Bildschirm befindet sich die Benutzeroberfläche des AI Chatbots. Der Benutzer hat dem Chatbot mitgeteilt, dass der Bildschirm zu dunkel ist. Der Chatbot bot Lösungen für die Anfrage an. Die gesamte Szene ist in zwei Hälften geteilt. Die eine Seite ist dunkler, die andere Seite heller und zeigt, wie der AI Chatbot das Problem für den Nutzer automatisch gelöst hat. Der Text erklärt, dass der Al Chatbot die Absicht des Benutzers verstehen und Lösungen zur Fehlerbehebung anbieten kann.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/gallery/nanocell-nano90-2025-75-gallery-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Frontansicht des 75 Zoll LG NanoCell AI NANO80 4K Smart TV 2025 75NANO90A6B",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/gallery/nanocell-nano90-2025-75-gallery-03.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Rückansicht des LG NanoCell NANO90 TV",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/gallery/nanocell-nano90-2025-75-gallery-04.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Linke Seitenansicht des LG NanoCell NANO90 TV.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/gallery/nanocell-nano90-2025-75-gallery-05.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Frontansicht und Seitenansicht des LG NanoCell NANO90 AI 4K Smart TV mit den Abmessungen Länge, Breite, Höhe und Tiefe.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/gallery/nanocell-nano90-2025-75-gallery-06.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Der alpha 7 KI-Prozessor Gen8 leuchtet gelb und bunte Lichtblitze fliegen aus ihm heraus. In der Überschrift geht es darum, wie der Prozessor 4K-Qualität, atemberaubende Farben und Helligkeit liefert.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/gallery/nanocell-nano90-2025-75-gallery-07.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Ein Bild, das in der Mitte geteilt wurde, um ein Vorher und Nachher von reinen Farben in echtem 4K zu zeigen. Die linke Seite des Karussells ist scharf und farbenfroh, während die rechte Seite verblasst ist. In der Überschrift geht es darum, wie jede Szene visuell eindrucksvoller und unterhaltsamer gestaltet wird. ",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/gallery/nanocell-nano90-2025-75-gallery-08.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Vergleich der Bildqualität mit und ohne LG 4K Super Upscaling. Zwei Panel zeigen dasselbe Bild eines bunten Vogels, der auf einem Ast in einem Wald sitzt, das Panel auf der rechten Seite ist verblasst. In der Überschrift geht es darum, wie 4K Super Upscaling die Auflösung, Helligkeit und Klarheit verbessert. ",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/gallery/nanocell-nano90-2025-75-gallery-09.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Perspektive aus dem Inneren einer Höhle mit Blick auf den Höhleneingang, wo ein blauer Himmel und der Horizont zu sehen sind. Die gesamte Szene ist in zwei Hälften geteilt, um die Möglichkeiten von QNEDs Erweitertem Lokalen Dimmen zu zeigen. Auf der einen Seite sind die Farben und Details verwaschen und das Bild wirkt matschig. Auf dem Etikett steht: Konventionelle LED. Die andere Seite hat einen tollen Schwarzwert, einen besseren Kontrast, eine höhere Helligkeit und bessere Farben. Auf dem Etikett steht „Erweitertes Lokales Dimmen“. Der Titel beschreibt, wie das Erweiterte Lokale Dimmen für ein schärferes Bild sorgt.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/gallery/nanocell-nano90-2025-75-gallery-10.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "LG TV mit einem beeindruckend großen Bildschirm, der über einer LG Soundbar in einem modern eingerichteten Wohnzimmer an der Wand montiert ist.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/gallery/nanocell-nano90-2025-75-gallery-11-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "LG TV-Bildschirm mit einer AI Magic Remote im Vordergrund. Die KI-Schaltfläche ist hervorgehoben und eine Sprechblase zeigt den Text „Schlage einen Film vor, der mir gefällt“. Auf dem Bildschirm sehen wir das Benutzersymbol E, das anzeigt, dass AI Voice ID in der Lage war, den Benutzer zu identifizieren und personalisierte Empfehlungen allein auf der Grundlage seiner Stimme zu geben.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/gallery/nanocell-nano90-2025-75-gallery-12-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "LG AI Magic Remote mit hervorgehobener KI-Schaltfläche. Rundherum befinden sich die verschiedenen Funktionen, auf die ein Benutzer über die Schaltfläche zugreifen kann. AI Voice ID, AI Search, AI Chatbot, AI Concierge, AI Picture Wizard, AI Sound Wizard. Der Text erklärt, dass die LG AI Magic Remote dein KI-Erlebnis mit einer speziellen KI-Schaltfläche vervollständigt und wie eine Maus in der Luft verwendet werden kann. Einfach zeigen und klicken.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/gallery/nanocell-nano90-2025-75-gallery-13.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Nahaufnahme eines LG TV-Bildschirms, der zeigt, wie AI Search funktioniert. Ein kleines Chat-Fenster ist geöffnet und zeigt, wie der Benutzer nachfragt, welche Sportspiele verfügbar sind. AI Search antwortete per Chat und zeigte Vorschaubilder verfügbarer Inhalte an. Es wird auch eine Aufforderung mit einer Frage an Microsoft Copilot angezeigt. ",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/gallery/nanocell-nano90-2025-75-gallery-14-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "LG AI Magic Remote vor einem LG TV-Bildschirm. Auf dem Bildschirm erscheint eine personalisierte Begrüßung durch die LG KI mit benutzerdefinierten Schlüsselwörtern, die auf dem Such- und Sehverlauf des Benutzers basieren. An der Fernbedienung befinden sich ein Symbol und ein Hinweis darauf, dass die AI Concierge-Funktion mit einem kurzen Druck auf die KI-Schaltfläche leicht zugänglich ist. ",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/gallery/nanocell-nano90-2025-75-gallery-15.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Auf einem LG TV-Bildschirm werden Science-Fiction-Inhalte abgespielt. Auf dem Bildschirm befindet sich die Benutzeroberfläche des AI Chatbots. Der Benutzer hat dem Chatbot mitgeteilt, dass der Bildschirm zu dunkel ist. Der Chatbot bot Lösungen für die Anfrage an. Die gesamte Szene ist in zwei Hälften geteilt. Die eine Seite ist dunkler, die andere Seite heller und zeigt, wie der AI Chatbot das Problem für den Nutzer automatisch gelöst hat. Der Text erklärt, dass der Al Chatbot die Absicht des Benutzers verstehen und Lösungen zur Fehlerbehebung anbieten kann.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/gallery/nanocell-nano90-2025-75-gallery-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Frontansicht des 75 Zoll LG NanoCell AI NANO80 4K Smart TV 2025 75NANO90A6B",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/thumbnail/nanocell-nano90-2025-75-thumbnail-01.jpg",
+        "srcset": null,
+        "alt": "Frontansicht des 75 Zoll LG NanoCell AI NANO80 4K Smart TV 2025 75NANO90A6B",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/thumbnail/nanocell-nano90-2025-75-thumbnail-03.jpg",
+        "srcset": null,
+        "alt": "Rückansicht des LG NanoCell NANO90 TV",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/thumbnail/nanocell-nano90-2025-75-thumbnail-04.jpg",
+        "srcset": null,
+        "alt": "Linke Seitenansicht des LG NanoCell NANO90 TV.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/thumbnail/nanocell-nano90-2025-75-thumbnail-05.jpg",
+        "srcset": null,
+        "alt": "Frontansicht und Seitenansicht des LG NanoCell NANO90 AI 4K Smart TV mit den Abmessungen Länge, Breite, Höhe und Tiefe.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/thumbnail/nanocell-nano90-2025-75-thumbnail-06.jpg",
+        "srcset": null,
+        "alt": "Der alpha 7 KI-Prozessor Gen8 leuchtet gelb und bunte Lichtblitze fliegen aus ihm heraus. In der Überschrift geht es darum, wie der Prozessor 4K-Qualität, atemberaubende Farben und Helligkeit liefert.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/thumbnail/nanocell-nano90-2025-75-thumbnail-07.jpg",
+        "srcset": null,
+        "alt": "Ein Bild, das in der Mitte geteilt wurde, um ein Vorher und Nachher von reinen Farben in echtem 4K zu zeigen. Die linke Seite des Karussells ist scharf und farbenfroh, während die rechte Seite verblasst ist. In der Überschrift geht es darum, wie jede Szene visuell eindrucksvoller und unterhaltsamer gestaltet wird. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/thumbnail/nanocell-nano90-2025-75-thumbnail-08.jpg",
+        "srcset": null,
+        "alt": "Vergleich der Bildqualität mit und ohne LG 4K Super Upscaling. Zwei Panel zeigen dasselbe Bild eines bunten Vogels, der auf einem Ast in einem Wald sitzt, das Panel auf der rechten Seite ist verblasst. In der Überschrift geht es darum, wie 4K Super Upscaling die Auflösung, Helligkeit und Klarheit verbessert. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/thumbnail/nanocell-nano90-2025-75-thumbnail-09.jpg",
+        "srcset": null,
+        "alt": "Perspektive aus dem Inneren einer Höhle mit Blick auf den Höhleneingang, wo ein blauer Himmel und der Horizont zu sehen sind. Die gesamte Szene ist in zwei Hälften geteilt, um die Möglichkeiten von QNEDs Erweitertem Lokalen Dimmen zu zeigen. Auf der einen Seite sind die Farben und Details verwaschen und das Bild wirkt matschig. Auf dem Etikett steht: Konventionelle LED. Die andere Seite hat einen tollen Schwarzwert, einen besseren Kontrast, eine höhere Helligkeit und bessere Farben. Auf dem Etikett steht „Erweitertes Lokales Dimmen“. Der Titel beschreibt, wie das Erweiterte Lokale Dimmen für ein schärferes Bild sorgt.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/thumbnail/nanocell-nano90-2025-75-thumbnail-10.jpg",
+        "srcset": null,
+        "alt": "LG TV mit einem beeindruckend großen Bildschirm, der über einer LG Soundbar in einem modern eingerichteten Wohnzimmer an der Wand montiert ist.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/thumbnail/nanocell-nano90-2025-75-thumbnail-11-01.jpg",
+        "srcset": null,
+        "alt": "LG TV-Bildschirm mit einer AI Magic Remote im Vordergrund. Die KI-Schaltfläche ist hervorgehoben und eine Sprechblase zeigt den Text „Schlage einen Film vor, der mir gefällt“. Auf dem Bildschirm sehen wir das Benutzersymbol E, das anzeigt, dass AI Voice ID in der Lage war, den Benutzer zu identifizieren und personalisierte Empfehlungen allein auf der Grundlage seiner Stimme zu geben.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/thumbnail/nanocell-nano90-2025-75-thumbnail-12-01.jpg",
+        "srcset": null,
+        "alt": "LG AI Magic Remote mit hervorgehobener KI-Schaltfläche. Rundherum befinden sich die verschiedenen Funktionen, auf die ein Benutzer über die Schaltfläche zugreifen kann. AI Voice ID, AI Search, AI Chatbot, AI Concierge, AI Picture Wizard, AI Sound Wizard. Der Text erklärt, dass die LG AI Magic Remote dein KI-Erlebnis mit einer speziellen KI-Schaltfläche vervollständigt und wie eine Maus in der Luft verwendet werden kann. Einfach zeigen und klicken.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/thumbnail/nanocell-nano90-2025-75-thumbnail-13.jpg",
+        "srcset": null,
+        "alt": "Nahaufnahme eines LG TV-Bildschirms, der zeigt, wie AI Search funktioniert. Ein kleines Chat-Fenster ist geöffnet und zeigt, wie der Benutzer nachfragt, welche Sportspiele verfügbar sind. AI Search antwortete per Chat und zeigte Vorschaubilder verfügbarer Inhalte an. Es wird auch eine Aufforderung mit einer Frage an Microsoft Copilot angezeigt. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/thumbnail/nanocell-nano90-2025-75-thumbnail-14-01.jpg",
+        "srcset": null,
+        "alt": "LG AI Magic Remote vor einem LG TV-Bildschirm. Auf dem Bildschirm erscheint eine personalisierte Begrüßung durch die LG KI mit benutzerdefinierten Schlüsselwörtern, die auf dem Such- und Sehverlauf des Benutzers basieren. An der Fernbedienung befinden sich ein Symbol und ein Hinweis darauf, dass die AI Concierge-Funktion mit einem kurzen Druck auf die KI-Schaltfläche leicht zugänglich ist. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/thumbnail/nanocell-nano90-2025-75-thumbnail-15.jpg",
+        "srcset": null,
+        "alt": "Auf einem LG TV-Bildschirm werden Science-Fiction-Inhalte abgespielt. Auf dem Bildschirm befindet sich die Benutzeroberfläche des AI Chatbots. Der Benutzer hat dem Chatbot mitgeteilt, dass der Bildschirm zu dunkel ist. Der Chatbot bot Lösungen für die Anfrage an. Die gesamte Szene ist in zwei Hälften geteilt. Die eine Seite ist dunkler, die andere Seite heller und zeigt, wie der AI Chatbot das Problem für den Nutzer automatisch gelöst hat. Der Text erklärt, dass der Al Chatbot die Absicht des Benutzers verstehen und Lösungen zur Fehlerbehebung anbieten kann.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/gallery/nanocell-nano90-2025-75-gallery-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 75 Zoll LG NanoCell AI NANO80 4K Smart TV 2025 75NANO90A6B",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/gallery/nanocell-nano90-2025-75-gallery-03.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Rückansicht des LG NanoCell NANO90 TV",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/gallery/nanocell-nano90-2025-75-gallery-04.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Linke Seitenansicht des LG NanoCell NANO90 TV.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/gallery/nanocell-nano90-2025-75-gallery-05.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht und Seitenansicht des LG NanoCell NANO90 AI 4K Smart TV mit den Abmessungen Länge, Breite, Höhe und Tiefe.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/gallery/nanocell-nano90-2025-75-gallery-06.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Der alpha 7 KI-Prozessor Gen8 leuchtet gelb und bunte Lichtblitze fliegen aus ihm heraus. In der Überschrift geht es darum, wie der Prozessor 4K-Qualität, atemberaubende Farben und Helligkeit liefert.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/gallery/nanocell-nano90-2025-75-gallery-07.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Ein Bild, das in der Mitte geteilt wurde, um ein Vorher und Nachher von reinen Farben in echtem 4K zu zeigen. Die linke Seite des Karussells ist scharf und farbenfroh, während die rechte Seite verblasst ist. In der Überschrift geht es darum, wie jede Szene visuell eindrucksvoller und unterhaltsamer gestaltet wird. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/gallery/nanocell-nano90-2025-75-gallery-08.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Vergleich der Bildqualität mit und ohne LG 4K Super Upscaling. Zwei Panel zeigen dasselbe Bild eines bunten Vogels, der auf einem Ast in einem Wald sitzt, das Panel auf der rechten Seite ist verblasst. In der Überschrift geht es darum, wie 4K Super Upscaling die Auflösung, Helligkeit und Klarheit verbessert. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/gallery/nanocell-nano90-2025-75-gallery-09.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Perspektive aus dem Inneren einer Höhle mit Blick auf den Höhleneingang, wo ein blauer Himmel und der Horizont zu sehen sind. Die gesamte Szene ist in zwei Hälften geteilt, um die Möglichkeiten von QNEDs Erweitertem Lokalen Dimmen zu zeigen. Auf der einen Seite sind die Farben und Details verwaschen und das Bild wirkt matschig. Auf dem Etikett steht: Konventionelle LED. Die andere Seite hat einen tollen Schwarzwert, einen besseren Kontrast, eine höhere Helligkeit und bessere Farben. Auf dem Etikett steht „Erweitertes Lokales Dimmen“. Der Titel beschreibt, wie das Erweiterte Lokale Dimmen für ein schärferes Bild sorgt.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/gallery/nanocell-nano90-2025-75-gallery-10.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "LG TV mit einem beeindruckend großen Bildschirm, der über einer LG Soundbar in einem modern eingerichteten Wohnzimmer an der Wand montiert ist.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/gallery/nanocell-nano90-2025-75-gallery-11-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "LG TV-Bildschirm mit einer AI Magic Remote im Vordergrund. Die KI-Schaltfläche ist hervorgehoben und eine Sprechblase zeigt den Text „Schlage einen Film vor, der mir gefällt“. Auf dem Bildschirm sehen wir das Benutzersymbol E, das anzeigt, dass AI Voice ID in der Lage war, den Benutzer zu identifizieren und personalisierte Empfehlungen allein auf der Grundlage seiner Stimme zu geben.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/gallery/nanocell-nano90-2025-75-gallery-12-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "LG AI Magic Remote mit hervorgehobener KI-Schaltfläche. Rundherum befinden sich die verschiedenen Funktionen, auf die ein Benutzer über die Schaltfläche zugreifen kann. AI Voice ID, AI Search, AI Chatbot, AI Concierge, AI Picture Wizard, AI Sound Wizard. Der Text erklärt, dass die LG AI Magic Remote dein KI-Erlebnis mit einer speziellen KI-Schaltfläche vervollständigt und wie eine Maus in der Luft verwendet werden kann. Einfach zeigen und klicken.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/gallery/nanocell-nano90-2025-75-gallery-13.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Nahaufnahme eines LG TV-Bildschirms, der zeigt, wie AI Search funktioniert. Ein kleines Chat-Fenster ist geöffnet und zeigt, wie der Benutzer nachfragt, welche Sportspiele verfügbar sind. AI Search antwortete per Chat und zeigte Vorschaubilder verfügbarer Inhalte an. Es wird auch eine Aufforderung mit einer Frage an Microsoft Copilot angezeigt. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/gallery/nanocell-nano90-2025-75-gallery-14-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "LG AI Magic Remote vor einem LG TV-Bildschirm. Auf dem Bildschirm erscheint eine personalisierte Begrüßung durch die LG KI mit benutzerdefinierten Schlüsselwörtern, die auf dem Such- und Sehverlauf des Benutzers basieren. An der Fernbedienung befinden sich ein Symbol und ein Hinweis darauf, dass die AI Concierge-Funktion mit einem kurzen Druck auf die KI-Schaltfläche leicht zugänglich ist. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/gallery/nanocell-nano90-2025-75-gallery-15.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Auf einem LG TV-Bildschirm werden Science-Fiction-Inhalte abgespielt. Auf dem Bildschirm befindet sich die Benutzeroberfläche des AI Chatbots. Der Benutzer hat dem Chatbot mitgeteilt, dass der Bildschirm zu dunkel ist. Der Chatbot bot Lösungen für die Anfrage an. Die gesamte Szene ist in zwei Hälften geteilt. Die eine Seite ist dunkler, die andere Seite heller und zeigt, wie der AI Chatbot das Problem für den Nutzer automatisch gelöst hat. Der Text erklärt, dass der Al Chatbot die Absicht des Benutzers verstehen und Lösungen zur Fehlerbehebung anbieten kann.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/thumbnail/nanocell-nano90-2025-75-thumbnail-01.jpg",
+        "srcset": null,
+        "alt": "Frontansicht des 75 Zoll LG NanoCell AI NANO80 4K Smart TV 2025 75NANO90A6B",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/thumbnail/nanocell-nano90-2025-75-thumbnail-03.jpg",
+        "srcset": null,
+        "alt": "Rückansicht des LG NanoCell NANO90 TV",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/thumbnail/nanocell-nano90-2025-75-thumbnail-04.jpg",
+        "srcset": null,
+        "alt": "Linke Seitenansicht des LG NanoCell NANO90 TV.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/thumbnail/nanocell-nano90-2025-75-thumbnail-05.jpg",
+        "srcset": null,
+        "alt": "Frontansicht und Seitenansicht des LG NanoCell NANO90 AI 4K Smart TV mit den Abmessungen Länge, Breite, Höhe und Tiefe.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/thumbnail/nanocell-nano90-2025-75-thumbnail-06.jpg",
+        "srcset": null,
+        "alt": "Der alpha 7 KI-Prozessor Gen8 leuchtet gelb und bunte Lichtblitze fliegen aus ihm heraus. In der Überschrift geht es darum, wie der Prozessor 4K-Qualität, atemberaubende Farben und Helligkeit liefert.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/thumbnail/nanocell-nano90-2025-75-thumbnail-07.jpg",
+        "srcset": null,
+        "alt": "Ein Bild, das in der Mitte geteilt wurde, um ein Vorher und Nachher von reinen Farben in echtem 4K zu zeigen. Die linke Seite des Karussells ist scharf und farbenfroh, während die rechte Seite verblasst ist. In der Überschrift geht es darum, wie jede Szene visuell eindrucksvoller und unterhaltsamer gestaltet wird. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/thumbnail/nanocell-nano90-2025-75-thumbnail-08.jpg",
+        "srcset": null,
+        "alt": "Vergleich der Bildqualität mit und ohne LG 4K Super Upscaling. Zwei Panel zeigen dasselbe Bild eines bunten Vogels, der auf einem Ast in einem Wald sitzt, das Panel auf der rechten Seite ist verblasst. In der Überschrift geht es darum, wie 4K Super Upscaling die Auflösung, Helligkeit und Klarheit verbessert. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/thumbnail/nanocell-nano90-2025-75-thumbnail-09.jpg",
+        "srcset": null,
+        "alt": "Perspektive aus dem Inneren einer Höhle mit Blick auf den Höhleneingang, wo ein blauer Himmel und der Horizont zu sehen sind. Die gesamte Szene ist in zwei Hälften geteilt, um die Möglichkeiten von QNEDs Erweitertem Lokalen Dimmen zu zeigen. Auf der einen Seite sind die Farben und Details verwaschen und das Bild wirkt matschig. Auf dem Etikett steht: Konventionelle LED. Die andere Seite hat einen tollen Schwarzwert, einen besseren Kontrast, eine höhere Helligkeit und bessere Farben. Auf dem Etikett steht „Erweitertes Lokales Dimmen“. Der Titel beschreibt, wie das Erweiterte Lokale Dimmen für ein schärferes Bild sorgt.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/thumbnail/nanocell-nano90-2025-75-thumbnail-10.jpg",
+        "srcset": null,
+        "alt": "LG TV mit einem beeindruckend großen Bildschirm, der über einer LG Soundbar in einem modern eingerichteten Wohnzimmer an der Wand montiert ist.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/thumbnail/nanocell-nano90-2025-75-thumbnail-11-01.jpg",
+        "srcset": null,
+        "alt": "LG TV-Bildschirm mit einer AI Magic Remote im Vordergrund. Die KI-Schaltfläche ist hervorgehoben und eine Sprechblase zeigt den Text „Schlage einen Film vor, der mir gefällt“. Auf dem Bildschirm sehen wir das Benutzersymbol E, das anzeigt, dass AI Voice ID in der Lage war, den Benutzer zu identifizieren und personalisierte Empfehlungen allein auf der Grundlage seiner Stimme zu geben.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/thumbnail/nanocell-nano90-2025-75-thumbnail-12-01.jpg",
+        "srcset": null,
+        "alt": "LG AI Magic Remote mit hervorgehobener KI-Schaltfläche. Rundherum befinden sich die verschiedenen Funktionen, auf die ein Benutzer über die Schaltfläche zugreifen kann. AI Voice ID, AI Search, AI Chatbot, AI Concierge, AI Picture Wizard, AI Sound Wizard. Der Text erklärt, dass die LG AI Magic Remote dein KI-Erlebnis mit einer speziellen KI-Schaltfläche vervollständigt und wie eine Maus in der Luft verwendet werden kann. Einfach zeigen und klicken.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/thumbnail/nanocell-nano90-2025-75-thumbnail-13.jpg",
+        "srcset": null,
+        "alt": "Nahaufnahme eines LG TV-Bildschirms, der zeigt, wie AI Search funktioniert. Ein kleines Chat-Fenster ist geöffnet und zeigt, wie der Benutzer nachfragt, welche Sportspiele verfügbar sind. AI Search antwortete per Chat und zeigte Vorschaubilder verfügbarer Inhalte an. Es wird auch eine Aufforderung mit einer Frage an Microsoft Copilot angezeigt. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/thumbnail/nanocell-nano90-2025-75-thumbnail-14-01.jpg",
+        "srcset": null,
+        "alt": "LG AI Magic Remote vor einem LG TV-Bildschirm. Auf dem Bildschirm erscheint eine personalisierte Begrüßung durch die LG KI mit benutzerdefinierten Schlüsselwörtern, die auf dem Such- und Sehverlauf des Benutzers basieren. An der Fernbedienung befinden sich ein Symbol und ein Hinweis darauf, dass die AI Concierge-Funktion mit einem kurzen Druck auf die KI-Schaltfläche leicht zugänglich ist. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/thumbnail/nanocell-nano90-2025-75-thumbnail-15.jpg",
+        "srcset": null,
+        "alt": "Auf einem LG TV-Bildschirm werden Science-Fiction-Inhalte abgespielt. Auf dem Bildschirm befindet sich die Benutzeroberfläche des AI Chatbots. Der Benutzer hat dem Chatbot mitgeteilt, dass der Bildschirm zu dunkel ist. Der Chatbot bot Lösungen für die Anfrage an. Die gesamte Szene ist in zwei Hälften geteilt. Die eine Seite ist dunkler, die andere Seite heller und zeigt, wie der AI Chatbot das Problem für den Nutzer automatisch gelöst hat. Der Text erklärt, dass der Al Chatbot die Absicht des Benutzers verstehen und Lösungen zur Fehlerbehebung anbieten kann.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/features/desktop/nanocell-nano90-2025-00-feature-award-d.jpg",
+        "srcset": null,
+        "alt": "CES Innovation Awards-Abzeichen mit einer Ehrung als 2025 Honoree.",
+        "width": 488,
+        "height": 275
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/features/mobile/nanocell-nano90-2025-01-feature-kv-mv.jpg",
+        "srcset": null,
+        "alt": "Der LG NanoCell TV ist leicht nach links geneigt und zeigt bunte Fäden. Das Logo des alpha 7 4K KI-Prozessors ist in der unteren rechten Ecke des Fernsehers eingebettet. Der Hintergrund ist ein heller Farbverlauf in Blaugrün. ",
+        "width": 1280,
+        "height": 480
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/features/mobile/nanocell-nano90-2025-06-feature-ai-magic-remote-m-01.jpg",
+        "srcset": null,
+        "alt": "LG AI Magic Remote vor einem abstrakten Hintergrund. Die KI-Taste ist hervorgehoben. Es gibt eine grafische UI-Darstellung mit Symbolen, die zeigt, wie die KI-Taste den Zugang zu verschiedenen KI-Funktionen ermöglicht. Zu den Services gehören AI Voice ID, AI Search, AI Chatbot, AI Concierge, AI Picture Wizard und AI Sound Wizard. Die mausähnliche Funktionalität wird präsentiert, indem der Cursor über einer Schnittstelle angezeigt wird und verdeutlicht, wie die Fernbedienung die Steuerung vereinfacht.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/features/mobile/nanocell-nano90-2025-07-feature-ai-voice-id-m-01.jpg",
+        "srcset": null,
+        "alt": "Eine vierköpfige Familie ist um ein LG AI TV versammelt. Um die Person, welche die Fernbedienung hält, erscheint ein Kreis mit ihrem Namen. Hier wird gezeigt, wie AI Voice ID die Stimmsignatur jedes Benutzers erkennt. Die webOS-Oberfläche zeigt dann, wie die KI automatisch das Konto wechselt und personalisierte Inhalte empfiehlt. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/features/mobile/nanocell-nano90-2025-08-feature-ai-search-m.jpg",
+        "srcset": null,
+        "alt": "Nahaufnahme eines LG QNED TV-Bildschirms, der zeigt, wie AI Search funktioniert. Ein kleines Chat-Fenster ist geöffnet und zeigt, wie der Benutzer nachfragt, welche Sportspiele verfügbar sind. AI Search antwortete per Chat und zeigte Vorschaubilder verfügbarer Inhalte an. Es wird auch eine Aufforderung mit einer Frage an Microsoft Copilot angezeigt. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/features/mobile/nanocell-nano90-2025-09-feature-ai-chatbot-m.jpg",
+        "srcset": null,
+        "alt": "Auf einem LG QNED TV-Bildschirm werden Science-Fiction-Inhalte abgespielt. Auf dem Bildschirm befindet sich die Benutzeroberfläche des AI Chatbots. Der Benutzer hat dem Chatbot mitgeteilt, dass der Bildschirm zu dunkel ist. Der Chatbot bot Lösungen für die Anfrage an. Die gesamte Szene ist in zwei Hälften geteilt. Die eine Seite ist dunkler, die andere Seite heller und zeigt, wie der AI Chatbot das Problem für den Nutzer automatisch gelöst hat.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/features/mobile/nanocell-nano90-2025-10-feature-ai-concierge-m-01.jpg",
+        "srcset": null,
+        "alt": "LG AI Magic Remote vor einem LG TV-Bildschirm. Auf dem Bildschirm erscheint eine personalisierte Begrüßung durch die LG KI mit benutzerdefinierten Schlüsselwörtern, die auf dem Such- und Sehverlauf des Benutzers basieren. An der Fernbedienung befinden sich ein Symbol und ein Hinweis darauf, dass die AI Concierge-Funktion mit einem kurzen Druck auf die KI-Schaltfläche leicht zugänglich ist. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/features/mobile/nanocell-nano90-2025-11-feature-ai-picture-wizard-m.jpg",
+        "srcset": null,
+        "alt": "Bildschirm eines Benutzers, der den Personalisierungsprozess des AI Picture Wizard durchläuft. Es werden Bilderserien angezeigt, in denen die Auswahl des Benutzers hervorgehoben wird. Ein Ladesymbol erscheint und ein Landschaftsbild wird von links nach rechts verbessert.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/features/mobile/nanocell-nano90-2025-12-feature-ai-sound-wizard-m.jpg",
+        "srcset": null,
+        "alt": "Bildschirm eines Benutzers, der den Personalisierungsprozess des AI Sound Wizard durchläuft. Es werden eine Reihe von Symbolen für Klänge ausgewählt. Zu sehen sind eine Jazzsängerin und ein Saxophonist, wobei die personalisierten Klänge durch Klangwellen dargestellt werden, die über das Bild animiert werden. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/features/mobile/nanocell-nano90-2025-13-feature-webos-re-new-program-m.jpg",
+        "srcset": null,
+        "alt": "webOS Re:New Program-Logo und -Name mit dem CES Innovation Awards 2025 Honoree-Abzeichen in der Nähe. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/xf/gallery-plus/common/features/mobile/tv-2025-feature-gallery-plus-intro-paid-m.jpg",
+        "srcset": null,
+        "alt": "Ein an der Wand befestigter LG TV mit einer Vielzahl an Inhalten, die den Bildschirm durchlaufen, von klassischer Kunst zu moderner Kunst, 3D und mehr. Logos von Content-Partnern werden auch angezeigt. Auf dem Label in der Ecke steht „Freie Inhalte, einen Monat lang“.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/xf/gallery-plus/common/features/desktop/tv-2025-feature-gallery-plus-music-lounge-paid-d.jpg",
+        "srcset": null,
+        "alt": "Eine Anleitung, wie man den LG-Fernseher einrichtet, um Stimmungsmusik passend zu den Bildern abzuspielen. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/xf/gallery-plus/common/features/mobile/tv-2025-feature-gallery-plus-curation-paid-m.jpg",
+        "srcset": null,
+        "alt": "Vom Startbildschirm des LG-Fernsehers wird gezeigt, wie man seine Präferenzen einstellt, um automatisch kuratierte Inhalte zu erhalten. Von der Auswahl verschiedener Inhalte bis hin zum Erstellen des persönlichen Profils. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/xf/gallery-plus/common/features/mobile/tv-2025-feature-gallery-plus-google-photo-m.jpg",
+        "srcset": null,
+        "alt": "Ein an der Wand befestigter LG-Fernseher mit einem Handy im Vordergrund. Es wird gezeigt, wie man Google Fotos auf dem LG-Fernseher einrichtet ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/xf/gallery-plus/common/features/mobile/tv-2025-feature-gallery-plus-information-board-m.jpg",
+        "srcset": null,
+        "alt": "Das Informations-Board wird auf einem an der Wand befestigten LG-Fernseher angezeigt. Verschiedene Funktionen, wie Wetterupdates, Sportnachrichten, Fernsehplaner, Home Hub und Google Kalendar werden gezeigt.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/xf/gallery-plus/common/features/mobile/tv-2025-feature-gallery-plus-ai-art-paid-m.jpg",
+        "srcset": null,
+        "alt": "Der Vorgang der Verwendung von Sprachbefehlen für die generative KI-Funktion von LG Gallery+ wird dargestellt. Vom ersten Prompt an wird das entstandene Kunstwerk gezeigt, sowie andere Arten von Prompts und die daraus resultierenden Kunstwerke. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/xf/gallery-plus/common/features/desktop/tv-2025-feature-gallery-plus-smart-sensor-aod-paid-d.jpg",
+        "srcset": null,
+        "alt": "Ein an der Wand befestigter LG-Fernseher wirkt ausgeschaltet, aber die Always Ready-Funktion geht an. Er zeigt Informationen an und wechselt dann furch verschiedene Kunstwerke.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/xf/gallery-plus/common/features/desktop/tv-2025-feature-gallery-plus-smart-sensor-brightness-paid-d.jpg",
+        "srcset": null,
+        "alt": "In einem hellen, gut beleuchteten Raum zeigt der Bildschirm des LG-Fernsehers ein ebenso leuchtendes Kunstwerk, das zeigt, wie die Bildschirmhelligkeit für jede Lichtverhältnisse optimiert wird.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/xf/gallery-plus/common/features/desktop/tv-2025-feature-gallery-plus-smart-sensor-motion-d.jpg",
+        "srcset": null,
+        "alt": "Ein an der Wand befestigter LG-Fernseher mit ausgeschaltetem Display zeigt, wie die Bewegungssensoren des Fernsehers intelligent reagieren können, je nachdem welche Bewegungen in der Nähe erkannt werden.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/lautsprecher/soundbars/gallery/s70ty-basic.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht der LG Soundbar DS70TY und des Subwoofers",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/lautsprecher/soundbars/gallery/ds60tr/s60tr-basic.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht der LG Soundbar DS60TR, Subwoofer und hintere Lautsprecher",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YnJhbmRsb2dvMg/17ace0b0-6b80-42e7-8b9e-ddf7e332a75d",
+        "srcset": null,
+        "alt": "LG UK",
+        "width": 111,
+        "height": 55
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YnJhbmRsb2dvMg/17ace0b0-6b80-42e7-8b9e-ddf7e332a75d",
+        "srcset": null,
+        "alt": "LG UK",
+        "width": 111,
+        "height": 55
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YnJhbmRsb2dvMg/17ace0b0-6b80-42e7-8b9e-ddf7e332a75d",
+        "srcset": null,
+        "alt": "LG UK",
+        "width": 111,
+        "height": 55
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YnJhbmRsb2dvMg/17ace0b0-6b80-42e7-8b9e-ddf7e332a75d",
+        "srcset": null,
+        "alt": "LG UK",
+        "width": 111,
+        "height": 55
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YnJhbmRsb2dvMg/17ace0b0-6b80-42e7-8b9e-ddf7e332a75d",
+        "srcset": null,
+        "alt": "LG UK",
+        "width": 111,
+        "height": 55
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YnJhbmRsb2dvMg/17ace0b0-6b80-42e7-8b9e-ddf7e332a75d",
+        "srcset": null,
+        "alt": "LG UK",
+        "width": 111,
+        "height": 55
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/75qned85a6c_aeu_eedg_c/450_b.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 75 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV 75QNED86A6A",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-d.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/43qned86a6c/450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 43 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV 43QNED86A6C",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/uhd/ua75/gp1/gallery/43-ua75-a/basic1/uhd-ua75-2025-43-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 65 Zoll LG UHD AI UA75 4K Smart TV 2025 65UA75006LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled83b59la/450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 83 Zoll LG OLED AI B5 4K Smart TV OLED83B59LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des Weltweit erster, transparenter \"True Wireless\" OLED TV LG SIGNATURE OLED T 77 Zoll mit kabelloser 4K-Video- und Audioübertragung OLED77T49LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/uhd/ua73/gp1/gallery/50-ua73-a/basic/uhd-ua73-2025-50-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 50 Zoll LG UHD AI UA73 4K Smart TV 2025 50UA73006LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_manual-software_48x48.svg",
+        "srcset": null,
+        "alt": "Symbol Benutzerhandbuch und Software",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_complaints_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Fehlerbehebung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_warranty_48x48.svg",
+        "srcset": null,
+        "alt": "Garantie-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_part-accessory_48x48.svg",
+        "srcset": null,
+        "alt": "Symbol für Teile und Zubehör",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/buy/icon_register-a-product_48.svg",
+        "srcset": null,
+        "alt": "Symbol Produktregistrierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_product_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Produktsupport",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_order_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Bestellsupport",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/Icon_request-a-repair_60x60.svg",
+        "srcset": null,
+        "alt": "Symbol für Reparaturanfrage",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_chat-with-us__60x60.svg",
+        "srcset": null,
+        "alt": "Livechat-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_whatsapp_60x60.svg",
+        "srcset": null,
+        "alt": "WhatsApp-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_email-us_60x60.svg",
+        "srcset": null,
+        "alt": "E-Mail-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_call_48.svg",
+        "srcset": null,
+        "alt": "Anruf-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/common/find-a-store-test/gradation-icon/banner-light-icons.svg",
+        "srcset": null,
+        "alt": "Filialsymbol suchen",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/facebook-circle-fill.svg",
+        "srcset": null,
+        "alt": "Facebook",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/youtube-circle-fill.svg",
+        "srcset": null,
+        "alt": "Youtube",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/instagram-circle-fill.svg",
+        "srcset": null,
+        "alt": "Instagram",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/ot_company_logo.png",
+        "srcset": null,
+        "alt": "Firmenlogo",
+        "width": 600,
+        "height": 106
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/powered_by_logo.svg",
+        "srcset": null,
+        "alt": "Powered by Onetrust",
+        "width": 136,
+        "height": 16
+      },
+      {
+        "src": "https://lantern.roeye.com/track.php?fingerprint=0e398a32-f94c-4327-8b91-78c9b166e387&referrer=&landingpage=https%3A%2F%2Fwww.lg.com%2Fde%2Ftvs-und-soundbars%2Fnanocell%2F75nano90a6b%2F&useragent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F143.0.7499.4%20Safari%2F537.36&site=63126",
+        "srcset": null,
+        "alt": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://bat.bing.com/action/0?ti=355009024&Ver=2&mid=3eb0b401-024d-44a6-ad98-1942facdf177&bo=1&sid=fc549eb0f5bb11f0a0a5b7ae3fc4ae70&vid=fc548160f5bb11f0b35da3cae89cc6a9&vids=0&msclkid=N&pi=0&lg=en-US&sw=1280&sh=720&sc=24&nwd=1&tl=75%C2%A0Zoll%20LG%20NanoCell%20AI%20NANO90%204K%20Smart%20TV%20-%2075NANO90A6B%20%7C%20LG%20DE&p=https%3A%2F%2Fwww.lg.com%2Fde%2Ftvs-und-soundbars%2Fnanocell%2F75nano90a6b%2F&r=&lt=6371&evt=pageLoad&sv=2&cdb=AQET&rn=765968",
+        "srcset": null,
+        "alt": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "videos": [
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/video/nanocell-nano90-2025-03-video-pure-colors-in-real-4k-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/video/nanocell-nano90-2025-03-video-pure-colors-in-real-4k-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/video/nanocell-nano90-2025-06-video-ai-magic-remote-d-01.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/video/nanocell-nano90-2025-07-video-ai-voice-id-m-01.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/video/nanocell-nano90-2025-07-video-ai-voice-id-d-01.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/video/nanocell-nano90-2025-11-video-ai-picture-wizard-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/video/nanocell-nano90-2025-11-video-ai-picture-wizard-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/video/nanocell-nano90-2025-12-video-ai-sound-wizard-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/video/nanocell-nano90-2025-12-video-ai-sound-wizard-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/xf/gallery-plus/common/video/tv-2025-video-gallery-plus-intro-paid-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/xf/gallery-plus/common/video/tv-2025-video-gallery-plus-curation-paid-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/xf/gallery-plus/common/video/tv-2025-video-gallery-plus-curation-paid-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/xf/gallery-plus/common/video/tv-2025-video-gallery-plus-information-board-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/xf/gallery-plus/common/video/tv-2025-video-gallery-plus-information-board-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/xf/gallery-plus/common/video/tv-2025-video-gallery-plus-ai-art-paid-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/xf/gallery-plus/common/video/tv-2025-video-gallery-plus-ai-art-paid-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/xf/gallery-plus/common/video/tv-2025-video-gallery-plus-smart-sensor-aod-paid-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/xf/gallery-plus/common/video/tv-2025-gallery-plus-smart-sensor-brightness-paid-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/xf/gallery-plus/common/video/tv-2025-video-gallery-plus-smart-sensor-motion-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/video/nanocell-nano90-2025-21-video-home-hub-m-01.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/video/nanocell-nano90-2025-21-video-home-hub-d-01.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/video/nanocell-nano90-2025-23-video-lg-channels-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/video/nanocell-nano90-2025-23-video-lg-channels-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/video/nanocell-nano90-2025-25-video-gaming-portal-m-02.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/video/nanocell-nano90-2025-25-video-gaming-portal-d-02.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      }
+    ]
+  },
+  "specifications": {
+    "€124,92": "Monatliche Rate",
+    "€1.499,00": "Gesamtbetrag inkl. Zinsen",
+    "0%": "Zinssatz",
+    "€74,96": "Monatliche Rate",
+    "€1.798,99": "Gesamtbetrag inkl. Zinsen",
+    "€40,00": "Monatliche Rate",
+    "€120,00": "Gesamtbetrag inkl. Zinsen"
+  },
+  "features": [],
+  "reviews": {
+    "summary": {},
+    "featured": [
+      {
+        "headline": "Nice TV, shame about mandatory account requirement",
+        "body": "[This review was collected as part of a promotion.] LG can install the unwanted and unneeded Copilot app automatically and without my permission.\nNetflix and Amazon Video install at the push of a button on the remote.\nWant to install anything that LG aren't getting paid for, and you've got to create an account and login. Another unnecessary and disproportionate requirement. All for a bit more marketing data...\n\nOtherwise it's a pretty decent TV. It loads up quickly and just works. The picture quality is good once it's calibrated to your preference. Just the odd bit of back-light flicker depending on the scene. I'd have certainly given it another star or two, if not for the need to create yet another account.",
+        "rating": 3,
+        "author": "Elst",
+        "dateCreated": "2026-01-05T14:20:25.000+00:00",
+        "datePublished": "2026-01-07T15:00:12.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/1e577472-998d-556a-88c2-806e2e9741f9"
+        ]
+      },
+      {
+        "headline": "75 NANO ROCKS!",
+        "body": "[This review was collected as part of a promotion.] Excellent quality & easy to set up with so many cool options. This is my 2nd NANO & that speaks for itself. Go LG!",
+        "rating": 5,
+        "author": "Doug S",
+        "dateCreated": "2026-01-08T13:32:10.000+00:00",
+        "datePublished": "2026-01-08T15:00:12.000+00:00",
+        "images": []
+      },
+      {
+        "headline": "Mr",
+        "body": "[This review was collected as part of a promotion.] LG best product in the world , I bought Samsung QLED 75 inch the screen goes black!!!!",
+        "rating": 5,
+        "author": "Mass",
+        "dateCreated": "2026-01-10T20:48:08.000+00:00",
+        "datePublished": "2026-01-10T22:45:14.000+00:00",
+        "images": []
+      },
+      {
+        "headline": "Fantastic quality",
+        "body": "[This review was collected as part of a promotion.] Perfect size for my living room.\nFantastic picture quality.\nMore like 8k resolution",
+        "rating": 5,
+        "author": "Ossai",
+        "dateCreated": "2025-12-27T13:43:36.000+00:00",
+        "datePublished": "2025-12-27T15:30:12.000+00:00",
+        "images": []
+      },
+      {
+        "headline": "Super!!!",
+        "body": "[This review was collected as part of a promotion.] Its really my dream TV, i love the big screen, the picture quality.",
+        "rating": 5,
+        "author": "Oluwabunmi",
+        "dateCreated": "2025-12-26T20:30:24.000+00:00",
+        "datePublished": "2025-12-26T22:15:17.000+00:00",
+        "images": []
+      },
+      {
+        "headline": "Great TV",
+        "body": "[This review was collected as part of a promotion.] I am extremely impressed with the 75-inch LG NanoCell AI NANO90 4K Smart TV (2025). From the moment it was set up, the picture quality stood out. The colours are vivid and accurate without appearing over-saturated, and the contrast is excellent, even in a bright room. The 4K resolution combined with NanoCell technology delivers sharp detail whether I am watching films, live sport, or standard HD content that is upscaled.\r\n\r\nThe AI processing genuinely enhances the viewing experience. Picture and sound automatically adjust depending on what is on screen, which means minimal manual tweaking is required. Dolby Vision and Dolby Atmos add real depth and immersion, particularly when watching movies or streaming high-quality content.\r\n\r\nThe smart TV interface is fast, intuitive, and easy to navigate. Apps load quickly, and the remote is responsive and well designed. Voice control works reliably and makes searching for content straightforward. Gaming performance is also excellent, with smooth motion and low input lag that noticeably improves gameplay.\r\n\r\nPhysically, the TV looks premium. The slim design and narrow bezels give it a modern appearance that suits a large living space without feeling bulky. Setup was straightforward, and the TV integrated seamlessly with other devices.\r\n\r\nOverall, this television offers outstanding value for its size and performance. It combines excellent picture quality, smart features, and reliable performance into a package that feels genuinely future-proof. I would confidently recommend it to anyone looking for a large, high-quality 4K TV.",
+        "rating": 5,
+        "author": "KatieAnna",
+        "dateCreated": "2025-12-13T13:16:37.000+00:00",
+        "datePublished": "2025-12-13T14:45:13.000+00:00",
+        "images": []
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://www.lg.com/de/"
+    },
+    {
+      "position": 2,
+      "name": "TVs & Soundbars",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/"
+    },
+    {
+      "position": 3,
+      "name": "NanoCell",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/nanocell/"
+    },
+    {
+      "position": 4,
+      "name": "75NANO90A6B",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/nanocell/75nano90a6b/"
+    }
+  ],
+  "faq": [],
+  "metadata": {
+    "mpn": "75NANO90A6B",
+    "title": "75 Zoll LG NanoCell AI NANO90 4K Smart TV - 75NANO90A6B | LG DE",
+    "description": "Entdecke die nächste Generation der LG Smart AI TVs, 75NANO90A6B, für ein Fernseherlebnis, das dank KI-Funktionen & webOS auf dich zugeschnitten ist.",
+    "ogImage": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/basic/nanocell-nano90-2025-75-basic-01.jpg",
+    "ogTitle": "75 Zoll LG NanoCell AI NANO90 4K Smart TV - 75NANO90A6B | LG DE",
+    "canonical": "https://www.lg.com/de/tvs-und-soundbars/nanocell/75nano90a6b/"
+  },
+  "structuredData": {
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/nanocell/75nano90a6b/",
+        "review": [
+          {
+            "@type": "Review",
+            "dateCreated": "2026-01-05T14:20:25.000+00:00",
+            "datePublished": "2026-01-07T15:00:12.000+00:00",
+            "headline": "Nice TV, shame about mandatory account requirement",
+            "reviewBody": "[This review was collected as part of a promotion.] LG can install the unwanted and unneeded Copilot app automatically and without my permission.\nNetflix and Amazon Video install at the push of a button on the remote.\nWant to install anything that LG aren't getting paid for, and you've got to create an account and login. Another unnecessary and disproportionate requirement. All for a bit more marketing data...\n\nOtherwise it's a pretty decent TV. It loads up quickly and just works. The picture quality is good once it's calibrated to your preference. Just the odd bit of back-light flicker depending on the scene. I'd have certainly given it another star or two, if not for the need to create yet another account.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 3,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Elst"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/1e577472-998d-556a-88c2-806e2e9741f9",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/a440a833-2174-59d8-8306-fed6b1e6e0ab"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2026-01-08T13:32:10.000+00:00",
+            "datePublished": "2026-01-08T15:00:12.000+00:00",
+            "headline": "75 NANO ROCKS!",
+            "reviewBody": "[This review was collected as part of a promotion.] Excellent quality & easy to set up with so many cool options. This is my 2nd NANO & that speaks for itself. Go LG!",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Doug S"
+            },
+            "image": [],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2026-01-10T20:48:08.000+00:00",
+            "datePublished": "2026-01-10T22:45:14.000+00:00",
+            "headline": "Mr",
+            "reviewBody": "[This review was collected as part of a promotion.] LG best product in the world , I bought Samsung QLED 75 inch the screen goes black!!!!",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mass"
+            },
+            "image": [],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-12-27T13:43:36.000+00:00",
+            "datePublished": "2025-12-27T15:30:12.000+00:00",
+            "headline": "Fantastic quality",
+            "reviewBody": "[This review was collected as part of a promotion.] Perfect size for my living room.\nFantastic picture quality.\nMore like 8k resolution",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ossai"
+            },
+            "image": [],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-12-26T20:30:24.000+00:00",
+            "datePublished": "2025-12-26T22:15:17.000+00:00",
+            "headline": "Super!!!",
+            "reviewBody": "[This review was collected as part of a promotion.] Its really my dream TV, i love the big screen, the picture quality.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Oluwabunmi"
+            },
+            "image": [],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-12-13T13:16:37.000+00:00",
+            "datePublished": "2025-12-13T14:45:13.000+00:00",
+            "headline": "Great TV",
+            "reviewBody": "[This review was collected as part of a promotion.] I am extremely impressed with the 75-inch LG NanoCell AI NANO90 4K Smart TV (2025). From the moment it was set up, the picture quality stood out. The colours are vivid and accurate without appearing over-saturated, and the contrast is excellent, even in a bright room. The 4K resolution combined with NanoCell technology delivers sharp detail whether I am watching films, live sport, or standard HD content that is upscaled.\r\n\r\nThe AI processing genuinely enhances the viewing experience. Picture and sound automatically adjust depending on what is on screen, which means minimal manual tweaking is required. Dolby Vision and Dolby Atmos add real depth and immersion, particularly when watching movies or streaming high-quality content.\r\n\r\nThe smart TV interface is fast, intuitive, and easy to navigate. Apps load quickly, and the remote is responsive and well designed. Voice control works reliably and makes searching for content straightforward. Gaming performance is also excellent, with smooth motion and low input lag that noticeably improves gameplay.\r\n\r\nPhysically, the TV looks premium. The slim design and narrow bezels give it a modern appearance that suits a large living space without feeling bulky. Setup was straightforward, and the TV integrated seamlessly with other devices.\r\n\r\nOverall, this television offers outstanding value for its size and performance. It combines excellent picture quality, smart features, and reliable performance into a package that feels genuinely future-proof. I would confidently recommend it to anyone looking for a large, high-quality 4K TV.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KatieAnna"
+            },
+            "image": [],
+            "video": [],
+            "comment": []
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org/",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/nanocell/75nano90a6b/",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "itemReviewed": {
+            "@type": "IndividualProduct",
+            "name": "75NANO90A6B"
+          },
+          "ratingValue": "4.7",
+          "reviewCount": 6,
+          "bestRating": 5
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "product",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/nanocell/75nano90a6b/",
+        "name": "75 Zoll LG NanoCell AI NANO90 4K Smart TV ",
+        "image": "/content/dam/channel/wcms/de/2025_ms_lg-com/tv/nanocell/nano90/gp1/gallery/75-nano90-a/basic/nanocell-nano90-2025-75-basic-01.jpg",
+        "description": "Entdecken Sie LG 75NANO90A6B. Für Bilder, Bewertungen und technische Daten zu LG klicken 75 Zoll LG NanoCell AI NANO90 4K Smart TV .",
+        "mpn": "75NANO90A6B",
+        "brand": {
+          "@type": "Brand",
+          "name": "LG"
+        },
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "EUR",
+          "price": "",
+          "seller": {
+            "@type": "Organization",
+            "name": "LG DE"
+          }
+        },
+        "size": {
+          "@type": "QuantitativeValue",
+          "unitCode": "MMT",
+          "value": "4K UHD"
+        },
+        "hasEnergyConsumptionDetails": {
+          "@type": "EnergyConsumptionDetails",
+          "hasEnergyEfficiencyCategory": "https://schema.org/EUEnergyEfficiencyCategoryE",
+          "energyEfficiencyScaleMax": "https://schema.org/EUEnergyEfficiencyCategoryA1Plus",
+          "energyEfficiencyScaleMin": "https://schema.org/EUEnergyEfficiencyCategoryG"
+        },
+        "hasCertification": {
+          "@type": "Certification",
+          "issuedBy": {
+            "@type": "Organization",
+            "name": "European_Commission"
+          },
+          "name": "EPREL",
+          "certificationIdentification": "2227307"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.lg.com/de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "TVs & Soundbars",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "NanoCell",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/nanocell/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "75NANO90A6B",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/nanocell/75nano90a6b/"
+          }
+        ]
+      }
+    ]
+  }
+}

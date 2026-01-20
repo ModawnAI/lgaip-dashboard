@@ -1,0 +1,1756 @@
+{
+  "crawledAt": "2026-01-20T04:00:07.072Z",
+  "url": "https://www.lg.com/de/lautsprecher/soundbars/dsc9s/",
+  "modelNumber": "DSC9S",
+  "category": "Soundbar",
+  "basicInfo": {
+    "productName": "3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer",
+    "headline": "3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer",
+    "brand": "LG",
+    "modelNumber": "DSC9S"
+  },
+  "pricing": {
+    "currentPrice": "369",
+    "currency": "EUR",
+    "availability": "PreOrder",
+    "seller": "LG DE"
+  },
+  "ratings": {
+    "averageRating": "4.5",
+    "reviewCount": 310,
+    "bestRating": 5
+  },
+  "energyEfficiency": {
+    "category": "",
+    "scaleMax": "",
+    "scaleMin": ""
+  },
+  "media": {
+    "images": [
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/large07.jpg?w=800",
+        "srcset": null,
+        "alt": "LG 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer, DSC9S",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/large01.jpg?w=800",
+        "srcset": null,
+        "alt": "LG 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer, DSC9S",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/large02.jpg?w=800",
+        "srcset": null,
+        "alt": "LG 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer, DSC9S",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/large03.jpg?w=800",
+        "srcset": null,
+        "alt": "LG 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer, DSC9S",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/large04.jpg?w=800",
+        "srcset": null,
+        "alt": "LG 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer, DSC9S",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/large05.jpg?w=800",
+        "srcset": null,
+        "alt": "LG 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer, DSC9S",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/large06.jpg?w=800",
+        "srcset": null,
+        "alt": "LG 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer, DSC9S",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/large07.jpg?w=800",
+        "srcset": null,
+        "alt": "LG 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer, DSC9S",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/large01.jpg?w=800",
+        "srcset": null,
+        "alt": "LG 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer, DSC9S",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/small01.jpg",
+        "srcset": null,
+        "alt": "LG 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer, DSC9S",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/small02.jpg",
+        "srcset": null,
+        "alt": "LG 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer, DSC9S",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/small03.jpg",
+        "srcset": null,
+        "alt": "LG 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer, DSC9S",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/small04.jpg",
+        "srcset": null,
+        "alt": "LG 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer, DSC9S",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/small05.jpg",
+        "srcset": null,
+        "alt": "LG 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer, DSC9S",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/small06.jpg",
+        "srcset": null,
+        "alt": "LG 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer, DSC9S",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/small07.jpg",
+        "srcset": null,
+        "alt": "LG 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer, DSC9S",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/large01.jpg",
+        "srcset": null,
+        "alt": "LG 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer, DSC9S",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/large02.jpg",
+        "srcset": null,
+        "alt": "LG 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer, DSC9S",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/large03.jpg",
+        "srcset": null,
+        "alt": "LG 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer, DSC9S",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/large04.jpg",
+        "srcset": null,
+        "alt": "LG 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer, DSC9S",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/large05.jpg",
+        "srcset": null,
+        "alt": "LG 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer, DSC9S",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/large06.jpg",
+        "srcset": null,
+        "alt": "LG 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer, DSC9S",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/large07.jpg",
+        "srcset": null,
+        "alt": "LG 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer, DSC9S",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/small01.jpg",
+        "srcset": null,
+        "alt": "LG 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer, DSC9S",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/small02.jpg",
+        "srcset": null,
+        "alt": "LG 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer, DSC9S",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/small03.jpg",
+        "srcset": null,
+        "alt": "LG 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer, DSC9S",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/small04.jpg",
+        "srcset": null,
+        "alt": "LG 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer, DSC9S",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/small05.jpg",
+        "srcset": null,
+        "alt": "LG 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer, DSC9S",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/small06.jpg",
+        "srcset": null,
+        "alt": "LG 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer, DSC9S",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/small07.jpg",
+        "srcset": null,
+        "alt": "LG 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer, DSC9S",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/awards/LG-DSC9S-award-Hires.png",
+        "srcset": null,
+        "alt": "HiFi-Journal.de DSC9S",
+        "width": 1280,
+        "height": 853
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/feature/award-areadvd.jpg",
+        "srcset": null,
+        "alt": "Area DVD DSC9S",
+        "width": 500,
+        "height": 500
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/award/DSC9-ComputerBild.jpg",
+        "srcset": null,
+        "alt": "Computer Bild DSC9S",
+        "width": 500,
+        "height": 500
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled65c5elb-dsc9s/450x450_OLED65C5ELB.DSC9S.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled77c5elb-dsc9s/450x450_OLED77C5ELB.DSC9S.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled83c5ela-dsc9s/450x450_OLED83C5ELA.DSC9S.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled55c43la-dsc9s/450x450_OLED55C47LA.DSC9S.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled65c43la-dsc9s/450x450_OLED65C43LA.DSC9S.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled77c43la-dsc9s/450x450_OLED77C43LA.DSC9S.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled55c47la-dsc9s/450x450_OLED55C47LA.DSC9S.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "LG 55 Zoll LG OLED evo C4 4k Smart TV + 3.1.3 Dolby Atmos® Soundbar mit 400 Watt, OLED55C47LA.DSC9S",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled65c47la-dsc9s/450x450_OLED65C47LA.DSC9S.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "LG 65 Zoll LG OLED evo C4 4k Smart TV + 3.1.3 Dolby Atmos® Soundbar mit 400 Watt, OLED65C47LA.DSC9S",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled77c47la-dsc9s/450x450_OLED77C47LA.DSC9S.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "LG 77 Zoll LG OLED evo C4 4k Smart TV + 3.1.3 Dolby Atmos® Soundbar mit 400 Watt, OLED77C47LA.DSC9S",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled55c5elb-dsc9s/450x450_OLED55C5ELB.DSC9S.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/feature/AV-SoundBar-SC9S-01-2-Key-Visual-Mobile-v2.jpg",
+        "srcset": null,
+        "alt": "Schrägansicht des LG OLED C Serie TVs und der SC9S Soundbar. Die Funktionen der WOW Halterung werden anhand der SC9S Soundbar demonstriert. Die Abbildungen der WOW Halterung am linken Bildschirmrand wurden vergrößert.",
+        "width": 1600,
+        "height": 800
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/tvs-soundbars/soundbars/sc9s-update-version-gp1-contents/av-soundbar-sc9s-features-2023/mobile/AV-SoundBar-SC9S-02-3-1-Synergy-m.jpg",
+        "srcset": null,
+        "alt": "",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/feature/AV-SoundBar-SC9S-02-2-Synergy-Mo.jpg",
+        "srcset": null,
+        "alt": "Ein Videoclip ist oben verfügbar. Darunter werden 3 grau gefilterte Bildern angezeigt, eine Halterung, ein freistehender und ein an der Wand montiertes Fernsehgerät links.",
+        "width": 1600,
+        "height": 370
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/tvs-soundbars/soundbars/sc9s-update-version-gp1-contents/av-soundbar-sc9s-features-2023/mobile/AV-SoundBar-SC9S-02-3-Synergy-Mobile.jpg",
+        "srcset": null,
+        "alt": "Verschieden dargestellte blaue Klangwellen gehen von Soundbar und Fernsehgerät aus.",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/feature/AV-SoundBar-SC9S-02-4-Synergy-De.jpg",
+        "srcset": null,
+        "alt": "Der Einstellungsbildschirm der LG Soundbar DSC9S ist auf dem an der Wand montierten Fernsehgerät zu sehen. Die Soundbar hängt an der Wand direkt unter dem Fernsehgerät.",
+        "width": 732,
+        "height": 411
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/feature/AV-SoundBar-SC9S-02-5-Synergy-De.jpg",
+        "srcset": null,
+        "alt": "Der Videoclip zur LG Soundbar DSC9S kann kabellos mit dem Fernsehgerät verbindet werden, das rechts zur Verfügung steht.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/feature/soundbar-sc9s-2023-03-1-advanced-sound-experience-mobile.jpg",
+        "srcset": null,
+        "alt": "Soundbar und Fernseher geben verschiedene geformte blaue Schallwellen in das Wohnzimmer ab.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/feature/AV-SoundBar-SC9S-03-3-Advanced-Sound-Experience-Mobile.jpg",
+        "srcset": null,
+        "alt": "Eine Soundbar wird auf dem Schrank platziert und blaue kreisförmige Klangwellen treten aus der Soundbar direkt vor dem Fernsehgerät heraus.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/feature/AV-SoundBar-SC9S-03-5-Advanced-Sound-Experience-Mobile.jpg",
+        "srcset": null,
+        "alt": "Blaue kuppelförmige dreilagige Klangwellen decken Soundbar und Fernsehgerät ab, die im Wohnzimmer an der Wand hängen.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/feature/AV-SoundBar-SC9S-03-7-Advanced-Sound-Experience-Mobile.jpg",
+        "srcset": null,
+        "alt": "Eine Soundbar ist auf dem Schrank positioniert. Daneben steht ein kabelloser Subwoofer auf dem Boden. Blaue Klanggrafiken kommen aus dem Subwoofer.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/feature/soundbar-sc9s-2023-04-4-content-experience-desktop.jpg",
+        "srcset": null,
+        "alt": "Ein LG OLED C ist an der Wand befestigt und darunter mithilfe einer speziellen Halterung eine LG Soundbar SC9S. Ganz unten befindet sich der Subwoofer. Der Fernseher zeigt eine Konzertszene.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/feature/AV-SoundBar-SC9S-05-4-Smart-Function-Mobile.jpg",
+        "srcset": null,
+        "alt": "Die Soundbar steht im Wohnzimmer auf dem grauen Schrank mit einem Fernsehgerät. Ein schwarzer kabelloser Subwoofer steht auf dem Boden auf der linken Seite und die Sonne scheint von rechts ins Bild. Ein langes Sofa in Rot und Weiß steht gegenüber dem Fernsehgerät und der Soundbar.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/feature/AV-SoundBar-SC9S-05-6-Smart-Function-Mobile.jpg",
+        "srcset": null,
+        "alt": "Die Soundbar und das Fernsehgerät hängen an der weißen Säule in der Mitte des Wohnzimmers. Auf dem Holzboden direkt unterhalb der Soundbar steht ein schwarzer Wooper. Links sind bodentiefe Fenster mit einer wunderschönen Aussicht und weißen Gardinen. Rechts befinden sich Holzregal mit Dekorationen und ein Bild auf dem Boden.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/feature/AV-SoundBar-SC9S-05-8-Smart-Function-Mobile.jpg",
+        "srcset": null,
+        "alt": "Ein animiertes Video zur Darstellung des AI Sound Pro der Soundbar. Zuerst wird ein Video von Rennwagen unter verschiedenen farbigen Lichtern mit roten Klangwellen weiter unten in der Mitte angezeigt. Dann ändert sich die Szene und man sieht einen Sänger, der ein Mikrofon direkt vor seinen Mund hält, das alles vor einem dunkelgrünen Hintergrund mit blauen bis violetten Klangwellen darunter für Musikmodus links. Zuletzt eine Moderatorin, die ein Mikrofon hält, vor Gebäuden mit grünen Klangwellen darunter rechts.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/feature/AV-SoundBar-SC9S-06-1-Eco-Mobile-v1.jpg",
+        "srcset": null,
+        "alt": "Die Zukunft im Blick1",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YnJhbmRsb2dvMg/17ace0b0-6b80-42e7-8b9e-ddf7e332a75d",
+        "srcset": null,
+        "alt": "LG UK",
+        "width": 111,
+        "height": 55
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YnJhbmRsb2dvMg/17ace0b0-6b80-42e7-8b9e-ddf7e332a75d",
+        "srcset": null,
+        "alt": "LG UK",
+        "width": 111,
+        "height": 55
+      },
+      {
+        "src": "https://contentorigin.bazaarvoice.com/theinsiders/default/C19_Insiders_PeopleTrustPeople_Logo_Grey.png",
+        "srcset": null,
+        "alt": "The Insiders",
+        "width": 300,
+        "height": 122
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/4f57878e-cc1a-4047-845f-7baac15b1991",
+        "srcset": null,
+        "alt": "LG Spain",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/0a67ae73-ba8b-451a-87aa-6939b1d00f9a",
+        "srcset": null,
+        "alt": "LG France",
+        "width": 111,
+        "height": 55
+      },
+      {
+        "src": "https://contentorigin.bazaarvoice.com/theinsiders/default/C19_Insiders_PeopleTrustPeople_Logo_Grey.png",
+        "srcset": null,
+        "alt": "The Insiders",
+        "width": 300,
+        "height": 122
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/4f57878e-cc1a-4047-845f-7baac15b1991",
+        "srcset": null,
+        "alt": "LG Spain",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/kuehlschraenke/gmg861mbae/gallery/450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Vorderansicht des 508L & 178,7 cm großen InstaView®  Multi Door Kühlschranks Metal Sorbet GMG861MBAE",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/gallery/gbbw726cpy/gallery-new/450-01.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Front view",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-c.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/kuehlschraenke-gefrierschraenke/gsxv90mcae_amcqeur_eedg_de_c/450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "gsxv90mcae",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/ca_en/images/monitors/gaming-monitors/45gx950a-b/gallery/ultragear-gaming-45gx950a-2025-gallery-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "front view",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled65g57lw/OLED65G57LW-450-1.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 65 Zoll LG OLED evo AI G5 4K Smart TV OLED65G57LW",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/kuehlschraenke-gefrierschraenke/GSXE81EVBD-basic-450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "front view",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-d.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_manual-software_48x48.svg",
+        "srcset": null,
+        "alt": "Symbol Benutzerhandbuch und Software",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_complaints_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Fehlerbehebung",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_warranty_48x48.svg",
+        "srcset": null,
+        "alt": "Garantie-Symbol",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_part-accessory_48x48.svg",
+        "srcset": null,
+        "alt": "Symbol für Teile und Zubehör",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/buy/icon_register-a-product_48.svg",
+        "srcset": null,
+        "alt": "Symbol Produktregistrierung",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_product_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Produktsupport",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_order_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Bestellsupport",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/Icon_request-a-repair_60x60.svg",
+        "srcset": null,
+        "alt": "Symbol für Reparaturanfrage",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_chat-with-us__60x60.svg",
+        "srcset": null,
+        "alt": "Livechat-Symbol",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_whatsapp_60x60.svg",
+        "srcset": null,
+        "alt": "WhatsApp-Symbol",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_email-us_60x60.svg",
+        "srcset": null,
+        "alt": "E-Mail-Symbol",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_call_48.svg",
+        "srcset": null,
+        "alt": "Anruf-Symbol",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/common/find-a-store-test/gradation-icon/banner-light-icons.svg",
+        "srcset": null,
+        "alt": "Filialsymbol suchen",
+        "width": 161,
+        "height": 160
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/facebook-circle-fill.svg",
+        "srcset": null,
+        "alt": "Facebook",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/youtube-circle-fill.svg",
+        "srcset": null,
+        "alt": "Youtube",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/instagram-circle-fill.svg",
+        "srcset": null,
+        "alt": "Instagram",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/ot_company_logo.png",
+        "srcset": null,
+        "alt": "Firmenlogo",
+        "width": 600,
+        "height": 106
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/powered_by_logo.svg",
+        "srcset": null,
+        "alt": "Powered by Onetrust",
+        "width": 136,
+        "height": 16
+      }
+    ],
+    "videos": [
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/feature/AV-SoundBar-SC9S-05-4-Smart-Function.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/feature/AV-SoundBar-SC9S-05-6-Smart-Function.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/feature/AV-SoundBar-SC9S-05-8-Smart-Function.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      }
+    ]
+  },
+  "specifications": {
+    "€124,92": "Monatliche Rate",
+    "€1.499,00": "Gesamtbetrag inkl. Zinsen",
+    "0%": "Zinssatz",
+    "€74,96": "Monatliche Rate",
+    "€1.798,99": "Gesamtbetrag inkl. Zinsen",
+    "€40,00": "Monatliche Rate",
+    "€120,00": "Gesamtbetrag inkl. Zinsen"
+  },
+  "features": [],
+  "reviews": {
+    "summary": {},
+    "featured": [
+      {
+        "headline": "Solid sound quality soundbar.",
+        "body": "### Review of the LG Sound Bar USC9S: Dolby Atmos and Audio Quality #### Introduction The LG Sound Bar USC9S is a premium audio system designed for home theaters, featuring Dolby Atmos for a dynamic, three-dimensional sound experience. This review focuses on its Dolby Atmos capabilities and overall audio quality. #### Design and Build Quality The USC9S sports a sleek, modern design with premium materials, ensuring it blends seamlessly into contemporary home setups. Its robust build and included subwoofer enhance both aesthetics and audio performance. #### Dolby Atmos Performance 1. **Sound Immersion**: The USC9S excels at creating a surround sound environment, with audio appearing to come from all directions, including above, enhancing movies and games. 2. **Clarity and Detail**: The sound bar delivers clear, distinct audio elements, ensuring dialogue, music, and effects are crisp and unmuddied. 3. **Power and Depth**: The subwoofer provides powerful bass, adding depth and realism to the audio, crucial for an immersive Dolby Atmos experience. #### Audio Quality 1. **Movies**: The USC9S provides an engaging movie experience with clear dialogue, powerful bass, and faithful soundtrack reproduction. 2. **Music**: It handles various music genres well, with crisp highs, well-represented mids, and tight bass, offering a wide soundstage. 3. **Gaming**: Gamers benefit from the spatial audio, which enhances immersion and helps pinpoint sound directions. #### Connectivity and Features The USC9S includes HDMI inputs/outputs, optical audio input, Bluetooth, and Wi-Fi, ensuring compatibility with various devices. It supports multiple audio formats and features AI Sound Pro for automatic audio adjustment based on content. #### User Experience Setup is straightforward, with intuitive remote control and smart home system integration, allowing for voice control via Google Assistant and Amazon Alexa. #### Conclusion The LG Sound Bar USC9S is a versatile audio system that excels in delivering an immersive Dolby Atmos experience. Its excellent build, superior audio performance, and wide range of features make it a top choice for enhancing home entertainment. Whether for movies, music, or gaming, the USC9S offers a rich and engaging audio experience, making it a worthwhile investment.",
+        "rating": 5,
+        "author": "Mr Karol",
+        "dateCreated": "2024-06-07T17:23:13.000+00:00",
+        "datePublished": "2024-06-07T20:00:14.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/7d0fe068-c059-5e32-a91f-2daaea392ac0",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/ce586941-0849-5ad7-b2f6-9213ccdfc855",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/492f3d1d-18ff-5d80-abdc-01e7b2ecb629",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/f338bff5-95cd-59d9-b01d-9231ceb65ae5",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/6bb59ef9-dc72-5909-89b2-42eeaacc7d13",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/f4b11461-4657-5b9d-afb6-1791df809900"
+        ]
+      },
+      {
+        "headline": "Superb product",
+        "body": "We got this item in a couple of months before and this I excellent. We paired it with my existing LG QNED tv and it’s excellent. The sound is very clear and crisp and the bass and treble it generates it noteworthy. I can be connected via Bluetooth or WiFi with different devices which is a plus. Really like and recommend it to everyone",
+        "rating": 5,
+        "author": "Mel91",
+        "dateCreated": "2024-06-06T14:55:39.000+00:00",
+        "datePublished": "2024-06-07T03:45:08.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/44c22716-0301-55dd-8183-72a5f83675aa",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/bfe14512-e42d-501d-ae9b-b762b722def7",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/ee5f590f-312c-5c60-83ff-a783466b28c9",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/5046cd6e-52fd-5f4e-b882-6e2c9cdddd1e",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/5be0e937-6a08-5317-a4fa-aef91156353d"
+        ]
+      },
+      {
+        "headline": "Guter Sound mit sattem Bass",
+        "body": "Die Soundbar mit Subwoofer kam kompakt in einem Paket an. \nDer Aufbau und die Einrichtung waren sehr einfach und selbsterklärend. \nDer Subwoofer verbindet sich automatisch mit der Soundbar und via den HDMI Ein-& Ausgängen kann direkt eine Verbindung zum Fernseher bzw. zu einer Streaming Box / Konsole hergestellt werden. \nDie Soundbar steht bei uns im Wohnzimmer und wird zum Schauen von Filmen, Serien oder auch zum Musik hören verwendet. \nDer Sound ist klar und gut. \nDer Subwoofer untermalt das Ganze dann mit einem satten aber nicht übertriebenem Bass. \n\nFazit: Eine sehr gute Soundbar mit ordentlichem Sound.",
+        "rating": 5,
+        "author": "KinnayL",
+        "dateCreated": "2024-06-09T09:21:21.000+00:00",
+        "datePublished": "2024-06-10T17:45:11.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/23809e33-50e5-5808-b4b3-8f14ca06d879",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/2de7dfa3-35b4-5271-8e06-4c2fd882c362",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/f6503186-50b9-5049-afc2-eed28aba63e0"
+        ]
+      },
+      {
+        "headline": "Guter Sound mit sattem Bass",
+        "body": "Die Soundbar mit Subwoofer kam kompakt in einem Paket an. Der Aufbau und die Einrichtung waren sehr einfach und selbsterklärend.\nDer Subwoofer verbindet sich automatisch mit der Soundbar und via den HDMI Ein-&Ausgängen kann direkt eine Verbindung zum Fernseher bzw. zu einer Streaming Box / Konsole hergestellt werden.\n\nDie Soundbar steht bei uns im Wohnzimmer und wird zum Schauen von Filmen, Serien oder auch zum Musik hören verwendet.\nDer Sound ist klar und gut. Der Subwoofer untermalt das Ganze dann mit einem satten aber nicht übertriebenem Bass.\n\nFazit:\nEine sehr gute Soundbar mit ordentlichem Sound.",
+        "rating": 5,
+        "author": "KinnayL",
+        "dateCreated": "2024-07-09T15:01:44.000+00:00",
+        "datePublished": "2024-07-10T17:30:09.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/1637cedd-c7ba-50e6-8a5f-c2ae1718e76a",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/365c9a00-8919-564d-ba48-00c65c40eda5",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/6e159f3d-cace-542a-a9ef-9ada62e654c9"
+        ]
+      },
+      {
+        "headline": "Sonido muy satisfactorio",
+        "body": "(Esta reseña se ha recibido a través de una promoción.) Esta barra de sonido calidad precio cumple con mis expectativas, es genial ,después de buscar y comparar ,",
+        "rating": 5,
+        "author": "Junior01",
+        "dateCreated": "2025-09-19T12:42:22.000+00:00",
+        "datePublished": "2025-09-19T17:16:14.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/fa6429bf-507e-5fec-9321-e52e028429e1",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/131185e8-3d72-5766-aa69-6a871ed4af82",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e78ac97b-6f0f-500f-b3c5-6f7c9e05dcd0",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/05e17051-2bf4-53d3-bdaf-f0662cef37a0"
+        ]
+      },
+      {
+        "headline": "Bon relief sonore.",
+        "body": "J'ai acheté cette barre de son en même temps qu'un C4 65, un complément parfait. Je l'utilise principalement en \"mode cinéma\" et \"standard\".\nCela apporte un bon relief sonore, les dialogues sont clairs, la musique et les effets sonores mis en valeur. Le caisson de basse n'est pas trop présent et plutôt équilibré, j'aime pas les \" boom boom\" donc parfait pour moi. Je redécouvre beaucoup de mes films. Le support fourni pour le téléviseur est très bien conçu, cela fait un ensemble sobre et élégant. Je suis ravi de mon achat.",
+        "rating": 5,
+        "author": "Crab",
+        "dateCreated": "2025-02-18T09:44:52.000+00:00",
+        "datePublished": "2025-02-19T00:00:09.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1mcg/1102e344-747a-565c-becc-4406d39d309f",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1mcg/738c39f9-f2c6-58cf-8f55-7809d442d0c3",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1mcg/5fad3c91-3387-5f77-b224-2b3a3f8b2a36"
+        ]
+      },
+      {
+        "headline": "Excellent sound",
+        "body": "[This review was collected as part of a promotion.] Really great soundbar with superb bass. The subwoofer works like magic. The connection was really easy and very quick.  As my TV is desk mounted I didn’t had to use bracket provided but I am sure I will be using it in the future. The build quality of the material is really good.\n\nThe voice quality is really good and crisp. The way it works and integrate with the LG TV is great. The wow cast is exceptional and having no wire makes it look so compact and less clunky.\n\nThe packing was really good and sturdy as well.",
+        "rating": 5,
+        "author": "Ann1992",
+        "dateCreated": "2024-05-10T13:56:16.000+00:00",
+        "datePublished": "2024-05-11T01:16:15.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/37ff5252-57fc-513e-94e3-a8e6ab99204e",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/db435678-0b12-54a6-bf0a-3a59c0df1820",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/03a655e5-ff4d-5184-920b-56fd1946c0f3"
+        ]
+      },
+      {
+        "headline": "Sonido nítido",
+        "body": "(Esta reseña se ha recibido a través de una promoción.) Me decidí a comprar esta barra al ya disponer de varios productos de la marca. La configuración ha sido muy sencilla porque cuento con una LG C1 y ha sido solamente conectar el HDMI al canal EARC, y automaticamente la barra va cambiando de modo de escucha, ya sea dolby normal, atmos o dts. La he probado con una PS5 también y los juegos autodetectan que hay una barra y activan modos de home cinema. En general una mejora muy necesaria para disfrutar al total de juegos y peliculas junto a una tele OLED.",
+        "rating": 5,
+        "author": "jrm98",
+        "dateCreated": "2023-06-19T10:42:17.000+00:00",
+        "datePublished": "2023-06-19T16:46:46.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/8ef13a34-0d53-51b4-9233-fa537a0aaf3b",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/eb4d1c87-ae9e-5dea-8992-be1f41e1f9d0",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/1ddf37de-fdee-5a2f-84fd-e80cf22ab306"
+        ]
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://www.lg.com/de/"
+    },
+    {
+      "position": 2,
+      "name": "Lautsprecher",
+      "url": "https://www.lg.com/de/lautsprecher/"
+    },
+    {
+      "position": 3,
+      "name": "Soundbars",
+      "url": "https://www.lg.com/de/lautsprecher/soundbars/"
+    },
+    {
+      "position": 4,
+      "name": "DSC9S",
+      "url": "https://www.lg.com/de/lautsprecher/soundbars/dsc9s/"
+    }
+  ],
+  "faq": [],
+  "metadata": {
+    "mpn": "DSC9S",
+    "title": "3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer | LG DE | LG DE",
+    "description": "Entdecken Sie die LG DSC9S Soundbar! Hier erhalten Sie mehr Informationen, Bilder, technische Spezifikationen und Bewertungen.",
+    "ogImage": "https://www.lg.com/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/dsc9s-basic-450.jpg",
+    "ogTitle": "3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer - DSC9S | LG DE",
+    "canonical": "https://www.lg.com/de/lautsprecher/soundbars/dsc9s/"
+  },
+  "structuredData": {
+    "jsonLd": [
+      {
+        "@context": "https://schema.org/",
+        "@id": "https://www.lg.com/de/lautsprecher/soundbars/dsc9s/",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "itemReviewed": {
+            "@type": "IndividualProduct",
+            "name": "DSC9S"
+          },
+          "ratingValue": "4.5",
+          "reviewCount": 310,
+          "bestRating": 5
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@id": "https://www.lg.com/de/lautsprecher/soundbars/dsc9s/",
+        "review": [
+          {
+            "@type": "Review",
+            "dateCreated": "2024-06-07T17:23:13.000+00:00",
+            "datePublished": "2024-06-07T20:00:14.000+00:00",
+            "headline": "Solid sound quality soundbar.",
+            "reviewBody": "### Review of the LG Sound Bar USC9S: Dolby Atmos and Audio Quality #### Introduction The LG Sound Bar USC9S is a premium audio system designed for home theaters, featuring Dolby Atmos for a dynamic, three-dimensional sound experience. This review focuses on its Dolby Atmos capabilities and overall audio quality. #### Design and Build Quality The USC9S sports a sleek, modern design with premium materials, ensuring it blends seamlessly into contemporary home setups. Its robust build and included subwoofer enhance both aesthetics and audio performance. #### Dolby Atmos Performance 1. **Sound Immersion**: The USC9S excels at creating a surround sound environment, with audio appearing to come from all directions, including above, enhancing movies and games. 2. **Clarity and Detail**: The sound bar delivers clear, distinct audio elements, ensuring dialogue, music, and effects are crisp and unmuddied. 3. **Power and Depth**: The subwoofer provides powerful bass, adding depth and realism to the audio, crucial for an immersive Dolby Atmos experience. #### Audio Quality 1. **Movies**: The USC9S provides an engaging movie experience with clear dialogue, powerful bass, and faithful soundtrack reproduction. 2. **Music**: It handles various music genres well, with crisp highs, well-represented mids, and tight bass, offering a wide soundstage. 3. **Gaming**: Gamers benefit from the spatial audio, which enhances immersion and helps pinpoint sound directions. #### Connectivity and Features The USC9S includes HDMI inputs/outputs, optical audio input, Bluetooth, and Wi-Fi, ensuring compatibility with various devices. It supports multiple audio formats and features AI Sound Pro for automatic audio adjustment based on content. #### User Experience Setup is straightforward, with intuitive remote control and smart home system integration, allowing for voice control via Google Assistant and Amazon Alexa. #### Conclusion The LG Sound Bar USC9S is a versatile audio system that excels in delivering an immersive Dolby Atmos experience. Its excellent build, superior audio performance, and wide range of features make it a top choice for enhancing home entertainment. Whether for movies, music, or gaming, the USC9S offers a rich and engaging audio experience, making it a worthwhile investment.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mr Karol"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/7d0fe068-c059-5e32-a91f-2daaea392ac0",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/f96ba84c-a187-5cbb-b08f-a7da45a77300"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/ce586941-0849-5ad7-b2f6-9213ccdfc855",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/882dd4cd-5eb9-5302-b3de-f12c2f1e9add"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/492f3d1d-18ff-5d80-abdc-01e7b2ecb629",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/5fb3e3e1-9555-5e98-91ef-90010cfde598"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/f338bff5-95cd-59d9-b01d-9231ceb65ae5",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/cc7ef72a-daac-520c-a010-13eee838cc66"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/6bb59ef9-dc72-5909-89b2-42eeaacc7d13",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/34f6dfc9-aeba-543b-8eb8-1550db464f8f"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/f4b11461-4657-5b9d-afb6-1791df809900",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/77f3cff0-bbd1-53f6-8d5e-579264560123"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-06-06T14:55:39.000+00:00",
+            "datePublished": "2024-06-07T03:45:08.000+00:00",
+            "headline": "Superb product",
+            "reviewBody": "We got this item in a couple of months before and this I excellent. We paired it with my existing LG QNED tv and it’s excellent. The sound is very clear and crisp and the bass and treble it generates it noteworthy. I can be connected via Bluetooth or WiFi with different devices which is a plus. Really like and recommend it to everyone",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mel91"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/44c22716-0301-55dd-8183-72a5f83675aa",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/2711f610-b1ac-5579-88ed-db11a0ff4699"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/bfe14512-e42d-501d-ae9b-b762b722def7",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/b2d8850c-3522-5137-8435-2c501f64c0b1"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/ee5f590f-312c-5c60-83ff-a783466b28c9",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/c52ec669-e2d1-5a36-ba4e-2c272633709f"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/5046cd6e-52fd-5f4e-b882-6e2c9cdddd1e",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/5f26e878-38ca-58ef-abed-71d29cb795f1"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/5be0e937-6a08-5317-a4fa-aef91156353d",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/6eb382ab-d510-5a7e-8480-35151d28020b"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-06-09T09:21:21.000+00:00",
+            "datePublished": "2024-06-10T17:45:11.000+00:00",
+            "headline": "Guter Sound mit sattem Bass",
+            "reviewBody": "Die Soundbar mit Subwoofer kam kompakt in einem Paket an. \nDer Aufbau und die Einrichtung waren sehr einfach und selbsterklärend. \nDer Subwoofer verbindet sich automatisch mit der Soundbar und via den HDMI Ein-& Ausgängen kann direkt eine Verbindung zum Fernseher bzw. zu einer Streaming Box / Konsole hergestellt werden. \nDie Soundbar steht bei uns im Wohnzimmer und wird zum Schauen von Filmen, Serien oder auch zum Musik hören verwendet. \nDer Sound ist klar und gut. \nDer Subwoofer untermalt das Ganze dann mit einem satten aber nicht übertriebenem Bass. \n\nFazit: Eine sehr gute Soundbar mit ordentlichem Sound.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KinnayL"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/23809e33-50e5-5808-b4b3-8f14ca06d879",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/d4a0ceac-172c-55c9-9442-ee21a90143df"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/2de7dfa3-35b4-5271-8e06-4c2fd882c362",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/152f9954-fa95-5b58-92c2-7bc87fc41448"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/f6503186-50b9-5049-afc2-eed28aba63e0",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/7c168587-d0e3-5c24-96ff-5dcbd7384cf5"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-07-09T15:01:44.000+00:00",
+            "datePublished": "2024-07-10T17:30:09.000+00:00",
+            "headline": "Guter Sound mit sattem Bass",
+            "reviewBody": "Die Soundbar mit Subwoofer kam kompakt in einem Paket an. Der Aufbau und die Einrichtung waren sehr einfach und selbsterklärend.\nDer Subwoofer verbindet sich automatisch mit der Soundbar und via den HDMI Ein-&Ausgängen kann direkt eine Verbindung zum Fernseher bzw. zu einer Streaming Box / Konsole hergestellt werden.\n\nDie Soundbar steht bei uns im Wohnzimmer und wird zum Schauen von Filmen, Serien oder auch zum Musik hören verwendet.\nDer Sound ist klar und gut. Der Subwoofer untermalt das Ganze dann mit einem satten aber nicht übertriebenem Bass.\n\nFazit:\nEine sehr gute Soundbar mit ordentlichem Sound.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KinnayL"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/1637cedd-c7ba-50e6-8a5f-c2ae1718e76a",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/5fbea5cd-4d5c-5a21-a670-8819ab640373"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/365c9a00-8919-564d-ba48-00c65c40eda5",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/dda160c7-6b90-5186-a155-1b5a7ab5f5ed"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/6e159f3d-cace-542a-a9ef-9ada62e654c9",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1kZQ/df493862-bc42-5fa4-bc93-46bc5b1d67a6"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-09-19T12:42:22.000+00:00",
+            "datePublished": "2025-09-19T17:16:14.000+00:00",
+            "headline": "Sonido muy satisfactorio",
+            "reviewBody": "(Esta reseña se ha recibido a través de una promoción.) Esta barra de sonido calidad precio cumple con mis expectativas, es genial ,después de buscar y comparar ,",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Junior01"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/fa6429bf-507e-5fec-9321-e52e028429e1",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/b35ba32d-4c86-51b0-9306-2b035bf9cb66"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/131185e8-3d72-5766-aa69-6a871ed4af82",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/285d1549-4c46-5be7-9b99-634bae320ba9"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e78ac97b-6f0f-500f-b3c5-6f7c9e05dcd0",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/097b6867-7d35-5e66-bb21-ef19117a5e91"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/05e17051-2bf4-53d3-bdaf-f0662cef37a0",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/bb1750fb-38a4-5e03-9184-9814e2d68fb6"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-02-18T09:44:52.000+00:00",
+            "datePublished": "2025-02-19T00:00:09.000+00:00",
+            "headline": "Bon relief sonore.",
+            "reviewBody": "J'ai acheté cette barre de son en même temps qu'un C4 65, un complément parfait. Je l'utilise principalement en \"mode cinéma\" et \"standard\".\nCela apporte un bon relief sonore, les dialogues sont clairs, la musique et les effets sonores mis en valeur. Le caisson de basse n'est pas trop présent et plutôt équilibré, j'aime pas les \" boom boom\" donc parfait pour moi. Je redécouvre beaucoup de mes films. Le support fourni pour le téléviseur est très bien conçu, cela fait un ensemble sobre et élégant. Je suis ravi de mon achat.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Crab"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1mcg/1102e344-747a-565c-becc-4406d39d309f",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1mcg/c730dd2f-713f-5361-98c4-9acb0f1eb88a"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1mcg/738c39f9-f2c6-58cf-8f55-7809d442d0c3",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1mcg/643c1c3c-6148-5990-ac1f-239916928bf7"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1mcg/5fad3c91-3387-5f77-b224-2b3a3f8b2a36",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1mcg/429a8a21-376b-5da7-b470-3657f56f2c20"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-05-10T13:56:16.000+00:00",
+            "datePublished": "2024-05-11T01:16:15.000+00:00",
+            "headline": "Excellent sound",
+            "reviewBody": "[This review was collected as part of a promotion.] Really great soundbar with superb bass. The subwoofer works like magic. The connection was really easy and very quick.  As my TV is desk mounted I didn’t had to use bracket provided but I am sure I will be using it in the future. The build quality of the material is really good.\n\nThe voice quality is really good and crisp. The way it works and integrate with the LG TV is great. The wow cast is exceptional and having no wire makes it look so compact and less clunky.\n\nThe packing was really good and sturdy as well.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ann1992"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/37ff5252-57fc-513e-94e3-a8e6ab99204e",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/580f208e-bf3f-5df4-90e1-920f00903333"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/db435678-0b12-54a6-bf0a-3a59c0df1820",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/8f3b283c-bae6-59b8-9a61-bc1d529dd415"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/03a655e5-ff4d-5184-920b-56fd1946c0f3",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/d9c12dd6-f703-5676-8125-b081baee7860"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2023-06-19T10:42:17.000+00:00",
+            "datePublished": "2023-06-19T16:46:46.000+00:00",
+            "headline": "Sonido nítido",
+            "reviewBody": "(Esta reseña se ha recibido a través de una promoción.) Me decidí a comprar esta barra al ya disponer de varios productos de la marca. La configuración ha sido muy sencilla porque cuento con una LG C1 y ha sido solamente conectar el HDMI al canal EARC, y automaticamente la barra va cambiando de modo de escucha, ya sea dolby normal, atmos o dts. La he probado con una PS5 también y los juegos autodetectan que hay una barra y activan modos de home cinema. En general una mejora muy necesaria para disfrutar al total de juegos y peliculas junto a una tele OLED.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jrm98"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/8ef13a34-0d53-51b4-9233-fa537a0aaf3b",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/d8524d31-a010-5661-b749-81f7a421fbb3"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/eb4d1c87-ae9e-5dea-8992-be1f41e1f9d0",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/4b9bcaec-4696-5f58-b45b-4701b432d412"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/1ddf37de-fdee-5a2f-84fd-e80cf22ab306",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/7f8955b0-00f7-563a-a306-0cf9ebe8a02c"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "product",
+        "@id": "https://www.lg.com/de/lautsprecher/soundbars/dsc9s/",
+        "name": "3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer",
+        "image": "/content/dam/channel/wcms/de/images/audio/dsc9s_ddeullk_eedg_de_c/gallery/dsc9s-basic-450.jpg",
+        "description": "Entdecken Sie LG DSC9S. Für Bilder, Bewertungen und technische Daten zu LG klicken 3.1.3 Dolby Atmos® Soundbar mit 400 Watt | kabelloser Subwoofer.",
+        "mpn": "DSC9S",
+        "brand": {
+          "@type": "Brand",
+          "name": "LG"
+        },
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "EUR",
+          "price": "369",
+          "availability": "https://schema.org/PreOrder",
+          "seller": {
+            "@type": "Organization",
+            "name": "LG DE"
+          }
+        },
+        "size": {
+          "@type": "QuantitativeValue",
+          "unitCode": "",
+          "value": ""
+        },
+        "hasEnergyConsumptionDetails": {
+          "@type": "EnergyConsumptionDetails",
+          "hasEnergyEfficiencyCategory": "",
+          "energyEfficiencyScaleMax": "",
+          "energyEfficiencyScaleMin": ""
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.lg.com/de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Lautsprecher",
+            "item": "https://www.lg.com/de/lautsprecher/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Soundbars",
+            "item": "https://www.lg.com/de/lautsprecher/soundbars/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "DSC9S",
+            "item": "https://www.lg.com/de/lautsprecher/soundbars/dsc9s/"
+          }
+        ]
+      }
+    ]
+  }
+}

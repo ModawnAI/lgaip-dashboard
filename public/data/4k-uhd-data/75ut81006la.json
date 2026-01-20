@@ -1,0 +1,2003 @@
+{
+  "crawledAt": "2026-01-20T05:29:28.315Z",
+  "url": "https://www.lg.com/de/tvs-und-soundbars/4k-uhd-tvs/75ut81006la/",
+  "modelNumber": "75UT81006LA",
+  "category": "4K UHD",
+  "basicInfo": {
+    "productName": "75 Zoll 4K LG UHD Smart TV UT81",
+    "description": "Entdecken Sie LG 75UT81006LA. Für Bilder, Bewertungen und technische Daten zu LG klicken 75 Zoll 4K LG UHD Smart TV UT81.",
+    "headline": "75 Zoll 4K LG UHD Smart TV UT81",
+    "screenSize": "75 Zoll",
+    "series": "L",
+    "brand": "LG",
+    "modelNumber": "75UT81006LA"
+  },
+  "pricing": {
+    "currentPrice": "698.99",
+    "currency": "EUR",
+    "availability": "OutOfStock",
+    "seller": "LG DE"
+  },
+  "ratings": {
+    "averageRating": "4.4",
+    "reviewCount": 219,
+    "bestRating": 5
+  },
+  "energyEfficiency": {
+    "category": "F",
+    "scaleMax": "A1Plus",
+    "scaleMin": "G"
+  },
+  "media": {
+    "images": [
+      {
+        "src": "https://t.teads.tv/track?action=pageView&env=js-web&tag_version=8.5.0_d71d360&provider=tag&buyer_pixel_id=7484&referer=https%3A%2F%2Fwww.lg.com%2Fde%2Ftvs-und-soundbars%2F4k-uhd-tvs%2F75ut81006la%2F&user_session_id=1079fadd-9d90-452e-850c-d9ff73d8afa9&hasConsent=true&cht=timeout",
+        "srcset": null,
+        "alt": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/banners/2026-01-15-LG-CB26-GNB-290x90px-V1-jgr.jpg",
+        "srcset": null,
+        "alt": " Gute Vorsätze für 2026",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/banners/2026-01-15-LG-CB26-GNB-290x90px-V1-jgr.jpg",
+        "srcset": null,
+        "alt": " Gute Vorsätze für 2026",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "75UT81006LA EU.pdf",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "75UT81006LA EU.pdf",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-15.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Ansicht des LG UHD AI ThinQ 4K UT81 Smart TV von oben, zeigt die Position und Breite des Standfußes.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Frontansicht des UHD AI ThinQ 4K UT81 Smart TV ohne sichtbares Logo, zeigt Startbildschirm mit farbenfrohem Muster.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-02.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Schräg linke Vorderansicht des LG UHD AI ThinQ 4K UT81 Smart TV mit buntem Muster auf dem Bildschirm.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-03.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Rückansicht des LG UHD AI ThinQ 4K UT81 Smart TV mit zentraler Befestigung und Anschlussbereich.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-04.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Seitenansicht des LG UHD AI ThinQ 4K UT81 Smart TV, zeigt schlankes Profil und Standfußdesign.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-05.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Abmessungen des 86 Zoll UHD AI ThinQ 4K UT81 Smart TV: Breite 1927 mm, Höhe 1178 mm, Tiefe 425 mm (Standfuß), 59,9 mm (Panel).",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-06.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Der LG UHD AI ThinQ 4K UT81 Smart TV in einem Wohnzimmer, zeigt eine Safari-Szene mit hoher Bildschärfe.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-07.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Nahaufnahme der Rückseite des LG UHD AI ThinQ 4K UT81 Smart TV mit LAN-, Antennen- und optischem Audioanschluss.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-08.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Detailansicht der seitlichen HDMI- und USB-Anschlüsse des LG UHD AI ThinQ 4K UT81 Smart TV.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-09.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Detailansicht des zentralen Standfußes des LG UHD AI ThinQ 4K UT81 Smart TV mit geschwungener Form.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-10.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Nahaufnahme der oberen rechten Bildschirmecke des LG UHD AI ThinQ 4K UT81 Smart TV, zeigt den dünnen Rahmen.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-11.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Schräg rechte Vorderansicht des LG UHD AI ThinQ 4K UT81 Smart TV mit farbenfrohem Bildinhalt.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-12.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Linke Schrägansicht des LG UHD AI ThinQ 4K UT81 Smart TV mit LG UHD Logo und leuchtenden Farben.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-13.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Rechte Schrägansicht des LG UHD AI ThinQ 4K UT81 Smart TV, Bildschirm zeigt kontrastreiche Darstellung.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-14.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Schrägansicht von oben rechts auf den LG UHD AI ThinQ 4K UT81 Smart TV mit geschwungenem Standfuß.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-15.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Ansicht des LG UHD AI ThinQ 4K UT81 Smart TV von oben, zeigt die Position und Breite des Standfußes.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Frontansicht des UHD AI ThinQ 4K UT81 Smart TV ohne sichtbares Logo, zeigt Startbildschirm mit farbenfrohem Muster.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/350x350/UHD-86UT81006LA-Gallery-01.jpg",
+        "srcset": null,
+        "alt": "Frontansicht des UHD AI ThinQ 4K UT81 Smart TV ohne sichtbares Logo, zeigt Startbildschirm mit farbenfrohem Muster.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/350x350/UHD-86UT81006LA-Gallery-02.jpg",
+        "srcset": null,
+        "alt": "Schräg linke Vorderansicht des LG UHD AI ThinQ 4K UT81 Smart TV mit buntem Muster auf dem Bildschirm.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/350x350/UHD-86UT81006LA-Gallery-03.jpg",
+        "srcset": null,
+        "alt": "Rückansicht des LG UHD AI ThinQ 4K UT81 Smart TV mit zentraler Befestigung und Anschlussbereich.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/350x350/UHD-86UT81006LA-Gallery-04.jpg",
+        "srcset": null,
+        "alt": "Seitenansicht des LG UHD AI ThinQ 4K UT81 Smart TV, zeigt schlankes Profil und Standfußdesign.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/350x350/UHD-86UT81006LA-Gallery-05.jpg",
+        "srcset": null,
+        "alt": "Abmessungen des 86 Zoll UHD AI ThinQ 4K UT81 Smart TV: Breite 1927 mm, Höhe 1178 mm, Tiefe 425 mm (Standfuß), 59,9 mm (Panel).",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/350x350/UHD-86UT81006LA-Gallery-06.jpg",
+        "srcset": null,
+        "alt": "Der LG UHD AI ThinQ 4K UT81 Smart TV in einem Wohnzimmer, zeigt eine Safari-Szene mit hoher Bildschärfe.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/350x350/UHD-86UT81006LA-Gallery-07.jpg",
+        "srcset": null,
+        "alt": "Nahaufnahme der Rückseite des LG UHD AI ThinQ 4K UT81 Smart TV mit LAN-, Antennen- und optischem Audioanschluss.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/350x350/UHD-86UT81006LA-Gallery-08.jpg",
+        "srcset": null,
+        "alt": "Detailansicht der seitlichen HDMI- und USB-Anschlüsse des LG UHD AI ThinQ 4K UT81 Smart TV.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/350x350/UHD-86UT81006LA-Gallery-09.jpg",
+        "srcset": null,
+        "alt": "Detailansicht des zentralen Standfußes des LG UHD AI ThinQ 4K UT81 Smart TV mit geschwungener Form.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/350x350/UHD-86UT81006LA-Gallery-10.jpg",
+        "srcset": null,
+        "alt": "Nahaufnahme der oberen rechten Bildschirmecke des LG UHD AI ThinQ 4K UT81 Smart TV, zeigt den dünnen Rahmen.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/350x350/UHD-86UT81006LA-Gallery-11.jpg",
+        "srcset": null,
+        "alt": "Schräg rechte Vorderansicht des LG UHD AI ThinQ 4K UT81 Smart TV mit farbenfrohem Bildinhalt.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/350x350/UHD-86UT81006LA-Gallery-12.jpg",
+        "srcset": null,
+        "alt": "Linke Schrägansicht des LG UHD AI ThinQ 4K UT81 Smart TV mit LG UHD Logo und leuchtenden Farben.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/350x350/UHD-86UT81006LA-Gallery-13.jpg",
+        "srcset": null,
+        "alt": "Rechte Schrägansicht des LG UHD AI ThinQ 4K UT81 Smart TV, Bildschirm zeigt kontrastreiche Darstellung.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/350x350/UHD-86UT81006LA-Gallery-14.jpg",
+        "srcset": null,
+        "alt": "Schrägansicht von oben rechts auf den LG UHD AI ThinQ 4K UT81 Smart TV mit geschwungenem Standfuß.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/350x350/UHD-86UT81006LA-Gallery-15.jpg",
+        "srcset": null,
+        "alt": "Ansicht des LG UHD AI ThinQ 4K UT81 Smart TV von oben, zeigt die Position und Breite des Standfußes.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des UHD AI ThinQ 4K UT81 Smart TV ohne sichtbares Logo, zeigt Startbildschirm mit farbenfrohem Muster.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-02.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Schräg linke Vorderansicht des LG UHD AI ThinQ 4K UT81 Smart TV mit buntem Muster auf dem Bildschirm.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-03.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Rückansicht des LG UHD AI ThinQ 4K UT81 Smart TV mit zentraler Befestigung und Anschlussbereich.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-04.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Seitenansicht des LG UHD AI ThinQ 4K UT81 Smart TV, zeigt schlankes Profil und Standfußdesign.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-05.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Abmessungen des 86 Zoll UHD AI ThinQ 4K UT81 Smart TV: Breite 1927 mm, Höhe 1178 mm, Tiefe 425 mm (Standfuß), 59,9 mm (Panel).",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-06.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Der LG UHD AI ThinQ 4K UT81 Smart TV in einem Wohnzimmer, zeigt eine Safari-Szene mit hoher Bildschärfe.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-07.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Nahaufnahme der Rückseite des LG UHD AI ThinQ 4K UT81 Smart TV mit LAN-, Antennen- und optischem Audioanschluss.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-08.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Detailansicht der seitlichen HDMI- und USB-Anschlüsse des LG UHD AI ThinQ 4K UT81 Smart TV.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-09.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Detailansicht des zentralen Standfußes des LG UHD AI ThinQ 4K UT81 Smart TV mit geschwungener Form.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-10.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Nahaufnahme der oberen rechten Bildschirmecke des LG UHD AI ThinQ 4K UT81 Smart TV, zeigt den dünnen Rahmen.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-11.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Schräg rechte Vorderansicht des LG UHD AI ThinQ 4K UT81 Smart TV mit farbenfrohem Bildinhalt.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-12.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Linke Schrägansicht des LG UHD AI ThinQ 4K UT81 Smart TV mit LG UHD Logo und leuchtenden Farben.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-13.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Rechte Schrägansicht des LG UHD AI ThinQ 4K UT81 Smart TV, Bildschirm zeigt kontrastreiche Darstellung.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-14.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Schrägansicht von oben rechts auf den LG UHD AI ThinQ 4K UT81 Smart TV mit geschwungenem Standfuß.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/2010x1334/UHD-86UT81006LA-Gallery-15.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Ansicht des LG UHD AI ThinQ 4K UT81 Smart TV von oben, zeigt die Position und Breite des Standfußes.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/350x350/UHD-86UT81006LA-Gallery-01.jpg",
+        "srcset": null,
+        "alt": "Frontansicht des UHD AI ThinQ 4K UT81 Smart TV ohne sichtbares Logo, zeigt Startbildschirm mit farbenfrohem Muster.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/350x350/UHD-86UT81006LA-Gallery-02.jpg",
+        "srcset": null,
+        "alt": "Schräg linke Vorderansicht des LG UHD AI ThinQ 4K UT81 Smart TV mit buntem Muster auf dem Bildschirm.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/350x350/UHD-86UT81006LA-Gallery-03.jpg",
+        "srcset": null,
+        "alt": "Rückansicht des LG UHD AI ThinQ 4K UT81 Smart TV mit zentraler Befestigung und Anschlussbereich.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/350x350/UHD-86UT81006LA-Gallery-04.jpg",
+        "srcset": null,
+        "alt": "Seitenansicht des LG UHD AI ThinQ 4K UT81 Smart TV, zeigt schlankes Profil und Standfußdesign.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/350x350/UHD-86UT81006LA-Gallery-05.jpg",
+        "srcset": null,
+        "alt": "Abmessungen des 86 Zoll UHD AI ThinQ 4K UT81 Smart TV: Breite 1927 mm, Höhe 1178 mm, Tiefe 425 mm (Standfuß), 59,9 mm (Panel).",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/350x350/UHD-86UT81006LA-Gallery-06.jpg",
+        "srcset": null,
+        "alt": "Der LG UHD AI ThinQ 4K UT81 Smart TV in einem Wohnzimmer, zeigt eine Safari-Szene mit hoher Bildschärfe.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/350x350/UHD-86UT81006LA-Gallery-07.jpg",
+        "srcset": null,
+        "alt": "Nahaufnahme der Rückseite des LG UHD AI ThinQ 4K UT81 Smart TV mit LAN-, Antennen- und optischem Audioanschluss.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/350x350/UHD-86UT81006LA-Gallery-08.jpg",
+        "srcset": null,
+        "alt": "Detailansicht der seitlichen HDMI- und USB-Anschlüsse des LG UHD AI ThinQ 4K UT81 Smart TV.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/350x350/UHD-86UT81006LA-Gallery-09.jpg",
+        "srcset": null,
+        "alt": "Detailansicht des zentralen Standfußes des LG UHD AI ThinQ 4K UT81 Smart TV mit geschwungener Form.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/350x350/UHD-86UT81006LA-Gallery-10.jpg",
+        "srcset": null,
+        "alt": "Nahaufnahme der oberen rechten Bildschirmecke des LG UHD AI ThinQ 4K UT81 Smart TV, zeigt den dünnen Rahmen.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/350x350/UHD-86UT81006LA-Gallery-11.jpg",
+        "srcset": null,
+        "alt": "Schräg rechte Vorderansicht des LG UHD AI ThinQ 4K UT81 Smart TV mit farbenfrohem Bildinhalt.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/350x350/UHD-86UT81006LA-Gallery-12.jpg",
+        "srcset": null,
+        "alt": "Linke Schrägansicht des LG UHD AI ThinQ 4K UT81 Smart TV mit LG UHD Logo und leuchtenden Farben.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/350x350/UHD-86UT81006LA-Gallery-13.jpg",
+        "srcset": null,
+        "alt": "Rechte Schrägansicht des LG UHD AI ThinQ 4K UT81 Smart TV, Bildschirm zeigt kontrastreiche Darstellung.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/350x350/UHD-86UT81006LA-Gallery-14.jpg",
+        "srcset": null,
+        "alt": "Schrägansicht von oben rechts auf den LG UHD AI ThinQ 4K UT81 Smart TV mit geschwungenem Standfuß.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/350x350/UHD-86UT81006LA-Gallery-15.jpg",
+        "srcset": null,
+        "alt": "Ansicht des LG UHD AI ThinQ 4K UT81 Smart TV von oben, zeigt die Position und Breite des Standfußes.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/uhd/ut80/uhd-ut80-01-intro-visual-m.jpg",
+        "srcset": null,
+        "alt": "Auf einem LG UHD TV-Gerät sehen wir einen farbenfrohen, langen Parkettboden.\t",
+        "width": 1920,
+        "height": 1600
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/uhd/ut80/uhd-ut80-02-hdr10-pro-m.jpg",
+        "srcset": null,
+        "alt": "In einem lila getönten, schattigen Raum sehen wir die Nahaufnahme des Gesichts eines Mannes auf einem geteilten Bildschirm. Links steht „SDR“ und das Bild ist unscharf. Rechts steht „HDR10 Pro“ und das Bild ist klar und scharf definiert.\t",
+        "width": 1600,
+        "height": 800
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/uhd/ut80/uhd-ut80-03-ai-processor-m.jpg",
+        "srcset": null,
+        "alt": "der alpha 5 AI-Prozessor 4K Gen7 von LG mit gelbem Licht, das von unterhalb ausgeht, und ein Geflecht farbenfroher Leiterplattenlinien geht vom AI-Prozessor aus.\t",
+        "width": 1920,
+        "height": 1200
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/uhd/ut80/uhd-ut80-05-ai-brightness-control-m-2.jpg",
+        "srcset": null,
+        "alt": "Ein LG TV mit LG Soundbar in einem modernen Wohnraum bei Nacht. Wir sehen ein Bild der Aurora Borealis mit den idealen Helligkeitsstufen.",
+        "width": 720,
+        "height": 315
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/uhd/ut80/uhd-ut80-05-ai-brightness-control-m-1.jpg",
+        "srcset": null,
+        "alt": "Ein LG TV mit LG Soundbar in einem modernen Wohnraum bei Tag. Wir sehen ein Bild der Aurora Borealis mit den idealen Helligkeitsstufen.",
+        "width": 720,
+        "height": 315
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/uhd/ut80/uhd-ut80-06-ai-sound-pro-m-3.jpg",
+        "srcset": null,
+        "alt": "Ein LG TV mit Musikaufführung und hellen Kreisgrafiken rund um den Raum.\t",
+        "width": 1600,
+        "height": 1050
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/uhd/ut80/uhd-ut80-06-ai-sound-pro-m-1.jpg",
+        "srcset": null,
+        "alt": "Wir sehen einen LG TV und Schallblasen und -wellen, die vom Bildschirm ausgehen und den Raum füllen.\t",
+        "width": 1600,
+        "height": 1050
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/uhd/ut80/uhd-ut80-06-ai-sound-pro-m-2.jpg",
+        "srcset": null,
+        "alt": "Ein Mann fährt auf einem Feldweg Motorrad. Um das Motorrad herum sehen wir helle Kreisgrafiken.\t",
+        "width": 1600,
+        "height": 1050
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/uhd/ut80/uhd-ut80-06-ai-sound-pro-m-3.jpg",
+        "srcset": null,
+        "alt": "Ein LG TV mit Musikaufführung und hellen Kreisgrafiken rund um den Raum.\t",
+        "width": 1600,
+        "height": 1050
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/uhd/ut80/uhd-ut80-06-ai-sound-pro-m-1.jpg",
+        "srcset": null,
+        "alt": "Wir sehen einen LG TV und Schallblasen und -wellen, die vom Bildschirm ausgehen und den Raum füllen.\t",
+        "width": 1600,
+        "height": 1050
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/uhd/ut80/uhd-ut80-07-webos-renew-program-m.jpg",
+        "srcset": null,
+        "alt": "Ein Bild des Logos des webOS Re:New Program vor einem schwarzen Hintergrund mit einer blauen und violetten kreisförmigen Kugel am unteren Rand.\t",
+        "width": 1600,
+        "height": 960
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/uhd/ut80/uhd-ut80-08-webos-24-m-v2.jpg",
+        "srcset": null,
+        "alt": "Startbildschirm von webOS 24 mit den Kategorien Heimbüro, Spiel, Musik, Heimzentrale und Sport. Im unteren Teil des Bildschirms werden unter „Ihre Top-Empfehlungen“ personalisierte Empfehlungen angezeigt.\t",
+        "width": 1600,
+        "height": 1000
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/uhd/ut80/uhd-ut80-09-ultra-big-screen-m.jpg",
+        "srcset": null,
+        "alt": "Auf einem ultragroßen LG TV, der an der braunen Wand eines Wohnzimmers montiert ist, umgeben von cremefarbenen modularen Möbeln, sehen wir ein Nashorn in einer Safari-Umgebung.\t",
+        "width": 1600,
+        "height": 1000
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/uhd/ut80/uhd-ut80-10-wow-interface-m-01.jpg",
+        "srcset": null,
+        "alt": "Eine Fernbedienung ist auf einen LG TV gerichtet und auf der rechten Seite des Bildschirms sehen wir die Einstellungen.\t",
+        "width": 1600,
+        "height": 1080
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/uhd/ut80/uhd-ut80-11-filmmakermode-m.jpg",
+        "srcset": null,
+        "alt": "Ein Mann in einem dunklen Schnittstudio blickt auf einen LG TV, auf dem der Sonnenuntergang zu sehen ist. Unten rechts ist das FILMMAKER Mode-Logo zu sehen.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/uhd/ut80/uhd-ut80-12-home-cinema-experience-m.jpg",
+        "srcset": null,
+        "alt": "Eine Familie sitzt auf dem Boden eines schwach beleuchteten Wohnzimmers an einem kleinen Tisch und blickt zu einem LG-Fernseher an der Wand, der die Erde aus dem Weltraum zeigt.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/uhd/ut80/uhd-ut80-13-powerful-gameplay-m.jpg",
+        "srcset": null,
+        "alt": "Ein Autorennspiel auf der Ziellinie, mit der Aufschrift „WIN!“, während der Spieler den Controller umklammert. Unten links sehen wir das ALLM-, eARC- und HGiG-Logo.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2024_he_lg-com/tv/uhd-pdp/ut80/features/mobile/uhd-ut80-14-game-dashboard-m.jpg",
+        "srcset": null,
+        "alt": "Eine FPS-Spielszene mit dem Game Dashboard, das während des Spiels über dem Bildschirm erscheint. Eine dunkle, winterliche Szene mit dem Game-Optimizer-Menü, das über dem Spiel erscheint. \t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/uhd/ut80/uhd-ut80-15-cloud-gaming-m.jpg",
+        "srcset": null,
+        "alt": "Wir sehen einen Boosteroid-Startbildschirmbild mit „Trine 4: The Nightmare Price“. Ein GeForce NOW-Startbildschirm mit fünf verschiedenen Spiel-Miniaturansichten rechts. \t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/installation-video/Installation-TV-UT81-75-Stand-Thumbnail-765X576-M.jpg",
+        "srcset": null,
+        "alt": "Installationsvideo zur Montage des Standfußes für den LG UHD AI ThinQ 4K UT81 Smart TV Fernseher.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/spec/75UT81006LA_UHD-UT81-2024-Stand-75-Dimension-Mobile.jpg",
+        "srcset": null,
+        "alt": "75UT81006LA",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YnJhbmRsb2dvMg/17ace0b0-6b80-42e7-8b9e-ddf7e332a75d",
+        "srcset": null,
+        "alt": "LG UK",
+        "width": 111,
+        "height": 55
+      },
+      {
+        "src": "https://contentorigin.bazaarvoice.com/theinsiders/default/C19_Insiders_PeopleTrustPeople_Logo_Grey.png",
+        "srcset": null,
+        "alt": "The Insiders",
+        "width": 300,
+        "height": 122
+      },
+      {
+        "src": "https://contentorigin.bazaarvoice.com/theinsiders/default/C19_Insiders_PeopleTrustPeople_Logo_Grey.png",
+        "srcset": null,
+        "alt": "The Insiders",
+        "width": 300,
+        "height": 122
+      },
+      {
+        "src": "https://contentorigin.bazaarvoice.com/theinsiders/default/C19_Insiders_PeopleTrustPeople_Logo_Grey.png",
+        "srcset": null,
+        "alt": "The Insiders",
+        "width": 300,
+        "height": 122
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YnJhbmRsb2dvMg/17ace0b0-6b80-42e7-8b9e-ddf7e332a75d",
+        "srcset": null,
+        "alt": "LG UK",
+        "width": 111,
+        "height": 55
+      },
+      {
+        "src": "https://contentorigin.bazaarvoice.com/theinsiders/default/C19_Insiders_PeopleTrustPeople_Logo_Grey.png",
+        "srcset": null,
+        "alt": "The Insiders",
+        "width": 300,
+        "height": 122
+      },
+      {
+        "src": "https://contentorigin.bazaarvoice.com/theinsiders/default/C19_Insiders_PeopleTrustPeople_Logo_Grey.png",
+        "srcset": null,
+        "alt": "The Insiders",
+        "width": 300,
+        "height": 122
+      },
+      {
+        "src": "https://contentorigin.bazaarvoice.com/theinsiders/default/C19_Insiders_PeopleTrustPeople_Logo_Grey.png",
+        "srcset": null,
+        "alt": "The Insiders",
+        "width": 300,
+        "height": 122
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/uhd/ua75/gp1/gallery/43-ua75-a/basic1/uhd-ua75-2025-43-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 75 Zoll LG UHD AI UA75 4K Smart TV 2025 75UA75006LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled77b59la/basic_450vv.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 77 Zoll LG OLED AI B5 4K Smart TV OLED77B59LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/uhd/ua73/gp1/gallery/50-ua73-a/basic/uhd-ua73-2025-50-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 50 Zoll LG UHD AI UA73 4K Smart TV 2025 50UA73006LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65qned85a6c_aeu_eedg_de_c/gallery/450_b.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 65 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV 65QNED86A6A",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/65qned85t6c-s20a/450x450_65QNED85T6C.S20A.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/43qned86a6c/450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 43 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV 43QNED86A6C",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_manual-software_48x48.svg",
+        "srcset": null,
+        "alt": "Symbol Benutzerhandbuch und Software",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_complaints_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Fehlerbehebung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_warranty_48x48.svg",
+        "srcset": null,
+        "alt": "Garantie-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_part-accessory_48x48.svg",
+        "srcset": null,
+        "alt": "Symbol für Teile und Zubehör",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/buy/icon_register-a-product_48.svg",
+        "srcset": null,
+        "alt": "Symbol Produktregistrierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_product_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Produktsupport",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_order_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Bestellsupport",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/Icon_request-a-repair_60x60.svg",
+        "srcset": null,
+        "alt": "Symbol für Reparaturanfrage",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_chat-with-us__60x60.svg",
+        "srcset": null,
+        "alt": "Livechat-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_whatsapp_60x60.svg",
+        "srcset": null,
+        "alt": "WhatsApp-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_email-us_60x60.svg",
+        "srcset": null,
+        "alt": "E-Mail-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_call_48.svg",
+        "srcset": null,
+        "alt": "Anruf-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/common/find-a-store-test/gradation-icon/banner-light-icons.svg",
+        "srcset": null,
+        "alt": "Filialsymbol suchen",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/uhd/ua75/gp1/gallery/43-ua75-a/basic1/uhd-ua75-2025-43-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 75 Zoll LG UHD AI UA75 4K Smart TV 2025 75UA75006LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/65qned85a6c_aeu_eedg_de_c/gallery/450_b.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 65 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV 65QNED86A6A",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/55qned85a6c_aeu_eedg_de_c/450_b.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 55 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV 55QNED86A6A",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/75qned85a6c_aeu_eedg_c/450_b.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 75 Zoll LG QNED evo AI QNED86 MiniLED 4K Smart TV 75QNED86A6A",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-d.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/facebook-circle-fill.svg",
+        "srcset": null,
+        "alt": "Facebook",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/youtube-circle-fill.svg",
+        "srcset": null,
+        "alt": "Youtube",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/instagram-circle-fill.svg",
+        "srcset": null,
+        "alt": "Instagram",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/ot_company_logo.png",
+        "srcset": null,
+        "alt": "Firmenlogo",
+        "width": 600,
+        "height": 106
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/powered_by_logo.svg",
+        "srcset": null,
+        "alt": "Powered by Onetrust",
+        "width": 136,
+        "height": 16
+      },
+      {
+        "src": "https://lantern.roeye.com/track.php?fingerprint=0e398a32-f94c-4327-8b91-78c9b166e387&referrer=&landingpage=https%3A%2F%2Fwww.lg.com%2Fde%2Ftvs-und-soundbars%2F4k-uhd-tvs%2F75ut81006la%2F&useragent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F143.0.7499.4%20Safari%2F537.36&site=63126",
+        "srcset": null,
+        "alt": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://bat.bing.com/action/0?ti=355009024&Ver=2&mid=0878a081-15de-4143-a858-77eb761f793d&bo=1&sid=fc549eb0f5bb11f0a0a5b7ae3fc4ae70&vid=fc548160f5bb11f0b35da3cae89cc6a9&vids=0&msclkid=N&pi=0&lg=en-US&sw=1280&sh=720&sc=24&nwd=1&tl=75%20Zoll%204K%20LG%20UHD%20AI%20Smart%20TV%20UT81%20%7C%20LG%20DE&p=https%3A%2F%2Fwww.lg.com%2Fde%2Ftvs-und-soundbars%2F4k-uhd-tvs%2F75ut81006la%2F&r=&lt=5156&evt=pageLoad&sv=2&cdb=AQET&rn=383992",
+        "srcset": null,
+        "alt": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "videos": [
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/uhd/ut80/uhd-ut80-03-ai-processor-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/uhd/ut80/uhd-ut80-03-ai-processor-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/uhd/ut80/uhd-ut80-04-ai-acoustic-tuning-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/uhd/ut80/uhd-ut80-04-ai-acoustic-tuning-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      }
+    ]
+  },
+  "specifications": {
+    "€124,92": "Monatliche Rate",
+    "€1.499,00": "Gesamtbetrag inkl. Zinsen",
+    "0%": "Zinssatz",
+    "€74,96": "Monatliche Rate",
+    "€1.798,99": "Gesamtbetrag inkl. Zinsen",
+    "€40,00": "Monatliche Rate",
+    "€120,00": "Gesamtbetrag inkl. Zinsen"
+  },
+  "features": [],
+  "reviews": {
+    "summary": {},
+    "featured": [
+      {
+        "headline": "Stunning visuals for gaming",
+        "body": "[This review was collected as part of a promotion.]\n\nI recently upgraded my home entertainment system with the 86 Inch LG UHD 4K Smart TV 2024, and it has been a great choice in every sense. From stunning visuals and exceptional gaming performance with my PS5, this TV delivers on all fronts. The one draw back is the immense size and weight and getting it set up! But 86” should be a good clue! \n\nImage Quality: The first thing that strikes you about this TV is its sheer size and the breathtaking clarity of its 4K resolution. The UHD display brings out incredible detail, making every scene come to life with vibrant colours and deep contrasts. Whether watching movies, sports, or nature documentaries, the picture quality is consistently sharp and vivid. Lesser quality definitions do show up poorly on this immense TV. \n\nPS5 Graphics: As someone who dabbles with gaming, I was eager to test the LG UT81 with my PS5, and it exceeded my expectations. The 4K HDR capability ensures that games look stunningly realistic, with vibrant colours and sharp details that bring game worlds to life. The TV's low input lag and high refresh rate are perfect for fast-paced games, providing smooth, responsive gameplay. The large screen size enhances the immersive experience, making every gaming session feel epic. \n\nThe 86 Inch LG UHD AI UT81 4K Smart TV 2024 is a great choice for anyone looking to upgrade their viewing and gaming experience. It combines crisp image quality from a UHD source, decent enough sound, and great performance with the PS5 graphics and game play",
+        "rating": 4,
+        "author": "BIEN",
+        "dateCreated": "2024-07-16T14:17:36.000+00:00",
+        "datePublished": "2024-07-16T15:30:11.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/2038d090-f876-5c8c-b152-a359502c5578",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/be2c71a5-ca81-59dc-bb99-68214e72b3e6",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/f7647296-34c1-59a2-9324-9f2c0295a718",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/e9a28043-ff92-5657-8cd4-2bab8c2f4358",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/72238901-5298-513e-8091-1563f97f3520",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/66ab26ea-db42-5dd6-9be7-94f3e13a2f2c"
+        ]
+      },
+      {
+        "headline": "Sonido que se adapta, lo mejor",
+        "body": "(Esta reseña se ha recibido a través de una promoción.) Desde que tenemos la LG AI UHD de 86 pulgadas en casa, la experiencia de ver películas y deportes es de otro mundo. A mi me encanta ver carreras y su tamaño impresionante hace que cada partido o carrera se sienta como si estuviéramos viéndolo en persona. La calidad 4K es increíble, cada detalle mega nítido y con la inteligencia artificial ThinQ AI las configuraciones son súper fáciles. Nos encanta como la IA se adapta para mejorar la imagen y el sonido según el entorno. Ha elevado por mucho la experiencia, la navegación es intuitiva y personalizada y a todos en la familia nos encanta. Es una pantalla que combina la mejor tecnología y calidad.",
+        "rating": 5,
+        "author": "Andreagp30",
+        "dateCreated": "2024-11-26T19:33:07.000+00:00",
+        "datePublished": "2024-11-27T21:46:31.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/52da80f4-b7a7-551a-95e7-7410c718a100",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/8235f96d-570b-54e1-98c2-f87ddc41b4d4",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/5c4d8158-2833-5da3-a664-db0a3d29c98a"
+        ]
+      },
+      {
+        "headline": "Cinema in my own front room!",
+        "body": "[This review was collected as part of a promotion.] We recently upgraded our 55in TV to the 86 Inch LG UHD 4K Smart TV 2024. Were we nervous getting a telly quite that huge? YES. Do we regret it? Absolutely not! \n\nIt was all set up in a matter of minutes and you are prompted for app installations and which settings you prefer. The QR code and phone setup was so easy and the whole process from start to finish was seamless. \n\nThe picture quality is 10/10! Such a clear, crisp picture for such a huge TV. I was sceptical when ordering but I am so pleased with it! The sound and picture settings are easy to tinker with to your personal preference and we would highly recommend to anyone who wants to create a cinema feel in your own front room.",
+        "rating": 4,
+        "author": "Danni4u",
+        "dateCreated": "2024-07-22T14:12:45.000+00:00",
+        "datePublished": "2024-07-27T03:15:06.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/795f465f-ae84-5d47-8666-547da1504f76",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/f434df5e-5a8d-57bf-959a-00d981c27602",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/5caff64d-beeb-5fb8-8793-4de680562a27"
+        ]
+      },
+      {
+        "headline": "Better than I thinking",
+        "body": "[This review was collected as part of a promotion.] 86 inches is impressive. A very nice TV base and a very thin frame give the TV a modern design. . After turning on the TV during the first settings, I immediately noticed that the voice was much too fast. It's hard to understand anything. The 2nd disadvantage is the location of the connection at the back of the TV in my old model, it was solved much better. The remote control works very smoothly and fits well in the hand. A great option is to control the cursor on the screen with a remote control. The TV works great with my PS 5 console. It works very fast, everything runs smoothly, the colors are very vivid and I can say that everything looks extremely good. The sound is also at a high level. Overall, I recommend the LG TV, I am very satisfied.",
+        "rating": 5,
+        "author": "K4R45",
+        "dateCreated": "2024-07-09T16:32:10.000+00:00",
+        "datePublished": "2024-07-09T23:15:06.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/ad883787-41a1-544e-8247-9f8b4183cf4f",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/098f82fa-0862-57fa-af76-f859c49463fb",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/16ed2638-f0a3-5d1d-9413-2917787fb02c"
+        ]
+      },
+      {
+        "headline": "Cinematic experience from home",
+        "body": "I purchased this 86inch tv hesitantly, as I want to create a cinema room at home, but wasn't sure if this would be too big. However I am very glad I purchased it. \nI found it a bit fiddly to attach the stand, but got there in the end. And the tv is very heavy. \nThe colour, picture and sound quality definitely makes up for any minor issues as mentioned.\nOnce the tv is turned on, the set up is very simple, with the option to either set up using mobile or manually with the remote. \nThe colours and picture quality is crisp. No issues. Great sound. I'm going to enjoy watching series and movies, as well as a bit of gaming! Very happy with this purchase and would recommend",
+        "rating": 4,
+        "author": "Chrissyjojo",
+        "dateCreated": "2024-07-25T06:08:33.000+00:00",
+        "datePublished": "2024-07-26T20:45:15.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/a29b6b39-436f-5af1-bab3-fc3a34b2f7ab",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/ecb1fc45-f368-5d20-8d7a-401b8cab6020"
+        ]
+      },
+      {
+        "headline": "Small step for man, giant leap for TV'S",
+        "body": "[This review was collected as part of a promotion.] The LG 86 TV having been lucky enough to make the shortlist has transformed our home entertainment factor ten-fold. After a simple and easy setup and build procedure, the TV sprung into life and the difference especially the screen compared to our previous model has been incredible. It boasts a sleek, modern design with slim bezels that maximize the screen's real estate, creating an immersive viewing experience.\nFrom watching Content like the sports, movies in hdr and imax quality through streaming and playing games through a super console, the TV manages to deal with everything thrown at it and provides a next level experience. \nThe 86-inch screen is the standout feature of this TV, delivering a breathtaking 4K Ultra HD resolution. The picture quality is sharp, vibrant, and incredibly detailed, thanks to the powerful α7 Gen 3 Intelligent Processor 4K",
+        "rating": 5,
+        "author": "pascy",
+        "dateCreated": "2024-07-08T12:09:23.000+00:00",
+        "datePublished": "2024-07-08T15:30:11.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/b585cd0c-862f-50be-aa8d-84f160b16405",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/e286cd06-00b6-525c-838e-fb1059cc1ff5",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/0a29115e-d4cd-5936-9369-91c5f5146302"
+        ]
+      },
+      {
+        "headline": "High-quality TV with smart features",
+        "body": "[This review was collected as part of a promotion.] The LG 86UT81006LA is an impressive 86-inch 4K UHD TV that delivers a premium home viewing experience. Its sleek design with thin bezels enhances any living space, while the 4K IPS panel ensures vibrant colors and deep contrasts with wide viewing angles. HDR10 and HLG support further elevate the picture quality, making movies and shows look lifelike.\n\nEquipped with LG's webOS, the TV offers easy access to popular streaming services and supports voice control via Google Assistant and Alexa. It also features multiple HDMI and USB ports, along with built-in Wi-Fi, providing versatile connectivity options. While the built-in speakers offer decent sound quality, adding a soundbar can enhance the audio experience.\n\nOverall, the LG 86UT81006LA is an excellent choice for anyone seeking a large, high-quality TV with smart features for a truly immersive home entertainment setup.",
+        "rating": 5,
+        "author": "Zishans",
+        "dateCreated": "2024-08-22T15:51:06.000+00:00",
+        "datePublished": "2024-08-23T10:45:04.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/58a8dc3b-683a-564b-94ad-84a892c382df",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/992b9d0f-1180-535a-8e1a-4ddac0471859",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/09b62ab8-2b03-5c3e-bd9d-884deabac2ca"
+        ]
+      },
+      {
+        "headline": "LG ThinQ 2024 86\" TV review",
+        "body": "[This review was collected as part of a promotion.] Firstly the unboxing experience was super easy by removing 6 plastic tabs from the sides.\nRecommend that you have a friend help you every step of the way.\nThe TV can be wall mounted by the VESA 4 points at the back of the TV or use the included stand.\nI have chosen to wall mount the TV and this was simple to do.\nSetting up the TV can be done directly using the remote or via the LG mobile app - simple process by adding wifi and email details. Note that this will register your TV with LG\nPicture quality to crisp, sharp and clear.\nSound quality is good but can be better - I have hooked mine to my bose speaker system.\nRemote control is simple, but can feel that it is cheaply constructed when compared to my old LG TV. Also, my old TV remote works with this new TV which is a bonus. The remote also acts as a mouse sort of feature so you can easily use the webOS app.\nGaming (PS5) is very snappy with no lag what-so-ever.",
+        "rating": 5,
+        "author": "tankexpress1985",
+        "dateCreated": "2024-07-08T12:10:02.000+00:00",
+        "datePublished": "2024-07-09T01:45:07.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/287a9bde-fe07-5b96-82d0-3c1e64f9c0b2",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/bb5c117a-938f-5649-a9fb-e65374716e9c",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/a206df80-3265-5e45-8027-1a4b494643c8"
+        ]
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://www.lg.com/de/"
+    },
+    {
+      "position": 2,
+      "name": "TVs & Soundbars",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/"
+    },
+    {
+      "position": 3,
+      "name": "4K TVs",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/4k-uhd-tvs/"
+    },
+    {
+      "position": 4,
+      "name": "75UT81006LA",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/4k-uhd-tvs/75ut81006la/"
+    }
+  ],
+  "faq": [],
+  "metadata": {
+    "mpn": "75UT81006LA",
+    "title": "75 Zoll 4K LG UHD AI Smart TV UT81 | LG DE",
+    "description": "Entdecke den ultragroßen LG UHD Fernseher UT81 mit  HDR10 Pro, α5 Gen7 4K AI-Prozessor , mit webOS 24, einfacher Soundbar-Steuerung über die WOW-Oberfläche und in einem eleganten, schlanken Design.",
+    "ogImage": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/450x450/UHD-86UT81006LA-Gallery-01.jpg",
+    "ogTitle": "75 Zoll 4K LG UHD Smart TV UT81 - 75UT81006LA | LG DE",
+    "canonical": "https://www.lg.com/de/tvs-und-soundbars/4k-uhd-tvs/75ut81006la/"
+  },
+  "structuredData": {
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/4k-uhd-tvs/75ut81006la/",
+        "review": [
+          {
+            "@type": "Review",
+            "dateCreated": "2024-07-16T14:17:36.000+00:00",
+            "datePublished": "2024-07-16T15:30:11.000+00:00",
+            "headline": "Stunning visuals for gaming",
+            "reviewBody": "[This review was collected as part of a promotion.]\n\nI recently upgraded my home entertainment system with the 86 Inch LG UHD 4K Smart TV 2024, and it has been a great choice in every sense. From stunning visuals and exceptional gaming performance with my PS5, this TV delivers on all fronts. The one draw back is the immense size and weight and getting it set up! But 86” should be a good clue! \n\nImage Quality: The first thing that strikes you about this TV is its sheer size and the breathtaking clarity of its 4K resolution. The UHD display brings out incredible detail, making every scene come to life with vibrant colours and deep contrasts. Whether watching movies, sports, or nature documentaries, the picture quality is consistently sharp and vivid. Lesser quality definitions do show up poorly on this immense TV. \n\nPS5 Graphics: As someone who dabbles with gaming, I was eager to test the LG UT81 with my PS5, and it exceeded my expectations. The 4K HDR capability ensures that games look stunningly realistic, with vibrant colours and sharp details that bring game worlds to life. The TV's low input lag and high refresh rate are perfect for fast-paced games, providing smooth, responsive gameplay. The large screen size enhances the immersive experience, making every gaming session feel epic. \n\nThe 86 Inch LG UHD AI UT81 4K Smart TV 2024 is a great choice for anyone looking to upgrade their viewing and gaming experience. It combines crisp image quality from a UHD source, decent enough sound, and great performance with the PS5 graphics and game play",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 4,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BIEN"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/2038d090-f876-5c8c-b152-a359502c5578",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/154236b6-2fc6-53cd-a5e8-72553d8481e5"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/be2c71a5-ca81-59dc-bb99-68214e72b3e6",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/87d600be-5644-5d94-a97e-c344df04cad8"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/f7647296-34c1-59a2-9324-9f2c0295a718",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/feb0ceed-f192-5577-bb5b-1060421c327d"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/e9a28043-ff92-5657-8cd4-2bab8c2f4358",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/40907e91-2d94-52dd-b863-d5c69c9544c0"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/72238901-5298-513e-8091-1563f97f3520",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/f5965ad3-9103-5386-bef0-6eeeaaa7b269"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/66ab26ea-db42-5dd6-9be7-94f3e13a2f2c",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/90f83a0d-06f9-54e5-8681-b4b1cda5632d"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-11-26T19:33:07.000+00:00",
+            "datePublished": "2024-11-27T21:46:31.000+00:00",
+            "headline": "Sonido que se adapta, lo mejor",
+            "reviewBody": "(Esta reseña se ha recibido a través de una promoción.) Desde que tenemos la LG AI UHD de 86 pulgadas en casa, la experiencia de ver películas y deportes es de otro mundo. A mi me encanta ver carreras y su tamaño impresionante hace que cada partido o carrera se sienta como si estuviéramos viéndolo en persona. La calidad 4K es increíble, cada detalle mega nítido y con la inteligencia artificial ThinQ AI las configuraciones son súper fáciles. Nos encanta como la IA se adapta para mejorar la imagen y el sonido según el entorno. Ha elevado por mucho la experiencia, la navegación es intuitiva y personalizada y a todos en la familia nos encanta. Es una pantalla que combina la mejor tecnología y calidad.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Andreagp30"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/52da80f4-b7a7-551a-95e7-7410c718a100",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/c21a638e-2270-5703-afd2-a43f68347b9c"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/8235f96d-570b-54e1-98c2-f87ddc41b4d4",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/5fe64433-5b98-55a1-8f8e-305157f45abc"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/5c4d8158-2833-5da3-a664-db0a3d29c98a",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1teA/ac6c3efc-cfb6-505d-be72-d81d536c46fd"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-07-22T14:12:45.000+00:00",
+            "datePublished": "2024-07-27T03:15:06.000+00:00",
+            "headline": "Cinema in my own front room!",
+            "reviewBody": "[This review was collected as part of a promotion.] We recently upgraded our 55in TV to the 86 Inch LG UHD 4K Smart TV 2024. Were we nervous getting a telly quite that huge? YES. Do we regret it? Absolutely not! \n\nIt was all set up in a matter of minutes and you are prompted for app installations and which settings you prefer. The QR code and phone setup was so easy and the whole process from start to finish was seamless. \n\nThe picture quality is 10/10! Such a clear, crisp picture for such a huge TV. I was sceptical when ordering but I am so pleased with it! The sound and picture settings are easy to tinker with to your personal preference and we would highly recommend to anyone who wants to create a cinema feel in your own front room.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 4,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Danni4u"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/795f465f-ae84-5d47-8666-547da1504f76",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/841a0182-ed15-57c1-a340-e41e623c0dac"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/f434df5e-5a8d-57bf-959a-00d981c27602",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/78b320ee-ed9c-5fe6-9c19-5750abe9cc47"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/5caff64d-beeb-5fb8-8793-4de680562a27",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/763fc751-8a33-5acd-b6d4-09c16abf005e"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-07-09T16:32:10.000+00:00",
+            "datePublished": "2024-07-09T23:15:06.000+00:00",
+            "headline": "Better than I thinking",
+            "reviewBody": "[This review was collected as part of a promotion.] 86 inches is impressive. A very nice TV base and a very thin frame give the TV a modern design. . After turning on the TV during the first settings, I immediately noticed that the voice was much too fast. It's hard to understand anything. The 2nd disadvantage is the location of the connection at the back of the TV in my old model, it was solved much better. The remote control works very smoothly and fits well in the hand. A great option is to control the cursor on the screen with a remote control. The TV works great with my PS 5 console. It works very fast, everything runs smoothly, the colors are very vivid and I can say that everything looks extremely good. The sound is also at a high level. Overall, I recommend the LG TV, I am very satisfied.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "K4R45"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/ad883787-41a1-544e-8247-9f8b4183cf4f",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/22cf5272-5ce3-5d0d-a4d0-480bb7bdbc1b"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/098f82fa-0862-57fa-af76-f859c49463fb",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/3b932485-59b1-5c2e-a4d1-5f6d983a75d0"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/16ed2638-f0a3-5d1d-9413-2917787fb02c",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/45c716bb-e8a8-547a-a943-af20791e372b"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-07-25T06:08:33.000+00:00",
+            "datePublished": "2024-07-26T20:45:15.000+00:00",
+            "headline": "Cinematic experience from home",
+            "reviewBody": "I purchased this 86inch tv hesitantly, as I want to create a cinema room at home, but wasn't sure if this would be too big. However I am very glad I purchased it. \nI found it a bit fiddly to attach the stand, but got there in the end. And the tv is very heavy. \nThe colour, picture and sound quality definitely makes up for any minor issues as mentioned.\nOnce the tv is turned on, the set up is very simple, with the option to either set up using mobile or manually with the remote. \nThe colours and picture quality is crisp. No issues. Great sound. I'm going to enjoy watching series and movies, as well as a bit of gaming! Very happy with this purchase and would recommend",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 4,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chrissyjojo"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/a29b6b39-436f-5af1-bab3-fc3a34b2f7ab",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/13683df9-5b89-58c5-bd4a-21c187fc1a3f"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/ecb1fc45-f368-5d20-8d7a-401b8cab6020",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/0296f431-42dc-583b-a760-55964d77dc90"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-07-08T12:09:23.000+00:00",
+            "datePublished": "2024-07-08T15:30:11.000+00:00",
+            "headline": "Small step for man, giant leap for TV'S",
+            "reviewBody": "[This review was collected as part of a promotion.] The LG 86 TV having been lucky enough to make the shortlist has transformed our home entertainment factor ten-fold. After a simple and easy setup and build procedure, the TV sprung into life and the difference especially the screen compared to our previous model has been incredible. It boasts a sleek, modern design with slim bezels that maximize the screen's real estate, creating an immersive viewing experience.\nFrom watching Content like the sports, movies in hdr and imax quality through streaming and playing games through a super console, the TV manages to deal with everything thrown at it and provides a next level experience. \nThe 86-inch screen is the standout feature of this TV, delivering a breathtaking 4K Ultra HD resolution. The picture quality is sharp, vibrant, and incredibly detailed, thanks to the powerful α7 Gen 3 Intelligent Processor 4K",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "pascy"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/b585cd0c-862f-50be-aa8d-84f160b16405",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/c3505395-ec8d-5163-aa8b-02de0e11cf5f"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/e286cd06-00b6-525c-838e-fb1059cc1ff5",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/440d57c0-f334-5150-956f-1065a8b9a30f"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/0a29115e-d4cd-5936-9369-91c5f5146302",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/ea3ae113-4779-5336-b62d-2bd40539f6ef"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-08-22T15:51:06.000+00:00",
+            "datePublished": "2024-08-23T10:45:04.000+00:00",
+            "headline": "High-quality TV with smart features",
+            "reviewBody": "[This review was collected as part of a promotion.] The LG 86UT81006LA is an impressive 86-inch 4K UHD TV that delivers a premium home viewing experience. Its sleek design with thin bezels enhances any living space, while the 4K IPS panel ensures vibrant colors and deep contrasts with wide viewing angles. HDR10 and HLG support further elevate the picture quality, making movies and shows look lifelike.\n\nEquipped with LG's webOS, the TV offers easy access to popular streaming services and supports voice control via Google Assistant and Alexa. It also features multiple HDMI and USB ports, along with built-in Wi-Fi, providing versatile connectivity options. While the built-in speakers offer decent sound quality, adding a soundbar can enhance the audio experience.\n\nOverall, the LG 86UT81006LA is an excellent choice for anyone seeking a large, high-quality TV with smart features for a truly immersive home entertainment setup.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Zishans"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/58a8dc3b-683a-564b-94ad-84a892c382df",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/97b18bc5-53a7-5308-9fd3-ee3ea00a8d1a"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/992b9d0f-1180-535a-8e1a-4ddac0471859",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/a411bb39-2a86-5c63-9af9-4b53f37d054b"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/09b62ab8-2b03-5c3e-bd9d-884deabac2ca",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/7d0975f3-f697-5f95-9036-807f05919cf3"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-07-08T12:10:02.000+00:00",
+            "datePublished": "2024-07-09T01:45:07.000+00:00",
+            "headline": "LG ThinQ 2024 86\" TV review",
+            "reviewBody": "[This review was collected as part of a promotion.] Firstly the unboxing experience was super easy by removing 6 plastic tabs from the sides.\nRecommend that you have a friend help you every step of the way.\nThe TV can be wall mounted by the VESA 4 points at the back of the TV or use the included stand.\nI have chosen to wall mount the TV and this was simple to do.\nSetting up the TV can be done directly using the remote or via the LG mobile app - simple process by adding wifi and email details. Note that this will register your TV with LG\nPicture quality to crisp, sharp and clear.\nSound quality is good but can be better - I have hooked mine to my bose speaker system.\nRemote control is simple, but can feel that it is cheaply constructed when compared to my old LG TV. Also, my old TV remote works with this new TV which is a bonus. The remote also acts as a mouse sort of feature so you can easily use the webOS app.\nGaming (PS5) is very snappy with no lag what-so-ever.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "tankexpress1985"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/287a9bde-fe07-5b96-82d0-3c1e64f9c0b2",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/b064e147-8778-517e-8778-b28ae1a4e68c"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/bb5c117a-938f-5649-a9fb-e65374716e9c",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/6e366852-07ab-57e3-b9d3-51d9a6ba4f96"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/a206df80-3265-5e45-8027-1a4b494643c8",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/e8184932-88e0-5e88-bd28-e849d0b88f85"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org/",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/4k-uhd-tvs/75ut81006la/",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "itemReviewed": {
+            "@type": "IndividualProduct",
+            "name": "75UT81006LA"
+          },
+          "ratingValue": "4.4",
+          "reviewCount": 219,
+          "bestRating": 5
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "product",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/4k-uhd-tvs/75ut81006la/",
+        "name": "75 Zoll 4K LG UHD Smart TV UT81",
+        "image": "/content/dam/channel/wcms/de/d2c-content/4k(uhd)/189-4kuhd-ut81-86-86ut81006la/gallery/450x450/UHD-86UT81006LA-Gallery-01.jpg",
+        "description": "Entdecken Sie LG 75UT81006LA. Für Bilder, Bewertungen und technische Daten zu LG klicken 75 Zoll 4K LG UHD Smart TV UT81.",
+        "mpn": "75UT81006LA",
+        "brand": {
+          "@type": "Brand",
+          "name": "LG"
+        },
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "EUR",
+          "price": "698.99",
+          "availability": "https://schema.org/OutOfStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "LG DE"
+          }
+        },
+        "size": {
+          "@type": "QuantitativeValue",
+          "unitCode": "MMT",
+          "value": "4K UHD"
+        },
+        "hasEnergyConsumptionDetails": {
+          "@type": "EnergyConsumptionDetails",
+          "hasEnergyEfficiencyCategory": "https://schema.org/EUEnergyEfficiencyCategoryF",
+          "energyEfficiencyScaleMax": "https://schema.org/EUEnergyEfficiencyCategoryA1Plus",
+          "energyEfficiencyScaleMin": "https://schema.org/EUEnergyEfficiencyCategoryG"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.lg.com/de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "TVs & Soundbars",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "4K TVs",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/4k-uhd-tvs/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "75UT81006LA",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/4k-uhd-tvs/75ut81006la/"
+          }
+        ]
+      }
+    ]
+  }
+}

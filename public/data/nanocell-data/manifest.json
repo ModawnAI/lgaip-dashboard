@@ -1,0 +1,87 @@
+{
+  "category": "nanocell",
+  "updatedAt": "2026-01-20T06:42:27.170Z",
+  "totalProducts": 10,
+  "products": [
+    {
+      "modelNumber": "50NANO81A6A",
+      "productName": "50 Zoll LG NanoCell AI NANO81 4K Smart TV ",
+      "price": "749",
+      "rating": "4.6",
+      "imageCount": 182,
+      "videoCount": 25
+    },
+    {
+      "modelNumber": "55NANO756QC",
+      "productName": "55 Zoll LG NanoCell 4K TV Nano75",
+      "price": "",
+      "rating": "4.1",
+      "imageCount": 134,
+      "videoCount": 14
+    },
+    {
+      "modelNumber": "55NANO80A6B",
+      "productName": "55 Zoll LG NanoCell AI NANO80 4K Smart TV ",
+      "price": "349",
+      "rating": "4.5",
+      "imageCount": 186,
+      "videoCount": 25
+    },
+    {
+      "modelNumber": "55NANO81T6A",
+      "productName": "55 Zoll 4K LG NanoCell Smart TV NANO81 ",
+      "price": "899",
+      "rating": "4.2",
+      "imageCount": 165,
+      "videoCount": 4
+    },
+    {
+      "modelNumber": "65NANO80A6B",
+      "productName": "65 Zoll LG NanoCell AI NANO80 4K Smart TV",
+      "price": "1199",
+      "rating": "4.4",
+      "imageCount": 171,
+      "videoCount": 24
+    },
+    {
+      "modelNumber": "65NANO81T6A",
+      "productName": "65 Zoll 4K LG NanoCell Smart TV NANO81",
+      "price": "1199",
+      "rating": "4.2",
+      "imageCount": 169,
+      "videoCount": 4
+    },
+    {
+      "modelNumber": "65NANO82T6B",
+      "productName": "65 Zoll 4K LG NanoCell Smart TV NANO82",
+      "price": "1199",
+      "rating": "4.1",
+      "imageCount": 170,
+      "videoCount": 4
+    },
+    {
+      "modelNumber": "75NANO80A6B",
+      "productName": "75 Zoll LG NanoCell AI NANO80 4K Smart TV ",
+      "price": "1699",
+      "rating": "4.5",
+      "imageCount": 172,
+      "videoCount": 22
+    },
+    {
+      "modelNumber": "75NANO82T6B",
+      "productName": "75 Zoll 4K LG NanoCell Smart TV NANO82",
+      "price": "1699",
+      "rating": "4.1",
+      "imageCount": 171,
+      "videoCount": 4
+    },
+    {
+      "modelNumber": "75NANO90A6B",
+      "productName": "75 Zoll LG NanoCell AI NANO90 4K Smart TV ",
+      "price": "",
+      "rating": "4.7",
+      "imageCount": 170,
+      "videoCount": 25
+    }
+  ]
+}

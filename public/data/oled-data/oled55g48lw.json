@@ -1,0 +1,2635 @@
+{
+  "crawledAt": "2026-01-20T03:46:08.983Z",
+  "url": "https://www.lg.com/de/tvs-und-soundbars/oled-evo/oled55g48lw/",
+  "modelNumber": "OLED55G48LW",
+  "category": "OLED evo",
+  "basicInfo": {
+    "productName": "55 Zoll LG OLED evo G4 4K Smart TV",
+    "headline": "55 Zoll LG OLED evo G4 4K Smart TV",
+    "screenSize": "55 Zoll",
+    "series": "G",
+    "year": 2024,
+    "brand": "LG",
+    "modelNumber": "OLED55G48LW"
+  },
+  "pricing": {
+    "currentPrice": "2799",
+    "currency": "EUR",
+    "availability": "OutOfStock",
+    "seller": "LG DE"
+  },
+  "ratings": {
+    "averageRating": "4.8",
+    "reviewCount": 4264,
+    "bestRating": 5
+  },
+  "energyEfficiency": {
+    "category": "F",
+    "scaleMax": "A1Plus",
+    "scaleMin": "G"
+  },
+  "media": {
+    "images": [
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/banners/2026-01-15-LG-CB26-GNB-290x90px-V1-jgr.jpg",
+        "srcset": null,
+        "alt": " Gute Vorsätze für 2026",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/banners/2026-01-15-LG-CB26-GNB-290x90px-V1-jgr.jpg",
+        "srcset": null,
+        "alt": " Gute Vorsätze für 2026",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "OLED55G48LW EU.pdf",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "OLED55G48LW EU.pdf",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/2010x1334/oled-g4-55-gallery-12.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Linker Winkel des LG OLED evo AI G4 4K Smart Wand-TVs mit nahezu unsichtbarem Rahmen und ultraschlanker Form",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/2010x1334/oled-g4-55-gallery-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Frontansicht des an der Wand montierten LG OLED evo AI G4 4K Smart TV mit lebendigem Kunstwerk und KI-optimiertem 4K-Display",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/2010x1334/oled-g4-55-gallery-02.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "LG OLED evo AI G4 4K Smart Wand-TV aus linkem Blickwinkel mit randlosem, ultraschlankem Design",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/2010x1334/oled-g4-55-gallery-03.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "LG OLED evo AI G4 4K Smart Wand-TV aus stärker geneigtem linken Blickwinkel mit nahtloser Wandintegration und beeindruckendem Bildschirm",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/2010x1334/oled-g4-55-gallery-04.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Rückansicht des LG OLED evo AI G4 4K Smart Wand-TVs mit aufgeräumtem Kabelmanagement und flacher Wandmontage",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/2010x1334/oled-g4-55-gallery-05.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Abmessungen des LG OLED evo AI G4 4K Smart Wand-TVs: 1222 x 703 x 27,2 mm mit 55 Zoll Bildschirm",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/2010x1334/oled-g4-55-gallery-06.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "LG OLED evo AI G4 4K Smart Wand-TV in einem modernen Wohnzimmer mit Soundbar (separat erhältlich)",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/2010x1334/oled-g4-55-gallery-07.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Seitenansicht des LG OLED evo AI G4 4K Smart Wand-TVs in einem offenen Wohnraum, mit betont schlankem Wandprofil",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/2010x1334/oled-g4-55-gallery-08.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Detailansicht der Rückseite des LG OLED evo AI G4 4K Smart Wand-TVs mit Kabelverlauf und flacher Montage",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/2010x1334/oled-g4-55-gallery-09.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Schrägansicht der Ecke des LG OLED evo AI G4 4K Smart Wand-TVs mit Metallrahmen und minimalistischer Ästhetik",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/2010x1334/oled-g4-55-gallery-10.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "LG OLED evo AI G4 4K Smart Wand-TV aus rechtem Blickwinkel mit randlosem, ultraschlankem Profil",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/2010x1334/oled-g4-55-gallery-11.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "LG OLED evo AI G4 4K Smart Wand-TV aus stärker geneigtem rechten Blickwinkel mit nahtloser Wandintegration",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/2010x1334/oled-g4-55-gallery-12.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Linker Winkel des LG OLED evo AI G4 4K Smart Wand-TVs mit nahezu unsichtbarem Rahmen und ultraschlanker Form",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/2010x1334/oled-g4-55-gallery-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Frontansicht des an der Wand montierten LG OLED evo AI G4 4K Smart TV mit lebendigem Kunstwerk und KI-optimiertem 4K-Display",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/350x350/oled-g4-55-gallery-01.jpg",
+        "srcset": null,
+        "alt": "Frontansicht des an der Wand montierten LG OLED evo AI G4 4K Smart TV mit lebendigem Kunstwerk und KI-optimiertem 4K-Display",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/350x350/oled-g4-55-gallery-02.jpg",
+        "srcset": null,
+        "alt": "LG OLED evo AI G4 4K Smart Wand-TV aus linkem Blickwinkel mit randlosem, ultraschlankem Design",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/350x350/oled-g4-55-gallery-03.jpg",
+        "srcset": null,
+        "alt": "LG OLED evo AI G4 4K Smart Wand-TV aus stärker geneigtem linken Blickwinkel mit nahtloser Wandintegration und beeindruckendem Bildschirm",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/350x350/oled-g4-55-gallery-04.jpg",
+        "srcset": null,
+        "alt": "Rückansicht des LG OLED evo AI G4 4K Smart Wand-TVs mit aufgeräumtem Kabelmanagement und flacher Wandmontage",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/350x350/oled-g4-55-gallery-05.jpg",
+        "srcset": null,
+        "alt": "Abmessungen des LG OLED evo AI G4 4K Smart Wand-TVs: 1222 x 703 x 27,2 mm mit 55 Zoll Bildschirm",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/350x350/oled-g4-55-gallery-06.jpg",
+        "srcset": null,
+        "alt": "LG OLED evo AI G4 4K Smart Wand-TV in einem modernen Wohnzimmer mit Soundbar (separat erhältlich)",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/350x350/oled-g4-55-gallery-07.jpg",
+        "srcset": null,
+        "alt": "Seitenansicht des LG OLED evo AI G4 4K Smart Wand-TVs in einem offenen Wohnraum, mit betont schlankem Wandprofil",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/350x350/oled-g4-55-gallery-08.jpg",
+        "srcset": null,
+        "alt": "Detailansicht der Rückseite des LG OLED evo AI G4 4K Smart Wand-TVs mit Kabelverlauf und flacher Montage",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/350x350/oled-g4-55-gallery-09.jpg",
+        "srcset": null,
+        "alt": "Schrägansicht der Ecke des LG OLED evo AI G4 4K Smart Wand-TVs mit Metallrahmen und minimalistischer Ästhetik",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/350x350/oled-g4-55-gallery-10.jpg",
+        "srcset": null,
+        "alt": "LG OLED evo AI G4 4K Smart Wand-TV aus rechtem Blickwinkel mit randlosem, ultraschlankem Profil",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/350x350/oled-g4-55-gallery-11.jpg",
+        "srcset": null,
+        "alt": "LG OLED evo AI G4 4K Smart Wand-TV aus stärker geneigtem rechten Blickwinkel mit nahtloser Wandintegration",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/350x350/oled-g4-55-gallery-12.jpg",
+        "srcset": null,
+        "alt": "Linker Winkel des LG OLED evo AI G4 4K Smart Wand-TVs mit nahezu unsichtbarem Rahmen und ultraschlanker Form",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/2010x1334/oled-g4-55-gallery-01.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des an der Wand montierten LG OLED evo AI G4 4K Smart TV mit lebendigem Kunstwerk und KI-optimiertem 4K-Display",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/2010x1334/oled-g4-55-gallery-02.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "LG OLED evo AI G4 4K Smart Wand-TV aus linkem Blickwinkel mit randlosem, ultraschlankem Design",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/2010x1334/oled-g4-55-gallery-03.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "LG OLED evo AI G4 4K Smart Wand-TV aus stärker geneigtem linken Blickwinkel mit nahtloser Wandintegration und beeindruckendem Bildschirm",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/2010x1334/oled-g4-55-gallery-04.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Rückansicht des LG OLED evo AI G4 4K Smart Wand-TVs mit aufgeräumtem Kabelmanagement und flacher Wandmontage",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/2010x1334/oled-g4-55-gallery-05.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Abmessungen des LG OLED evo AI G4 4K Smart Wand-TVs: 1222 x 703 x 27,2 mm mit 55 Zoll Bildschirm",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/2010x1334/oled-g4-55-gallery-06.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "LG OLED evo AI G4 4K Smart Wand-TV in einem modernen Wohnzimmer mit Soundbar (separat erhältlich)",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/2010x1334/oled-g4-55-gallery-07.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Seitenansicht des LG OLED evo AI G4 4K Smart Wand-TVs in einem offenen Wohnraum, mit betont schlankem Wandprofil",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/2010x1334/oled-g4-55-gallery-08.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Detailansicht der Rückseite des LG OLED evo AI G4 4K Smart Wand-TVs mit Kabelverlauf und flacher Montage",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/2010x1334/oled-g4-55-gallery-09.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Schrägansicht der Ecke des LG OLED evo AI G4 4K Smart Wand-TVs mit Metallrahmen und minimalistischer Ästhetik",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/2010x1334/oled-g4-55-gallery-10.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "LG OLED evo AI G4 4K Smart Wand-TV aus rechtem Blickwinkel mit randlosem, ultraschlankem Profil",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/2010x1334/oled-g4-55-gallery-11.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "LG OLED evo AI G4 4K Smart Wand-TV aus stärker geneigtem rechten Blickwinkel mit nahtloser Wandintegration",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/2010x1334/oled-g4-55-gallery-12.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Linker Winkel des LG OLED evo AI G4 4K Smart Wand-TVs mit nahezu unsichtbarem Rahmen und ultraschlanker Form",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/350x350/oled-g4-55-gallery-01.jpg",
+        "srcset": null,
+        "alt": "Frontansicht des an der Wand montierten LG OLED evo AI G4 4K Smart TV mit lebendigem Kunstwerk und KI-optimiertem 4K-Display",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/350x350/oled-g4-55-gallery-02.jpg",
+        "srcset": null,
+        "alt": "LG OLED evo AI G4 4K Smart Wand-TV aus linkem Blickwinkel mit randlosem, ultraschlankem Design",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/350x350/oled-g4-55-gallery-03.jpg",
+        "srcset": null,
+        "alt": "LG OLED evo AI G4 4K Smart Wand-TV aus stärker geneigtem linken Blickwinkel mit nahtloser Wandintegration und beeindruckendem Bildschirm",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/350x350/oled-g4-55-gallery-04.jpg",
+        "srcset": null,
+        "alt": "Rückansicht des LG OLED evo AI G4 4K Smart Wand-TVs mit aufgeräumtem Kabelmanagement und flacher Wandmontage",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/350x350/oled-g4-55-gallery-05.jpg",
+        "srcset": null,
+        "alt": "Abmessungen des LG OLED evo AI G4 4K Smart Wand-TVs: 1222 x 703 x 27,2 mm mit 55 Zoll Bildschirm",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/350x350/oled-g4-55-gallery-06.jpg",
+        "srcset": null,
+        "alt": "LG OLED evo AI G4 4K Smart Wand-TV in einem modernen Wohnzimmer mit Soundbar (separat erhältlich)",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/350x350/oled-g4-55-gallery-07.jpg",
+        "srcset": null,
+        "alt": "Seitenansicht des LG OLED evo AI G4 4K Smart Wand-TVs in einem offenen Wohnraum, mit betont schlankem Wandprofil",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/350x350/oled-g4-55-gallery-08.jpg",
+        "srcset": null,
+        "alt": "Detailansicht der Rückseite des LG OLED evo AI G4 4K Smart Wand-TVs mit Kabelverlauf und flacher Montage",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/350x350/oled-g4-55-gallery-09.jpg",
+        "srcset": null,
+        "alt": "Schrägansicht der Ecke des LG OLED evo AI G4 4K Smart Wand-TVs mit Metallrahmen und minimalistischer Ästhetik",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/350x350/oled-g4-55-gallery-10.jpg",
+        "srcset": null,
+        "alt": "LG OLED evo AI G4 4K Smart Wand-TV aus rechtem Blickwinkel mit randlosem, ultraschlankem Profil",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/350x350/oled-g4-55-gallery-11.jpg",
+        "srcset": null,
+        "alt": "LG OLED evo AI G4 4K Smart Wand-TV aus stärker geneigtem rechten Blickwinkel mit nahtloser Wandintegration",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/350x350/oled-g4-55-gallery-12.jpg",
+        "srcset": null,
+        "alt": "Linker Winkel des LG OLED evo AI G4 4K Smart Wand-TVs mit nahezu unsichtbarem Rahmen und ultraschlanker Form",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/awards/2025-03-31-LG-StiWa_Logo-Testsieger-160x120mm-OLED55G48LW-CMYK-jgr.jpg",
+        "srcset": null,
+        "alt": "Stiftung Warentest OLED G4 Serie",
+        "width": 945,
+        "height": 709
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/awards/SZ_Deutschland-Favorit2024_Logo_Perso_LG-OLED-TV_DE.jpg",
+        "srcset": null,
+        "alt": "Deutschlandfavorit OLED G4",
+        "width": 2062,
+        "height": 2761
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/awards/LG-OLED-G4_SG_computer-bild.jpg",
+        "srcset": null,
+        "alt": "Computer Bild OLED G4 Serie",
+        "width": 5000,
+        "height": 5094
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/awards/SmartWeekly_LG-OLED-evo-TV-G4_2024-20.jpg",
+        "srcset": null,
+        "alt": "Smart Weekly OLED65G49LS",
+        "width": 2500,
+        "height": 2500
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/awards/SV_2024-05_LG_OLED55G48LW___RGB_DE.jpg",
+        "srcset": null,
+        "alt": "Satvision OLED55G48LW",
+        "width": 638,
+        "height": 433
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/awards/HIFI-DE-Testsiegel-Fernseher-LG-OLED-55G48LW-94.png",
+        "srcset": null,
+        "alt": "Stiftung Warentest OLED55G48LW",
+        "width": 3000,
+        "height": 1742
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled55g48lw-ds95qr/450X450_OLED55G48LW.DS95QR.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "LG 55 Zoll LG OLED evo G4 4K Smart TV +  9.1.5 Dolby Atmos® Soundbar mit 810 Watt, OLED55G48LW.DS95QR",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled55g48lw-dsg10ty/450x450_OLED55G48LW.DSG10TY.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "LG 55 Zoll LG OLED evo G4 4k Smart TV + 3.1 Dolby Atmos®️ Design-Soundbar mit 420 Watt, OLED55G48LW.DSG10TY",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled55g48lw-ds95tr/450x450_OLED55G48LW.DS95TR.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "LG 55 Zoll LG OLED evo G4 4K Smart TV + 9.1.5 Kanal LG TV Soundbar DS95TR mit Dolby Atmos, OLED55G48LW.DS95TR",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/gallery/pto/oled55g48lw-ds80tr/450x450_OLED55G48LW.DS80TR.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/pto/450x450_OLED55G48LW.DS90TY.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Bundle Image",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-01-intro-visual-m.jpg",
+        "srcset": null,
+        "alt": "Wir sehen den LG OLED evo TV G4 im 45-Grad-Winkel nach rechts gerichtet, mit einem abstrakten Kunstwerk in Lila und Orange auf dem Bildschirm vor einem orangen Hintergrund mit 3D-Kugeln, bevor sich der OLED TV nach vorne dreht. Unten rechts ist ein Logo des LG Alpha 11 4K AI-Prozessors zu sehen.\t",
+        "width": 1920,
+        "height": 1200
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-02-oled-11th-m.jpg",
+        "srcset": null,
+        "alt": "Ein goldenes Emblem der weltweiten Nummer 1 unter den OLED TVs seit 11 Jahren vor einem schwarzen Hintergrund. Ein Lichtstrahl leuchtet auf das Emblem, und goldene abstrakte Sterne füllen den Himmel darüber.",
+        "width": 1920,
+        "height": 700
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-03-summary-m.jpg",
+        "srcset": null,
+        "alt": "Wir sehen den Alpha 11 4K AI-Prozessor von LG auf einem Motherboard, der Lichtblitze in Rosa und Lila ausstrahlt.\t  Das Gallery Design des LG OLED evo TV G4 und die flache LG Soundbar sind an der Wand montiert in einem modernen Wohnraum zu sehen.  Das Logo von LG OLED Care+ und der 5 Jahre Panel-Garantie erscheint vor schwarzem Hintergrund.  Der Brightness Booster Max mit dem Bild eines Wals, der vor einem sternenklaren Nachthimmel aus dem Wasser springt. ",
+        "width": 1440,
+        "height": 520
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-08-ai-brightness-control-d-2.jpg",
+        "srcset": null,
+        "alt": "Ein LG OLED TV in einem modernen Wohnraum bei Nacht. Das Bild des Polarlichts wird auf dem Bildschirm mit der idealen Helligkeitsstufe angezeigt.\t",
+        "width": 1920,
+        "height": 700
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-08-ai-brightness-control-d-1.jpg",
+        "srcset": null,
+        "alt": "Ein LG OLED TV in einem modernen Wohnraum bei Tag. Das Bild des Polarlichts wird auf dem Bildschirm mit der idealen Helligkeitsstufe angezeigt.\t",
+        "width": 1920,
+        "height": 700
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-09-ai-picture-pro-m-2.jpg",
+        "srcset": null,
+        "alt": "Wir sehen einen Mann mit geschlossenen Augen und traurigem Gesichtsausdruck in einem kühlen blauen Raum mit düsterer Stimmung.\t",
+        "width": 1600,
+        "height": 1080
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-09-ai-picture-pro-m-1.jpg",
+        "srcset": null,
+        "alt": "Eine Frau mit strahlend blauen Augen und einem orangefarbenen Oberteil in einem dunklen Raum. Rote Linien, die AI-Verfeinerungen darstellen, bedecken einen Teil ihres Gesichts, das hell und detailliert ist, während der Rest des Bildes stumpf aussieht. \t",
+        "width": 1600,
+        "height": 1080
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-09-ai-picture-pro-m-2.jpg",
+        "srcset": null,
+        "alt": "Wir sehen einen Mann mit geschlossenen Augen und traurigem Gesichtsausdruck in einem kühlen blauen Raum mit düsterer Stimmung.\t",
+        "width": 1600,
+        "height": 1080
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-09-ai-picture-pro-m-1.jpg",
+        "srcset": null,
+        "alt": "Eine Frau mit strahlend blauen Augen und einem orangefarbenen Oberteil in einem dunklen Raum. Rote Linien, die AI-Verfeinerungen darstellen, bedecken einen Teil ihres Gesichts, das hell und detailliert ist, während der Rest des Bildes stumpf aussieht. \t",
+        "width": 1600,
+        "height": 1080
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-10-ai-sound-pro-m-4.jpg",
+        "srcset": null,
+        "alt": "Ein LG OLED TV zeigt einen Musiker bei einem Auftritt, mit hellen Kreisgrafiken um die Mikrofone und Instrumente.\t",
+        "width": 1440,
+        "height": 1080
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-10-ai-sound-pro-m-1.jpg",
+        "srcset": null,
+        "alt": "Ein LG OLED TV, mit Klangblasen und Wellen, die vom Bildschirm ausgehen und den Raum füllen.\t",
+        "width": 1440,
+        "height": 1080
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-10-ai-sound-pro-m-2.jpg",
+        "srcset": null,
+        "alt": "Eine Frau singt mit einem Mikrofon in der Hand, während sich um ihren Mund eine orangene Kreisgrafik befindet, die die Klanglandschaft darstellt.\t",
+        "width": 1440,
+        "height": 1080
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-10-ai-sound-pro-m-3.jpg",
+        "srcset": null,
+        "alt": "Ein Mann fährt auf einem Motorrad auf einer unbefestigten Straße mit hellen Kreisgrafiken um das Motorrad herum.\t",
+        "width": 1440,
+        "height": 1080
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-10-ai-sound-pro-m-4.jpg",
+        "srcset": null,
+        "alt": "Ein LG OLED TV zeigt einen Musiker bei einem Auftritt, mit hellen Kreisgrafiken um die Mikrofone und Instrumente.\t",
+        "width": 1440,
+        "height": 1080
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-10-ai-sound-pro-m-1.jpg",
+        "srcset": null,
+        "alt": "Ein LG OLED TV, mit Klangblasen und Wellen, die vom Bildschirm ausgehen und den Raum füllen.\t",
+        "width": 1440,
+        "height": 1080
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-11-brightness-booster-max-m.jpg",
+        "srcset": null,
+        "alt": "A video of a whale jumping out of the ocean against a black backdrop. The words \"up to 150% brighter\" appear above the whale and become brighter. The scene instantly brightens, revealing the Milky Way in the sky, bright markings on the whale, and glistening droplets of water.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-12-self-lit-oled-m.jpg",
+        "srcset": null,
+        "alt": "4 Schichten eines Fernsehers in der Seitenansicht: Hintergrundbeleuchtung, TFT und OLED, Film und Glas. Die Hintergrundbeleuchtung erlischt und die anderen 3 kommen zusammen und drehen sich dann nach oben, um das gesamte Fernsehgerät von der Vorderseite zu zeigen.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/master/he/tv/2024-tv/lg-com/2024-gp1/oled-pdp/g4/features/mobile/oled-g4-13-infinite-contrast-m-v2.jpg",
+        "srcset": null,
+        "alt": "Der Schriftzug „PERFEKTES SCHWARZ“ erscheint in fetten schwarzen Großbuchstaben. Ein schwarzes, scharf umrissenes Gebirge bedeckt dann die Buchstaben und gibt den Blick auf ein Dorf und Sanddünen frei. Das schwarze Exemplar verschwindet hinter einem schwarzen Himmel.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-37-perfect-black-m.jpg",
+        "srcset": null,
+        "alt": "Die Milchstraße füllt den Nachthimmel über einer Canyonlandschaft. Über dem Bild steht in weißen Blockbuchstaben „Grau ist nicht schwarz“ vor einem schwarzen Hintergrund. Der Bildschirm ist in zwei Seiten aufgeteilt und mit „Andere“ und „LG OLED“ gekennzeichnet. Die andere Seite ist deutlich dunkler und kontrastärmer, während die LG OLED-Seite hell und kontrastreich ist. Die LG OLED-Seite weist außerdem die Discomfort Glare Free-Zertifizierung auf.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/master/he/tv/2024-tv/lg-com/2024-gp1/oled-pdp/g4/features/mobile/oled-g4-14-color-fidelity-volume-m-v3.jpg",
+        "srcset": null,
+        "alt": "Eine belebte Stadtszene am frühen Abend mit kräftigen Farben und Kontrasten.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/master/he/tv/2024-tv/lg-com/2024-gp1/oled-pdp/g4/features/mobile/oled-g4-38-reflection-free-m.jpg",
+        "srcset": null,
+        "alt": "Links ein herkömmlicher Fernseher, der einen Tennisspieler in einem Stadion mit Raumspiegelung auf dem Bildschirm zeigt. Rechts zeigt der LG OLED evo M4 das gleiche Bild eines Tennisspielers in einem Stadion ohne Raumspiegelung und das Bild wirkt heller und farbintensiver.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-15-oled-care-m-01.jpg",
+        "srcset": null,
+        "alt": "Das Logo von LG OLED Care+ und der 5-Jahre-Panel-Garantie erscheint vor schwarzem Hintergrund.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-15-oled-care-m-02.jpg",
+        "srcset": null,
+        "alt": "OLED TV steht auf der rechten Seite des Bildes. Das Support-Menü wird auf dem Bildschirm angezeigt und das Menü OLED Care ist ausgewählt.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-16-one-wall-design-m.jpg",
+        "srcset": null,
+        "alt": "Der LG OLED evo TV G4 mit einem eleganten abstrakten Kunstwerk und einer LG Soundbar flach an der Wand in einem modernen Wohnraum.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-17-one-wall-design-gallery-m.jpg",
+        "srcset": null,
+        "alt": "Der LG OLED evo TV G4 in einem perspektivischen Winkel vor einer marmorierten Wand, der zeigt, wie der Fernseher mit der Wand verschmilzt.   Der LG OLED evo TV G4 und eine LG Soundbar in einem minimalistischen Wohnraum flach an der Wand mit einer Orchesteraufführung auf dem Bildschirm. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-18-sg10ty-soundbar-m-3.jpg",
+        "srcset": null,
+        "alt": "Der LG OLED TV und eine LG Soundbar sind in einem modernen Wohnraum aufeinander abgestimmt. \t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-18-sg10ty-soundbar-m-2.jpg",
+        "srcset": null,
+        "alt": "Eine Nahaufnahme der LG Soundbar an der Wand.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-18-sg10ty-soundbar-m-3.jpg",
+        "srcset": null,
+        "alt": "Der LG OLED TV und eine LG Soundbar sind in einem modernen Wohnraum aufeinander abgestimmt. \t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-19-wow-synergy-m-3.jpg",
+        "srcset": null,
+        "alt": "LG OLED TV und Soundbar an einer Wand montiert, mit einer weißen Wi-Fi-Symbolgrafik in der Mitte.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-19-wow-synergy-m-1-01.jpg",
+        "srcset": null,
+        "alt": "Eine Fernbedienung, die auf einen LG OLED TV zeigt mit Einstellungen auf der rechten Seite des Bildschirms.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-19-wow-synergy-m-2-01.jpg",
+        "srcset": null,
+        "alt": "LG OLED TV und Soundbar sind an der Wand in einem Wohnzimmer montiert und im gesamten Raum sind helle Grafiken zu sehen.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-19-wow-synergy-m-3.jpg",
+        "srcset": null,
+        "alt": "LG OLED TV und Soundbar an einer Wand montiert, mit einer weißen Wi-Fi-Symbolgrafik in der Mitte.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-19-wow-synergy-m-1-01.jpg",
+        "srcset": null,
+        "alt": "Eine Fernbedienung, die auf einen LG OLED TV zeigt mit Einstellungen auf der rechten Seite des Bildschirms.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-20-vast-size-m.jpg",
+        "srcset": null,
+        "alt": "Vergleich des LG OLED evo TV G4 in verschiedenen Größen: OLED evo G4 55 Zoll, OLED evo G4  65 Zoll, OLED evo G4 77 Zoll, OLED evo G4 83 Zoll und OLED evo G4 97 Zoll.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-21-webos-renew-m.jpg",
+        "srcset": null,
+        "alt": "webOS Re:New Programm-Logo hat einen schwarzen Hintergrund mit einer gelben und orangefarbenen, violetten kreisförmigen Kugel am unteren Rand. \t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-22-webos-m.jpg",
+        "srcset": null,
+        "alt": "Der Startbildschirm von webOS 24 mit den Kategorien Home Office, Spiel, Musik, Heimzentrale und Sportkategorien. Im unteren Teil des Bildschirms werden unter „Deine Top-Empfehlungen“ personalisierte Empfehlungen angezeigt.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-23-dolby-filmmakermode-m.jpg",
+        "srcset": null,
+        "alt": "Ein Regisseur vor einem Bedienfeld, während er den Film „Killers of the Flower Moon“ auf einem LG OLED TV bearbeitet. Ein Zitat von Martin Scorsese: „Zuhause sollte jeder Film im Filmmaker Mode gesehen werden“, Bildüberlagerung mit dem „Killers of the Flower Moon“-Logo, dem Apple TV+-Logo und einem „Demnächst“-Logo.  Dolby Vision (Logo) FILMMAKER MODE™-Logo",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-24-dolby-atmos-m.jpg",
+        "srcset": null,
+        "alt": "Ein gemütlicher, schwach beleuchteter Wohnraum, ein LG OLED TV, auf dem ein Paar einen Regenschirm benutzt, und helle Kreisgrafiken umgeben den Raum. Dolby Atmos-Logo in der unteren linken Ecke.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-25-movie-cog-d-1.jpg",
+        "srcset": null,
+        "alt": "Ein schwarz-weißes Standbild aus einem Interview mit Lee Sung Jin. Sein Name taucht in fetten orangefarbenen Buchstaben am unteren Rand des Rahmens auf. Der Schriftzug „LG OLED“ befindet sich in der oberen linken Ecke und das Wort Film in der oberen rechten Ecke.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-25-movie-cog-d-2.jpg",
+        "srcset": null,
+        "alt": "Ein schwarz-weißes Standbild aus einem Interview mit Hamaguchi Ryusuke. Sein Name taucht in fetten orangefarbenen Buchstaben am unteren Rand des Rahmens auf. Der Schriftzug „LG OLED“ befindet sich in der oberen linken Ecke und das Wort Film in der oberen rechten Ecke.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-26-ultimate-gaming-m-v2.jpg",
+        "srcset": null,
+        "alt": "Eine unscharfe Szene eines schnell fahrenden Autos in einem Rennspiel. Die Szene ist verfeinert, was zu einer flüssigen und klaren Bewegung führt. Logo von FreeSync Premium Pro und Logo von NVIDIA G-SYNC in der oberen rechten Ecke.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-27-game-dashboard-m.jpg",
+        "srcset": null,
+        "alt": "Eine FPS-Spielszene mit dem Game Dashboard, das während des Spiels über dem Bildschirm erscheint.  Eine dunkle, winterliche Szene mit dem Game-Optimizer-Menü, das über dem Spiel erscheint.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-28-cloud-gaming-m.jpg",
+        "srcset": null,
+        "alt": "Ein Boosteroid-Startbildschirm mit der Anzeige „Trine 4: The Nightmare Prince“.  Ein GeForce-NOW-Startbildschirm mit fünf verschiedenen Spiel-Miniaturansichten auf der rechten Seite.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-29-sustainability-m.jpg",
+        "srcset": null,
+        "alt": "LG OLED-Verpackung vor einem beigen Hintergrund mit illustrierten Bäumen.\t",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/installation-video/Installation-Guide-WB22EG-Thumbnail-768X576-M.jpg",
+        "srcset": null,
+        "alt": "Installationsvideo zur Wandmontage des LG OLED evo AI G4 4K Smart TV Fernsehers mit der mitgelieferten Halterung.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/spec/G4-Wall-55-Dimension-Mobile.jpg",
+        "srcset": null,
+        "alt": "OLED55G48LW",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YnJhbmRsb2dvMg/17ace0b0-6b80-42e7-8b9e-ddf7e332a75d",
+        "srcset": null,
+        "alt": "LG UK",
+        "width": 111,
+        "height": 55
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/1622915b-114a-4918-b0ff-c6ba87171900",
+        "srcset": null,
+        "alt": "LG Sweden",
+        "width": 175,
+        "height": 94
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/4f57878e-cc1a-4047-845f-7baac15b1991",
+        "srcset": null,
+        "alt": "LG Spain",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/4f57878e-cc1a-4047-845f-7baac15b1991",
+        "srcset": null,
+        "alt": "LG Spain",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/4f57878e-cc1a-4047-845f-7baac15b1991",
+        "srcset": null,
+        "alt": "LG Spain",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/4f57878e-cc1a-4047-845f-7baac15b1991",
+        "srcset": null,
+        "alt": "LG Spain",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/4f57878e-cc1a-4047-845f-7baac15b1991",
+        "srcset": null,
+        "alt": "LG Spain",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YnJhbmRsb2dvMg/17ace0b0-6b80-42e7-8b9e-ddf7e332a75d",
+        "srcset": null,
+        "alt": "LG UK",
+        "width": 111,
+        "height": 55
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/kuehlschraenke/gmg861mbae/gallery/450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Vorderansicht des 508L & 178,7 cm großen InstaView®  Multi Door Kühlschranks Metal Sorbet GMG861MBAE",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/gallery/gbbw726cpy/gallery-new/450-01.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Front view",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-c.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/kuehlschraenke-gefrierschraenke/gsxv90mcae_amcqeur_eedg_de_c/450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "gsxv90mcae",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/ca_en/images/monitors/gaming-monitors/45gx950a-b/gallery/ultragear-gaming-45gx950a-2025-gallery-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "front view",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled65g57lw/OLED65G57LW-450-1.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 65 Zoll LG OLED evo AI G5 4K Smart TV OLED65G57LW",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/kuehlschraenke-gefrierschraenke/GSXE81EVBD-basic-450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "front view",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-d.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_manual-software_48x48.svg",
+        "srcset": null,
+        "alt": "Symbol Benutzerhandbuch und Software",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_complaints_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Fehlerbehebung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_warranty_48x48.svg",
+        "srcset": null,
+        "alt": "Garantie-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_part-accessory_48x48.svg",
+        "srcset": null,
+        "alt": "Symbol für Teile und Zubehör",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/buy/icon_register-a-product_48.svg",
+        "srcset": null,
+        "alt": "Symbol Produktregistrierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_product_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Produktsupport",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_order_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Bestellsupport",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/Icon_request-a-repair_60x60.svg",
+        "srcset": null,
+        "alt": "Symbol für Reparaturanfrage",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_chat-with-us__60x60.svg",
+        "srcset": null,
+        "alt": "Livechat-Symbol",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_whatsapp_60x60.svg",
+        "srcset": null,
+        "alt": "WhatsApp-Symbol",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_email-us_60x60.svg",
+        "srcset": null,
+        "alt": "E-Mail-Symbol",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_call_48.svg",
+        "srcset": null,
+        "alt": "Anruf-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/common/find-a-store-test/gradation-icon/banner-light-icons.svg",
+        "srcset": null,
+        "alt": "Filialsymbol suchen",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/m5-evo/gp1/gallery/77-m5-a/gallery_new/Basic.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Vorderansicht des LG OLED M5 TVs. OLED-Emblem „12 Years of world number 1“ und LG OLED evo AI 2025-Logo sind auf dem Bildschirm zu sehen. Zero Connect Box in der Ecke mit dem Titel „Zero Connect Box mit drahtloser Video- und Audioübertragung in 4K mit 144Hz“",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled65g57lw/OLED65G57LW-450-1.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 65 Zoll LG OLED evo AI G5 4K Smart TV OLED65G57LW",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5e/65-c5e-b/basic/oled-c5e-2025-65-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 65 Zoll LG OLED evo AI C5 4K Smart TV OLED65C5ELB",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/oled-evo/m5-evo/gp1/gallery/65-m5-a/gallery_new/Basic.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Vorderansicht des LG OLED M5 TVs. OLED-Emblem „12 Years of world number 1“ und LG OLED evo AI 2025-Logo sind auf dem Bildschirm zu sehen. Zero Connect Box in der Ecke mit dem Titel „Zero Connect Box mit drahtloser Video- und Audioübertragung in 4K mit 144Hz“",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/facebook-circle-fill.svg",
+        "srcset": null,
+        "alt": "Facebook",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/youtube-circle-fill.svg",
+        "srcset": null,
+        "alt": "Youtube",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/instagram-circle-fill.svg",
+        "srcset": null,
+        "alt": "Instagram",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/ot_company_logo.png",
+        "srcset": null,
+        "alt": "Firmenlogo",
+        "width": 600,
+        "height": 106
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/powered_by_logo.svg",
+        "srcset": null,
+        "alt": "Powered by Onetrust",
+        "width": 136,
+        "height": 16
+      }
+    ],
+    "videos": [
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-01-intro-visual-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-01-intro-visual-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-04-ai-processor-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-04-ai-processor-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-06-ai-picture-wizard-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-06-ai-picture-wizard-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-07-ai-acoustic-tuning-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-07-ai-acoustic-tuning-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-09-ai-picture-pro-m-2.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-09-ai-picture-pro-d-2.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-09-ai-picture-pro-m-1.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-09-ai-picture-pro-d-1.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-09-ai-picture-pro-m-2.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-09-ai-picture-pro-d-2.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-09-ai-picture-pro-m-1.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-09-ai-picture-pro-d-1.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-11-brightness-booster-max-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-11-brightness-booster-max-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-12-self-lit-oled-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-g4-12-self-lit-oled-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/master/he/tv/2024-tv/lg-com/2024-gp1/oled-pdp/g4/video/oled-g4-13-infinite-contrast-m-v2.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/master/he/tv/2024-tv/lg-com/2024-gp1/oled-pdp/g4/video/oled-g4-13-infinite-contrast-d-v2.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-b4-23-ultimate-gaming-m-v2.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/images/tv/features/2024/oled/g4/oled-b4-23-ultimate-gaming-d-v2.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      }
+    ]
+  },
+  "specifications": {
+    "€124,92": "Monatliche Rate",
+    "€1.499,00": "Gesamtbetrag inkl. Zinsen",
+    "0%": "Zinssatz",
+    "€74,96": "Monatliche Rate",
+    "€1.798,99": "Gesamtbetrag inkl. Zinsen",
+    "€40,00": "Monatliche Rate",
+    "€120,00": "Gesamtbetrag inkl. Zinsen"
+  },
+  "features": [],
+  "reviews": {
+    "summary": {},
+    "featured": [
+      {
+        "headline": "The masterpiece that exceeds all expectations",
+        "body": "Having upgraded from the LG 65” OLED G3 the look and physical dimensions are exactly the same including the wall mount bracket I thought that there would be only a slight improvement boy was I wrong. From the ease of installation, a simple 5 min clip off the old and install the new a complementary free install offered by LG as part of the package the new alpha 11 processor makes quite a noticeable difference in the display processing in the standard tv mode and amazing in gaming mode on both the PlayStation and Xbox. Even during the peak of the day with the sun flooding the room the tv in full brightness mode the quality and brightness is outstanding.",
+        "rating": 5,
+        "author": "no_excuse",
+        "dateCreated": "2024-05-08T21:03:48.000+00:00",
+        "datePublished": "2024-05-09T00:45:51.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/13f7e5d0-6b57-5fca-80ce-010c56759659",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/bff7bd90-8018-5d84-a077-5c39fc6682b8",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/80300e83-3690-5fb3-8cc8-278440bbdcfa",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/3ac1410a-8acf-5924-b434-98bf83c91f5f",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/f5cfb9dd-811f-593c-afc9-794cfc636b31",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/9e0a32f0-9cae-5c4a-9192-8d52ab85b7a9"
+        ]
+      },
+      {
+        "headline": "BEST OLED TV IS HERE WITH AMAZING FEATURES",
+        "body": "[Denna recension hämtades som en del av en kampanj.] Absolutely Amazing OLED TV. I bought this TV last week and must say it has the best build quality, very bright picture quality and the sound output, speakers are the best. Lot of wonderful features Film maker mode, the AI Mode are some of the unique experiences. The model we purchased is wall mounted type and it is very slim, fits just like a frame on the wall. We are very pleased and it is a treat to watch any kind of content on this wonderful TV. One will not regret this purchase. It is and will surely be the BEST TV of 2024.",
+        "rating": 5,
+        "author": "ABSB37",
+        "dateCreated": "2024-05-06T20:38:22.000+00:00",
+        "datePublished": "2024-05-06T22:01:22.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1zZQ/a0cb5446-2ef3-5afc-9910-7d993e7089db",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1zZQ/17b8ef5d-2c86-5056-964e-2cbf988b036d",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1zZQ/9e8474c4-13c1-545a-8987-e616a3efe9cc",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1zZQ/8ad9ed00-0039-53df-90b2-facab7d589e6",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1zZQ/20f7e30a-b7e1-5242-8f31-374b75c5ec6a",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1zZQ/2c153e26-21c3-5e96-a230-71223625751d"
+        ]
+      },
+      {
+        "headline": "Producto de mucha calidad",
+        "body": "(Esta reseña se ha recibido a través de una promoción.) Me compré este producto hace unos días en mediamarkt incentivado por un reembolso que ofrecía la oferta, la verdad es que el acabado es muy bueno y se ve fenomenal, el soporte zero gap ( soporte en pared) que no tenía muy claro como sería la instalación a quedado perfecto y no ha sido muy complicado de instalar, solo hay que seguir los pasos y las herramientas necesarias. Todavía no he tenido tiempo suficiente para explorar todo lo que ofrece peo lo que he visto me gusta.",
+        "rating": 5,
+        "author": "Nilo",
+        "dateCreated": "2025-12-02T15:48:19.000+00:00",
+        "datePublished": "2025-12-03T17:01:59.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/385d36dc-09d7-5b04-a512-5ef075859ee0",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/7783c233-0b09-5aee-9c8f-80203c22cf35",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/2a5d0af8-0772-5225-866e-d95823c96d8d",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/6d458b00-0055-5129-a891-8850da8e546d",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/36408158-037b-556f-884d-3e9a2f1d3e1a",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/6c56e299-71c5-5f5b-a223-f6499b832646"
+        ]
+      },
+      {
+        "headline": "FANTASTICO PRODUCTO.",
+        "body": "(Esta reseña se ha recibido a través de una promoción.) Acabamos de instalar la TV en nuestro salón. Es increíble la calidad de la imagen, y del sonido  que también hemos puesto la barra del sonido, pero independientemente es una pasada la apariencia de la TV instalada. Es exactamente lo que buscábamos, aunque parezca que tienes el espacio justo para una televisión de estas dimensiones, al quedar anclada a la pared, queda increíble. Una experiencia de 10.\nLa instalación de las apps además, es facilisima con los códigos QR. No tengo valoración negativa, más allá de indicar que pagamos la instalación,  no me sentía preparada para instalarla. Mereció la pena.",
+        "rating": 5,
+        "author": "Zenaida.",
+        "dateCreated": "2024-12-01T17:36:08.000+00:00",
+        "datePublished": "2024-12-04T15:31:31.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/7dbcaeb5-404f-5b0c-8ea8-d29fe99aea17",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/543e7fee-b593-5bd2-994e-0d599c6ca6e9",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/d283828b-a62d-5d61-b659-11f71ca11bc9",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/c65a08e6-d55c-5453-a444-4456eaf22f19",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/bb39e7bf-5616-565c-91d1-d13fdf001537"
+        ]
+      },
+      {
+        "headline": "La TV perfecta¡ Reseña incentivada LG",
+        "body": "(Esta reseña se ha recibido a través de una promoción.) Llevaba tiempo buscando un gran televisor para renovar la Tv del salón. Y tras mucho investigar me he decidido por esta G5, y no me arrepiento para nada, la televisión es espectacular, se ve todo increíble y mejora por mucho la Samsung que teníamos. Además la he podido comprar a muy buen precio en MM por el black friday. Dudo mucho que a día de hoy haya una tele mejor. Reseña incentivada por LG Online España.",
+        "rating": 5,
+        "author": "NGR.",
+        "dateCreated": "2025-11-28T11:20:12.000+00:00",
+        "datePublished": "2025-11-28T20:01:53.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/6a3b0d44-ae38-552d-a6f2-f96d60047152",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/ac0d1332-cd2e-54e7-84cd-162daf1a77b3",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/2c5d904c-9e49-5419-807a-72dd2449081a",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/a75cf8be-9679-5ad9-97a6-63e48784b8e9",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/5882b637-0de3-5118-8e8f-af776bc2c1ff",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/54730eeb-0c3b-584f-8fe8-a004aa00e167"
+        ]
+      },
+      {
+        "headline": "Fantástica como pantalla de cine para casa",
+        "body": "La TV es una maravilla, con una gran resolución y un excelente tamaño. Se ve y oye muy bien. La he puesto en un sótano de unos 30 m2 y ha cambiado la estancia a tope, a modo de pantalla de cine, colgada en la pared. Sirve tanto para pelis (cine), como para futbol o videojuegos, que se ven fenomenal. Aún no se usar todo bien, pero es muy intuitiva y estamos todos encantados.",
+        "rating": 5,
+        "author": "Lukitas",
+        "dateCreated": "2025-01-03T19:13:21.000+00:00",
+        "datePublished": "2025-01-07T15:01:02.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/4f33d683-364d-5db3-baa7-b25fb191621d",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/2922a9da-78d4-5e4f-995f-ba554f503aa5",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/381896ed-785b-568b-a381-5ccde9291f47",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e77db430-9cf7-559a-877d-993afe6352c0",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/f8622b57-9e23-55e1-a0a2-13fbecefe0d7",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/9408a5d5-a580-54fc-8ddb-d18fc1f867a4"
+        ]
+      },
+      {
+        "headline": "LA RESEÑA HA SIDO INCENTIVADA, TV OLED65 PULGADAS",
+        "body": "(Esta reseña se ha recibido a través de una promoción.) He comprado una tv LG OLED65C55LA .AEU en mediamarkt valencia, el trato del vendedor muy bueno,buena informacion del producto, la tv se adapata a los estandares en cuanto a puesta en marcha y funcionamiento, buena imagen y sonido, gran variedad de puertos para conexion de otros equipos.\nLA RESEÑA HA SIDO INCENTIVADA",
+        "rating": 5,
+        "author": "ARMANDO365",
+        "dateCreated": "2025-12-04T10:06:58.000+00:00",
+        "datePublished": "2025-12-05T19:17:06.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/4d3cbdaa-0963-5e51-a4ba-3483a15322e9",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/552a95ef-900d-52fd-82c7-de8a00ca19ca",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/5182acfa-6222-52dc-9ff1-f1a45d29df4a",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/4543b7a4-78d0-5944-9647-b7f23fded9f1",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e462d82c-b56b-5447-908c-4eed8a33d602",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/f88d55c5-a731-5b3e-9c41-f998f637e17c"
+        ]
+      },
+      {
+        "headline": "Fantastic LG OLED 55\" Gallery TV",
+        "body": "We bought the wall mount version and it hasn't disappointed, absolutely flush mount to the wall, easy to install the TV mounting bracket and very clean looking. It was very easy to set up and the ThinQ app works fantastically. The picture is incredible, and the sound is good too even without a soundbar. Excellent.",
+        "rating": 5,
+        "author": "Boris Spyder",
+        "dateCreated": "2025-05-04T18:21:20.000+00:00",
+        "datePublished": "2025-05-05T19:00:10.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/969eae90-d7aa-5837-afef-e86d2c7b45bf",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/895c6077-e6a0-5741-8f94-427bc28e4597",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/fda7b6da-f5e9-5d14-a109-d8ac8d8bf1e8",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/2d6038bb-3b19-51ef-9a91-1288d821253b",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/2d0958d7-b9ae-5d08-875c-32751c70f003",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/32e2d39a-41fa-5396-8d49-22d5e0e7dcef"
+        ]
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://www.lg.com/de/"
+    },
+    {
+      "position": 2,
+      "name": "TVs & Soundbars",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/"
+    },
+    {
+      "position": 3,
+      "name": "OLED evo",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/oled-evo/"
+    },
+    {
+      "position": 4,
+      "name": "OLED55G48LW",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/oled-evo/oled55g48lw/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Wie montierst du deinen LG OLED evo TV G4 an der Wand?",
+      "answer": "Für eine sichere und nahtlose Wandmontage deines LG OLED evo TV G4 beachtest du am besten die folgenden Hinweise:&nbsp;Kompatible Wandhalterungen &amp; VESA-Größen¹:&nbsp;∙ 97&quot;: WB22E97G oder WB24GD (VESA 1586 \\*(226×60) / 600×400)∙ 83&quot;: WB22EG oder WB24GC (VESA 180×55 / 400×400)∙ 77&quot;: WB22EG oder WB24GC (VESA 180×55 / 300×300)∙ 65&quot;: WB22EG oder WB24GC (VESA 180×55 / 300×300)∙ 55&quot;: WB22EG oder OLW480 (VESA 180×55 / 300×200)&nbsp;Montageschritte:&nbsp;1. Vergewissere dich, dass die Wand stabil und tragfähig genug für dein TV-Modell und die Halterung ist.²2. Markiere die Bohrlöcher gemäß dem VESA-Muster sowie den Angaben aus der Schnellstartanleitung und dem Benutzerhandbuch.3. Befestige die Wandhalterung mit geeigneten Dübeln und Schrauben sicher an der Wand.4. Schließe alle Kabel an, bevor du den TV montierst – das erleichtert den Zugriff.5. Hänge den TV vorsichtig an die Halterung – möglichst wandbündig für ein elegantes Zero-Gap-Design.Professionelle Installation empfohlen:LG empfiehlt grundsätzlich eine fachgerechte Montage durch Profis – insbesondere bei größeren Bildschirmgrößen, um eine optimale Ausrichtung, Stabilität und den Schutz deines Fernsehers zu gewährleisten.&nbsp;Hinweis:LG liefert eine bebilderte, mehrsprachige Installationsanleitung sowohl im Lieferumfang als auch online. Achte stets darauf, die Anleitung zu verwenden, die zu deinem Modell und der Bildschirmgröße passt.3&nbsp;&nbsp;¹ Bitte prüfe das genaue VESA-Muster und die kompatible Wandhalterung für dein spezifisches Modell und deine Bildschirmgröße.Die mitgelieferten Halterungen und Zubehörteile können je nach Modell und Region variieren. Details findest du auf der Verpackung oder auf der lokalen LG Website.Wenn keine Halterung im Lieferumfang enthalten ist, verwende bitte eine kompatible Halterung mit passendem VESA-Standard.&nbsp;² Die Eignung und Belastbarkeit der Wand sowie die verwendeten Dübel und Schrauben liegen in der Verantwortung des Kunden.LG übernimmt keine Haftung für Schäden oder Verletzungen durch unsachgemäße Montage oder unzureichende Wandstabilität.&nbsp;³ Die Installationsschritte und unterstütztes Zubehör können je nach Land, TV-Größe und Modelljahr abweichen.Beachte immer die offiziellen Anleitungen in der Schnellstartanleitung und im Benutzerhandbuch deines Geräts."
+    },
+    {
+      "question": "Welche Größen hat der LG OLED evo TV G4?",
+      "answer": "Der LG OLED evo TV G4 ist in Europa in folgenden Bildschirmgrößen erhältlich:97&quot;, 83&quot;, 77&quot;, 65&quot; und 55&quot;Das One-Wall-Design gilt für alle Größen von 97&quot; bis 55&quot;.¹&nbsp;¹ Die Modellverfügbarkeit kann je nach Land oder Region variieren.Aktuelle Informationen findest du auf der lokalen LG Website."
+    },
+    {
+      "question": "Was ist der Bildschirmschutz bei LG OLED evo TVs – und wie hilft er gegen Einbrennen (Burn-in)?",
+      "answer": "LG OLED evo TVs verfügen über integrierte Schutzfunktionen, um das Einbrennen von Bildern (Burn-in) zu reduzieren und die Lebensdauer des Panels zu verlängern.Die wichtigste Technologie dahinter ist die Pixelreinigung – sie frischt die OLED-Pixel regelmäßig auf, um dauerhaft beste Bildqualität zu gewährleisten.&nbsp;∙ Automatischer Betrieb:Die Pixelreinigung startet automatisch nach einer bestimmten kumulierten Nutzungsdauer. Dazu muss der Fernseher ausgeschaltet werden (in den Standby Modus), aber weiterhin ans Stromnetz angeschlossen sein.¹&nbsp;∙ Manueller Betrieb:Du kannst die Pixelreinigung jederzeit manuell starten. Gehe dazu ins TV-Menü:[Einstellungen] → [Allgemein] → [OLED-Pflege] → [OLED-Panelpflege] → [Pixelreinigung]Diese Funktionen helfen dir, die Bildqualität deines OLED-Panels langfristig zu erhalten.&nbsp;&nbsp;¹ Die Pixelreinigung reduziert das Risiko eines dauerhaften Einbrennens („Burn-in“), kann es aber nicht vollständig ausschließen.Vermeide statische Bilder über längere Zeiträume für optimale Ergebnisse.Lass den Fernseher nach dem Ausschalten im Standby Modus am Stromnetz, damit die automatische Reinigung abgeschlossen werden kann."
+    },
+    {
+      "question": "Wie viele HDMI-Anschlüsse hat der LG OLED evo TV G4 – und welche Funktionen werden unterstützt?",
+      "answer": "Der LG OLED evo TV G4 verfügt über vier HDMI 2.1-Anschlüsse. Diese unterstützen eine Vielzahl moderner Funktionen für Gaming und Konnektivität:&nbsp;∙ Variable Refresh Rate (VRR): bis zu **144 Hz** (83&quot;, 77&quot;, 65&quot;, 55&quot;), bis zu 120 Hz (97&quot;)¹∙ G-SYNC- und AMD FreeSync Premium-Kompatibilität∙ Auto Low Latency Mode (ALLM) für besonders reaktionsschnelles Gaming∙ Quick Media Switching (QMS)∙ eARC (Enhanced Audio Return Channel) an HDMI 2 für hochwertigen Audio-Rückkanal∙ HGiG-Unterstützung für optimiertes HDR-Gaming&nbsp;Alle vier HDMI-Anschlüsse bieten die volle HDMI 2.1-Bandbreite (48 Gbps) – so kannst du aktuelle Spielkonsolen, PCs und Home-Entertainment-Geräte gleichzeitig verbinden.&nbsp;&nbsp;¹ Die maximale Bildwiederholrate kann je nach Modell variieren:83&quot;&quot;/77&quot;&quot;/65&quot;&quot;/55&quot;&quot; bis zu 144 Hz, 97&quot;&quot; bis zu 120 Hz.Die vollständigen technischen Details findest du auf der lokalen LG Website."
+    }
+  ],
+  "metadata": {
+    "mpn": "OLED55G48LW",
+    "title": "55 Zoll LG OLED evo G4 4K AI TV -﻿ OLED55G48LW | LG DE",
+    "description": "Erlebe atemberaubende Bildqualität in 4K mit dem LG OLED evo G4 AI TV. Intensive Farben & Kinofeeling pur. Jetzt entdecken!",
+    "ogImage": "https://www.lg.com/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/450x450/oled-g4-55-gallery-01.jpg",
+    "ogTitle": "55 Zoll LG OLED evo G4 4K Smart TV - OLED55G48LW | LG DE",
+    "canonical": "https://www.lg.com/de/tvs-und-soundbars/oled-evo/oled55g48lw/"
+  },
+  "structuredData": {
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/oled-evo/oled55g48lw/",
+        "review": [
+          {
+            "@type": "Review",
+            "dateCreated": "2024-05-08T21:03:48.000+00:00",
+            "datePublished": "2024-05-09T00:45:51.000+00:00",
+            "headline": "The masterpiece that exceeds all expectations",
+            "reviewBody": "Having upgraded from the LG 65” OLED G3 the look and physical dimensions are exactly the same including the wall mount bracket I thought that there would be only a slight improvement boy was I wrong. From the ease of installation, a simple 5 min clip off the old and install the new a complementary free install offered by LG as part of the package the new alpha 11 processor makes quite a noticeable difference in the display processing in the standard tv mode and amazing in gaming mode on both the PlayStation and Xbox. Even during the peak of the day with the sun flooding the room the tv in full brightness mode the quality and brightness is outstanding.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "no_excuse"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/13f7e5d0-6b57-5fca-80ce-010c56759659",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/81626e35-8568-5c80-b223-5c81cb01b465"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/bff7bd90-8018-5d84-a077-5c39fc6682b8",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/4f4d4104-01d5-51de-af87-c1e74ac42db5"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/80300e83-3690-5fb3-8cc8-278440bbdcfa",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/6f46e38e-a21b-5a0a-bd5f-b53102a84096"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/3ac1410a-8acf-5924-b434-98bf83c91f5f",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/00ba2ffa-82ab-5719-8388-937a41523bf3"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/f5cfb9dd-811f-593c-afc9-794cfc636b31",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/bc691e28-67ac-5c4f-8baa-8b4126cdc8bf"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/9e0a32f0-9cae-5c4a-9192-8d52ab85b7a9",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/ecc7392d-9aca-593c-99b5-1b459cfe0559"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-05-06T20:38:22.000+00:00",
+            "datePublished": "2024-05-06T22:01:22.000+00:00",
+            "headline": "BEST OLED TV IS HERE WITH AMAZING FEATURES",
+            "reviewBody": "[Denna recension hämtades som en del av en kampanj.] Absolutely Amazing OLED TV. I bought this TV last week and must say it has the best build quality, very bright picture quality and the sound output, speakers are the best. Lot of wonderful features Film maker mode, the AI Mode are some of the unique experiences. The model we purchased is wall mounted type and it is very slim, fits just like a frame on the wall. We are very pleased and it is a treat to watch any kind of content on this wonderful TV. One will not regret this purchase. It is and will surely be the BEST TV of 2024.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ABSB37"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1zZQ/a0cb5446-2ef3-5afc-9910-7d993e7089db",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1zZQ/27933c28-da3e-500f-bb46-aa60f621d7dc"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1zZQ/17b8ef5d-2c86-5056-964e-2cbf988b036d",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1zZQ/17121607-011e-5093-acd5-1b191eb0fc69"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1zZQ/9e8474c4-13c1-545a-8987-e616a3efe9cc",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1zZQ/1a60ca52-1ade-5747-a551-d21297f7f503"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1zZQ/8ad9ed00-0039-53df-90b2-facab7d589e6",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1zZQ/e777bffa-8385-564b-835c-16e3da0b9869"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1zZQ/20f7e30a-b7e1-5242-8f31-374b75c5ec6a",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1zZQ/82676b2a-ddd6-5e68-b2bc-8b1dafe1fc5d"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1zZQ/2c153e26-21c3-5e96-a230-71223625751d",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1zZQ/5a079c07-8bff-5059-9d0d-5fb3251d469b"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-12-02T15:48:19.000+00:00",
+            "datePublished": "2025-12-03T17:01:59.000+00:00",
+            "headline": "Producto de mucha calidad",
+            "reviewBody": "(Esta reseña se ha recibido a través de una promoción.) Me compré este producto hace unos días en mediamarkt incentivado por un reembolso que ofrecía la oferta, la verdad es que el acabado es muy bueno y se ve fenomenal, el soporte zero gap ( soporte en pared) que no tenía muy claro como sería la instalación a quedado perfecto y no ha sido muy complicado de instalar, solo hay que seguir los pasos y las herramientas necesarias. Todavía no he tenido tiempo suficiente para explorar todo lo que ofrece peo lo que he visto me gusta.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nilo"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/385d36dc-09d7-5b04-a512-5ef075859ee0",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/138818c3-1de5-5450-b1fd-ee50fcb62d24"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/7783c233-0b09-5aee-9c8f-80203c22cf35",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/0743597a-3b82-52c4-8f81-dfc39323af63"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/2a5d0af8-0772-5225-866e-d95823c96d8d",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e8c13d94-6fc7-5141-8296-8e8d27480610"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/6d458b00-0055-5129-a891-8850da8e546d",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/75b59a52-b439-51ba-bf7c-d9581a2525ff"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/36408158-037b-556f-884d-3e9a2f1d3e1a",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/b1a05533-a2e2-52f9-ad3e-2dceb6cd4ff7"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/6c56e299-71c5-5f5b-a223-f6499b832646",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/02b6c920-248d-5d8a-b0a7-cbfa54f23ec2"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2024-12-01T17:36:08.000+00:00",
+            "datePublished": "2024-12-04T15:31:31.000+00:00",
+            "headline": "FANTASTICO PRODUCTO.",
+            "reviewBody": "(Esta reseña se ha recibido a través de una promoción.) Acabamos de instalar la TV en nuestro salón. Es increíble la calidad de la imagen, y del sonido  que también hemos puesto la barra del sonido, pero independientemente es una pasada la apariencia de la TV instalada. Es exactamente lo que buscábamos, aunque parezca que tienes el espacio justo para una televisión de estas dimensiones, al quedar anclada a la pared, queda increíble. Una experiencia de 10.\nLa instalación de las apps además, es facilisima con los códigos QR. No tengo valoración negativa, más allá de indicar que pagamos la instalación,  no me sentía preparada para instalarla. Mereció la pena.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Zenaida."
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/7dbcaeb5-404f-5b0c-8ea8-d29fe99aea17",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/75118cbb-55ff-5f7c-a1a0-ced295c3ff4f"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/543e7fee-b593-5bd2-994e-0d599c6ca6e9",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/ff96d9c3-49e8-5124-91ff-1b966b97da68"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/d283828b-a62d-5d61-b659-11f71ca11bc9",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/85971343-4fce-5719-b31f-aab020f75244"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/c65a08e6-d55c-5453-a444-4456eaf22f19",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/81d680aa-d533-5035-8c9c-9afd19db593d"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/bb39e7bf-5616-565c-91d1-d13fdf001537",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/a3bf8b1a-70b7-5efb-a7c3-2e24a21917d3"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-11-28T11:20:12.000+00:00",
+            "datePublished": "2025-11-28T20:01:53.000+00:00",
+            "headline": "La TV perfecta¡ Reseña incentivada LG",
+            "reviewBody": "(Esta reseña se ha recibido a través de una promoción.) Llevaba tiempo buscando un gran televisor para renovar la Tv del salón. Y tras mucho investigar me he decidido por esta G5, y no me arrepiento para nada, la televisión es espectacular, se ve todo increíble y mejora por mucho la Samsung que teníamos. Además la he podido comprar a muy buen precio en MM por el black friday. Dudo mucho que a día de hoy haya una tele mejor. Reseña incentivada por LG Online España.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "NGR."
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/6a3b0d44-ae38-552d-a6f2-f96d60047152",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/bd9b5b47-3d90-543f-87dc-f048734a277b"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/ac0d1332-cd2e-54e7-84cd-162daf1a77b3",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/23ca9f55-56d3-5359-8170-0a40f0a164e8"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/2c5d904c-9e49-5419-807a-72dd2449081a",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/1562e5a7-861a-5d35-8652-5a896c02215a"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/a75cf8be-9679-5ad9-97a6-63e48784b8e9",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/a9c88b7f-767c-5871-a7e1-9c14bc5c4110"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/5882b637-0de3-5118-8e8f-af776bc2c1ff",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/20d51815-9604-5f44-bbcd-1965fd181d53"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/54730eeb-0c3b-584f-8fe8-a004aa00e167",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/22cd2c7f-3b73-5809-ac6a-7ddb9e39bf98"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-01-03T19:13:21.000+00:00",
+            "datePublished": "2025-01-07T15:01:02.000+00:00",
+            "headline": "Fantástica como pantalla de cine para casa",
+            "reviewBody": "La TV es una maravilla, con una gran resolución y un excelente tamaño. Se ve y oye muy bien. La he puesto en un sótano de unos 30 m2 y ha cambiado la estancia a tope, a modo de pantalla de cine, colgada en la pared. Sirve tanto para pelis (cine), como para futbol o videojuegos, que se ven fenomenal. Aún no se usar todo bien, pero es muy intuitiva y estamos todos encantados.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lukitas"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/4f33d683-364d-5db3-baa7-b25fb191621d",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/113e21a2-2b61-5162-b979-ea98fb03820f"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/2922a9da-78d4-5e4f-995f-ba554f503aa5",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/be6989d2-5a27-5ba1-a6d5-d96f10f424fb"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/381896ed-785b-568b-a381-5ccde9291f47",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/88d7a41f-7607-53a2-96a4-991d4fdcc6a8"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e77db430-9cf7-559a-877d-993afe6352c0",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/a3cdb2da-3936-5469-8e63-4c2febf8e271"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/f8622b57-9e23-55e1-a0a2-13fbecefe0d7",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/9de34df2-5381-54af-a073-ba3e446d72e2"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/9408a5d5-a580-54fc-8ddb-d18fc1f867a4",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/d8553ef3-f5ac-5711-8b82-06c0e7e4985a"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-12-04T10:06:58.000+00:00",
+            "datePublished": "2025-12-05T19:17:06.000+00:00",
+            "headline": "LA RESEÑA HA SIDO INCENTIVADA, TV OLED65 PULGADAS",
+            "reviewBody": "(Esta reseña se ha recibido a través de una promoción.) He comprado una tv LG OLED65C55LA .AEU en mediamarkt valencia, el trato del vendedor muy bueno,buena informacion del producto, la tv se adapata a los estandares en cuanto a puesta en marcha y funcionamiento, buena imagen y sonido, gran variedad de puertos para conexion de otros equipos.\nLA RESEÑA HA SIDO INCENTIVADA",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ARMANDO365"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/4d3cbdaa-0963-5e51-a4ba-3483a15322e9",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e869b5f1-8bd4-5a50-9b1c-1dc255921370"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/552a95ef-900d-52fd-82c7-de8a00ca19ca",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/69e188fc-485e-5d79-83eb-d361bb6c79f9"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/5182acfa-6222-52dc-9ff1-f1a45d29df4a",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/6e904700-3e51-5f71-9c97-961dde5e4a3d"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/4543b7a4-78d0-5944-9647-b7f23fded9f1",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/0c3d7c51-7dc7-5875-8f09-87fb7ce8c8ee"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e462d82c-b56b-5447-908c-4eed8a33d602",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/dd8a91b3-0b92-5cbf-a167-f54d84a2e94d"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/f88d55c5-a731-5b3e-9c41-f998f637e17c",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/d2258ef3-df6a-53db-9772-9385463348d9"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-05-04T18:21:20.000+00:00",
+            "datePublished": "2025-05-05T19:00:10.000+00:00",
+            "headline": "Fantastic LG OLED 55\" Gallery TV",
+            "reviewBody": "We bought the wall mount version and it hasn't disappointed, absolutely flush mount to the wall, easy to install the TV mounting bracket and very clean looking. It was very easy to set up and the ThinQ app works fantastically. The picture is incredible, and the sound is good too even without a soundbar. Excellent.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Boris Spyder"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/969eae90-d7aa-5837-afef-e86d2c7b45bf",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/748e1c06-9d91-5728-bcda-8160111551eb"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/895c6077-e6a0-5741-8f94-427bc28e4597",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/06639f89-db98-5d58-9903-3ccf84b6fcad"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/fda7b6da-f5e9-5d14-a109-d8ac8d8bf1e8",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/4dfd8f98-c450-561f-95f8-268ec515c00a"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/2d6038bb-3b19-51ef-9a91-1288d821253b",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/c6f4f4bd-21ab-5ff1-b07f-da8dc013032b"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/2d0958d7-b9ae-5d08-875c-32751c70f003",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/e2e849d6-4ed8-521b-bf9b-f7a783a442c2"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/32e2d39a-41fa-5396-8d49-22d5e0e7dcef",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lbg/5e8de45c-edba-5167-9a11-a0a23b5d5c37"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org/",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/oled-evo/oled55g48lw/",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "itemReviewed": {
+            "@type": "IndividualProduct",
+            "name": "OLED55G48LW"
+          },
+          "ratingValue": "4.8",
+          "reviewCount": 4264,
+          "bestRating": 5
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "product",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/oled-evo/oled55g48lw/",
+        "name": "55 Zoll LG OLED evo G4 4K Smart TV",
+        "image": "/content/dam/channel/wcms/de/d2c-content/oled-g/033-oledevo-g4-55-oled55g48lw/oledevo-g4-wallmount-55-lg-com/450x450/oled-g4-55-gallery-01.jpg",
+        "description": "Entdecken Sie LG OLED55G48LW. Für Bilder, Bewertungen und technische Daten zu LG klicken 55 Zoll LG OLED evo G4 4K Smart TV.",
+        "mpn": "OLED55G48LW",
+        "brand": {
+          "@type": "Brand",
+          "name": "LG"
+        },
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "EUR",
+          "price": "2799",
+          "availability": "https://schema.org/OutOfStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "LG DE"
+          }
+        },
+        "size": {
+          "@type": "QuantitativeValue",
+          "unitCode": "",
+          "value": ""
+        },
+        "hasEnergyConsumptionDetails": {
+          "@type": "EnergyConsumptionDetails",
+          "hasEnergyEfficiencyCategory": "https://schema.org/EUEnergyEfficiencyCategoryF",
+          "energyEfficiencyScaleMax": "https://schema.org/EUEnergyEfficiencyCategoryA1Plus",
+          "energyEfficiencyScaleMin": "https://schema.org/EUEnergyEfficiencyCategoryG"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.lg.com/de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "TVs & Soundbars",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "OLED evo",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/oled-evo/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "OLED55G48LW",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/oled-evo/oled55g48lw/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Wie montierst du deinen LG OLED evo TV G4 an der Wand?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Für eine sichere und nahtlose Wandmontage deines LG OLED evo TV G4 beachtest du am besten die folgenden Hinweise:&nbsp;Kompatible Wandhalterungen &amp; VESA-Größen¹:&nbsp;∙ 97&quot;: WB22E97G oder WB24GD (VESA 1586 \\*(226×60) / 600×400)∙ 83&quot;: WB22EG oder WB24GC (VESA 180×55 / 400×400)∙ 77&quot;: WB22EG oder WB24GC (VESA 180×55 / 300×300)∙ 65&quot;: WB22EG oder WB24GC (VESA 180×55 / 300×300)∙ 55&quot;: WB22EG oder OLW480 (VESA 180×55 / 300×200)&nbsp;Montageschritte:&nbsp;1. Vergewissere dich, dass die Wand stabil und tragfähig genug für dein TV-Modell und die Halterung ist.²2. Markiere die Bohrlöcher gemäß dem VESA-Muster sowie den Angaben aus der Schnellstartanleitung und dem Benutzerhandbuch.3. Befestige die Wandhalterung mit geeigneten Dübeln und Schrauben sicher an der Wand.4. Schließe alle Kabel an, bevor du den TV montierst – das erleichtert den Zugriff.5. Hänge den TV vorsichtig an die Halterung – möglichst wandbündig für ein elegantes Zero-Gap-Design.Professionelle Installation empfohlen:LG empfiehlt grundsätzlich eine fachgerechte Montage durch Profis – insbesondere bei größeren Bildschirmgrößen, um eine optimale Ausrichtung, Stabilität und den Schutz deines Fernsehers zu gewährleisten.&nbsp;Hinweis:LG liefert eine bebilderte, mehrsprachige Installationsanleitung sowohl im Lieferumfang als auch online. Achte stets darauf, die Anleitung zu verwenden, die zu deinem Modell und der Bildschirmgröße passt.3&nbsp;&nbsp;¹ Bitte prüfe das genaue VESA-Muster und die kompatible Wandhalterung für dein spezifisches Modell und deine Bildschirmgröße.Die mitgelieferten Halterungen und Zubehörteile können je nach Modell und Region variieren. Details findest du auf der Verpackung oder auf der lokalen LG Website.Wenn keine Halterung im Lieferumfang enthalten ist, verwende bitte eine kompatible Halterung mit passendem VESA-Standard.&nbsp;² Die Eignung und Belastbarkeit der Wand sowie die verwendeten Dübel und Schrauben liegen in der Verantwortung des Kunden.LG übernimmt keine Haftung für Schäden oder Verletzungen durch unsachgemäße Montage oder unzureichende Wandstabilität.&nbsp;³ Die Installationsschritte und unterstütztes Zubehör können je nach Land, TV-Größe und Modelljahr abweichen.Beachte immer die offiziellen Anleitungen in der Schnellstartanleitung und im Benutzerhandbuch deines Geräts."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Welche Größen hat der LG OLED evo TV G4?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Der LG OLED evo TV G4 ist in Europa in folgenden Bildschirmgrößen erhältlich:97&quot;, 83&quot;, 77&quot;, 65&quot; und 55&quot;Das One-Wall-Design gilt für alle Größen von 97&quot; bis 55&quot;.¹&nbsp;¹ Die Modellverfügbarkeit kann je nach Land oder Region variieren.Aktuelle Informationen findest du auf der lokalen LG Website."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Was ist der Bildschirmschutz bei LG OLED evo TVs – und wie hilft er gegen Einbrennen (Burn-in)?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "LG OLED evo TVs verfügen über integrierte Schutzfunktionen, um das Einbrennen von Bildern (Burn-in) zu reduzieren und die Lebensdauer des Panels zu verlängern.Die wichtigste Technologie dahinter ist die Pixelreinigung – sie frischt die OLED-Pixel regelmäßig auf, um dauerhaft beste Bildqualität zu gewährleisten.&nbsp;∙ Automatischer Betrieb:Die Pixelreinigung startet automatisch nach einer bestimmten kumulierten Nutzungsdauer. Dazu muss der Fernseher ausgeschaltet werden (in den Standby Modus), aber weiterhin ans Stromnetz angeschlossen sein.¹&nbsp;∙ Manueller Betrieb:Du kannst die Pixelreinigung jederzeit manuell starten. Gehe dazu ins TV-Menü:[Einstellungen] → [Allgemein] → [OLED-Pflege] → [OLED-Panelpflege] → [Pixelreinigung]Diese Funktionen helfen dir, die Bildqualität deines OLED-Panels langfristig zu erhalten.&nbsp;&nbsp;¹ Die Pixelreinigung reduziert das Risiko eines dauerhaften Einbrennens („Burn-in“), kann es aber nicht vollständig ausschließen.Vermeide statische Bilder über längere Zeiträume für optimale Ergebnisse.Lass den Fernseher nach dem Ausschalten im Standby Modus am Stromnetz, damit die automatische Reinigung abgeschlossen werden kann."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Wie viele HDMI-Anschlüsse hat der LG OLED evo TV G4 – und welche Funktionen werden unterstützt?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Der LG OLED evo TV G4 verfügt über vier HDMI 2.1-Anschlüsse. Diese unterstützen eine Vielzahl moderner Funktionen für Gaming und Konnektivität:&nbsp;∙ Variable Refresh Rate (VRR): bis zu **144 Hz** (83&quot;, 77&quot;, 65&quot;, 55&quot;), bis zu 120 Hz (97&quot;)¹∙ G-SYNC- und AMD FreeSync Premium-Kompatibilität∙ Auto Low Latency Mode (ALLM) für besonders reaktionsschnelles Gaming∙ Quick Media Switching (QMS)∙ eARC (Enhanced Audio Return Channel) an HDMI 2 für hochwertigen Audio-Rückkanal∙ HGiG-Unterstützung für optimiertes HDR-Gaming&nbsp;Alle vier HDMI-Anschlüsse bieten die volle HDMI 2.1-Bandbreite (48 Gbps) – so kannst du aktuelle Spielkonsolen, PCs und Home-Entertainment-Geräte gleichzeitig verbinden.&nbsp;&nbsp;¹ Die maximale Bildwiederholrate kann je nach Modell variieren:83&quot;&quot;/77&quot;&quot;/65&quot;&quot;/55&quot;&quot; bis zu 144 Hz, 97&quot;&quot; bis zu 120 Hz.Die vollständigen technischen Details findest du auf der lokalen LG Website."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

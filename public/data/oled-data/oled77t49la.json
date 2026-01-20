@@ -1,0 +1,1954 @@
+{
+  "crawledAt": "2026-01-20T03:46:47.018Z",
+  "url": "https://www.lg.com/de/tvs-und-soundbars/signature-oled/oled77t49la/",
+  "modelNumber": "OLED77T49LA",
+  "category": "LG SIGNATURE OLED",
+  "basicInfo": {
+    "productName": "Weltweit erster, transparenter \"True Wireless\" TV LG SIGNATURE OLED T 77 Zoll mit 4K-Video- und Audioübertragung",
+    "headline": "Weltweit erster, transparenter \"True Wireless\" TV LG SIGNATURE OLED T 77 Zoll mit 4K-Video- und Audioübertragung",
+    "screenSize": "77 Zoll",
+    "series": "T",
+    "year": 2024,
+    "brand": "LG",
+    "modelNumber": "OLED77T49LA"
+  },
+  "pricing": {
+    "currentPrice": "49999",
+    "currency": "EUR",
+    "availability": "InStock",
+    "seller": "LG DE"
+  },
+  "ratings": {
+    "averageRating": "4.9",
+    "reviewCount": 34,
+    "bestRating": 5
+  },
+  "energyEfficiency": {
+    "category": "G",
+    "scaleMax": "A1Plus",
+    "scaleMin": "G",
+    "eprelCertificationId": "2247996"
+  },
+  "media": {
+    "images": [
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/logo/logo-lg-100-44.svg",
+        "srcset": null,
+        "alt": "LG logo (Life's Good)",
+        "width": 225,
+        "height": 99
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Audio-gift-promotion.jpg",
+        "srcset": null,
+        "alt": "TV Angebote",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/xboom-landing-page/xboom-2025-gnb-banner-desktop.jpg",
+        "srcset": null,
+        "alt": " xboom by will.i.am",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2024/banners/2024-11-14-Award_GNB_620x316_RZ.jpg",
+        "srcset": null,
+        "alt": "Getestet, gelobt, gefeiert",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Instaview-January-2026.jpg",
+        "srcset": null,
+        "alt": "LG InstaView®",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/620x316_KV_GNB-Winter-washing.jpg",
+        "srcset": null,
+        "alt": "Winter Sale ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/de/promotions/2023-which-award/GNB-Banner.jpg",
+        "srcset": null,
+        "alt": "Für ein angenehmes Raumklima",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/banners/GNB_620x316-heating.jpg",
+        "srcset": null,
+        "alt": "Passende Wärmepumpe finden",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/LG-IT_PRJ_OBS-45GX950A-Gaming-Chair-lg-de_20251119_06_620x316.jpg",
+        "srcset": null,
+        "alt": "Next-Level Gaming!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_it/banners/LG-IT_PRJ_OBS-Funktionsbibliothek-Monitore-lg-de_20260112-2_02_620x316.jpg",
+        "srcset": null,
+        "alt": " Monitor-Funktionen und Begriffe schnell verstehen!",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Life’s Good.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/lifesgood/livehuman/lifes-good-campaign-2025-live-human-lgcom-gnb-discover-banner-ff.png",
+        "srcset": null,
+        "alt": "Life's Good",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Trade-up-Happy-new-year-2026-GNB.jpg",
+        "srcset": null,
+        "alt": "Trade-Up",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/0-Financing_KV_GNB.jpg",
+        "srcset": null,
+        "alt": "0% Finanzierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/promotion/banners/Membership-GNB.jpg",
+        "srcset": null,
+        "alt": "Membership ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "OLED77T49LA EU.pdf",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-g.svg",
+        "srcset": null,
+        "alt": "OLED77T49LA EU.pdf",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/2010_10.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Leicht nach links geneigte Ansicht der Zero Connect Box mit Abmessungen. ",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/2010_1.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Frontansicht des Weltweit ersten, transparenten \"True Wireless\" TVs LG SIGNATURE OLED T 77 Zoll mit 4K-Video- und Audioübertragung OLED77T49LA",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/2010_2.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Front view of LG SIGNATURE OLED T, 12 years of world number 1 OLED Emblem, LG SIGNATURE OLED T logo, both embedded above the background depicting a moon above shore on a transparent screen. Zero Connect Box with 4K 120Hz wireless video & audio transfer connected to the TV sitting on an attached modular shelving unit, and a Wi-Fi signal coming out of the box.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/2010_5.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Leicht schräggestellte, nach links gerichtete Seitenansicht des LG SIGNATURE OLED T-Bildschirms, der einen Mond über einer Küste auf einem transparenten Bildschirm zeigt. Zero Connect Box mit 4K 120Hz kabelloser Video- und Audioübertragung, die an den Fernseher angeschlossen ist, der auf einem angeschlossenen modularen Regal steht, und einem Wi-Fi-Signal, das aus der Box kommt.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/t4/gp1/gallery/gallery/oled-t-2024-77-gallery-04-v1.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Wohnzimmer einer Dachgeschosswohnung mit einem LG Signature OLED T am raumhohen Panoramafenster. Vor dem Fenster bietet sich ein schöner Blick auf eine Stadtlandschaft an einem Gewässer. Auf dem Fernsehbildschirm ist eine Yacht zu sehen, aber da der Fernseher im transparenten Modus ist, sieht die Yacht aus, als würde sie draußen im echten Wasser schwimmen.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/2010_15.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Der LG SIGNATURE OLED T zeigt auf dem transparenten Bildschirm einen Mond, der über einer Küste abgebildet ist. Der LG SIGNATURE OLED T steht in der Mitte eines Raums mit Blick auf eine Klippe und das Meer. Rechts steht ein Bett und ein Sessel. ",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/t4/gp1/gallery/gallery/oled-t-2024-77-gallery-06-v1.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "LG SIGNATURE OLED T zeigt einen grünen Baum, der mit Schnee bedeckt ist.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/2010_12.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "LG SIGNATURE OLED T mit dem LG webOS-Startbildschirm. Da sich der Fernseher im transparenten Modus befindet, sieht die Benutzeroberfläche aus, als würde sie schweben und mit der Realität verschmelzen. Der Titel lautet T-Contents, gestaltet für transparente Bildschirme, die mit der Realität verschmelzen.  ",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/2010_13.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Der LG Signature OLED T steht in der Mitte eines modernen Wohnzimmers und stellt eine Tänzerin dar. Die Zero Connect Box steht auf einem kleinen Tisch neben der Couch.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/2010_14.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Vorderansicht eines LG SIGNATURE OLED T mit Objekten, die auf den modularen Regalen links und rechts platziert sind.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/2010_3.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Seitenansicht des LG SIGNATURE OLED T mit der Zero Connect Box direkt darunter auf dem Boden. ",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/2010_4.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Rückansicht des LG SIGNATURE OLED T mit hochgezogenem Schirm, um den schwarzen Hintergrund und die Rückseite einer Zero Connect Box zu zeigen.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/2010_6.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Vorderansicht der Zero Connect Box.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/2010_8.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Rückansicht einer Zero Connect Box.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/2010_9.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Vorderansicht des LG SIGNATURE OLED T mit einem angebrachten modularen Regal und eine Seitenansicht des LG SIGNATURE OLED T mit Abmessungen.",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/2010_10.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Leicht nach links geneigte Ansicht der Zero Connect Box mit Abmessungen. ",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/2010_1.jpg/jcr:content/renditions/thum-1600x1062.jpeg?w=800",
+        "srcset": null,
+        "alt": "Frontansicht des Weltweit ersten, transparenten \"True Wireless\" TVs LG SIGNATURE OLED T 77 Zoll mit 4K-Video- und Audioübertragung OLED77T49LA",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/350_1.jpg",
+        "srcset": null,
+        "alt": "Frontansicht des Weltweit ersten, transparenten \"True Wireless\" TVs LG SIGNATURE OLED T 77 Zoll mit 4K-Video- und Audioübertragung OLED77T49LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/350_2.jpg",
+        "srcset": null,
+        "alt": "Front view of LG SIGNATURE OLED T, 12 years of world number 1 OLED Emblem, LG SIGNATURE OLED T logo, both embedded above the background depicting a moon above shore on a transparent screen. Zero Connect Box with 4K 120Hz wireless video & audio transfer connected to the TV sitting on an attached modular shelving unit, and a Wi-Fi signal coming out of the box.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/350_5.jpg",
+        "srcset": null,
+        "alt": "Leicht schräggestellte, nach links gerichtete Seitenansicht des LG SIGNATURE OLED T-Bildschirms, der einen Mond über einer Küste auf einem transparenten Bildschirm zeigt. Zero Connect Box mit 4K 120Hz kabelloser Video- und Audioübertragung, die an den Fernseher angeschlossen ist, der auf einem angeschlossenen modularen Regal steht, und einem Wi-Fi-Signal, das aus der Box kommt.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/t4/gp1/gallery/thumbnail/oled-t-2024-77-thumbnail-04.jpg",
+        "srcset": null,
+        "alt": "Wohnzimmer einer Dachgeschosswohnung mit einem LG Signature OLED T am raumhohen Panoramafenster. Vor dem Fenster bietet sich ein schöner Blick auf eine Stadtlandschaft an einem Gewässer. Auf dem Fernsehbildschirm ist eine Yacht zu sehen, aber da der Fernseher im transparenten Modus ist, sieht die Yacht aus, als würde sie draußen im echten Wasser schwimmen.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/350_15.jpg",
+        "srcset": null,
+        "alt": "Der LG SIGNATURE OLED T zeigt auf dem transparenten Bildschirm einen Mond, der über einer Küste abgebildet ist. Der LG SIGNATURE OLED T steht in der Mitte eines Raums mit Blick auf eine Klippe und das Meer. Rechts steht ein Bett und ein Sessel. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/t4/gp1/gallery/thumbnail/oled-t-2024-77-thumbnail-06.jpg",
+        "srcset": null,
+        "alt": "LG SIGNATURE OLED T zeigt einen grünen Baum, der mit Schnee bedeckt ist.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/350_12.jpg",
+        "srcset": null,
+        "alt": "LG SIGNATURE OLED T mit dem LG webOS-Startbildschirm. Da sich der Fernseher im transparenten Modus befindet, sieht die Benutzeroberfläche aus, als würde sie schweben und mit der Realität verschmelzen. Der Titel lautet T-Contents, gestaltet für transparente Bildschirme, die mit der Realität verschmelzen.  ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/350_13.jpg",
+        "srcset": null,
+        "alt": "Der LG Signature OLED T steht in der Mitte eines modernen Wohnzimmers und stellt eine Tänzerin dar. Die Zero Connect Box steht auf einem kleinen Tisch neben der Couch.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/350_14.jpg",
+        "srcset": null,
+        "alt": "Vorderansicht eines LG SIGNATURE OLED T mit Objekten, die auf den modularen Regalen links und rechts platziert sind.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/350_3.jpg",
+        "srcset": null,
+        "alt": "Seitenansicht des LG SIGNATURE OLED T mit der Zero Connect Box direkt darunter auf dem Boden. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/350_4.jpg",
+        "srcset": null,
+        "alt": "Rückansicht des LG SIGNATURE OLED T mit hochgezogenem Schirm, um den schwarzen Hintergrund und die Rückseite einer Zero Connect Box zu zeigen.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/350_6.jpg",
+        "srcset": null,
+        "alt": "Vorderansicht der Zero Connect Box.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/350_8.jpg",
+        "srcset": null,
+        "alt": "Rückansicht einer Zero Connect Box.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/350_9.jpg",
+        "srcset": null,
+        "alt": "Vorderansicht des LG SIGNATURE OLED T mit einem angebrachten modularen Regal und eine Seitenansicht des LG SIGNATURE OLED T mit Abmessungen.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/350_10.jpg",
+        "srcset": null,
+        "alt": "Leicht nach links geneigte Ansicht der Zero Connect Box mit Abmessungen. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/2010_1.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des Weltweit ersten, transparenten \"True Wireless\" TVs LG SIGNATURE OLED T 77 Zoll mit 4K-Video- und Audioübertragung OLED77T49LA",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/2010_2.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Front view of LG SIGNATURE OLED T, 12 years of world number 1 OLED Emblem, LG SIGNATURE OLED T logo, both embedded above the background depicting a moon above shore on a transparent screen. Zero Connect Box with 4K 120Hz wireless video & audio transfer connected to the TV sitting on an attached modular shelving unit, and a Wi-Fi signal coming out of the box.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/2010_5.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Leicht schräggestellte, nach links gerichtete Seitenansicht des LG SIGNATURE OLED T-Bildschirms, der einen Mond über einer Küste auf einem transparenten Bildschirm zeigt. Zero Connect Box mit 4K 120Hz kabelloser Video- und Audioübertragung, die an den Fernseher angeschlossen ist, der auf einem angeschlossenen modularen Regal steht, und einem Wi-Fi-Signal, das aus der Box kommt.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/t4/gp1/gallery/gallery/oled-t-2024-77-gallery-04-v1.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Wohnzimmer einer Dachgeschosswohnung mit einem LG Signature OLED T am raumhohen Panoramafenster. Vor dem Fenster bietet sich ein schöner Blick auf eine Stadtlandschaft an einem Gewässer. Auf dem Fernsehbildschirm ist eine Yacht zu sehen, aber da der Fernseher im transparenten Modus ist, sieht die Yacht aus, als würde sie draußen im echten Wasser schwimmen.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/2010_15.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Der LG SIGNATURE OLED T zeigt auf dem transparenten Bildschirm einen Mond, der über einer Küste abgebildet ist. Der LG SIGNATURE OLED T steht in der Mitte eines Raums mit Blick auf eine Klippe und das Meer. Rechts steht ein Bett und ein Sessel. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/t4/gp1/gallery/gallery/oled-t-2024-77-gallery-06-v1.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "LG SIGNATURE OLED T zeigt einen grünen Baum, der mit Schnee bedeckt ist.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/2010_12.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "LG SIGNATURE OLED T mit dem LG webOS-Startbildschirm. Da sich der Fernseher im transparenten Modus befindet, sieht die Benutzeroberfläche aus, als würde sie schweben und mit der Realität verschmelzen. Der Titel lautet T-Contents, gestaltet für transparente Bildschirme, die mit der Realität verschmelzen.  ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/2010_13.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Der LG Signature OLED T steht in der Mitte eines modernen Wohnzimmers und stellt eine Tänzerin dar. Die Zero Connect Box steht auf einem kleinen Tisch neben der Couch.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/2010_14.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Vorderansicht eines LG SIGNATURE OLED T mit Objekten, die auf den modularen Regalen links und rechts platziert sind.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/2010_3.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Seitenansicht des LG SIGNATURE OLED T mit der Zero Connect Box direkt darunter auf dem Boden. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/2010_4.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Rückansicht des LG SIGNATURE OLED T mit hochgezogenem Schirm, um den schwarzen Hintergrund und die Rückseite einer Zero Connect Box zu zeigen.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/2010_6.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Vorderansicht der Zero Connect Box.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/2010_8.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Rückansicht einer Zero Connect Box.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/2010_9.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Vorderansicht des LG SIGNATURE OLED T mit einem angebrachten modularen Regal und eine Seitenansicht des LG SIGNATURE OLED T mit Abmessungen.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/2010_10.jpg/jcr:content/renditions/thum-1600x1062.jpeg",
+        "srcset": null,
+        "alt": "Leicht nach links geneigte Ansicht der Zero Connect Box mit Abmessungen. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/350_1.jpg",
+        "srcset": null,
+        "alt": "Frontansicht des Weltweit ersten, transparenten \"True Wireless\" TVs LG SIGNATURE OLED T 77 Zoll mit 4K-Video- und Audioübertragung OLED77T49LA",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/350_2.jpg",
+        "srcset": null,
+        "alt": "Front view of LG SIGNATURE OLED T, 12 years of world number 1 OLED Emblem, LG SIGNATURE OLED T logo, both embedded above the background depicting a moon above shore on a transparent screen. Zero Connect Box with 4K 120Hz wireless video & audio transfer connected to the TV sitting on an attached modular shelving unit, and a Wi-Fi signal coming out of the box.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/350_5.jpg",
+        "srcset": null,
+        "alt": "Leicht schräggestellte, nach links gerichtete Seitenansicht des LG SIGNATURE OLED T-Bildschirms, der einen Mond über einer Küste auf einem transparenten Bildschirm zeigt. Zero Connect Box mit 4K 120Hz kabelloser Video- und Audioübertragung, die an den Fernseher angeschlossen ist, der auf einem angeschlossenen modularen Regal steht, und einem Wi-Fi-Signal, das aus der Box kommt.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/t4/gp1/gallery/thumbnail/oled-t-2024-77-thumbnail-04.jpg",
+        "srcset": null,
+        "alt": "Wohnzimmer einer Dachgeschosswohnung mit einem LG Signature OLED T am raumhohen Panoramafenster. Vor dem Fenster bietet sich ein schöner Blick auf eine Stadtlandschaft an einem Gewässer. Auf dem Fernsehbildschirm ist eine Yacht zu sehen, aber da der Fernseher im transparenten Modus ist, sieht die Yacht aus, als würde sie draußen im echten Wasser schwimmen.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/350_15.jpg",
+        "srcset": null,
+        "alt": "Der LG SIGNATURE OLED T zeigt auf dem transparenten Bildschirm einen Mond, der über einer Küste abgebildet ist. Der LG SIGNATURE OLED T steht in der Mitte eines Raums mit Blick auf eine Klippe und das Meer. Rechts steht ein Bett und ein Sessel. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/t4/gp1/gallery/thumbnail/oled-t-2024-77-thumbnail-06.jpg",
+        "srcset": null,
+        "alt": "LG SIGNATURE OLED T zeigt einen grünen Baum, der mit Schnee bedeckt ist.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/350_12.jpg",
+        "srcset": null,
+        "alt": "LG SIGNATURE OLED T mit dem LG webOS-Startbildschirm. Da sich der Fernseher im transparenten Modus befindet, sieht die Benutzeroberfläche aus, als würde sie schweben und mit der Realität verschmelzen. Der Titel lautet T-Contents, gestaltet für transparente Bildschirme, die mit der Realität verschmelzen.  ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/350_13.jpg",
+        "srcset": null,
+        "alt": "Der LG Signature OLED T steht in der Mitte eines modernen Wohnzimmers und stellt eine Tänzerin dar. Die Zero Connect Box steht auf einem kleinen Tisch neben der Couch.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/350_14.jpg",
+        "srcset": null,
+        "alt": "Vorderansicht eines LG SIGNATURE OLED T mit Objekten, die auf den modularen Regalen links und rechts platziert sind.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/350_3.jpg",
+        "srcset": null,
+        "alt": "Seitenansicht des LG SIGNATURE OLED T mit der Zero Connect Box direkt darunter auf dem Boden. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/350_4.jpg",
+        "srcset": null,
+        "alt": "Rückansicht des LG SIGNATURE OLED T mit hochgezogenem Schirm, um den schwarzen Hintergrund und die Rückseite einer Zero Connect Box zu zeigen.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/350_6.jpg",
+        "srcset": null,
+        "alt": "Vorderansicht der Zero Connect Box.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/350_8.jpg",
+        "srcset": null,
+        "alt": "Rückansicht einer Zero Connect Box.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/350_9.jpg",
+        "srcset": null,
+        "alt": "Vorderansicht des LG SIGNATURE OLED T mit einem angebrachten modularen Regal und eine Seitenansicht des LG SIGNATURE OLED T mit Abmessungen.",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/350_10.jpg",
+        "srcset": null,
+        "alt": "Leicht nach links geneigte Ansicht der Zero Connect Box mit Abmessungen. ",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/awards/IFA_2025InnovationAwardWinner_SKY.png",
+        "srcset": null,
+        "alt": "IFA Innovation Award Winner 2025",
+        "width": 1711,
+        "height": 1711
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/t4/gp1/features/desktop/oled-signature-t-2024-14-feature-award-d-1.jpg",
+        "srcset": null,
+        "alt": "Logo 2024 CES Innovation Awards – Best of Innovation.",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/t4/gp1/features/desktop/oled-signature-t-2024-14-feature-award-d-2.jpg",
+        "srcset": null,
+        "alt": "Logo TIME Best Inventions 2024.",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/t4/gp1/features/desktop/oled-signature-t-2024-14-feature-award-d-3.jpg",
+        "srcset": null,
+        "alt": "Logo USA Today Top Picks CES 2025.",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/t4/gp1/features/desktop/oled-signature-t-2024-14-feature-award-d-4.jpg",
+        "srcset": null,
+        "alt": "Logo iF Design Gold Award 2025.",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/t4/gp1/features/desktop/oled-signature-t-2024-14-feature-award-d-5.jpg",
+        "srcset": null,
+        "alt": "Abzeichen „2025 CES Innovation Awards“ mit Ehrung „2025 Honoree“.",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/t4/gp1/features/desktop/oled-signature-t-2024-14-feature-award-d-6.jpg",
+        "srcset": null,
+        "alt": "Abzeichen „2025 CES Innovation Awards“ mit Ehrung „2025 Honoree“.",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/t4/gp1/features/desktop/oled-signature-t-2024-14-feature-award-d-7.jpg",
+        "srcset": null,
+        "alt": "Logo „IF Design Award Winner“",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/t4/gp1/features/desktop/oled-signature-t-2024-14-feature-award-d-8.jpg",
+        "srcset": null,
+        "alt": "Abzeichen „2025 CES Innovation Awards“ mit Ehrung „2025 Honoree“.",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/t4/gp1/features/desktop/oled-signature-t-2024-14-feature-award-d-9.jpg",
+        "srcset": null,
+        "alt": "Logo von AVForums Editor's Choice für LG webOS 24 als bestes Smart TV-System 2024/2025. ",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/features/mobile/oled-signature-t-2024-01-feature-kv-m.jpg",
+        "srcset": null,
+        "alt": "Wale schwimmen in die linke Ecke des LG SIGNATURE OLED T, während der Wasserspiegel sinkt und den transparenten Bildschirm freigibt. Der Rahmen zoomt heraus und zeigt den LG SIGNATURE OLED T in einem Foyer vor Menschen, die auf der Couch sitzen, während die Wale weiter über den transparenten Bildschirm schwimmen und eine Stadtsilhouette vor einem Abendhimmel enthüllen. ",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/t4/gp1/features/mobile/oled-signature-t-2024-11-feature-surreal-lifestyle-m.jpg",
+        "srcset": null,
+        "alt": "LG SIGNATURE OLED T in drei verschiedenen Wohnzimmern. In jedem dieser schönen Räume befindet sich der LG Signature OLED T im transparenten Modus, die Bilder auf dem Fernseher scheinen in der Luft zu schweben und verleihen dem Raum einen Hauch von Eleganz.",
+        "width": 1920,
+        "height": 1656
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/t4/gp1/features/mobile/oled-signature-t-2024-12-feature-surreal-t-contents-m.jpg",
+        "srcset": null,
+        "alt": "Verschiedene Blickwinkel der T-Contents auf dem LG Signature OLED T im transparenten Modus. Eines zeigt eine Nahaufnahme der Informationsleiste. Das andere zeigt die LG webOS-Symbole, die scheinbar in der Luft schweben. Noch eins zeigt eine Visualisierung eines Mondes, der mit dem tatsächlichen Abendhorizont vor dem Fenster verschmilzt.",
+        "width": 1920,
+        "height": 1764
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/features/mobile/oled-signature-t-2024-02-feature-t-curtain-call-m.jpg",
+        "srcset": null,
+        "alt": "LG SIGNATURE OLED T shows a transparent screen with a green tree. The shade is drawn up as the season changes to winter and snow falls on the tree.",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/features/mobile/oled-signature-t-2024-03-feature-t-contents-m.jpg",
+        "srcset": null,
+        "alt": "Der Bildschirm des LG SIGNATURE OLED T zeigt T-Home und schaltet dann auf Always Ready um, wo das T-Objet mit dem Titel \"Aquarium\" ausgewählt ist. Auf dem transparenten Bildschirm des LG SIGNATURE OLED T wird eine Aquariumszene dargestellt.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/features/mobile/oled-signature-t-2024-04-feature-t-bar-m.jpg",
+        "srcset": null,
+        "alt": "Der LG SIGNATURE OLED T steht in einem modernen Wohnambiete und die T-Bar zeigt Informationen an. Übergänge zu einer vergrößerten Aufnahme des LG SIGNATURE OLED T und der T-Bar, die Informationen auf einem Hintergrund anzeigt.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/features/mobile/oled-signature-t-2024-00-feature-bg-m.jpg",
+        "srcset": null,
+        "alt": "Open Space",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/t4/gp1/features/desktop/oled-signature-t-2024-13-feature-true-wireless-d.jpg",
+        "srcset": null,
+        "alt": "Geräumiges und sauberes Wohnzimmer ohne Kabelsalat. Ein kleiner Beistelltisch lässt sich aufklappen und gibt den Blick auf die Zero Connect Box im Inneren frei. Das Fach schließt sich, um die Zero Connect Box zu verbergen, und zeigt, wie ordentlich alles mit der LG True Wireless-Lösung aussieht.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/features/mobile/oled-signature-t-2024-08-feature-ai-processor-m.jpg",
+        "srcset": null,
+        "alt": "LGs alpha 11 4K AI-Prozessor leuchtet in einem blauen, violetten Farbverlauf inmitten von bunten Blitzen, die von ihm ausgehen. Weitere Blitze erscheinen auf dem Motherboard und dehnen sich weiter aus.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/features/desktop/oled-signature-t-2024-09-feature-premium-picture-sound-quality-d-1.jpg",
+        "srcset": null,
+        "alt": "Ein Regisseur vor einem Bedienfeld, das den Film „Killers of the Flower Moon“ auf einem LG OLED-Fernseher bearbeitet. Ein Zitat von Martin Scorsese: „Für das Heimkino sollte jeder Film im Filmmaker Mode angesehen werden“, überlagert das Bild mit dem ‚Killers of the Flower Moon‘-Logo, dem Apple TV+-Logo und einem ‚Coming Soon‘-Logo. Unten links sind das Dolby Vision-Logo und das Filmmaker Mode-Logo zu sehen. ",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/features/desktop/oled-signature-t-2024-09-feature-premium-picture-sound-quality-d-2.jpg",
+        "srcset": null,
+        "alt": "Ein LG OLED-Fernseher an einer Wohnzimmerwand und abstrakte Kreise, die vom Fernseher ausgehen und den Raum ausfüllen.",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/4f57878e-cc1a-4047-845f-7baac15b1991",
+        "srcset": null,
+        "alt": "LG Spain",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/4f57878e-cc1a-4047-845f-7baac15b1991",
+        "srcset": null,
+        "alt": "LG Spain",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/4f57878e-cc1a-4047-845f-7baac15b1991",
+        "srcset": null,
+        "alt": "LG Spain",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/4f57878e-cc1a-4047-845f-7baac15b1991",
+        "srcset": null,
+        "alt": "LG Spain",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/4f57878e-cc1a-4047-845f-7baac15b1991",
+        "srcset": null,
+        "alt": "LG Spain",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/4f57878e-cc1a-4047-845f-7baac15b1991",
+        "srcset": null,
+        "alt": "LG Spain",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/4f57878e-cc1a-4047-845f-7baac15b1991",
+        "srcset": null,
+        "alt": "LG Spain",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/4f57878e-cc1a-4047-845f-7baac15b1991",
+        "srcset": null,
+        "alt": "LG Spain",
+        "width": 150,
+        "height": 81
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/kuehlschraenke/gmg861mbae/gallery/450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Vorderansicht des 508L & 178,7 cm großen InstaView®  Multi Door Kühlschranks Metal Sorbet GMG861MBAE",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_ha/gallery/gbbw726cpy/gallery-new/450-01.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Front view",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-c.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/kuehlschraenke-gefrierschraenke/gsxv90mcae_amcqeur_eedg_de_c/450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "gsxv90mcae",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/ca_en/images/monitors/gaming-monitors/45gx950a-b/gallery/ultragear-gaming-45gx950a-2025-gallery-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "front view",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-f.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/_he/2025/tvs/gallery/oled65g57lw/OLED65G57LW-450-1.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "Frontansicht des 65 Zoll LG OLED evo AI G5 4K Smart TV OLED65G57LW",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-e.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/de/images/kuehlschraenke-gefrierschraenke/GSXE81EVBD-basic-450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+        "srcset": null,
+        "alt": "front view",
+        "width": 350,
+        "height": 350
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/lg5-common-gp/images/products/energy-label/label-energy-grade-d.svg",
+        "srcset": null,
+        "alt": "",
+        "width": 273,
+        "height": 150
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_manual-software_48x48.svg",
+        "srcset": null,
+        "alt": "Symbol Benutzerhandbuch und Software",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_complaints_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Fehlerbehebung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_warranty_48x48.svg",
+        "srcset": null,
+        "alt": "Garantie-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_part-accessory_48x48.svg",
+        "srcset": null,
+        "alt": "Symbol für Teile und Zubehör",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/buy/icon_register-a-product_48.svg",
+        "srcset": null,
+        "alt": "Symbol Produktregistrierung",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_product_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Produktsupport",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_order_48.svg",
+        "srcset": null,
+        "alt": "Symbol für Bestellsupport",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/Icon_request-a-repair_60x60.svg",
+        "srcset": null,
+        "alt": "Symbol für Reparaturanfrage",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_chat-with-us__60x60.svg",
+        "srcset": null,
+        "alt": "Livechat-Symbol",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_whatsapp_60x60.svg",
+        "srcset": null,
+        "alt": "WhatsApp-Symbol",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_email-us_60x60.svg",
+        "srcset": null,
+        "alt": "E-Mail-Symbol",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "src": "https://www.lg.com/content/dam/lge/common/common-icon/icon_call_48.svg",
+        "srcset": null,
+        "alt": "Anruf-Symbol",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/common/find-a-store-test/gradation-icon/banner-light-icons.svg",
+        "srcset": null,
+        "alt": "Filialsymbol suchen",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/facebook-circle-fill.svg",
+        "srcset": null,
+        "alt": "Facebook",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/youtube-circle-fill.svg",
+        "srcset": null,
+        "alt": "Youtube",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://www.lg.com/content/dam/channel/wcms/kz/comment/footer/instagram-circle-fill.svg",
+        "srcset": null,
+        "alt": "Instagram",
+        "width": 35,
+        "height": 35
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/ot_company_logo.png",
+        "srcset": null,
+        "alt": "Firmenlogo",
+        "width": 600,
+        "height": 106
+      },
+      {
+        "src": "https://cdn-apac.onetrust.com/logos/static/powered_by_logo.svg",
+        "srcset": null,
+        "alt": "Powered by Onetrust",
+        "width": 136,
+        "height": 16
+      }
+    ],
+    "videos": [
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/video/oled-signature-t-2024-01-video-kv-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/video/oled-signature-t-2024-01-video-kv-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/t4/gp1/video/oled-signature-t-2024-10-video-surreal-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/t4/gp1/video/oled-signature-t-2024-10-video-surreal-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/video/oled-signature-t-2024-02-video-t-curtain-call-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/video/oled-signature-t-2024-02-video-t-curtain-call-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/video/oled-signature-t-2024-03-video-t-contents-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/video/oled-signature-t-2024-03-video-t-contents-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/video/oled-signature-t-2024-04-video-t-bar-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/2025_ms_lg-com/tv/lg-signature-oled/t4/gp1/video/oled-signature-t-2024-13-video-true-wireless-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/video/oled-signature-t-2024-07-video-modular-shelf-design-m.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "src": "",
+        "poster": "",
+        "sources": [
+          {
+            "src": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/video/oled-signature-t-2024-07-video-modular-shelf-design-d.mp4",
+            "type": "video/mp4"
+          }
+        ]
+      }
+    ]
+  },
+  "specifications": {
+    "€124,92": "Monatliche Rate",
+    "€1.499,00": "Gesamtbetrag inkl. Zinsen",
+    "0%": "Zinssatz",
+    "€74,96": "Monatliche Rate",
+    "€1.798,99": "Gesamtbetrag inkl. Zinsen",
+    "€40,00": "Monatliche Rate",
+    "€120,00": "Gesamtbetrag inkl. Zinsen"
+  },
+  "features": [],
+  "reviews": {
+    "summary": {},
+    "featured": [
+      {
+        "headline": "Fantastico Producto y magnifica atencion ..",
+        "body": "He comprado este televisor a traves de la web de lg oficial. He incluido tambien el envio a la casa y el montaje en pared incluido , por los tecnicos que nos mando la marca y todo ha ido perfecto, el envio y la instalacion en la fecha y hasta la hora acordada, ya todo el mundo funcionara asi.\nEn cuanto a la calidad del producto, ha superado con creces las expectativas, aparte de la calidad de imagen y sonido, la rapidez con la que se mueve por el menu, y la rapidez al abrir las aplicaciones instaladas..\nTotalmente satisfecho, seguiremos disfrutando de el.",
+        "rating": 5,
+        "author": "Jorge el guapo",
+        "dateCreated": "2025-11-19T16:45:12.000+00:00",
+        "datePublished": "2025-11-19T22:31:41.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/829b5dd0-355e-5f17-ad63-35ef4c10bc85",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/3d536378-a417-56c1-b72a-7f72e918f719",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/7de9ab1e-9b62-583c-9cb8-5a455aff8485",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/f6e40ed3-46ff-5d2b-87fa-5d4eaba786cd"
+        ]
+      },
+      {
+        "headline": "Sueño cumplido",
+        "body": "Me acaban de instalar mi último Oled Lg, esta vez de 97 pulgadas, mi sueño esperado, la profesionalidad de  los instaladores fantastica, y el televisor me quedo sin palabras para describir su calidad de imagen. A partir de ahora es el momento de empezar a descubrir sus numerosas posibilidades .",
+        "rating": 5,
+        "author": "carlos eusebio",
+        "dateCreated": "2025-11-21T09:28:24.000+00:00",
+        "datePublished": "2025-11-21T15:46:56.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/20686464-143d-5f73-a26a-f1316d95e68b",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e07d0234-2f21-5bd3-8beb-6884288165fb",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e3794561-517f-548e-88f6-9a2119a4afb1",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/fa76520b-a710-5e87-beaa-5663dfab2732"
+        ]
+      },
+      {
+        "headline": "Imágenes perfectas.",
+        "body": "(Esta reseña se ha recibido a través de una promoción.) Me ha llegado hoy la TV. Tiene una calidad impresionante. Ha merecido la pena la compra.",
+        "rating": 5,
+        "author": "Tdesesk",
+        "dateCreated": "2025-12-13T20:22:47.000+00:00",
+        "datePublished": "2025-12-14T22:32:14.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/a32b1734-d4aa-5716-b8b8-7d0668fafc08",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/28fb06c3-22d2-5642-bdfd-2d1af67cee13",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/a3694720-c7c8-5ea5-aecd-5c7aec988339"
+        ]
+      },
+      {
+        "headline": "La calidad que se espera de un OLED Evo",
+        "body": "(Esta reseña se ha recibido a través de una promoción.) La televisión es una auténtica gozada. En la pared, parece un verdadero cuadro. De los colores y sonido hace falta hablar poco, sí en cambio de como mejora la imagen la nueva IA, ya que es absolutamente impresionante. Un pequeño engorro es ajustar en un primer momento bien el receptor para que la calidad de imagen sea impoluta, pero una vez ubicado solo hay que desentenderse y para alguien a quien le dan tanto \"toc\" los cables como a mí, es una maravilla.",
+        "rating": 5,
+        "author": "Anonym",
+        "dateCreated": "2025-12-11T10:53:20.000+00:00",
+        "datePublished": "2025-12-13T01:01:58.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/cc8e203f-77a3-5860-95cf-90e05b919ee8",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/5a38d521-a29f-5ae0-8a71-4f2c790585a1"
+        ]
+      },
+      {
+        "headline": "Brutal imagen y diseño.",
+        "body": "(Esta reseña se ha recibido a través de una promoción.) Impresionante televisión tanto en diseño como en imagen. La he puesto en la pared y parece un cuadro. He cogido con conexiones inalámbricas por comodidad, y va genial. La pantalla de 83 es enorme pero a 3 metros te acostumbras enseguida. Finalmente no parece tan grande. Esto encantado. Muy recomendable.",
+        "rating": 5,
+        "author": "Gartxotg",
+        "dateCreated": "2025-12-13T18:32:21.000+00:00",
+        "datePublished": "2025-12-15T02:16:35.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/0f61bc0c-21ed-5a7c-89b7-a50220ba7a89",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/db4fd8c7-bd43-5541-96a0-c26c21077f7b"
+        ]
+      },
+      {
+        "headline": "IMPRESIONANTE CALIDAD DE IMAGEN",
+        "body": "He comprado este producto durante el Black Friday de Noviembre y es una pasada en cuanto a calidad y funcionalidades, estoy muy contento ahora solo a disfrutarlo.",
+        "rating": 5,
+        "author": "Joseluis65",
+        "dateCreated": "2025-12-27T14:45:35.000+00:00",
+        "datePublished": "2025-12-27T16:02:19.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/6ce2cfa3-562e-54a9-a573-bca51dadb971",
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/7e83ff74-24ab-510d-ab10-41f2b104fd8a"
+        ]
+      },
+      {
+        "headline": "OLED77M59LA",
+        "body": "(Esta reseña se ha recibido a través de una promoción.) Compré el LG OLED77M59LA el 7 de diciembre y me ha llegado esta mañana. Estaba acostumbrado a Sony, pero decidí darle una oportunidad a LG… y me alegro mucho. La calidad de imagen es espectacular: negros profundos, colores muy vivos y un brillo que realmente se nota, sobre todo viendo películas en 4K. El sonido también sorprende, llena bien la sala sin necesidad de barra adicional.\nAdemás, va muy fluido para juegos gracias a la alta tasa de refresco, y el sistema Smart TV es rápido e intuitivo.\n\nLo único que me hubiese gustado es que viniera con la opción de una pata o patas para ponerlo encima de un mueble de TV, porque así sería más fácil colocarlo sin tener que usar el soporte de pared.\n\nEn resumen, un televisor grande, moderno y con una calidad que se nota. Estoy muy contento con la compra.",
+        "rating": 5,
+        "author": "Mike_1970",
+        "dateCreated": "2025-12-11T17:58:36.000+00:00",
+        "datePublished": "2025-12-13T01:01:58.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/7a06f37d-ba6f-572e-bb6d-575027f28347"
+        ]
+      },
+      {
+        "headline": "Primeras impresiones",
+        "body": "Me montaron esta semana la tele y no he podido profundizar mucho con ella. De momento tiene buena pinta. La interfaz me gusta, lo de que vaya inalámbricamente me parece un gran punto a favor pero no sé si a l hora de ejecutar cosas pesadas, aguantará. Todo tipo de conexiones inalámbricas y compatibilidad con todas las plataformas que uso. Un solo mando para gobernarlos a todos!! Primordial El panel parece de muy buena calidad. Esperemos que dure!",
+        "rating": 4,
+        "author": "Androidec17",
+        "dateCreated": "2025-12-06T18:15:11.000+00:00",
+        "datePublished": "2025-12-08T21:17:03.000+00:00",
+        "images": [
+          "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/3794d83e-da7b-59a5-8dfb-e9c27538f79d"
+        ]
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://www.lg.com/de/"
+    },
+    {
+      "position": 2,
+      "name": "TVs & Soundbars",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/"
+    },
+    {
+      "position": 3,
+      "name": "LG SIGNATURE OLED",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/signature-oled/"
+    },
+    {
+      "position": 4,
+      "name": "OLED77T49LA",
+      "url": "https://www.lg.com/de/tvs-und-soundbars/signature-oled/oled77t49la/"
+    }
+  ],
+  "faq": [],
+  "metadata": {
+    "mpn": "OLED77T49LA",
+    "title": "Weltweit erster, transparenter \"True Wireless\" TV LG SIGNATURE OLED T 77 Zoll mit 4K-Video- und Audioübertragung - OLED77T49LA | LG DE",
+    "description": "Entdecke den LG OLED T, den ersten transparenten & kabellosen Fernseher der Welt mit T-Curtain & T-Contents für ein atemberaubendes Fernseherlebnis.",
+    "ogImage": "https://www.lg.com/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/450.jpg",
+    "ogTitle": "Weltweit erster, transparenter \"True Wireless\" TV LG SIGNATURE OLED T 77 Zoll mit 4K-Video- und Audioübertragung - OLED77T49LA | LG DE",
+    "canonical": "https://www.lg.com/de/tvs-und-soundbars/signature-oled/oled77t49la/"
+  },
+  "structuredData": {
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/signature-oled/oled77t49la/",
+        "review": [
+          {
+            "@type": "Review",
+            "dateCreated": "2025-11-19T16:45:12.000+00:00",
+            "datePublished": "2025-11-19T22:31:41.000+00:00",
+            "headline": "Fantastico Producto y magnifica atencion ..",
+            "reviewBody": "He comprado este televisor a traves de la web de lg oficial. He incluido tambien el envio a la casa y el montaje en pared incluido , por los tecnicos que nos mando la marca y todo ha ido perfecto, el envio y la instalacion en la fecha y hasta la hora acordada, ya todo el mundo funcionara asi.\nEn cuanto a la calidad del producto, ha superado con creces las expectativas, aparte de la calidad de imagen y sonido, la rapidez con la que se mueve por el menu, y la rapidez al abrir las aplicaciones instaladas..\nTotalmente satisfecho, seguiremos disfrutando de el.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jorge el guapo"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/829b5dd0-355e-5f17-ad63-35ef4c10bc85",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/da9bed59-ec5c-5dc7-ac7f-1f2312c29b64"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/3d536378-a417-56c1-b72a-7f72e918f719",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/2c8bf907-907f-5f63-b778-158d84855bf5"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/7de9ab1e-9b62-583c-9cb8-5a455aff8485",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e4cd10e5-32c8-52cc-838b-fe03672bed0d"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/f6e40ed3-46ff-5d2b-87fa-5d4eaba786cd",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/964999a7-78ed-5954-a250-53f79d073353"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-11-21T09:28:24.000+00:00",
+            "datePublished": "2025-11-21T15:46:56.000+00:00",
+            "headline": "Sueño cumplido",
+            "reviewBody": "Me acaban de instalar mi último Oled Lg, esta vez de 97 pulgadas, mi sueño esperado, la profesionalidad de  los instaladores fantastica, y el televisor me quedo sin palabras para describir su calidad de imagen. A partir de ahora es el momento de empezar a descubrir sus numerosas posibilidades .",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "carlos eusebio"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/20686464-143d-5f73-a26a-f1316d95e68b",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/fd6334c1-afac-54ba-823f-6e67340df1ac"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e07d0234-2f21-5bd3-8beb-6884288165fb",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/8f4ed7a3-28cf-5e2e-bc3c-cbf092fa1c7f"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/e3794561-517f-548e-88f6-9a2119a4afb1",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/22c1482f-81ab-5247-957a-f14b33a72200"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/fa76520b-a710-5e87-beaa-5663dfab2732",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/73b1571b-ac32-5fca-b055-0e1473d8bd3f"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-12-13T20:22:47.000+00:00",
+            "datePublished": "2025-12-14T22:32:14.000+00:00",
+            "headline": "Imágenes perfectas.",
+            "reviewBody": "(Esta reseña se ha recibido a través de una promoción.) Me ha llegado hoy la TV. Tiene una calidad impresionante. Ha merecido la pena la compra.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tdesesk"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/a32b1734-d4aa-5716-b8b8-7d0668fafc08",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/f39607c8-b08d-547a-b8b8-2f4cd50382a7"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/28fb06c3-22d2-5642-bdfd-2d1af67cee13",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/a6b07edf-5455-59b8-a757-36a8acc3204b"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/a3694720-c7c8-5ea5-aecd-5c7aec988339",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/0d462e82-fc6c-5d40-8fb1-78b217002ca8"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-12-11T10:53:20.000+00:00",
+            "datePublished": "2025-12-13T01:01:58.000+00:00",
+            "headline": "La calidad que se espera de un OLED Evo",
+            "reviewBody": "(Esta reseña se ha recibido a través de una promoción.) La televisión es una auténtica gozada. En la pared, parece un verdadero cuadro. De los colores y sonido hace falta hablar poco, sí en cambio de como mejora la imagen la nueva IA, ya que es absolutamente impresionante. Un pequeño engorro es ajustar en un primer momento bien el receptor para que la calidad de imagen sea impoluta, pero una vez ubicado solo hay que desentenderse y para alguien a quien le dan tanto \"toc\" los cables como a mí, es una maravilla.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anonym"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/cc8e203f-77a3-5860-95cf-90e05b919ee8",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/91e21d45-1d0a-5572-bb43-3f1c2760ae4e"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/5a38d521-a29f-5ae0-8a71-4f2c790585a1",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/c193ed04-0f99-5ef5-b9ff-d2dd9235041e"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-12-13T18:32:21.000+00:00",
+            "datePublished": "2025-12-15T02:16:35.000+00:00",
+            "headline": "Brutal imagen y diseño.",
+            "reviewBody": "(Esta reseña se ha recibido a través de una promoción.) Impresionante televisión tanto en diseño como en imagen. La he puesto en la pared y parece un cuadro. He cogido con conexiones inalámbricas por comodidad, y va genial. La pantalla de 83 es enorme pero a 3 metros te acostumbras enseguida. Finalmente no parece tan grande. Esto encantado. Muy recomendable.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gartxotg"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/0f61bc0c-21ed-5a7c-89b7-a50220ba7a89",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/4f898217-4b4b-5ad0-bbae-dc3eb23a162d"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/db4fd8c7-bd43-5541-96a0-c26c21077f7b",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/7af18011-e296-503e-8dbe-2c5ddb899075"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-12-27T14:45:35.000+00:00",
+            "datePublished": "2025-12-27T16:02:19.000+00:00",
+            "headline": "IMPRESIONANTE CALIDAD DE IMAGEN",
+            "reviewBody": "He comprado este producto durante el Black Friday de Noviembre y es una pasada en cuanto a calidad y funcionalidades, estoy muy contento ahora solo a disfrutarlo.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joseluis65"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/6ce2cfa3-562e-54a9-a573-bca51dadb971",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/3ff6df41-b0ae-5ee1-ba54-a7cda7b95efc"
+                }
+              },
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/7e83ff74-24ab-510d-ab10-41f2b104fd8a",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/34a9a3ca-5388-5f02-82e2-f4eeaa32f9d6"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-12-11T17:58:36.000+00:00",
+            "datePublished": "2025-12-13T01:01:58.000+00:00",
+            "headline": "OLED77M59LA",
+            "reviewBody": "(Esta reseña se ha recibido a través de una promoción.) Compré el LG OLED77M59LA el 7 de diciembre y me ha llegado esta mañana. Estaba acostumbrado a Sony, pero decidí darle una oportunidad a LG… y me alegro mucho. La calidad de imagen es espectacular: negros profundos, colores muy vivos y un brillo que realmente se nota, sobre todo viendo películas en 4K. El sonido también sorprende, llena bien la sala sin necesidad de barra adicional.\nAdemás, va muy fluido para juegos gracias a la alta tasa de refresco, y el sistema Smart TV es rápido e intuitivo.\n\nLo único que me hubiese gustado es que viniera con la opción de una pata o patas para ponerlo encima de un mueble de TV, porque así sería más fácil colocarlo sin tener que usar el soporte de pared.\n\nEn resumen, un televisor grande, moderno y con una calidad que se nota. Estoy muy contento con la compra.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mike_1970"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/7a06f37d-ba6f-572e-bb6d-575027f28347",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/35b95036-2d78-51bb-ad9d-d01b518a98ba"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          },
+          {
+            "@type": "Review",
+            "dateCreated": "2025-12-06T18:15:11.000+00:00",
+            "datePublished": "2025-12-08T21:17:03.000+00:00",
+            "headline": "Primeras impresiones",
+            "reviewBody": "Me montaron esta semana la tele y no he podido profundizar mucho con ella. De momento tiene buena pinta. La interfaz me gusta, lo de que vaya inalámbricamente me parece un gran punto a favor pero no sé si a l hora de ejecutar cosas pesadas, aguantará. Todo tipo de conexiones inalámbricas y compatibilidad con todas las plataformas que uso. Un solo mando para gobernarlos a todos!! Primordial El panel parece de muy buena calidad. Esperemos que dure!",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 4,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Androidec17"
+            },
+            "image": [
+              {
+                "@type": "ImageObject",
+                "image": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/3794d83e-da7b-59a5-8dfb-e9c27538f79d",
+                "description": "normal",
+                "thumbnail": {
+                  "@type": "ImageObject",
+                  "name": "//photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGdlbGVjdHJvbmljcy1lc19lcw/5b04c9df-186c-5c8e-8873-d7d2ab27ce09"
+                }
+              }
+            ],
+            "video": [],
+            "comment": []
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org/",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/signature-oled/oled77t49la/",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "itemReviewed": {
+            "@type": "IndividualProduct",
+            "name": "OLED77T49LA"
+          },
+          "ratingValue": "4.9",
+          "reviewCount": 34,
+          "bestRating": 5
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "product",
+        "@id": "https://www.lg.com/de/tvs-und-soundbars/signature-oled/oled77t49la/",
+        "name": "Weltweit erster, transparenter \"True Wireless\" TV LG SIGNATURE OLED T 77 Zoll mit 4K-Video- und Audioübertragung",
+        "image": "/content/dam/channel/wcms/de/ms/lgcom/2025/tv-audio-video/tv-soundbar/lg-signature-oled/t4/gp1/gallery/450.jpg",
+        "description": "Entdecken Sie LG OLED77T49LA. Für Bilder, Bewertungen und technische Daten zu LG klicken Weltweit erster, transparenter \"True Wireless\" TV LG SIGNATURE OLED T 77 Zoll mit 4K-Video- und Audioübertragung.",
+        "mpn": "OLED77T49LA",
+        "brand": {
+          "@type": "Brand",
+          "name": "LG"
+        },
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "EUR",
+          "price": "49999",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "LG DE"
+          }
+        },
+        "size": {
+          "@type": "QuantitativeValue",
+          "unitCode": "MMT",
+          "value": "Ja"
+        },
+        "hasEnergyConsumptionDetails": {
+          "@type": "EnergyConsumptionDetails",
+          "hasEnergyEfficiencyCategory": "https://schema.org/EUEnergyEfficiencyCategoryG",
+          "energyEfficiencyScaleMax": "https://schema.org/EUEnergyEfficiencyCategoryA1Plus",
+          "energyEfficiencyScaleMin": "https://schema.org/EUEnergyEfficiencyCategoryG"
+        },
+        "hasCertification": {
+          "@type": "Certification",
+          "issuedBy": {
+            "@type": "Organization",
+            "name": "European_Commission"
+          },
+          "name": "EPREL",
+          "certificationIdentification": "2247996"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.lg.com/de/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "TVs & Soundbars",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "LG SIGNATURE OLED",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/signature-oled/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "OLED77T49LA",
+            "item": "https://www.lg.com/de/tvs-und-soundbars/signature-oled/oled77t49la/"
+          }
+        ]
+      }
+    ]
+  }
+}
